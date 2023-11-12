@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in JSON format. This
-archive contains 188 recently added matches.
+archive contains 173 recently added matches.
 
 
 The JSON data files contained in this zip file are version 1.0.0, and 1.1.0
@@ -22,6 +22,47 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2023-11-10 - international - ODI - male - 1384433 - Afghanistan vs South Africa
+2023-11-10 - club - WBB - female - 1387203 - Sydney Thunder vs Melbourne Stars
+2023-11-10 - club - WBB - female - 1387204 - Sydney Sixers vs Hobart Hurricanes
+2023-11-10 - international - ODI - female - 1405126 - Pakistan vs Bangladesh
+2023-11-09 - international - ODI - male - 1384432 - Sri Lanka vs New Zealand
+2023-11-09 - club - WBB - female - 1387202 - Perth Scorchers vs Brisbane Heat
+2023-11-08 - international - ODI - male - 1384431 - England vs Netherlands
+2023-11-08 - club - WBB - female - 1387199 - Sydney Sixers vs Melbourne Stars
+2023-11-08 - club - WBB - female - 1387200 - Melbourne Renegades vs Adelaide Strikers
+2023-11-07 - international - ODI - male - 1384430 - Afghanistan vs Australia
+2023-11-07 - international - ODI - female - 1405125 - Bangladesh vs Pakistan
+2023-11-06 - club - SMA - male - 1383568 - Punjab vs Baroda
+2023-11-06 - international - ODI - male - 1384429 - Sri Lanka vs Bangladesh
+2023-11-06 - club - WBB - female - 1387198 - Sydney Thunder vs Brisbane Heat
+2023-11-06 - club - SSH - male - 1391780 - Western Australia vs New South Wales
+2023-11-06 - club - SSH - male - 1391781 - South Australia vs Queensland
+2023-11-05 - international - ODI - male - 1384428 - India vs South Africa
+2023-11-05 - club - WBB - female - 1387196 - Melbourne Renegades vs Sydney Sixers
+2023-11-05 - club - WBB - female - 1387197 - Perth Scorchers vs Adelaide Strikers
+2023-11-05 - club - SSH - male - 1391779 - Tasmania vs Victoria
+2023-11-05 - international - T20 - male - 1405327 - Nepal vs Oman
+2023-11-04 - club - SMA - male - 1383566 - Delhi vs Punjab
+2023-11-04 - club - SMA - male - 1383567 - Assam vs Baroda
+2023-11-04 - international - ODI - male - 1384426 - New Zealand vs Pakistan
+2023-11-04 - international - ODI - male - 1384427 - Australia vs England
+2023-11-04 - club - WBB - female - 1387194 - Melbourne Stars vs Sydney Thunder
+2023-11-04 - club - WBB - female - 1387195 - Hobart Hurricanes vs Brisbane Heat
+2023-11-04 - international - ODI - female - 1405124 - Bangladesh vs Pakistan
+2023-11-03 - international - ODI - male - 1384425 - Netherlands vs Afghanistan
+2023-11-03 - club - WBB - female - 1387192 - Sydney Sixers vs Adelaide Strikers
+2023-11-03 - club - WBB - female - 1387193 - Melbourne Renegades vs Perth Scorchers
+2023-11-03 - international - T20 - male - 1405325 - Bahrain vs Oman
+2023-11-03 - international - T20 - male - 1405326 - United Arab Emirates vs Nepal
+2023-11-02 - club - SMA - male - 1383562 - Uttar Pradesh vs Punjab
+2023-11-02 - club - SMA - male - 1383563 - Kerala vs Assam
+2023-11-02 - international - ODI - male - 1384424 - India vs Sri Lanka
+2023-11-02 - club - WBB - female - 1387191 - Melbourne Stars vs Hobart Hurricanes
+2023-11-02 - international - T20 - male - 1405321 - Oman vs Nepal
+2023-11-02 - international - T20 - male - 1405322 - United Arab Emirates vs Hong Kong
+2023-11-02 - international - T20 - male - 1405323 - Malaysia vs Singapore
+2023-11-02 - international - T20 - male - 1405324 - Bahrain vs Kuwait
 2023-11-01 - international - ODI - male - 1384423 - South Africa vs New Zealand
 2023-11-01 - club - WBB - female - 1387190 - Sydney Thunder vs Melbourne Renegades
 2023-10-31 - club - SMA - male - 1383560 - Gujarat vs Uttar Pradesh
@@ -152,61 +193,5 @@ teams involved in the match.
 2023-10-11 - international - ODI - male - 1384400 - Afghanistan vs India
 2023-10-11 - international - T20 - male - 1400984 - Ghana vs Nigeria
 2023-10-11 - international - T20 - male - 1400985 - Sierra Leone vs Rwanda
-2023-10-10 - international - ODI - male - 1384398 - England vs Bangladesh
-2023-10-10 - international - ODI - male - 1384399 - Sri Lanka vs Pakistan
-2023-10-10 - international - T20 - male - 1400982 - Nigeria vs Ghana
 2023-10-10 - international - T20 - male - 1400983 - Sierra Leone vs Rwanda
-2023-10-09 - international - ODI - male - 1384397 - New Zealand vs Netherlands
-2023-10-08 - international - ODI - female - 1375866 - West Indies vs Australia
-2023-10-08 - international - ODI - male - 1384396 - Australia vs India
-2023-10-08 - international - T20 - female - 1392352 - New Zealand vs South Africa
-2023-10-08 - international - T20 - male - 1400980 - Sierra Leone vs Nigeria
-2023-10-08 - international - T20 - male - 1400981 - Rwanda vs Ghana
-2023-10-07 - international - ODI - male - 1384394 - Afghanistan vs Bangladesh
-2023-10-07 - international - ODI - male - 1384395 - South Africa vs Sri Lanka
-2023-10-07 - international - T20 - male - 1399119 - Pakistan vs Bangladesh
-2023-10-07 - international - T20 - male - 1399120 - Afghanistan vs India
-2023-10-07 - international - T20 - male - 1399161 - Canada vs Bermuda
-2023-10-07 - international - T20 - male - 1400978 - Rwanda vs Nigeria
-2023-10-06 - international - ODI - male - 1384393 - Pakistan vs Netherlands
-2023-10-06 - international - T20 - male - 1399117 - Bangladesh vs India
-2023-10-06 - international - T20 - male - 1399118 - Pakistan vs Afghanistan
-2023-10-06 - international - T20 - male - 1400976 - Nigeria vs Ghana
-2023-10-06 - international - T20 - male - 1400977 - Rwanda vs Sierra Leone
-2023-10-05 - international - T20 - female - 1375865 - Australia vs West Indies
-2023-10-05 - international - ODI - male - 1384392 - England vs New Zealand
-2023-10-05 - international - T20 - male - 1399148 - Qatar vs Maldives
-2023-10-05 - international - T20 - male - 1399149 - Saudi Arabia vs Kuwait
-2023-10-05 - international - T20 - male - 1400053 - Serbia vs Gibraltar
-2023-10-05 - international - T20 - male - 1400054 - Serbia vs Gibraltar
-2023-10-05 - international - T20 - male - 1400974 - Nigeria vs Sierra Leone
-2023-10-05 - international - T20 - male - 1400975 - Rwanda vs Ghana
-2023-10-04 - club - SSH - male - 1391771 - Queensland vs New South Wales
-2023-10-04 - club - SSH - male - 1391772 - Victoria vs Western Australia
-2023-10-04 - international - T20 - male - 1399115 - Afghanistan vs Sri Lanka
-2023-10-04 - international - T20 - male - 1399116 - Bangladesh vs Malaysia
-2023-10-04 - international - T20 - male - 1399146 - Maldives vs Kuwait
-2023-10-04 - international - T20 - male - 1399156 - Canada vs Cayman Islands
-2023-10-04 - international - T20 - male - 1399157 - Panama vs Bermuda
-2023-10-04 - international - T20 - male - 1400972 - Nigeria vs Rwanda
-2023-10-04 - international - T20 - male - 1400973 - Sierra Leone vs Ghana
-2023-10-03 - club - SSH - male - 1391770 - South Australia vs Tasmania
-2023-10-03 - international - T20 - male - 1399113 - India vs Nepal
-2023-10-03 - international - T20 - male - 1399114 - Pakistan vs Hong Kong
-2023-10-03 - international - T20 - male - 1399154 - Canada vs Panama
-2023-10-03 - international - T20 - male - 1399155 - Bermuda vs Cayman Islands
-2023-10-03 - international - T20 - female - 1400041 - Namibia vs United Arab Emirates
-2023-10-02 - international - T20 - female - 1375864 - Australia vs West Indies
-2023-10-02 - international - T20 - male - 1399144 - Qatar vs Kuwait
-2023-10-02 - international - T20 - male - 1399145 - Maldives vs Saudi Arabia
-2023-10-02 - international - T20 - female - 1400040 - United Arab Emirates vs Namibia
-2023-10-01 - international - T20 - female - 1375863 - West Indies vs Australia
-2023-10-01 - international - ODI - female - 1392350 - South Africa vs New Zealand
-2023-10-01 - international - T20 - male - 1399142 - Maldives vs Qatar
-2023-10-01 - international - T20 - male - 1399143 - Kuwait vs Saudi Arabia
-2023-10-01 - international - T20 - male - 1399152 - Panama vs Bermuda
-2023-10-01 - international - T20 - male - 1399153 - Canada vs Cayman Islands
-2023-09-30 - international - T20 - male - 1391339 - Gibraltar vs Estonia
-2023-09-30 - international - T20 - male - 1399150 - Bermuda vs Canada
-2023-09-30 - international - T20 - male - 1399151 - Panama vs Cayman Islands
 2023-03-27 - international - T20 - female - 1365310 - Rwanda vs Ghana

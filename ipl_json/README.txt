@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in JSON format. This
-archive contains 950 Indian Premier League matches.
+archive contains 1024 Indian Premier League matches.
 
 
 The JSON data files contained in this zip file are version 1.0.0, and 1.1.0
@@ -22,6 +22,80 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2023-05-29 - club - IPL - male - 1370353 - Gujarat Titans vs Chennai Super Kings
+2023-05-26 - club - IPL - male - 1370352 - Gujarat Titans vs Mumbai Indians
+2023-05-24 - club - IPL - male - 1370351 - Mumbai Indians vs Lucknow Super Giants
+2023-05-23 - club - IPL - male - 1370350 - Chennai Super Kings vs Gujarat Titans
+2023-05-21 - club - IPL - male - 1359543 - Sunrisers Hyderabad vs Mumbai Indians
+2023-05-21 - club - IPL - male - 1359544 - Royal Challengers Bangalore vs Gujarat Titans
+2023-05-20 - club - IPL - male - 1359541 - Chennai Super Kings vs Delhi Capitals
+2023-05-20 - club - IPL - male - 1359542 - Lucknow Super Giants vs Kolkata Knight Riders
+2023-05-19 - club - IPL - male - 1359540 - Punjab Kings vs Rajasthan Royals
+2023-05-18 - club - IPL - male - 1359539 - Sunrisers Hyderabad vs Royal Challengers Bangalore
+2023-05-17 - club - IPL - male - 1359538 - Delhi Capitals vs Punjab Kings
+2023-05-16 - club - IPL - male - 1359537 - Lucknow Super Giants vs Mumbai Indians
+2023-05-15 - club - IPL - male - 1359536 - Gujarat Titans vs Sunrisers Hyderabad
+2023-05-14 - club - IPL - male - 1359534 - Royal Challengers Bangalore vs Rajasthan Royals
+2023-05-14 - club - IPL - male - 1359535 - Chennai Super Kings vs Kolkata Knight Riders
+2023-05-13 - club - IPL - male - 1359532 - Sunrisers Hyderabad vs Lucknow Super Giants
+2023-05-13 - club - IPL - male - 1359533 - Punjab Kings vs Delhi Capitals
+2023-05-12 - club - IPL - male - 1359531 - Mumbai Indians vs Gujarat Titans
+2023-05-11 - club - IPL - male - 1359530 - Kolkata Knight Riders vs Rajasthan Royals
+2023-05-10 - club - IPL - male - 1359529 - Chennai Super Kings vs Delhi Capitals
+2023-05-09 - club - IPL - male - 1359528 - Royal Challengers Bangalore vs Mumbai Indians
+2023-05-08 - club - IPL - male - 1359527 - Punjab Kings vs Kolkata Knight Riders
+2023-05-07 - club - IPL - male - 1359525 - Gujarat Titans vs Lucknow Super Giants
+2023-05-07 - club - IPL - male - 1359526 - Rajasthan Royals vs Sunrisers Hyderabad
+2023-05-06 - club - IPL - male - 1359523 - Mumbai Indians vs Chennai Super Kings
+2023-05-06 - club - IPL - male - 1359524 - Royal Challengers Bangalore vs Delhi Capitals
+2023-05-05 - club - IPL - male - 1359522 - Rajasthan Royals vs Gujarat Titans
+2023-05-04 - club - IPL - male - 1359521 - Kolkata Knight Riders vs Sunrisers Hyderabad
+2023-05-03 - club - IPL - male - 1359519 - Lucknow Super Giants vs Chennai Super Kings
+2023-05-03 - club - IPL - male - 1359520 - Punjab Kings vs Mumbai Indians
+2023-05-02 - club - IPL - male - 1359518 - Delhi Capitals vs Gujarat Titans
+2023-05-01 - club - IPL - male - 1359517 - Royal Challengers Bangalore vs Lucknow Super Giants
+2023-04-30 - club - IPL - male - 1359515 - Chennai Super Kings vs Punjab Kings
+2023-04-30 - club - IPL - male - 1359516 - Rajasthan Royals vs Mumbai Indians
+2023-04-29 - club - IPL - male - 1359513 - Kolkata Knight Riders vs Gujarat Titans
+2023-04-29 - club - IPL - male - 1359514 - Sunrisers Hyderabad vs Delhi Capitals
+2023-04-28 - club - IPL - male - 1359512 - Lucknow Super Giants vs Punjab Kings
+2023-04-27 - club - IPL - male - 1359511 - Rajasthan Royals vs Chennai Super Kings
+2023-04-26 - club - IPL - male - 1359510 - Kolkata Knight Riders vs Royal Challengers Bangalore
+2023-04-25 - club - IPL - male - 1359509 - Gujarat Titans vs Mumbai Indians
+2023-04-24 - club - IPL - male - 1359508 - Delhi Capitals vs Sunrisers Hyderabad
+2023-04-23 - club - IPL - male - 1359506 - Royal Challengers Bangalore vs Rajasthan Royals
+2023-04-23 - club - IPL - male - 1359507 - Chennai Super Kings vs Kolkata Knight Riders
+2023-04-22 - club - IPL - male - 1359504 - Gujarat Titans vs Lucknow Super Giants
+2023-04-22 - club - IPL - male - 1359505 - Punjab Kings vs Mumbai Indians
+2023-04-21 - club - IPL - male - 1359503 - Sunrisers Hyderabad vs Chennai Super Kings
+2023-04-20 - club - IPL - male - 1359501 - Royal Challengers Bangalore vs Punjab Kings
+2023-04-20 - club - IPL - male - 1359502 - Kolkata Knight Riders vs Delhi Capitals
+2023-04-19 - club - IPL - male - 1359500 - Lucknow Super Giants vs Rajasthan Royals
+2023-04-18 - club - IPL - male - 1359499 - Mumbai Indians vs Sunrisers Hyderabad
+2023-04-17 - club - IPL - male - 1359498 - Chennai Super Kings vs Royal Challengers Bangalore
+2023-04-16 - club - IPL - male - 1359496 - Kolkata Knight Riders vs Mumbai Indians
+2023-04-16 - club - IPL - male - 1359497 - Gujarat Titans vs Rajasthan Royals
+2023-04-15 - club - IPL - male - 1359494 - Royal Challengers Bangalore vs Delhi Capitals
+2023-04-15 - club - IPL - male - 1359495 - Lucknow Super Giants vs Punjab Kings
+2023-04-14 - club - IPL - male - 1359493 - Sunrisers Hyderabad vs Kolkata Knight Riders
+2023-04-13 - club - IPL - male - 1359492 - Punjab Kings vs Gujarat Titans
+2023-04-12 - club - IPL - male - 1359491 - Rajasthan Royals vs Chennai Super Kings
+2023-04-11 - club - IPL - male - 1359490 - Delhi Capitals vs Mumbai Indians
+2023-04-10 - club - IPL - male - 1359489 - Royal Challengers Bangalore vs Lucknow Super Giants
+2023-04-09 - club - IPL - male - 1359487 - Gujarat Titans vs Kolkata Knight Riders
+2023-04-09 - club - IPL - male - 1359488 - Punjab Kings vs Sunrisers Hyderabad
+2023-04-08 - club - IPL - male - 1359485 - Rajasthan Royals vs Delhi Capitals
+2023-04-08 - club - IPL - male - 1359486 - Mumbai Indians vs Chennai Super Kings
+2023-04-07 - club - IPL - male - 1359484 - Sunrisers Hyderabad vs Lucknow Super Giants
+2023-04-06 - club - IPL - male - 1359483 - Kolkata Knight Riders vs Royal Challengers Bangalore
+2023-04-05 - club - IPL - male - 1359482 - Punjab Kings vs Rajasthan Royals
+2023-04-04 - club - IPL - male - 1359481 - Delhi Capitals vs Gujarat Titans
+2023-04-03 - club - IPL - male - 1359480 - Chennai Super Kings vs Lucknow Super Giants
+2023-04-02 - club - IPL - male - 1359478 - Rajasthan Royals vs Sunrisers Hyderabad
+2023-04-02 - club - IPL - male - 1359479 - Mumbai Indians vs Royal Challengers Bangalore
+2023-04-01 - club - IPL - male - 1359476 - Punjab Kings vs Kolkata Knight Riders
+2023-04-01 - club - IPL - male - 1359477 - Lucknow Super Giants vs Delhi Capitals
+2023-03-31 - club - IPL - male - 1359475 - Chennai Super Kings vs Gujarat Titans
 2022-05-29 - club - IPL - male - 1312200 - Rajasthan Royals vs Gujarat Titans
 2022-05-27 - club - IPL - male - 1312199 - Royal Challengers Bangalore vs Rajasthan Royals
 2022-05-25 - club - IPL - male - 1312198 - Royal Challengers Bangalore vs Lucknow Super Giants
