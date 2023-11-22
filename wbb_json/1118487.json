@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2020-06-16",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -52,7 +52,7 @@
       "Melbourne Renegades": [
         "S Molineux",
         "AC Jayangani",
-        "JE Cameron",
+        "JE Duffin",
         "AE Satterthwaite",
         "EJ Inglis",
         "CJ Koski",
@@ -78,7 +78,7 @@
         "H Birkett": "852820e3",
         "HL Ferling": "a594a6e0",
         "HNK Jensen": "b8cce99f",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "JL Barsby": "47bcaf7a",
         "JL Jonassen": "0475a86b",
         "KL Short": "712bd44c",

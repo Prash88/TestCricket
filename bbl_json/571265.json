@@ -2,13 +2,13 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2017-04-22",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
     "city": "Perth",
     "dates": [
-      "2013-02-05"
+      "2013-01-16"
     ],
     "event": {
       "name": "Big Bash League",

@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2019-11-14",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -45,7 +45,7 @@
         "DN Wyatt",
         "TT Beaumont",
         "CJ Koski",
-        "JE Cameron",
+        "JE Duffin",
         "JE Dooley",
         "G Wareham",
         "M Brown",
@@ -79,7 +79,7 @@
         "G Redmayne": "324b9eee",
         "G Wareham": "f0b4e47d",
         "H Graham": "99812d10",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "JE Dooley": "6f7e30d6",
         "JL Barsby": "47bcaf7a",
         "KJ Garth": "0b69a844",

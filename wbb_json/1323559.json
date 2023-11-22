@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-10-17",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -53,8 +53,8 @@
         "K Peterson"
       ],
       "Melbourne Stars": [
-        "L Winfield",
-        "BAM Heath",
+        "L Winfield-Hill",
+        "C Smith",
         "A Capsey",
         "A Sutherland",
         "KJ Garth",
@@ -73,14 +73,14 @@
         "A Genford": "52b45daa",
         "A Sutherland": "65d9b6b6",
         "AJ Healy": "321644de",
-        "BAM Heath": "3b5a9438",
+        "C Smith": "c160db98",
         "CA Polosak": "26a360d2",
         "EA Burns": "2e0b6638",
         "EA Perry": "be150fc8",
         "K Peterson": "5f377534",
         "KJ Garth": "0b69a844",
         "L Cheatle": "275dff85",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "M Brown": "78bec461",
         "M Mellifont": "41729aa5",
         "N Faltum": "9a56c670",
@@ -785,7 +785,7 @@
                   "player_out": "AJ Healy",
                   "fielders": [
                     {
-                      "name": "L Winfield"
+                      "name": "L Winfield-Hill"
                     }
                   ],
                   "kind": "caught"
@@ -1558,12 +1558,12 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
               "extras": {
                 "wides": 1
               },
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1571,9 +1571,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1581,9 +1581,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1591,9 +1591,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1601,9 +1601,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1611,9 +1611,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1621,9 +1621,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1636,9 +1636,9 @@
           "over": 1,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "EA Perry",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1646,9 +1646,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "EA Perry",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1656,9 +1656,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "EA Perry",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1666,9 +1666,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "EA Perry",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1676,9 +1676,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "EA Perry",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1686,9 +1686,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "EA Perry",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1701,9 +1701,9 @@
           "over": 2,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1711,9 +1711,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1721,9 +1721,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1731,9 +1731,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1741,9 +1741,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1751,9 +1751,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Cheatle",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1766,9 +1766,9 @@
           "over": 3,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1776,9 +1776,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1786,9 +1786,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1796,9 +1796,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1806,9 +1806,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1816,9 +1816,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1831,9 +1831,9 @@
           "over": 4,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Brown",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1841,9 +1841,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Brown",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1851,9 +1851,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Brown",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1861,12 +1861,12 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Brown",
               "extras": {
                 "wides": 1
               },
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1874,9 +1874,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Brown",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1884,9 +1884,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Brown",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1894,9 +1894,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Brown",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1909,9 +1909,9 @@
           "over": 5,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1919,9 +1919,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1929,9 +1929,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1939,9 +1939,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "A Gardner",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1949,9 +1949,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1959,9 +1959,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "A Gardner",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1974,9 +1974,9 @@
           "over": 6,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1984,9 +1984,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1994,9 +1994,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2004,9 +2004,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2014,9 +2014,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2024,9 +2024,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2034,7 +2034,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "L Winfield",
+                  "player_out": "L Winfield-Hill",
                   "kind": "bowled"
                 }
               ]
@@ -2045,7 +2045,7 @@
           "over": 7,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "A Gardner",
               "non_striker": "A Capsey",
               "runs": {
@@ -2055,7 +2055,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "A Gardner",
               "non_striker": "A Capsey",
               "runs": {
@@ -2067,7 +2067,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2075,7 +2075,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "A Gardner",
               "non_striker": "A Capsey",
               "runs": {
@@ -2087,7 +2087,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2097,7 +2097,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A Gardner",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2116,7 +2116,7 @@
           "over": 8,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2128,7 +2128,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2138,7 +2138,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2146,7 +2146,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "S Ecclestone",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2158,7 +2158,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2168,7 +2168,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "S Ecclestone",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2181,7 +2181,7 @@
           "over": 9,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "NE Bolton",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2191,7 +2191,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "NE Bolton",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2201,7 +2201,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "NE Bolton",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2213,7 +2213,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "NE Bolton",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 3,
                 "extras": 0,
@@ -2221,7 +2221,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "NE Bolton",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2231,7 +2231,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "BAM Heath",
+                  "player_out": "C Smith",
                   "fielders": [
                     {
                       "name": "S Ecclestone"

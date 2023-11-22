@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-11-15",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -50,7 +50,7 @@
         "M Strano"
       ],
       "Melbourne Stars": [
-        "L Winfield",
+        "L Winfield-Hill",
         "BAM Heath",
         "A Capsey",
         "A Sutherland",
@@ -75,7 +75,7 @@
         "HNK Jensen": "b8cce99f",
         "KJ Garth": "0b69a844",
         "L Lee": "7b01ce83",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "M Qureshi": "cf34fbef",
         "M Strano": "f57d5dbb",
         "M du Preez": "e219f17a",
@@ -1613,7 +1613,7 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "BAM Heath",
               "runs": {
@@ -1625,7 +1625,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1635,7 +1635,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1645,7 +1645,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1655,7 +1655,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1665,7 +1665,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1678,7 +1678,7 @@
           "over": 1,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "HNK Jensen",
               "non_striker": "BAM Heath",
               "runs": {
@@ -1690,7 +1690,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1700,7 +1700,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1710,7 +1710,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1720,7 +1720,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1730,7 +1730,7 @@
             {
               "batter": "BAM Heath",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1743,7 +1743,7 @@
           "over": 2,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "BAM Heath",
               "runs": {
@@ -1753,7 +1753,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "L Winfield",
+                  "player_out": "L Winfield-Hill",
                   "fielders": [
                     {
                       "name": "HNK Jensen"

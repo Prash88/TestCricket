@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-11-20",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -37,11 +37,11 @@
     ],
     "players": {
       "Melbourne Stars": [
-        "L Winfield",
+        "L Winfield-Hill",
         "S Reid",
         "A Capsey",
         "A Sutherland",
-        "BAM Heath",
+        "C Smith",
         "N Faltum",
         "KJ Garth",
         "SK Moloney",
@@ -69,13 +69,13 @@
         "A King": "83558266",
         "A Sutherland": "65d9b6b6",
         "AL Edgar": "795ff893",
-        "BAM Heath": "3b5a9438",
         "BL Mooney": "52d1dbc8",
         "C Piparo": "276f3dde",
+        "C Smith": "c160db98",
         "KJ Garth": "0b69a844",
         "L McCabe": "1dbc4a64",
         "L Mills": "c35a0b8a",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "M Carmichael": "4b546c04",
         "M Kapp": "63e3b6b3",
         "ML Green": "865eae1f",
@@ -112,7 +112,7 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "T Peschel",
               "extras": {
                 "wides": 1
@@ -125,7 +125,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "T Peschel",
               "non_striker": "S Reid",
               "runs": {
@@ -135,7 +135,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "T Peschel",
               "non_striker": "S Reid",
               "runs": {
@@ -145,7 +145,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "T Peschel",
               "non_striker": "S Reid",
               "runs": {
@@ -155,7 +155,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "T Peschel",
               "non_striker": "S Reid",
               "runs": {
@@ -167,7 +167,7 @@
             {
               "batter": "S Reid",
               "bowler": "T Peschel",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -177,7 +177,7 @@
             {
               "batter": "S Reid",
               "bowler": "T Peschel",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -190,7 +190,7 @@
           "over": 1,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Kapp",
               "non_striker": "S Reid",
               "runs": {
@@ -202,7 +202,7 @@
             {
               "batter": "S Reid",
               "bowler": "M Kapp",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 3,
                 "extras": 0,
@@ -210,7 +210,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Kapp",
               "extras": {
                 "legbyes": 1
@@ -225,7 +225,7 @@
             {
               "batter": "S Reid",
               "bowler": "M Kapp",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -235,7 +235,7 @@
             {
               "batter": "S Reid",
               "bowler": "M Kapp",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -245,7 +245,7 @@
             {
               "batter": "S Reid",
               "bowler": "M Kapp",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -258,7 +258,7 @@
           "over": 2,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Mills",
               "non_striker": "S Reid",
               "runs": {
@@ -268,7 +268,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Mills",
               "non_striker": "S Reid",
               "runs": {
@@ -278,7 +278,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Mills",
               "non_striker": "S Reid",
               "runs": {
@@ -288,7 +288,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Mills",
               "non_striker": "S Reid",
               "runs": {
@@ -298,7 +298,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "L Mills",
               "non_striker": "S Reid",
               "runs": {
@@ -310,7 +310,7 @@
             {
               "batter": "S Reid",
               "bowler": "L Mills",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -323,7 +323,7 @@
           "over": 3,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "SFM Devine",
               "non_striker": "S Reid",
               "runs": {
@@ -333,7 +333,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "SFM Devine",
               "non_striker": "S Reid",
               "runs": {
@@ -343,7 +343,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "SFM Devine",
               "non_striker": "S Reid",
               "runs": {
@@ -353,7 +353,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "SFM Devine",
               "non_striker": "S Reid",
               "runs": {
@@ -363,7 +363,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "SFM Devine",
               "non_striker": "S Reid",
               "runs": {
@@ -373,7 +373,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "SFM Devine",
               "non_striker": "S Reid",
               "runs": {
@@ -390,7 +390,7 @@
             {
               "batter": "S Reid",
               "bowler": "P Cleary",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -400,7 +400,7 @@
             {
               "batter": "S Reid",
               "bowler": "P Cleary",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -408,7 +408,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "P Cleary",
               "non_striker": "S Reid",
               "runs": {
@@ -418,7 +418,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "P Cleary",
               "non_striker": "S Reid",
               "runs": {
@@ -428,7 +428,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "P Cleary",
               "non_striker": "S Reid",
               "runs": {
@@ -440,7 +440,7 @@
             {
               "batter": "S Reid",
               "bowler": "P Cleary",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -455,7 +455,7 @@
             {
               "batter": "S Reid",
               "bowler": "A King",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 6,
                 "extras": 0,
@@ -465,7 +465,7 @@
             {
               "batter": "S Reid",
               "bowler": "A King",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -473,7 +473,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A King",
               "non_striker": "S Reid",
               "runs": {
@@ -483,7 +483,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A King",
               "non_striker": "S Reid",
               "runs": {
@@ -495,7 +495,7 @@
             {
               "batter": "S Reid",
               "bowler": "A King",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -511,7 +511,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A King",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -524,7 +524,7 @@
           "over": 6,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "P Cleary",
               "non_striker": "A Capsey",
               "runs": {
@@ -536,7 +536,7 @@
             {
               "batter": "A Capsey",
               "bowler": "P Cleary",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -544,7 +544,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "P Cleary",
               "non_striker": "A Capsey",
               "runs": {
@@ -554,7 +554,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "P Cleary",
               "non_striker": "A Capsey",
               "runs": {
@@ -564,7 +564,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "L Winfield",
+                  "player_out": "L Winfield-Hill",
                   "kind": "lbw"
                 }
               ]
@@ -764,7 +764,7 @@
               ]
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "AL Edgar",
               "non_striker": "A Sutherland",
               "runs": {
@@ -774,7 +774,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "AL Edgar",
               "non_striker": "A Sutherland",
               "runs": {
@@ -784,7 +784,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "AL Edgar",
               "non_striker": "A Sutherland",
               "runs": {
@@ -796,7 +796,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "AL Edgar",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -811,7 +811,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "L Mills",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -819,7 +819,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "L Mills",
               "non_striker": "A Sutherland",
               "runs": {
@@ -829,7 +829,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "L Mills",
               "non_striker": "A Sutherland",
               "runs": {
@@ -841,7 +841,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "L Mills",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -851,7 +851,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "L Mills",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -859,7 +859,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "L Mills",
               "non_striker": "A Sutherland",
               "runs": {
@@ -874,7 +874,7 @@
           "over": 11,
           "deliveries": [
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "AL Edgar",
               "non_striker": "A Sutherland",
               "runs": {
@@ -886,7 +886,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "AL Edgar",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -894,7 +894,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "AL Edgar",
               "non_striker": "A Sutherland",
               "runs": {
@@ -904,7 +904,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "AL Edgar",
               "non_striker": "A Sutherland",
               "runs": {
@@ -916,7 +916,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "AL Edgar",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -926,7 +926,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "AL Edgar",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -941,7 +941,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "SFM Devine",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -949,7 +949,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "SFM Devine",
               "non_striker": "A Sutherland",
               "runs": {
@@ -959,7 +959,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "SFM Devine",
               "non_striker": "A Sutherland",
               "runs": {
@@ -969,7 +969,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "SFM Devine",
               "non_striker": "A Sutherland",
               "runs": {
@@ -979,7 +979,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "SFM Devine",
               "extras": {
                 "wides": 1
@@ -992,7 +992,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "SFM Devine",
               "non_striker": "A Sutherland",
               "runs": {
@@ -1002,7 +1002,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "SFM Devine",
               "non_striker": "A Sutherland",
               "runs": {
@@ -1019,7 +1019,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A King",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1029,7 +1029,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A King",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1039,7 +1039,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A King",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1049,7 +1049,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A King",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1059,7 +1059,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A King",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1069,7 +1069,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A King",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1084,7 +1084,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "M Kapp",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1105,7 +1105,7 @@
             {
               "batter": "N Faltum",
               "bowler": "M Kapp",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1115,7 +1115,7 @@
             {
               "batter": "N Faltum",
               "bowler": "M Kapp",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1125,7 +1125,7 @@
             {
               "batter": "N Faltum",
               "bowler": "M Kapp",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1133,7 +1133,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Kapp",
               "non_striker": "N Faltum",
               "runs": {
@@ -1143,7 +1143,7 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "M Kapp",
               "non_striker": "N Faltum",
               "runs": {
@@ -1153,7 +1153,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "BAM Heath",
+                  "player_out": "C Smith",
                   "fielders": [
                     {
                       "name": "A King"
@@ -2909,7 +2909,7 @@
                   "player_out": "A King",
                   "fielders": [
                     {
-                      "name": "L Winfield"
+                      "name": "L Winfield-Hill"
                     }
                   ],
                   "kind": "caught"

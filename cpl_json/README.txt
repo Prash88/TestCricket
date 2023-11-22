@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in JSON format. This
-archive contains 309 Caribbean Premier League matches.
+archive contains 341 Caribbean Premier League matches.
 
 
 The JSON data files contained in this zip file are version 1.0.0, and 1.1.0
@@ -22,6 +22,38 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2023-09-24 - club - CPL - male - 1369591 - Trinbago Knight Riders vs Guyana Amazon Warriors
+2023-09-22 - club - CPL - male - 1369590 - Guyana Amazon Warriors vs Jamaica Tallawahs
+2023-09-20 - club - CPL - male - 1369589 - Guyana Amazon Warriors vs Trinbago Knight Riders
+2023-09-19 - club - CPL - male - 1369588 - St Lucia Kings vs Jamaica Tallawahs
+2023-09-17 - club - CPL - male - 1369586 - Jamaica Tallawahs vs St Lucia Kings
+2023-09-17 - club - CPL - male - 1369587 - Guyana Amazon Warriors vs Barbados Royals
+2023-09-16 - club - CPL - male - 1369584 - Jamaica Tallawahs vs St Kitts and Nevis Patriots
+2023-09-16 - club - CPL - male - 1369585 - Trinbago Knight Riders vs Guyana Amazon Warriors
+2023-09-14 - club - CPL - male - 1369583 - Guyana Amazon Warriors vs St Lucia Kings
+2023-09-13 - club - CPL - male - 1369582 - Jamaica Tallawahs vs Guyana Amazon Warriors
+2023-09-10 - club - CPL - male - 1369580 - Guyana Amazon Warriors vs Barbados Royals
+2023-09-10 - club - CPL - male - 1369581 - St Lucia Kings vs Trinbago Knight Riders
+2023-09-09 - club - CPL - male - 1369578 - St Lucia Kings vs St Kitts and Nevis Patriots
+2023-09-09 - club - CPL - male - 1369579 - Jamaica Tallawahs vs Trinbago Knight Riders
+2023-09-06 - club - CPL - male - 1369577 - Trinbago Knight Riders vs Barbados Royals
+2023-09-05 - club - CPL - male - 1369576 - Trinbago Knight Riders vs Guyana Amazon Warriors
+2023-09-03 - club - CPL - male - 1369574 - Trinbago Knight Riders vs Jamaica Tallawahs
+2023-09-03 - club - CPL - male - 1369575 - St Kitts and Nevis Patriots vs Barbados Royals
+2023-09-02 - club - CPL - male - 1369572 - Guyana Amazon Warriors vs St Kitts and Nevis Patriots
+2023-09-02 - club - CPL - male - 1369573 - St Lucia Kings vs Barbados Royals
+2023-08-31 - club - CPL - male - 1369571 - Jamaica Tallawahs vs Barbados Royals
+2023-08-30 - club - CPL - male - 1369570 - Trinbago Knight Riders vs Barbados Royals
+2023-08-27 - club - CPL - male - 1369568 - Guyana Amazon Warriors vs Jamaica Tallawahs
+2023-08-27 - club - CPL - male - 1369569 - St Kitts and Nevis Patriots vs Trinbago Knight Riders
+2023-08-26 - club - CPL - male - 1369566 - St Lucia Kings vs Trinbago Knight Riders
+2023-08-26 - club - CPL - male - 1369567 - St Kitts and Nevis Patriots vs Barbados Royals
+2023-08-24 - club - CPL - male - 1369565 - Guyana Amazon Warriors vs St Kitts and Nevis Patriots
+2023-08-23 - club - CPL - male - 1369564 - St Kitts and Nevis Patriots vs Jamaica Tallawahs
+2023-08-19 - club - CPL - male - 1369560 - Trinbago Knight Riders vs St Kitts and Nevis Patriots
+2023-08-19 - club - CPL - male - 1369561 - Guyana Amazon Warriors vs St Lucia Kings
+2023-08-17 - club - CPL - male - 1369559 - St Lucia Kings vs Barbados Royals
+2023-08-16 - club - CPL - male - 1369558 - Jamaica Tallawahs vs St Lucia Kings
 2022-09-30 - club - CPL - male - 1323177 - Barbados Royals vs Jamaica Tallawahs
 2022-09-28 - club - CPL - male - 1323176 - Jamaica Tallawahs vs Guyana Amazon Warriors
 2022-09-27 - club - CPL - male - 1323174 - Barbados Royals vs Guyana Amazon Warriors

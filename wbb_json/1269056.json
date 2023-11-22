@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2021-10-16",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -59,7 +59,7 @@
         "H Kaur",
         "E Jones",
         "G Wareham",
-        "JE Cameron",
+        "JE Duffin",
         "JE Dooley",
         "C Leeson",
         "E Falconer",
@@ -80,8 +80,8 @@
         "G Wareham": "f0b4e47d",
         "H Kaur": "53cd8da6",
         "HL Ferling": "a594a6e0",
-        "JE Cameron": "5ebc3941",
         "JE Dooley": "6f7e30d6",
+        "JE Duffin": "5ebc3941",
         "JI Rodrigues": "cb08b611",
         "Kent Hannam": "8cc171e7",
         "M Blows": "72e3d89d",

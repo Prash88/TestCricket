@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-12-16",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -219,6 +219,12 @@
               "batter": "MW Short",
               "bowler": "SA Abbott",
               "non_striker": "CA Lynn",
+              "review": {
+                "by": "Adelaide Strikers",
+                "umpire": "BNJ Oxenford",
+                "batter": "MW Short",
+                "decision": "upheld"
+              },
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1580,6 +1586,12 @@
               "batter": "AJ Hose",
               "bowler": "SA Abbott",
               "non_striker": "T Kelly",
+              "review": {
+                "by": "Adelaide Strikers",
+                "umpire": "BNJ Oxenford",
+                "batter": "AJ Hose",
+                "decision": "struck down"
+              },
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2790,6 +2802,13 @@
               "batter": "DT Christian",
               "bowler": "Rashid Khan",
               "non_striker": "H Kerr",
+              "review": {
+                "by": "Adelaide Strikers",
+                "umpire": "BNJ Oxenford",
+                "batter": "DT Christian",
+                "decision": "struck down",
+                "umpires_call": true
+              },
               "runs": {
                 "batter": 0,
                 "extras": 0,

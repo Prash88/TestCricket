@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2021-11-08",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -57,7 +57,7 @@
         "E Jones",
         "C Leeson",
         "H Kaur",
-        "JE Cameron",
+        "JE Duffin",
         "S Molineux",
         "JE Dooley",
         "E Falconer",
@@ -79,8 +79,8 @@
         "Eloise Sheridan": "d8d43840",
         "H Kaur": "53cd8da6",
         "HL Ferling": "a594a6e0",
-        "JE Cameron": "5ebc3941",
         "JE Dooley": "6f7e30d6",
+        "JE Duffin": "5ebc3941",
         "JI Rodrigues": "cb08b611",
         "KJ Garth": "0b69a844",
         "LCN Smith": "340202b0",
@@ -365,7 +365,7 @@
                   "player_out": "A Sutherland",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"
@@ -2532,7 +2532,7 @@
             {
               "batter": "H Kaur",
               "bowler": "R McKenna",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,

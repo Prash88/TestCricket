@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-11-16",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -50,8 +50,8 @@
         "M Strano"
       ],
       "Melbourne Stars": [
-        "L Winfield",
-        "BAM Heath",
+        "L Winfield-Hill",
+        "C Smith",
         "A Capsey",
         "A Sutherland",
         "KJ Garth",
@@ -68,13 +68,13 @@
         "A Capsey": "910dd54e",
         "A Smith": "b125ce63",
         "A Sutherland": "65d9b6b6",
-        "BAM Heath": "3b5a9438",
         "C Seabourne": "ae32fc6f",
+        "C Smith": "c160db98",
         "EJ Villani": "cde96d97",
         "HNK Jensen": "b8cce99f",
         "KJ Garth": "0b69a844",
         "L Lee": "7b01ce83",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "M Qureshi": "cf34fbef",
         "M Strano": "f57d5dbb",
         "M du Preez": "e219f17a",
@@ -1653,9 +1653,9 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "HNK Jensen",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1663,9 +1663,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "HNK Jensen",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1673,9 +1673,9 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "HNK Jensen",
-              "non_striker": "BAM Heath",
+              "non_striker": "C Smith",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1683,9 +1683,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1693,9 +1693,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1703,9 +1703,9 @@
               }
             },
             {
-              "batter": "BAM Heath",
+              "batter": "C Smith",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1713,7 +1713,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "BAM Heath",
+                  "player_out": "C Smith",
                   "fielders": [
                     {
                       "name": "R Trenaman"
@@ -1729,7 +1729,7 @@
           "over": 1,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "A Capsey",
               "runs": {
@@ -1739,7 +1739,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "A Capsey",
               "runs": {
@@ -1751,7 +1751,7 @@
             {
               "batter": "A Capsey",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1761,7 +1761,7 @@
             {
               "batter": "A Capsey",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1769,7 +1769,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "A Capsey",
               "runs": {
@@ -1781,7 +1781,7 @@
             {
               "batter": "A Capsey",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1794,7 +1794,7 @@
           "over": 2,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "HNK Jensen",
               "non_striker": "A Capsey",
               "runs": {
@@ -1806,7 +1806,7 @@
             {
               "batter": "A Capsey",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1814,7 +1814,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "HNK Jensen",
               "non_striker": "A Capsey",
               "runs": {
@@ -1826,7 +1826,7 @@
             {
               "batter": "A Capsey",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1839,7 +1839,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1849,7 +1849,7 @@
             {
               "batter": "A Capsey",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1859,7 +1859,7 @@
             {
               "batter": "A Capsey",
               "bowler": "HNK Jensen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1872,7 +1872,7 @@
           "over": 3,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "A Capsey",
               "runs": {
@@ -1882,7 +1882,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "A Capsey",
               "runs": {
@@ -1894,7 +1894,7 @@
             {
               "batter": "A Capsey",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1904,7 +1904,7 @@
             {
               "batter": "A Capsey",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1912,7 +1912,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "M Strano",
               "non_striker": "A Capsey",
               "runs": {
@@ -1924,7 +1924,7 @@
             {
               "batter": "A Capsey",
               "bowler": "M Strano",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 6,
                 "extras": 0,
@@ -1937,7 +1937,7 @@
           "over": 4,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "ML Gibson",
               "extras": {
                 "legbyes": 1
@@ -1952,7 +1952,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1962,7 +1962,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1970,7 +1970,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "ML Gibson",
               "non_striker": "A Capsey",
               "runs": {
@@ -1982,7 +1982,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1992,7 +1992,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2007,7 +2007,7 @@
             {
               "batter": "A Capsey",
               "bowler": "R Johnston",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2015,7 +2015,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "R Johnston",
               "non_striker": "A Capsey",
               "runs": {
@@ -2025,7 +2025,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "R Johnston",
               "non_striker": "A Capsey",
               "runs": {
@@ -2035,7 +2035,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "R Johnston",
               "non_striker": "A Capsey",
               "runs": {
@@ -2045,7 +2045,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "R Johnston",
               "non_striker": "A Capsey",
               "runs": {
@@ -2057,7 +2057,7 @@
             {
               "batter": "A Capsey",
               "bowler": "R Johnston",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2072,7 +2072,7 @@
             {
               "batter": "A Capsey",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2080,7 +2080,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NJ Carey",
               "non_striker": "A Capsey",
               "runs": {
@@ -2092,7 +2092,7 @@
             {
               "batter": "A Capsey",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2102,7 +2102,7 @@
             {
               "batter": "A Capsey",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2110,7 +2110,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NJ Carey",
               "non_striker": "A Capsey",
               "runs": {
@@ -2120,7 +2120,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NJ Carey",
               "non_striker": "A Capsey",
               "runs": {
@@ -2135,7 +2135,7 @@
           "over": 7,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Smith",
               "non_striker": "A Capsey",
               "runs": {
@@ -2147,7 +2147,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A Smith",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -2157,7 +2157,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A Smith",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2165,7 +2165,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Smith",
               "non_striker": "A Capsey",
               "runs": {
@@ -2175,7 +2175,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Smith",
               "non_striker": "A Capsey",
               "runs": {
@@ -2187,7 +2187,7 @@
             {
               "batter": "A Capsey",
               "bowler": "A Smith",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2200,7 +2200,7 @@
           "over": 8,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "ML Gibson",
               "non_striker": "A Capsey",
               "runs": {
@@ -2212,7 +2212,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2222,7 +2222,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2230,7 +2230,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "ML Gibson",
               "non_striker": "A Capsey",
               "runs": {
@@ -2242,7 +2242,7 @@
             {
               "batter": "A Capsey",
               "bowler": "ML Gibson",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2250,7 +2250,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "ML Gibson",
               "non_striker": "A Capsey",
               "runs": {
@@ -2265,7 +2265,7 @@
           "over": 9,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "R Johnston",
               "non_striker": "A Capsey",
               "runs": {
@@ -2277,7 +2277,7 @@
             {
               "batter": "A Capsey",
               "bowler": "R Johnston",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2298,7 +2298,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "R Johnston",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2308,7 +2308,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "R Johnston",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2316,7 +2316,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "R Johnston",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2328,7 +2328,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "R Johnston",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2343,7 +2343,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2353,7 +2353,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2361,7 +2361,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NJ Carey",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2373,7 +2373,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -2386,7 +2386,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -2396,7 +2396,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2409,7 +2409,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -2419,7 +2419,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "NJ Carey",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2432,7 +2432,7 @@
           "over": 11,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Smith",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2444,7 +2444,7 @@
             {
               "batter": "A Sutherland",
               "bowler": "A Smith",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2452,7 +2452,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "A Smith",
               "non_striker": "A Sutherland",
               "runs": {
@@ -2462,7 +2462,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "L Winfield",
+                  "player_out": "L Winfield-Hill",
                   "kind": "bowled"
                 }
               ]

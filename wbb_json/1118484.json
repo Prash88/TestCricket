@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2020-06-16",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -39,7 +39,7 @@
       "Melbourne Renegades": [
         "S Molineux",
         "KL Britt",
-        "JE Cameron",
+        "JE Duffin",
         "AE Satterthwaite",
         "AC Jayangani",
         "EJ Inglis",
@@ -74,7 +74,7 @@
         "CJ Koski": "0f00b4d7",
         "EJ Inglis": "b0ca6975",
         "G Wareham": "f0b4e47d",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "John Biddiss": "4e30c72a",
         "KL Britt": "b9e15440",
         "L Uthenwoldt": "021223ce",
@@ -281,7 +281,7 @@
               ]
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "S Molineux",
               "runs": {
@@ -291,7 +291,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "S Molineux",
               "runs": {
@@ -301,7 +301,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "extras": {
                 "legbyes": 1
@@ -316,7 +316,7 @@
             {
               "batter": "S Molineux",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -331,7 +331,7 @@
             {
               "batter": "S Molineux",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -339,7 +339,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "extras": {
                 "legbyes": 1
@@ -357,7 +357,7 @@
               "extras": {
                 "byes": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -365,7 +365,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "S Molineux",
               "runs": {
@@ -375,7 +375,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "S Molineux",
               "runs": {
@@ -385,7 +385,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "S Molineux",
               "runs": {
@@ -400,7 +400,7 @@
           "over": 4,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "S Molineux",
               "runs": {
@@ -410,7 +410,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "S Molineux",
               "runs": {
@@ -422,7 +422,7 @@
             {
               "batter": "S Molineux",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -432,7 +432,7 @@
             {
               "batter": "S Molineux",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -442,7 +442,7 @@
             {
               "batter": "S Molineux",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -452,7 +452,7 @@
             {
               "batter": "S Molineux",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -465,7 +465,7 @@
           "over": 5,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "S Molineux",
               "runs": {
@@ -475,7 +475,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "S Molineux",
               "runs": {
@@ -487,7 +487,7 @@
             {
               "batter": "S Molineux",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -497,7 +497,7 @@
             {
               "batter": "S Molineux",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -507,7 +507,7 @@
             {
               "batter": "S Molineux",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -517,7 +517,7 @@
             {
               "batter": "S Molineux",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -530,7 +530,7 @@
           "over": 6,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "S Molineux",
               "runs": {
@@ -542,7 +542,7 @@
             {
               "batter": "S Molineux",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -552,7 +552,7 @@
             {
               "batter": "S Molineux",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -562,7 +562,7 @@
             {
               "batter": "S Molineux",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -572,7 +572,7 @@
             {
               "batter": "S Molineux",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -582,7 +582,7 @@
             {
               "batter": "S Molineux",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -597,7 +597,7 @@
             {
               "batter": "S Molineux",
               "bowler": "SW Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -607,7 +607,7 @@
             {
               "batter": "S Molineux",
               "bowler": "SW Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -628,7 +628,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "SW Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -638,7 +638,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "SW Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -646,7 +646,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SW Bates",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -656,7 +656,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SW Bates",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -673,7 +673,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -683,7 +683,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -693,7 +693,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -701,7 +701,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -713,7 +713,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -723,7 +723,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -738,7 +738,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -748,7 +748,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -758,7 +758,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -766,7 +766,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -778,7 +778,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -788,7 +788,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -806,7 +806,7 @@
               "extras": {
                 "noballs": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 1,
@@ -814,7 +814,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -824,7 +824,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -834,7 +834,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -846,7 +846,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Price",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -854,7 +854,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -864,7 +864,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Price",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -879,7 +879,7 @@
           "over": 11,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -891,7 +891,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -901,7 +901,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -909,7 +909,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -919,7 +919,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -931,7 +931,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -944,7 +944,7 @@
           "over": 12,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -956,7 +956,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -964,7 +964,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -976,7 +976,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -986,7 +986,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -996,7 +996,7 @@
             {
               "batter": "AE Satterthwaite",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1009,7 +1009,7 @@
           "over": 13,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SFM Devine",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -1019,7 +1019,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SFM Devine",
               "non_striker": "AE Satterthwaite",
               "runs": {
@@ -1029,7 +1029,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "JE Cameron",
+                  "player_out": "JE Duffin",
                   "fielders": [
                     {
                       "name": "ML Schutt"
@@ -1732,7 +1732,7 @@
                   "player_out": "TT Beaumont",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"
@@ -2665,7 +2665,7 @@
                   "player_out": "A Wellington",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"

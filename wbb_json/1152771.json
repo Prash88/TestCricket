@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2020-03-27",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -40,7 +40,7 @@
         "DN Wyatt",
         "S Molineux",
         "AE Satterthwaite",
-        "JE Cameron",
+        "JE Duffin",
         "CJ Koski",
         "EJ Inglis",
         "C Webb",
@@ -75,7 +75,7 @@
         "EJ Inglis": "b0ca6975",
         "G Wareham": "f0b4e47d",
         "H Kaur": "53cd8da6",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "L Griffith": "abe30ff7",
         "LMM Tahuhu": "60471339",
         "M Brown": "78bec461",
@@ -867,7 +867,7 @@
               ]
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "R Trenaman",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -877,7 +877,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "R Trenaman",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -889,7 +889,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "R Trenaman",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -899,7 +899,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "R Trenaman",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -909,7 +909,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "R Trenaman",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -924,7 +924,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "L Griffith",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -934,7 +934,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "L Griffith",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -944,7 +944,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "L Griffith",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -952,7 +952,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "L Griffith",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -962,7 +962,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "L Griffith",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -972,7 +972,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "L Griffith",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -987,7 +987,7 @@
           "over": 13,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -999,7 +999,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1007,7 +1007,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1017,7 +1017,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1027,7 +1027,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1039,7 +1039,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1052,7 +1052,7 @@
           "over": 14,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SR Taylor",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1067,7 +1067,7 @@
               "extras": {
                 "legbyes": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1075,7 +1075,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SR Taylor",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1087,7 +1087,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1097,7 +1097,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1107,7 +1107,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1122,7 +1122,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1132,7 +1132,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1142,7 +1142,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1152,7 +1152,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1160,7 +1160,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "extras": {
                 "legbyes": 1
@@ -1175,7 +1175,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1190,7 +1190,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1200,7 +1200,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1208,7 +1208,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SR Taylor",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1220,7 +1220,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1230,7 +1230,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "SR Taylor",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1238,7 +1238,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SR Taylor",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1253,7 +1253,7 @@
           "over": 17,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "NJ Carey",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1265,7 +1265,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1275,7 +1275,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1285,7 +1285,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 3,
                 "extras": 0,
@@ -1293,7 +1293,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "NJ Carey",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1305,7 +1305,7 @@
             {
               "batter": "DN Wyatt",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1324,7 +1324,7 @@
           "over": 18,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "L Griffith",
               "non_striker": "CJ Koski",
               "runs": {
@@ -1336,7 +1336,7 @@
             {
               "batter": "CJ Koski",
               "bowler": "L Griffith",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1344,7 +1344,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "L Griffith",
               "non_striker": "CJ Koski",
               "runs": {
@@ -1354,7 +1354,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "L Griffith",
               "non_striker": "CJ Koski",
               "runs": {
@@ -1366,7 +1366,7 @@
             {
               "batter": "CJ Koski",
               "bowler": "L Griffith",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1376,7 +1376,7 @@
             {
               "batter": "CJ Koski",
               "bowler": "L Griffith",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1389,7 +1389,7 @@
           "over": 19,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "NJ Carey",
               "non_striker": "CJ Koski",
               "runs": {
@@ -1401,7 +1401,7 @@
             {
               "batter": "CJ Koski",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1414,7 +1414,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1424,7 +1424,7 @@
             {
               "batter": "CJ Koski",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1434,7 +1434,7 @@
             {
               "batter": "CJ Koski",
               "bowler": "NJ Carey",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1442,7 +1442,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "NJ Carey",
               "non_striker": "CJ Koski",
               "runs": {
@@ -1452,7 +1452,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "NJ Carey",
               "non_striker": "CJ Koski",
               "runs": {
@@ -1463,7 +1463,7 @@
               "wickets": [
                 {
                   "kind": "stumped",
-                  "player_out": "JE Cameron",
+                  "player_out": "JE Duffin",
                   "fielders": [
                     {
                       "name": "RH Priest"

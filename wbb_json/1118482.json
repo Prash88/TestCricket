@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2020-06-16",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -52,7 +52,7 @@
       "Melbourne Renegades": [
         "S Molineux",
         "AC Jayangani",
-        "JE Cameron",
+        "JE Duffin",
         "AE Satterthwaite",
         "KL Britt",
         "EJ Inglis",
@@ -74,7 +74,7 @@
         "CJ Koski": "0f00b4d7",
         "EJ Inglis": "b0ca6975",
         "HNK Jensen": "b8cce99f",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "John Biddiss": "4e30c72a",
         "KL Britt": "b9e15440",
         "L Uthenwoldt": "021223ce",
@@ -441,7 +441,7 @@
                   "player_out": "SW Bates",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"
@@ -1053,7 +1053,7 @@
                   "player_out": "TT Beaumont",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"
@@ -1338,7 +1338,7 @@
                   "player_out": "A Wellington",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"
@@ -1617,7 +1617,7 @@
             {
               "batter": "AC Jayangani",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1625,7 +1625,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1635,7 +1635,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1652,7 +1652,7 @@
             {
               "batter": "AC Jayangani",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1662,7 +1662,7 @@
             {
               "batter": "AC Jayangani",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1672,7 +1672,7 @@
             {
               "batter": "AC Jayangani",
               "bowler": "ML Schutt",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1680,7 +1680,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1690,7 +1690,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1700,7 +1700,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "ML Schutt",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1717,7 +1717,7 @@
             {
               "batter": "AC Jayangani",
               "bowler": "TM McGrath",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1725,7 +1725,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1735,7 +1735,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1745,7 +1745,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1755,7 +1755,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "TM McGrath",
               "non_striker": "AC Jayangani",
               "runs": {
@@ -1765,7 +1765,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "JE Cameron",
+                  "player_out": "JE Duffin",
                   "fielders": [
                     {
                       "name": "T Saville"

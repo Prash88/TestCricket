@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2021-11-17",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -41,7 +41,7 @@
         "E Jones",
         "C Leeson",
         "H Kaur",
-        "JE Cameron",
+        "JE Duffin",
         "JE Dooley",
         "E Hayward",
         "S Molineux",
@@ -76,8 +76,8 @@
         "HL Ferling": "a594a6e0",
         "IECM Wong": "e5b17517",
         "J Adie": "259c0030",
-        "JE Cameron": "5ebc3941",
         "JE Dooley": "6f7e30d6",
+        "JE Duffin": "5ebc3941",
         "JI Rodrigues": "cb08b611",
         "K Peterson": "5f377534",
         "LG Smith": "9c515112",
@@ -1047,7 +1047,7 @@
             {
               "batter": "H Kaur",
               "bowler": "SL Bates",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1055,7 +1055,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "H Kaur",
               "runs": {
@@ -1065,7 +1065,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "H Kaur",
               "runs": {
@@ -1075,7 +1075,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "H Kaur",
               "runs": {
@@ -1085,7 +1085,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SL Bates",
               "non_striker": "H Kaur",
               "runs": {
@@ -1102,7 +1102,7 @@
             {
               "batter": "H Kaur",
               "bowler": "K Peterson",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 6,
                 "extras": 0,
@@ -1112,7 +1112,7 @@
             {
               "batter": "H Kaur",
               "bowler": "K Peterson",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1125,7 +1125,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1138,7 +1138,7 @@
               "extras": {
                 "byes": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1146,7 +1146,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "K Peterson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1156,7 +1156,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "K Peterson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1166,7 +1166,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "K Peterson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1183,7 +1183,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1191,7 +1191,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HJ Darlington",
               "non_striker": "H Kaur",
               "runs": {
@@ -1201,7 +1201,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HJ Darlington",
               "non_striker": "H Kaur",
               "runs": {
@@ -1213,7 +1213,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1226,7 +1226,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -1236,7 +1236,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1244,7 +1244,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HJ Darlington",
               "non_striker": "H Kaur",
               "runs": {
@@ -1259,7 +1259,7 @@
           "over": 16,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "IECM Wong",
               "non_striker": "H Kaur",
               "runs": {
@@ -1269,7 +1269,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "IECM Wong",
               "non_striker": "H Kaur",
               "runs": {
@@ -1281,7 +1281,7 @@
             {
               "batter": "H Kaur",
               "bowler": "IECM Wong",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1291,7 +1291,7 @@
             {
               "batter": "H Kaur",
               "bowler": "IECM Wong",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1301,7 +1301,7 @@
             {
               "batter": "H Kaur",
               "bowler": "IECM Wong",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1311,7 +1311,7 @@
             {
               "batter": "H Kaur",
               "bowler": "IECM Wong",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1324,7 +1324,7 @@
           "over": 17,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "K Peterson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1334,7 +1334,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "K Peterson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1346,7 +1346,7 @@
             {
               "batter": "H Kaur",
               "bowler": "K Peterson",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1356,7 +1356,7 @@
             {
               "batter": "H Kaur",
               "bowler": "K Peterson",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1366,7 +1366,7 @@
             {
               "batter": "H Kaur",
               "bowler": "K Peterson",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1374,7 +1374,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "K Peterson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1391,7 +1391,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1401,7 +1401,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1411,7 +1411,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1419,7 +1419,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HJ Darlington",
               "extras": {
                 "wides": 1
@@ -1432,7 +1432,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HJ Darlington",
               "non_striker": "H Kaur",
               "runs": {
@@ -1442,7 +1442,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HJ Darlington",
               "non_striker": "H Kaur",
               "runs": {
@@ -1454,7 +1454,7 @@
             {
               "batter": "H Kaur",
               "bowler": "HJ Darlington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1467,7 +1467,7 @@
           "over": 19,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Johnson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1477,7 +1477,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Johnson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1489,7 +1489,7 @@
             {
               "batter": "H Kaur",
               "bowler": "SJ Johnson",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1497,7 +1497,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Johnson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1507,7 +1507,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Johnson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1517,7 +1517,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Johnson",
               "non_striker": "H Kaur",
               "runs": {
@@ -1527,7 +1527,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "JE Cameron",
+                  "player_out": "JE Duffin",
                   "fielders": [
                     {
                       "name": "T Wilson"
@@ -1881,7 +1881,7 @@
                   "player_out": "SJ Johnson",
                   "fielders": [
                     {
-                      "name": "JE Cameron"
+                      "name": "JE Duffin"
                     }
                   ],
                   "kind": "caught"

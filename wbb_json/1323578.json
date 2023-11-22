@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-11-01",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -44,7 +44,7 @@
         "SL Bates"
       ],
       "Melbourne Stars": [
-        "L Winfield",
+        "L Winfield-Hill",
         "JI Rodrigues",
         "A Capsey",
         "A Sutherland",
@@ -69,7 +69,7 @@
         "G Bawa": "dad513b6",
         "JI Rodrigues": "cb08b611",
         "KJ Garth": "0b69a844",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "LG Smith": "9c515112",
         "LMM Tahuhu": "60471339",
         "N Faltum": "9a56c670",
@@ -487,7 +487,7 @@
                   "player_out": "P Litchfield",
                   "fielders": [
                     {
-                      "name": "L Winfield"
+                      "name": "L Winfield-Hill"
                     }
                   ],
                   "kind": "caught"

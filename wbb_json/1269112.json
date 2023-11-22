@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2021-11-25",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -47,7 +47,7 @@
         "JI Rodrigues",
         "C Leeson",
         "H Kaur",
-        "JE Cameron",
+        "JE Duffin",
         "E Jones",
         "C Webb",
         "RK O'Donnell",
@@ -84,8 +84,8 @@
         "H Kaur": "53cd8da6",
         "HL Ferling": "a594a6e0",
         "Harsimran Singh": "bf4720ce",
-        "JE Cameron": "5ebc3941",
         "JE Dooley": "6f7e30d6",
+        "JE Duffin": "5ebc3941",
         "JI Rodrigues": "cb08b611",
         "KM Mack": "ef13bd20",
         "L Wolvaardt": "e60f81c9",
@@ -391,7 +391,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -401,7 +401,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -411,7 +411,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -424,7 +424,7 @@
           "over": 4,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Coyte",
               "non_striker": "H Kaur",
               "runs": {
@@ -434,7 +434,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Coyte",
               "non_striker": "H Kaur",
               "runs": {
@@ -444,7 +444,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Coyte",
               "non_striker": "H Kaur",
               "runs": {
@@ -454,7 +454,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Coyte",
               "non_striker": "H Kaur",
               "runs": {
@@ -464,7 +464,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Coyte",
               "non_striker": "H Kaur",
               "runs": {
@@ -474,7 +474,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Coyte",
               "non_striker": "H Kaur",
               "runs": {
@@ -489,7 +489,7 @@
           "over": 5,
           "deliveries": [
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "D Brown",
               "non_striker": "H Kaur",
               "runs": {
@@ -499,7 +499,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "D Brown",
               "non_striker": "H Kaur",
               "runs": {
@@ -511,7 +511,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -521,7 +521,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -531,7 +531,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -541,7 +541,7 @@
             {
               "batter": "H Kaur",
               "bowler": "D Brown",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -556,7 +556,7 @@
             {
               "batter": "H Kaur",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -566,7 +566,7 @@
             {
               "batter": "H Kaur",
               "bowler": "A Wellington",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -574,7 +574,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "H Kaur",
               "runs": {
@@ -584,7 +584,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "H Kaur",
               "runs": {
@@ -594,7 +594,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "A Wellington",
               "non_striker": "H Kaur",
               "runs": {
@@ -604,7 +604,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "JE Cameron",
+                  "player_out": "JE Duffin",
                   "fielders": [
                     {
                       "name": "TM McGrath"

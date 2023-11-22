@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2020-04-14",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -53,7 +53,7 @@
         "DN Wyatt",
         "AE Satterthwaite",
         "S Molineux",
-        "JE Cameron",
+        "JE Duffin",
         "EJ Inglis",
         "E Kershaw",
         "C Webb",
@@ -77,7 +77,7 @@
         "GM Harris": "72166006",
         "Greg Azzopardi": "e950350e",
         "H Birkett": "852820e3",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "JL Barsby": "47bcaf7a",
         "JL Jonassen": "0475a86b",
         "KL Short": "712bd44c",
@@ -2329,7 +2329,7 @@
               ]
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "SJ Johnson",
               "non_striker": "S Molineux",
               "runs": {
@@ -2346,7 +2346,7 @@
             {
               "batter": "S Molineux",
               "bowler": "JL Jonassen",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2354,7 +2354,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "JL Jonassen",
               "non_striker": "S Molineux",
               "runs": {
@@ -2364,7 +2364,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "JL Jonassen",
               "non_striker": "S Molineux",
               "runs": {
@@ -2376,7 +2376,7 @@
             {
               "batter": "S Molineux",
               "bowler": "JL Jonassen",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2384,7 +2384,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "JL Jonassen",
               "non_striker": "S Molineux",
               "runs": {
@@ -2396,7 +2396,7 @@
             {
               "batter": "S Molineux",
               "bowler": "JL Jonassen",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2411,7 +2411,7 @@
             {
               "batter": "S Molineux",
               "bowler": "DM Kimmince",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2419,7 +2419,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "DM Kimmince",
               "non_striker": "S Molineux",
               "runs": {
@@ -2431,7 +2431,7 @@
             {
               "batter": "S Molineux",
               "bowler": "DM Kimmince",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2439,7 +2439,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "DM Kimmince",
               "non_striker": "S Molineux",
               "runs": {
@@ -2449,7 +2449,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "DM Kimmince",
               "non_striker": "S Molineux",
               "runs": {
@@ -2459,7 +2459,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "DM Kimmince",
               "non_striker": "S Molineux",
               "runs": {
@@ -2476,7 +2476,7 @@
             {
               "batter": "S Molineux",
               "bowler": "S Luus",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -2486,7 +2486,7 @@
             {
               "batter": "S Molineux",
               "bowler": "S Luus",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2496,7 +2496,7 @@
             {
               "batter": "S Molineux",
               "bowler": "S Luus",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2512,7 +2512,7 @@
             {
               "batter": "EJ Inglis",
               "bowler": "S Luus",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2522,7 +2522,7 @@
             {
               "batter": "EJ Inglis",
               "bowler": "S Luus",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -2532,7 +2532,7 @@
             {
               "batter": "EJ Inglis",
               "bowler": "S Luus",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2547,7 +2547,7 @@
             {
               "batter": "EJ Inglis",
               "bowler": "JL Barsby",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2555,7 +2555,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "JL Barsby",
               "non_striker": "EJ Inglis",
               "runs": {
@@ -2571,7 +2571,7 @@
               ]
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "JL Barsby",
               "non_striker": "E Kershaw",
               "runs": {
@@ -2586,7 +2586,7 @@
               "extras": {
                 "noballs": 1
               },
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 4,
                 "extras": 1,
@@ -2596,7 +2596,7 @@
             {
               "batter": "E Kershaw",
               "bowler": "JL Barsby",
-              "non_striker": "JE Cameron",
+              "non_striker": "JE Duffin",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -2604,7 +2604,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "JL Barsby",
               "non_striker": "E Kershaw",
               "runs": {
@@ -2615,7 +2615,7 @@
               "wickets": [
                 {
                   "kind": "stumped",
-                  "player_out": "JE Cameron",
+                  "player_out": "JE Duffin",
                   "fielders": [
                     {
                       "name": "BL Mooney"

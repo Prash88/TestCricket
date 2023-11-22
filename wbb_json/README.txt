@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in JSON format. This
-archive contains 377 Women's Big Bash League matches.
+archive contains 409 Women's Big Bash League matches.
 
 
 The JSON data files contained in this zip file are version 1.0.0, and 1.1.0
@@ -22,6 +22,38 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2023-11-10 - club - WBB - female - 1387203 - Sydney Thunder vs Melbourne Stars
+2023-11-10 - club - WBB - female - 1387204 - Sydney Sixers vs Hobart Hurricanes
+2023-11-09 - club - WBB - female - 1387202 - Perth Scorchers vs Brisbane Heat
+2023-11-08 - club - WBB - female - 1387199 - Sydney Sixers vs Melbourne Stars
+2023-11-08 - club - WBB - female - 1387200 - Melbourne Renegades vs Adelaide Strikers
+2023-11-06 - club - WBB - female - 1387198 - Sydney Thunder vs Brisbane Heat
+2023-11-05 - club - WBB - female - 1387196 - Melbourne Renegades vs Sydney Sixers
+2023-11-05 - club - WBB - female - 1387197 - Perth Scorchers vs Adelaide Strikers
+2023-11-04 - club - WBB - female - 1387194 - Melbourne Stars vs Sydney Thunder
+2023-11-04 - club - WBB - female - 1387195 - Hobart Hurricanes vs Brisbane Heat
+2023-11-03 - club - WBB - female - 1387192 - Sydney Sixers vs Adelaide Strikers
+2023-11-03 - club - WBB - female - 1387193 - Melbourne Renegades vs Perth Scorchers
+2023-11-02 - club - WBB - female - 1387191 - Melbourne Stars vs Hobart Hurricanes
+2023-11-01 - club - WBB - female - 1387190 - Sydney Thunder vs Melbourne Renegades
+2023-10-31 - club - WBB - female - 1387189 - Perth Scorchers vs Sydney Sixers
+2023-10-30 - club - WBB - female - 1387188 - Hobart Hurricanes vs Sydney Thunder
+2023-10-29 - club - WBB - female - 1387186 - Melbourne Stars vs Perth Scorchers
+2023-10-29 - club - WBB - female - 1387187 - Adelaide Strikers vs Brisbane Heat
+2023-10-28 - club - WBB - female - 1387185 - Sydney Sixers vs Melbourne Renegades
+2023-10-27 - club - WBB - female - 1387183 - Adelaide Strikers vs Hobart Hurricanes
+2023-10-27 - club - WBB - female - 1387184 - Brisbane Heat vs Melbourne Stars
+2023-10-26 - club - WBB - female - 1387182 - Melbourne Renegades vs Sydney Thunder
+2023-10-25 - club - WBB - female - 1387181 - Hobart Hurricanes vs Perth Scorchers
+2023-10-24 - club - WBB - female - 1387179 - Melbourne Stars vs Adelaide Strikers
+2023-10-24 - club - WBB - female - 1387180 - Sydney Sixers vs Brisbane Heat
+2023-10-23 - club - WBB - female - 1387178 - Melbourne Renegades vs Adelaide Strikers
+2023-10-22 - club - WBB - female - 1387176 - Brisbane Heat vs Perth Scorchers
+2023-10-22 - club - WBB - female - 1387177 - Sydney Thunder vs Sydney Sixers
+2023-10-21 - club - WBB - female - 1387175 - Adelaide Strikers vs Melbourne Stars
+2023-10-20 - club - WBB - female - 1387173 - Brisbane Heat vs Melbourne Renegades
+2023-10-20 - club - WBB - female - 1387174 - Perth Scorchers vs Hobart Hurricanes
+2023-10-19 - club - WBB - female - 1387172 - Melbourne Stars vs Sydney Sixers
 2022-11-26 - club - WBB - female - 1341268 - Adelaide Strikers vs Sydney Sixers
 2022-11-24 - club - WBB - female - 1341267 - Brisbane Heat vs Adelaide Strikers
 2022-11-23 - club - WBB - female - 1341266 - Brisbane Heat vs Hobart Hurricanes

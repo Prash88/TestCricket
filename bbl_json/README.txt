@@ -502,9 +502,9 @@ teams involved in the match.
 2013-12-22 - club - BBL - male - 654037 - Brisbane Heat vs Perth Scorchers
 2013-12-21 - club - BBL - male - 654033 - Sydney Sixers vs Sydney Thunder
 2013-12-20 - club - BBL - male - 654031 - Melbourne Stars vs Melbourne Renegades
-2013-02-05 - club - BBL - male - 571265 - Perth Scorchers vs Melbourne Stars
-2013-02-04 - club - BBL - male - 571264 - Melbourne Renegades vs Brisbane Heat
 2013-01-19 - club - BBL - male - 571266 - Perth Scorchers vs Brisbane Heat
+2013-01-16 - club - BBL - male - 571265 - Perth Scorchers vs Melbourne Stars
+2013-01-15 - club - BBL - male - 571264 - Melbourne Renegades vs Brisbane Heat
 2013-01-10 - club - BBL - male - 571262 - Adelaide Strikers vs Perth Scorchers
 2013-01-08 - club - BBL - male - 571260 - Melbourne Stars vs Sydney Thunder
 2013-01-07 - club - BBL - male - 571259 - Brisbane Heat vs Sydney Sixers

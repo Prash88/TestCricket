@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in JSON format. This
-archive contains 71 Lanka Premier League matches.
+archive contains 95 Lanka Premier League matches.
 
 
 The JSON data files contained in this zip file are version 1.0.0, and 1.1.0
@@ -22,6 +22,30 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2023-08-20 - club - LPL - male - 1382901 - Dambulla Aura vs B-Love Kandy
+2023-08-19 - club - LPL - male - 1382900 - B-Love Kandy vs Galle Titans
+2023-08-17 - club - LPL - male - 1382898 - Galle Titans vs Dambulla Aura
+2023-08-17 - club - LPL - male - 1382899 - B-Love Kandy vs Jaffna Kings
+2023-08-15 - club - LPL - male - 1382897 - Colombo Strikers vs Galle Titans
+2023-08-14 - club - LPL - male - 1382896 - Dambulla Aura vs B-Love Kandy
+2023-08-13 - club - LPL - male - 1382894 - Jaffna Kings vs Galle Titans
+2023-08-13 - club - LPL - male - 1382895 - Colombo Strikers vs B-Love Kandy
+2023-08-12 - club - LPL - male - 1382892 - B-Love Kandy vs Jaffna Kings
+2023-08-12 - club - LPL - male - 1382893 - Dambulla Aura vs Colombo Strikers
+2023-08-11 - club - LPL - male - 1382891 - Galle Titans vs Dambulla Aura
+2023-08-08 - club - LPL - male - 1382889 - B-Love Kandy vs Galle Titans
+2023-08-08 - club - LPL - male - 1382890 - Colombo Strikers vs Jaffna Kings
+2023-08-07 - club - LPL - male - 1382887 - Galle Titans vs Colombo Strikers
+2023-08-07 - club - LPL - male - 1382888 - Dambulla Aura vs Jaffna Kings
+2023-08-05 - club - LPL - male - 1382885 - Dambulla Aura vs Colombo Strikers
+2023-08-05 - club - LPL - male - 1382886 - Jaffna Kings vs B-Love Kandy
+2023-08-04 - club - LPL - male - 1382883 - Dambulla Aura vs B-Love Kandy
+2023-08-04 - club - LPL - male - 1382884 - Galle Titans vs Jaffna Kings
+2023-08-01 - club - LPL - male - 1382881 - Jaffna Kings vs Dambulla Aura
+2023-08-01 - club - LPL - male - 1382882 - Galle Titans vs B-Love Kandy
+2023-07-31 - club - LPL - male - 1382879 - Galle Titans vs Dambulla Aura
+2023-07-31 - club - LPL - male - 1382880 - Colombo Strikers vs B-Love Kandy
+2023-07-30 - club - LPL - male - 1382878 - Jaffna Kings vs Colombo Strikers
 2022-12-23 - club - LPL - male - 1324542 - Colombo Stars vs Jaffna Kings
 2022-12-22 - club - LPL - male - 1324541 - Kandy Falcons vs Colombo Stars
 2022-12-21 - club - LPL - male - 1324539 - Kandy Falcons vs Jaffna Kings

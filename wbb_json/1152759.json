@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.0.0",
     "created": "2020-03-24",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -52,7 +52,7 @@
       "Melbourne Renegades": [
         "S Molineux",
         "DN Wyatt",
-        "JE Cameron",
+        "JE Duffin",
         "AE Satterthwaite",
         "CJ Koski",
         "C Webb",
@@ -78,7 +78,7 @@
         "G Wareham": "f0b4e47d",
         "GA Elwiss": "287ed3a0",
         "HL Ferling": "a594a6e0",
-        "JE Cameron": "5ebc3941",
+        "JE Duffin": "5ebc3941",
         "KM Beams": "fa8f9dc3",
         "Kent Hannam": "8cc171e7",
         "L Lee": "7b01ce83",
@@ -1940,7 +1940,7 @@
               ]
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HL Ferling",
               "extras": {
                 "wides": 1
@@ -1953,7 +1953,7 @@
               }
             },
             {
-              "batter": "JE Cameron",
+              "batter": "JE Duffin",
               "bowler": "HL Ferling",
               "non_striker": "DN Wyatt",
               "runs": {
@@ -1964,7 +1964,7 @@
               "wickets": [
                 {
                   "kind": "bowled",
-                  "player_out": "JE Cameron"
+                  "player_out": "JE Duffin"
                 }
               ]
             },

@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-10-29",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -50,7 +50,7 @@
         "S Ismail"
       ],
       "Melbourne Stars": [
-        "L Winfield",
+        "L Winfield-Hill",
         "JI Rodrigues",
         "A Capsey",
         "A Sutherland",
@@ -78,7 +78,7 @@
         "JI Rodrigues": "cb08b611",
         "KJ Garth": "0b69a844",
         "L McCabe": "1dbc4a64",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "Mattis van Eck": "bf1a68c1",
         "N Faltum": "9a56c670",
         "R McKenna": "f7e41cd8",
@@ -1441,7 +1441,7 @@
                   "player_out": "SJ Coyte",
                   "fielders": [
                     {
-                      "name": "L Winfield"
+                      "name": "L Winfield-Hill"
                     }
                   ],
                   "kind": "caught"
@@ -1515,7 +1515,7 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Molineux",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1525,7 +1525,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Molineux",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1537,7 +1537,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Molineux",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1547,7 +1547,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Molineux",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1555,7 +1555,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Molineux",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1565,7 +1565,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Molineux",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1582,7 +1582,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Ismail",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1592,7 +1592,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Ismail",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1602,7 +1602,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Ismail",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1610,7 +1610,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ismail",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1620,7 +1620,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ismail",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1632,7 +1632,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Ismail",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1647,7 +1647,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Molineux",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1657,7 +1657,7 @@
             {
               "batter": "JI Rodrigues",
               "bowler": "S Molineux",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1665,7 +1665,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Molineux",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1675,7 +1675,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Molineux",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -1701,7 +1701,7 @@
             {
               "batter": "A Capsey",
               "bowler": "S Molineux",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1711,7 +1711,7 @@
             {
               "batter": "A Capsey",
               "bowler": "S Molineux",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -1724,7 +1724,7 @@
           "over": 3,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ismail",
               "non_striker": "A Capsey",
               "runs": {
@@ -1734,7 +1734,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "S Ismail",
               "non_striker": "A Capsey",
               "runs": {
@@ -1744,7 +1744,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "L Winfield",
+                  "player_out": "L Winfield-Hill",
                   "fielders": [
                     {
                       "name": "E Hayward"

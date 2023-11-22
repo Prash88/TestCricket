@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-11-20",
-    "revision": 1
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -44,11 +44,11 @@
         "LK Hamilton"
       ],
       "Melbourne Stars": [
-        "L Winfield",
+        "L Winfield-Hill",
         "S Reid",
         "A Capsey",
         "A Sutherland",
-        "BAM Heath",
+        "C Smith",
         "KJ Garth",
         "N Faltum",
         "SK Moloney",
@@ -62,8 +62,8 @@
         "A Capsey": "910dd54e",
         "A Sutherland": "65d9b6b6",
         "AC Kerr": "7673c908",
-        "BAM Heath": "3b5a9438",
         "C Grant": "876ed858",
+        "C Smith": "c160db98",
         "CR Knott": "d7ff1adc",
         "DN Wyatt": "a139c379",
         "E Johnston": "3785e30d",
@@ -73,7 +73,7 @@
         "JM Kerr": "9af58032",
         "KJ Garth": "0b69a844",
         "L Harris": "36e2dc83",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "LK Hamilton": "c347ffe6",
         "Mattis van Eck": "bf1a68c1",
         "N Faltum": "9a56c670",
@@ -857,7 +857,7 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JM Kerr",
               "non_striker": "S Reid",
               "runs": {
@@ -867,7 +867,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JM Kerr",
               "non_striker": "S Reid",
               "runs": {
@@ -877,7 +877,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JM Kerr",
               "extras": {
                 "noballs": 1
@@ -890,7 +890,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JM Kerr",
               "non_striker": "S Reid",
               "runs": {
@@ -900,7 +900,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JM Kerr",
               "non_striker": "S Reid",
               "runs": {
@@ -912,7 +912,7 @@
             {
               "batter": "S Reid",
               "bowler": "JM Kerr",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -922,7 +922,7 @@
             {
               "batter": "S Reid",
               "bowler": "JM Kerr",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -937,7 +937,7 @@
             {
               "batter": "S Reid",
               "bowler": "NM Hancock",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 3,
                 "extras": 0,
@@ -945,7 +945,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NM Hancock",
               "non_striker": "S Reid",
               "runs": {
@@ -955,7 +955,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NM Hancock",
               "non_striker": "S Reid",
               "runs": {
@@ -965,7 +965,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NM Hancock",
               "extras": {
                 "legbyes": 1
@@ -983,7 +983,7 @@
               "extras": {
                 "wides": 1
               },
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 1,
@@ -996,7 +996,7 @@
               "extras": {
                 "wides": 5
               },
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 5,
@@ -1006,7 +1006,7 @@
             {
               "batter": "S Reid",
               "bowler": "NM Hancock",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1014,7 +1014,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "NM Hancock",
               "non_striker": "S Reid",
               "runs": {
@@ -1031,7 +1031,7 @@
             {
               "batter": "S Reid",
               "bowler": "JL Jonassen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1039,7 +1039,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JL Jonassen",
               "non_striker": "S Reid",
               "runs": {
@@ -1051,7 +1051,7 @@
             {
               "batter": "S Reid",
               "bowler": "JL Jonassen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1059,7 +1059,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "JL Jonassen",
               "non_striker": "S Reid",
               "runs": {
@@ -1071,7 +1071,7 @@
             {
               "batter": "S Reid",
               "bowler": "JL Jonassen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 4,
                 "extras": 0,
@@ -1081,7 +1081,7 @@
             {
               "batter": "S Reid",
               "bowler": "JL Jonassen",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1096,7 +1096,7 @@
             {
               "batter": "S Reid",
               "bowler": "AC Kerr",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 2,
                 "extras": 0,
@@ -1106,7 +1106,7 @@
             {
               "batter": "S Reid",
               "bowler": "AC Kerr",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 1,
                 "extras": 0,
@@ -1114,7 +1114,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "AC Kerr",
               "non_striker": "S Reid",
               "runs": {
@@ -1124,7 +1124,7 @@
               }
             },
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "AC Kerr",
               "non_striker": "S Reid",
               "runs": {
@@ -1136,7 +1136,7 @@
             {
               "batter": "S Reid",
               "bowler": "AC Kerr",
-              "non_striker": "L Winfield",
+              "non_striker": "L Winfield-Hill",
               "runs": {
                 "batter": 0,
                 "extras": 0,

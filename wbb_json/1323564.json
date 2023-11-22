@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-10-20",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -40,7 +40,7 @@
     ],
     "players": {
       "Melbourne Stars": [
-        "L Winfield",
+        "L Winfield-Hill",
         "JI Rodrigues",
         "A Capsey",
         "A Sutherland",
@@ -78,7 +78,7 @@
         "JI Rodrigues": "cb08b611",
         "KJ Garth": "0b69a844",
         "L Mills": "c35a0b8a",
-        "L Winfield": "5230a33d",
+        "L Winfield-Hill": "5230a33d",
         "M Carmichael": "4b546c04",
         "M Kapp": "63e3b6b3",
         "ML Green": "865eae1f",
@@ -116,7 +116,7 @@
           "over": 0,
           "deliveries": [
             {
-              "batter": "L Winfield",
+              "batter": "L Winfield-Hill",
               "bowler": "T Peschel",
               "non_striker": "JI Rodrigues",
               "runs": {
@@ -126,7 +126,7 @@
               },
               "wickets": [
                 {
-                  "player_out": "L Winfield",
+                  "player_out": "L Winfield-Hill",
                   "fielders": [
                     {
                       "name": "BL Mooney"

@@ -2,7 +2,7 @@
   "meta": {
     "data_version": "1.1.0",
     "created": "2022-12-16",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -2329,6 +2329,12 @@
               "batter": "MS Wade",
               "bowler": "BJ Webster",
               "non_striker": "TH David",
+              "review": {
+                "by": "Hobart Hurricanes",
+                "umpire": "NR Johnstone",
+                "batter": "MS Wade",
+                "decision": "upheld"
+              },
               "runs": {
                 "batter": 0,
                 "extras": 0,
@@ -2901,6 +2907,12 @@
               "batter": "PG Dooley",
               "bowler": "A Zampa",
               "non_striker": "JS Paris",
+              "review": {
+                "by": "Hobart Hurricanes",
+                "umpire": "NR Johnstone",
+                "batter": "PG Dooley",
+                "decision": "upheld"
+              },
               "runs": {
                 "batter": 0,
                 "extras": 0,
