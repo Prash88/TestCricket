@@ -1,0 +1,113 @@
+Pass: 49
+Fail: 6
+-----------------------------------------
+2016-11-04,Hong Kong,Papua New Guinea,NaN{"by":{"runs":106},"winner":"Hong Kong"}
+Hong Kong,0,0,4,8,14,269
+2017-05-21,Ireland,New Zealand,NaN{"by":{"runs":190},"winner":"New Zealand"}
+New Zealand,12,2,8,5,2,344
+2017-01-22,India,England,NaN{"by":{"runs":5},"winner":"England"}
+England,1,0,5,13,8,321
+2016-10-05,Pakistan,West Indies,NaN{"by":{"runs":136},"winner":"Pakistan"}
+Pakistan,8,9,6,13,7,308
+2017-08-31,India,Sri Lanka,NaN{"winner":"India","by":{"runs":168}}
+India,6,0,5,13,5,375
+2018-06-19,England,Australia,NaN{"winner":"England","by":{"runs":242}}
+England,4,14,2,4,14,481
+2017-12-07,Ireland,Afghanistan,NaN{"winner":"Ireland","by":{"runs":51}}
+Ireland,9,4,3,13,3,271
+2018-05-04,South Africa,Bangladesh,NaN{"winner":"South Africa","by":{"runs":106}}
+South Africa,3,2,4,0,14,270
+2019-06-02,Bangladesh,South Africa,NaN{"winner":"Bangladesh","by":{"runs":21}}
+Bangladesh,5,2,2,5,14,330
+2019-02-27,West Indies,England,NaN{"winner":"England","by":{"runs":29}}
+England,5,7,1,15,11,418
+2018-10-22,Australia,Pakistan,NaN{"winner":"Australia","by":{"runs":89}}
+Australia,12,4,2,6,6,324
+2019-03-16,Sri Lanka,England,NaN{"winner":"England","by":{"runs":154},"method":"D/L"}
+England,1,10,0,7,14,331
+2022-03-29,Australia,Pakistan,NaN{"winner":"Australia","by":{"runs":88}}
+Australia,1,6,10,8,14,313
+2022-01-16,Zimbabwe,Sri Lanka,NaN{"winner":"Sri Lanka","by":{"wickets":5}}
+Zimbabwe,1,8,14,4,6,296
+2022-09-21,India,England,NaN{"winner":"India","by":{"runs":88}}
+India,12,1,5,9,3,333
+2022-07-15,New Zealand,Ireland,NaN{"winner":"New Zealand","by":{"runs":1}}
+New Zealand,1,6,5,15,9,360
+2022-07-24,West Indies,India,NaN{"winner":"India","by":{"wickets":2}}
+West Indies,4,7,0,13,5,311
+2023-03-25,New Zealand,Sri Lanka,NaN{"winner":"New Zealand","by":{"runs":198}}
+New Zealand,4,10,7,13,2,274
+2022-08-07,Bangladesh,Zimbabwe,NaN{"winner":"Zimbabwe","by":{"wickets":5}}
+Bangladesh,9,4,2,5,14,290
+2023-09-23,England,Ireland,NaN{"winner":"England","by":{"runs":48}}
+England,8,13,14,9,4,334
+2023-03-18,West Indies,South Africa,NaN{"winner":"West Indies","by":{"runs":48}}
+West Indies,2,4,2,13,5,335
+2023-01-10,India,Sri Lanka,NaN{"winner":"India","by":{"runs":67}}
+India,4,8,10,13,4,373
+2023-01-24,India,New Zealand,NaN{"winner":"India","by":{"runs":90}}
+India,3,4,8,2,14,385
+2023-04-02,United Arab Emirates,Namibia,NaN{"winner":"United Arab Emirates","by":{"runs":28}}
+United Arab Emirates,1,1,2,15,5,267
+2023-04-05,United Arab Emirates,Jersey,NaN{"winner":"United Arab Emirates","by":{"runs":66}}
+United Arab Emirates,1,4,3,13,4,284
+2023-06-25,Sri Lanka,Ireland,NaN{"winner":"Sri Lanka","by":{"runs":133}}
+Sri Lanka,13,4,14,0,0,325
+2023-09-08,South Africa,Pakistan,NaN{"winner":"South Africa","by":{"runs":127}}
+South Africa,12,1,14,11,6,292
+2023-10-05,England,New Zealand,NaN{"winner":"New Zealand","by":{"wickets":9}}
+England,12,0,4,5,5,282
+2023-10-15,Afghanistan,England,NaN{"winner":"Afghanistan","by":{"runs":69}}
+Afghanistan,7,0,14,4,10,284
+2023-10-28,Australia,New Zealand,NaN{"winner":"Australia","by":{"runs":5}}
+Australia,8,6,22,10,14,388
+2023-09-27,Australia,India,NaN{"winner":"Australia","by":{"runs":66}}
+Australia,5,2,14,16,7,352
+2007-03-21,Pakistan,Zimbabwe,NaN{"by":{"runs":93},"method":"D/L","winner":"Pakistan"}
+Pakistan,0,2,14,3,6,349
+2007-01-14,Australia,New Zealand,NaN{"by":{"runs":105},"winner":"Australia"}
+Australia,12,1,5,2,8,289
+2007-06-09,Africa XI,Asia XI,NaN{"by":{"runs":31},"winner":"Asia XI"}
+Asia XI,12,0,10,8,7,337
+2008-06-15,England,New Zealand,NaN{"by":{"runs":114},"winner":"England"}
+England,12,0,1,9,5,307
+2008-06-25,Hong Kong,India,NaN{"by":{"runs":256},"winner":"India"}
+India,9,2,14,6,15,374
+2008-06-10,India,Pakistan,NaN{"by":{"runs":140},"winner":"India"}
+India,9,6,7,7,14,330
+2009-02-08,Australia,New Zealand,NaN{"by":{"runs":32},"winner":"Australia"}
+Australia,1,1,3,1,14,301
+2009-02-03,Sri Lanka,India,NaN{"by":{"runs":147},"winner":"India"}
+India,2,7,2,13,4,363
+2009-04-19,Afghanistan,Scotland,NaN{"by":{"runs":89},"winner":"Afghanistan"}
+Afghanistan,12,1,5,1,12,295
+2010-02-19,Australia,West Indies,NaN{"by":{"runs":125},"winner":"Australia"}
+Australia,1,6,3,4,14,324
+2009-12-18,India,Sri Lanka,NaN{"by":{"wickets":3},"winner":"Sri Lanka"}
+India,4,0,2,13,2,301
+2011-02-19,Bangladesh,India,NaN{"by":{"runs":87},"winner":"India"}
+India,12,12,8,4,2,370
+2011-02-28,Netherlands,West Indies,NaN{"by":{"runs":215},"winner":"West Indies"}
+West Indies,12,2,0,8,3,330
+2011-03-12,India,South Africa,NaN{"by":{"wickets":3},"winner":"South Africa"}
+India,4,5,14,4,6,296
+2011-01-26,Australia,England,NaN{"by":{"runs":21},"winner":"England"}
+England,12,7,6,1,6,299
+2010-06-18,Sri Lanka,Bangladesh,NaN{"by":{"runs":126},"winner":"Sri Lanka"}
+Sri Lanka,12,7,14,6,10,312
+2010-11-08,Pakistan,South Africa,NaN{"by":{"runs":57},"winner":"South Africa"}
+South Africa,12,4,7,9,5,317
+2013-07-05,West Indies,India,NaN{"by":{"runs":102},"method":"D/L","winner":"India"}
+India,3,2,0,13,4,311
+2013-07-17,Ireland,Pakistan,NaN{"by":{"runs":157},"winner":"Pakistan"}
+Pakistan,11,1,3,13,6,280
+2015-02-14,Australia,England,NaN{"by":{"runs":111},"winner":"Australia"}
+Australia,3,3,2,15,18,342
+2005-01-26,Australia,West Indies,NaN{"winner":"Australia","by":{"runs":73}}
+Australia,12,12,0,3,6,269
+2014-01-01,New Zealand,West Indies,NaN{"by":{"runs":159},"winner":"New Zealand"}
+New Zealand,5,8,22,13,9,283
+2003-11-01,Australia,India,NaN{"winner":"Australia","by":{"runs":77}}
+Australia,12,14,14,3,11,286
+2016-01-20,Australia,India,NaN{"by":{"runs":25},"winner":"Australia"}
+Australia,0,7,6,13,14,348
