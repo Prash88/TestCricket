@@ -2,171 +2,78 @@ import fs from 'fs';
 import path from 'path';
 import moment from 'moment';
 
-const jsonsInDir = fs.readdirSync('./cpl_json').filter(file => path.extname(file) === '.json');
-const myConsole = new console.Console(fs.createWriteStream('./output-monday.txt'));
+const jsonsInDir = fs.readdirSync('./ipl_json').filter(file => path.extname(file) === '.json');
+const myConsole = new console.Console(fs.createWriteStream('./output-score.txt'));
 let jsonFilesInDir = jsonsInDir.map(x => x.replace(/\.[^/.]+$/, ""));
 let nosJsonFilesInDir = jsonFilesInDir.map(x => parseInt(x))
 let sortedJsonFilesInDir = [...nosJsonFilesInDir].sort((a, b) => a - b);
-let target = 0;
 
 sortedJsonFilesInDir.forEach((file: any) => {
-  const fileData = fs.readFileSync(path.join('./cpl_json', file.toString() + '.json'));
+  const fileData = fs.readFileSync(path.join('./ipl_json', file.toString() + '.json'));
   const json = JSON.parse(fileData.toString());
-  const day = moment(json.info.dates[0]).day();
-  if (day === 1) {
-    if (json.info.outcome.by?.runs > 0) {
-      let bat1 = 0;
-      let wickets1 = 0;
-      json.innings[0] && json.innings[0].overs && json.innings[0].overs.length > 0 && json.innings[0].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat1 = bat1 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets1 = wickets1 + 1;
-              }
-            }
-          );
-        }
-      );
-      //console.log(bat1)
-      myConsole.log(json.info.dates[0] + " - Monday defended" + " -" + bat1);
-      const likelyTarget = Math.round(Math.pow((Math.sqrt(bat1) + 0.5), 2));
-      if (bat1 > 144) {
-        target = likelyTarget;
-      }
-      myConsole.log("Target for other days: " + target);
+  let runInOvers0 = 0;
+  let runInOvers1 = 0;
+  let runInOvers2 = 0;
+  let runInOvers3 = 0;
+  let runInOvers4 = 0;
+  let runInOvers5 = 0;
+  let team1Runs = 0;
+  let team2Runs = 0;
+  let team1Wickets = 0;
+  let team2Wickets = 0;
 
-    } else {
-      //console.log(json.info.dates[0] + " - Monday chased")
+  json.innings[0] && json.innings[0].overs && json.innings[0].overs.length > 0 && json.innings[0].overs.forEach((e: any) => {
+    if(e.over === 0) {
+      e.deliveries.forEach((m: any) => {
+        runInOvers0 = runInOvers0 + m.runs.total;
+      });
     }
-  }
-  if (day === 2) {
-    if (target > 0) {
-      let bat1 = 0;
-      let wickets1 = 0;
-      let bat2 = 0;
-      let wickets2 = 0;
-
-      json.innings[0] && json.innings[0].overs && json.innings[0].overs.length > 0 && json.innings[0].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat1 = bat1 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets1 = wickets1 + 1;
-              }
-            }
-          );
-        }
-      );
-
-      json.innings[1] && json.innings[1].overs && json.innings[1].overs.length > 0 && json.innings[1].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat2 = bat2 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets2 = wickets2 + 1;
-              }
-            }
-          );
-        }
-      );
-      if (bat1 >= target) {
-        if (bat1 > bat2) {
-          myConsole.log(json.info.dates[0] + " - Tuesday defended pass" + " -" + bat1);
-          target = 0;
-        } else {
-          myConsole.log(json.info.dates[0] + " - Tuesday chased fail" + " -" + bat1);
-        }
-      }
+    if(e.over === 1) {
+      e.deliveries.forEach((m: any) => {
+        runInOvers1 = runInOvers1 + m.runs.total;
+      });
     }
-  }
-  if (day === 3) {
-    if (target > 0) {
-      let bat1 = 0;
-      let wickets1 = 0;
-      let bat2 = 0;
-      let wickets2 = 0;
-      
-      json.innings[0] && json.innings[0].overs && json.innings[0].overs.length > 0 && json.innings[0].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat1 = bat1 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets1 = wickets1 + 1;
-              }
-            }
-          );
-        }
-      );
-
-      json.innings[1] && json.innings[1].overs && json.innings[1].overs.length > 0 && json.innings[1].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat2 = bat2 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets2 = wickets2 + 1;
-              }
-            }
-          );
-        }
-      );
-      if (bat1 >= target) {
-        if (bat1 > bat2) {
-          myConsole.log(json.info.dates[0] + " - Wednesday defended pass" + " -" + bat1);
-
-          target = 0;
-        } else {
-          myConsole.log(json.info.dates[0] + " - Wednesday chased fail" + " -" + bat1);
-        }
-      }
+    if(e.over === 2) {
+      e.deliveries.forEach((m: any) => {
+        runInOvers2 = runInOvers2 + m.runs.total;
+      });
     }
-  }
-  if (day === 4) {
-    if (target > 0) {
-      let bat1 = 0;
-      let wickets1 = 0;
-      let bat2 = 0;
-      let wickets2 = 0;
-      
-      json.innings[0] && json.innings[0].overs && json.innings[0].overs.length > 0 && json.innings[0].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat1 = bat1 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets1 = wickets1 + 1;
-              }
-            }
-          );
-        }
-      );
-
-      json.innings[1] && json.innings[1].overs && json.innings[1].overs.length > 0 && json.innings[1].overs.forEach(
-        (o: any) => {
-          o.deliveries.forEach(
-            (r: any) => {
-              bat2 = bat2 + r.runs.total;
-              if (r.wickets && r.wickets.length > 0) {
-                wickets2 = wickets2 + 1;
-              }
-            }
-          );
-        }
-      );
-      if (bat1 >= target) {
-        if (bat1 > bat2) {
-          myConsole.log(json.info.dates[0] + " - Thursday defended pass" + " -" + bat1);
-          target = 0;
-        } else {
-          myConsole.log(json.info.dates[0] + " - Thursday chased fail" + " -" + bat1);
-        }
-      }
-      target = 0;
+    if(e.over === 3) {
+      e.deliveries.forEach((m: any) => {
+        runInOvers3 = runInOvers3 + m.runs.total;
+      });
     }
+    if(e.over === 4) {
+      e.deliveries.forEach((m: any) => {
+        runInOvers4 = runInOvers4 + m.runs.total;
+      });
+    }
+    if(e.over === 5) {
+      e.deliveries.forEach((m: any) => {
+        runInOvers5 = runInOvers5 + m.runs.total;
+      });
+    }
+    e.deliveries.forEach((m: any) => {
+      team1Runs = team1Runs + m.runs.total;
+      if (m.wickets && m.wickets.length > 0) {
+        team1Wickets = team1Wickets + 1;
+      }
+    });
+  });
+
+  json.innings[1] && json.innings[1].overs && json.innings[1].overs.length > 0 && json.innings[1].overs.forEach((e: any) => {
+    e.deliveries.forEach((m: any) => {
+      team2Runs = team2Runs + m.runs.total;
+      if (m.wickets && m.wickets.length > 0) {
+        team2Wickets = team2Wickets + 1;
+      }
+    });
+  });
+
+  if (json.innings[0] && json.innings[1]) {
+    myConsole.log(json.info.dates[0]);
+    myConsole.log(json.innings[0].team + " - powerplay runs - " + runInOvers0 + "," + runInOvers1 + "," + runInOvers2 + "," + runInOvers3 + "," + runInOvers4 + "," + runInOvers5);
+    myConsole.log(json.innings[0].team + " - " + team1Runs + "/" + team1Wickets + " " + json.innings[1].team + " - " + team2Runs + "/" + team2Wickets);
   }
+
 });
