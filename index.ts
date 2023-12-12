@@ -2,14 +2,14 @@ import fs from 'fs';
 import path from 'path';
 import moment from 'moment';
 
-const jsonsInDir = fs.readdirSync('./ipl_json').filter(file => path.extname(file) === '.json');
+const jsonsInDir = fs.readdirSync('./lpl_json').filter(file => path.extname(file) === '.json');
 const myConsole = new console.Console(fs.createWriteStream('./output-score.txt'));
 let jsonFilesInDir = jsonsInDir.map(x => x.replace(/\.[^/.]+$/, ""));
 let nosJsonFilesInDir = jsonFilesInDir.map(x => parseInt(x))
 let sortedJsonFilesInDir = [...nosJsonFilesInDir].sort((a, b) => a - b);
 
 sortedJsonFilesInDir.forEach((file: any) => {
-  const fileData = fs.readFileSync(path.join('./ipl_json', file.toString() + '.json'));
+  const fileData = fs.readFileSync(path.join('./lpl_json', file.toString() + '.json'));
   const json = JSON.parse(fileData.toString());
   let runInOvers0 = 0;
   let runInOvers1 = 0;
@@ -70,7 +70,7 @@ sortedJsonFilesInDir.forEach((file: any) => {
     });
   });
 
-  if (json.innings[0] && json.innings[1]) {
+  if (json.innings[0] && json.innings[1] && runInOvers0 > 11 && (runInOvers1 >= runInOvers0 || runInOvers2 >= runInOvers0 || runInOvers3 >= runInOvers0 || runInOvers4 >= runInOvers0 || runInOvers5 >= runInOvers0)) {
     myConsole.log(json.info.dates[0]);
     myConsole.log(json.innings[0].team + " - powerplay runs - " + runInOvers0 + "," + runInOvers1 + "," + runInOvers2 + "," + runInOvers3 + "," + runInOvers4 + "," + runInOvers5);
     myConsole.log(json.innings[0].team + " - " + team1Runs + "/" + team1Wickets + " " + json.innings[1].team + " - " + team2Runs + "/" + team2Wickets);
