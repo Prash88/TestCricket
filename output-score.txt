@@ -1,15 +1,102 @@
-2020-11-28
-Colombo Kings - powerplay runs - 26,26,11,20,13,0
-Colombo Kings - 96/1 Galle Gladiators - 62/2
-2020-12-07
-Colombo Kings - powerplay runs - 12,7,1,6,19,1
-Colombo Kings - 171/10 Galle Gladiators - 175/2
-2020-12-09
-Galle Gladiators - powerplay runs - 12,14,8,11,16,12
-Galle Gladiators - 168/8 Dambulla Viiking - 174/6
-2021-12-05
-Galle Gladiators - powerplay runs - 12,3,13,9,4,2
-Galle Gladiators - 164/7 Jaffna Kings - 110/10
-2021-12-08
-Dambulla Giants - powerplay runs - 15,16,17,15,6,6
-Dambulla Giants - 195/6 Colombo Stars - 177/10
+2008-04-24
+Deccan Chargers - powerplay runs - 12,10,10,1,15,10
+Deccan Chargers - 214/5 Rajasthan Royals - 217/7
+2008-05-10
+Chennai Super Kings - powerplay runs - 12,8,2,5,11,15
+Chennai Super Kings - 181/4 Kings XI Punjab - 163/9
+2008-05-24
+Rajasthan Royals - powerplay runs - 12,3,10,14,13,15
+Rajasthan Royals - 211/5 Chennai Super Kings - 201/7
+2009-04-22
+Deccan Chargers - powerplay runs - 12,15,8,12,2,13
+Deccan Chargers - 184/6 Royal Challengers Bangalore - 160/8
+2010-03-13
+Mumbai Indians - powerplay runs - 13,13,10,5,11,17
+Mumbai Indians - 212/7 Rajasthan Royals - 208/7
+2010-03-15
+Rajasthan Royals - powerplay runs - 14,1,10,6,14,2
+Rajasthan Royals - 141/6 Delhi Daredevils - 142/4
+2010-03-17
+Mumbai Indians - powerplay runs - 12,10,7,17,10,11
+Mumbai Indians - 218/7 Delhi Daredevils - 120/9
+2010-03-25
+Delhi Daredevils - powerplay runs - 13,16,10,9,10,6
+Delhi Daredevils - 183/4 Royal Challengers Bangalore - 166/9
+2010-03-28
+Rajasthan Royals - powerplay runs - 13,10,7,17,2,9
+Rajasthan Royals - 177/8 Chennai Super Kings - 160/6
+2011-04-17
+Pune Warriors - powerplay runs - 14,5,2,7,14,21
+Pune Warriors - 187/5 Delhi Daredevils - 190/7
+2011-04-21
+Kings XI Punjab - powerplay runs - 13,14,25,15,6,4
+Kings XI Punjab - 195/7 Rajasthan Royals - 147/7
+2011-05-13
+Kochi Tuskers Kerala - powerplay runs - 15,6,9,5,11,16
+Kochi Tuskers Kerala - 178/7 Kings XI Punjab - 181/4
+2012-05-25
+Chennai Super Kings - powerplay runs - 12,7,6,6,8,13
+Chennai Super Kings - 222/5 Delhi Daredevils - 136/10
+2013-04-29
+Royal Challengers Bangalore - powerplay runs - 13,9,17,5,5,6
+Royal Challengers Bangalore - 171/6 Rajasthan Royals - 173/6
+2014-05-22
+Chennai Super Kings - powerplay runs - 12,12,8,2,5,21
+Chennai Super Kings - 185/3 Sunrisers Hyderabad - 189/4
+2015-05-13
+Kings XI Punjab - powerplay runs - 14,20,4,11,7,16
+Kings XI Punjab - 106/6 Royal Challengers Bangalore - 84/6
+2017-04-21
+Kolkata Knight Riders - powerplay runs - 12,17,15,3,10,8
+Kolkata Knight Riders - 187/5 Gujarat Lions - 188/6
+2017-05-11
+Kings XI Punjab - powerplay runs - 13,16,3,19,9,11
+Kings XI Punjab - 230/3 Mumbai Indians - 223/6
+2018-04-14
+Mumbai Indians - powerplay runs - 15,10,15,12,14,18
+Mumbai Indians - 194/7 Delhi Daredevils - 195/3
+2018-04-20
+Chennai Super Kings - powerplay runs - 14,11,12,11,5,16
+Chennai Super Kings - 204/5 Rajasthan Royals - 140/10
+2019-04-05
+Royal Challengers Bangalore - powerplay runs - 13,7,8,13,8,4
+Royal Challengers Bangalore - 205/3 Kolkata Knight Riders - 206/5
+2019-04-24
+Royal Challengers Bangalore - powerplay runs - 12,15,8,3,14,18
+Royal Challengers Bangalore - 202/4 Kings XI Punjab - 185/7
+2020-09-19
+Mumbai Indians - powerplay runs - 12,7,8,18,3,3
+Mumbai Indians - 162/9 Chennai Super Kings - 166/5
+2020-10-05
+Delhi Capitals - powerplay runs - 14,3,14,4,18,10
+Delhi Capitals - 196/4 Royal Challengers Bangalore - 137/9
+2020-10-29
+Kolkata Knight Riders - powerplay runs - 13,3,7,5,5,15
+Kolkata Knight Riders - 172/5 Chennai Super Kings - 178/4
+2020-10-08
+Sunrisers Hyderabad - powerplay runs - 13,6,7,15,11,6
+Sunrisers Hyderabad - 201/6 Kings XI Punjab - 132/10
+2021-04-25
+Delhi Capitals - powerplay runs - 12,14,7,6,9,3
+Delhi Capitals - 159/4 Sunrisers Hyderabad - 159/7
+2022-03-31
+Chennai Super Kings - powerplay runs - 14,12,2,11,18,16
+Chennai Super Kings - 210/7 Lucknow Super Giants - 211/4
+2022-04-14
+Gujarat Titans - powerplay runs - 12,1,3,4,14,8
+Gujarat Titans - 192/4 Rajasthan Royals - 155/9
+2022-05-19
+Gujarat Titans - powerplay runs - 14,6,1,2,15,0
+Gujarat Titans - 168/5 Royal Challengers Bangalore - 170/2
+2023-04-14
+Sunrisers Hyderabad - powerplay runs - 14,14,15,3,11,8
+Sunrisers Hyderabad - 228/4 Kolkata Knight Riders - 205/7
+2023-04-27
+Rajasthan Royals - powerplay runs - 14,10,18,3,9,10
+Rajasthan Royals - 202/5 Chennai Super Kings - 170/6
+2023-05-07
+Gujarat Titans - powerplay runs - 12,11,8,22,10,15
+Gujarat Titans - 227/2 Lucknow Super Giants - 171/7
+2023-05-08
+Punjab Kings - powerplay runs - 12,9,5,6,19,7
+Punjab Kings - 179/7 Kolkata Knight Riders - 182/5
