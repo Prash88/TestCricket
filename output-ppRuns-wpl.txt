@@ -1,0 +1,176 @@
+2023-03-04
+0,0,0,0,1,1, - 2 runs
+6,4,0,1,1,0,0, - 12 runs
+0,1,W,1,1,0, - 3 runs
+0,1,0,4,0,0, - 5 runs
+1,1,0,1,1,1,4,4, - 13 runs
+4,0,0,0,1,4, - 9 runs
+Mumbai Indians - 207/5 Gujarat Giants - 64/10
+2023-03-05
+0,0,1,0,2,0, - 3 runs
+0,1,4,1,4,4, - 14 runs
+0,1,0,4,0,0, - 5 runs
+6,0,0,0,1,0, - 7 runs
+0,1,1,1,4,0,1, - 8 runs
+1,4,2,4,4,1,4,0, - 20 runs
+Delhi Capitals - 223/2 Royal Challengers Bangalore - 163/8
+2023-03-05
+1,0,1,0,1,0, - 3 runs
+4,4,1,0,4,4, - 17 runs
+4,1,1,0,0,4, - 10 runs
+0,1,1,2,W,0, - 4 runs
+4,0,W,0,0,1, - 5 runs
+4,0,0,1,0,1, - 6 runs
+Gujarat Giants - 169/6 UP Warriorz - 175/7
+2023-03-06
+0,4,0,0,1,6, - 11 runs
+0,0,4,2,0,0, - 6 runs
+4,0,0,0,0,1, - 5 runs
+0,1,4,0,4,4, - 13 runs
+4,W,0,W,0,4, - 8 runs
+0,W,W,0,4,0, - 4 runs
+Royal Challengers Bangalore - 155/10 Mumbai Indians - 159/1
+2023-03-07
+0,0,0,0,4,0, - 4 runs
+0,2,0,1,4,1, - 8 runs
+0,0,0,0,6,0, - 6 runs
+2,1,1,0,1,6,0, - 11 runs
+6,4,0,1,1,4, - 16 runs
+4,1,4,0,4,4, - 17 runs
+Delhi Capitals - 211/4 UP Warriorz - 169/5
+2023-03-08
+0,0,0,0,0,0, - 0 runs
+0,0,4,1,0,4, - 9 runs
+4,4,1,4,0,W, - 13 runs
+0,4,0,6,0,4, - 14 runs
+1,4,6,4,4,4, - 23 runs
+0,1,4,0,0,0, - 5 runs
+Gujarat Giants - 201/7 Royal Challengers Bangalore - 190/6
+2023-03-09
+4,0,1,0,0,0, - 5 runs
+0,0,1,0,2,W, - 3 runs
+0,1,0,1,0,2, - 4 runs
+0,4,1,0,1,0, - 6 runs
+4,0,0,0,0,1, - 5 runs
+1,W,1,0,0,4, - 6 runs
+Delhi Capitals - 105/10 Mumbai Indians - 109/2
+2023-03-10
+1,4,6,0,2,0, - 13 runs
+0,1,4,0,0,4, - 9 runs
+1,1,1,0,0,4, - 7 runs
+W,0,0,1,0,0, - 1 runs
+4,1,1,4,0,1, - 11 runs
+0,1,4,1,6,1, - 13 runs
+Royal Challengers Bangalore - 138/10 UP Warriorz - 139/0
+2023-03-11
+0,W,0,0,0,1, - 1 runs
+0,4,1,1,0,1, - 7 runs
+1,W,W,0,1,4, - 6 runs
+4,0,W,0,1,4, - 9 runs
+0,1,4,W,0,1, - 6 runs
+0,0,1,1,0,0, - 2 runs
+Gujarat Giants - 105/9 Delhi Capitals - 107/0
+2023-03-12
+0,1,0,1,0,0, - 2 runs
+1,0,0,1,4,W, - 6 runs
+1,0,1,4,1,0,1, - 8 runs
+4,1,1,4,4,4, - 18 runs
+0,0,1,0,4,0, - 5 runs
+0,1,1,0,1,6, - 9 runs
+UP Warriorz - 159/6 Mumbai Indians - 164/2
+2023-03-13
+0,0,0,0,0,0, - 0 runs
+4,1,0,1,0,1, - 7 runs
+0,4,1,4,0,1, - 10 runs
+1,0,4,1,0,1, - 7 runs
+W,0,0,0,4,0, - 4 runs
+0,0,1,0,0,0, - 1 runs
+Royal Challengers Bangalore - 150/4 Delhi Capitals - 154/4
+2023-03-14
+1,0,0,W,0,0, - 1 runs
+0,1,1,1,0,0, - 3 runs
+1,4,1,0,0,1, - 7 runs
+0,1,0,4,0,4, - 9 runs
+0,1,4,1,4,1, - 11 runs
+0,0,4,4,1,0, - 9 runs
+Mumbai Indians - 162/8 Gujarat Giants - 107/9
+2023-03-15
+1,W,0,1,0,W, - 2 runs
+0,0,0,1,2,W, - 3 runs
+1,0,0,4,2,0,1, - 8 runs
+0,0,0,0,0,4, - 4 runs
+0,1,0,0,1,0,1, - 3 runs
+0,1,1,6,1,0, - 9 runs
+UP Warriorz - 135/10 Royal Challengers Bangalore - 136/5
+2023-03-16
+0,0,2,2,0,W, - 4 runs
+1,1,1,0,4,0, - 7 runs
+0,0,0,0,4,0, - 4 runs
+0,4,0,0,2,1, - 7 runs
+0,1,1,0,0,0, - 2 runs
+4,0,1,2,0,1, - 8 runs
+Gujarat Giants - 147/4 Delhi Capitals - 136/10
+2023-03-18
+0,2,0,0,1,1, - 4 runs
+2,0,0,0,0,0, - 2 runs
+1,1,1,1,1,0,0, - 5 runs
+0,0,1,0,6,6, - 13 runs
+0,1,4,1,W,0, - 6 runs
+0,0,1,0,0,0, - 1 runs
+Mumbai Indians - 127/10 UP Warriorz - 129/5
+2023-03-18
+0,4,0,1,0,4,2, - 11 runs
+0,4,1,1,0,4, - 10 runs
+1,1,4,W,1,0, - 7 runs
+0,0,2,1,4,0, - 7 runs
+0,0,0,1,4,0, - 5 runs
+0,0,0,0,1,4, - 5 runs
+Gujarat Giants - 188/4 Royal Challengers Bangalore - 189/2
+2023-03-20
+0,1,4,1,2,3, - 11 runs
+4,4,1,0,0,6, - 15 runs
+2,0,1,0,0,0, - 3 runs
+4,1,6,0,0,1, - 12 runs
+W,0,4,0,0,0, - 4 runs
+W,4,0,1,0,W, - 5 runs
+Gujarat Giants - 178/6 UP Warriorz - 181/7
+2023-03-20
+0,0,0,1,1,0, - 2 runs
+0,0,0,4,0,0, - 4 runs
+W,W,0,4,0,0, - 4 runs
+0,0,W,1,1,1, - 3 runs
+4,0,0,0,0,0, - 4 runs
+0,1,0,0,0,1, - 2 runs
+Mumbai Indians - 109/8 Delhi Capitals - 110/1
+2023-03-21
+1,0,W,0,0,0, - 1 runs
+1,1,0,0,1,0, - 3 runs
+0,0,4,0,1,0, - 5 runs
+1,4,1,1,0,0, - 7 runs
+1,6,0,4,0,0,0, - 11 runs
+1,4,0,0,0,0, - 5 runs
+Royal Challengers Bangalore - 125/9 Mumbai Indians - 129/6
+2023-03-21
+4,0,0,0,0,3, - 7 runs
+0,1,0,4,4,1,0, - 10 runs
+1,4,1,1,1,0, - 8 runs
+0,4,0,1,0,0, - 5 runs
+W,1,0,4,1,1,0, - 7 runs
+1,0,0,0,0,0, - 1 runs
+UP Warriorz - 138/6 Delhi Capitals - 142/5
+2023-03-24
+4,1,1,0,0,0, - 6 runs
+0,0,1,4,0,1, - 6 runs
+4,1,0,1,4,1, - 11 runs
+0,0,0,1,0,6, - 7 runs
+0,1,W,1,0,1,4, - 7 runs
+1,1,4,1,0,1,1, - 9 runs
+Mumbai Indians - 182/4 UP Warriorz - 110/10
+2023-03-26
+0,0,0,0,1,1, - 2 runs
+6,4,W,0,W,4, - 14 runs
+4,4,1,4,0,0, - 13 runs
+1,0,0,1,2,1, - 5 runs
+1,W,0,0,1,1, - 3 runs
+0,1,0,0,0,0, - 1 runs
+Delhi Capitals - 131/9 Mumbai Indians - 134/3

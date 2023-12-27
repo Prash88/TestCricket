@@ -1,0 +1,2752 @@
+2012-02-11
+0,1,1,0,4,4, - 10 runs
+4,0,4,0,6,1, - 15 runs
+1,6,1,0,1,1, - 10 runs
+0,0,6,0,6,0, - 12 runs
+2,0,0,0,1,0,1, - 4 runs
+4,6,1,1,1,0,0,0, - 13 runs
+Barisal Burners - 180/2 Duronto Rajshahi - 158/9
+2012-02-12
+2,0,1,0,1,1,1,0,0, - 6 runs
+0,0,6,0,0,0, - 6 runs
+0,1,0,0,1,1,4, - 7 runs
+0,6,2,0,0,0, - 8 runs
+1,1,0,1,4,3,1, - 11 runs
+0,6,4,4,1,1, - 16 runs
+Khulna Royal Bengals - 171/3 Chittagong Kings - 174/4
+2012-02-14
+1,0,1,2,4,0,1, - 9 runs
+4,0,W,0,1,2, - 7 runs
+2,0,0,1,0,0, - 3 runs
+0,1,0,1,1,1, - 4 runs
+0,0,1,1,0,W, - 2 runs
+4,1,0,2,1,4, - 12 runs
+Duronto Rajshahi - 171/8 Sylhet Royals - 155/4
+2012-02-14
+0,0,0,0,0,0, - 0 runs
+1,0,0,0,0,0,0, - 1 runs
+4,1,0,4,0,4, - 13 runs
+0,1,W,0,4,W, - 5 runs
+2,4,1,0,0,1, - 8 runs
+4,4,0,4,0,1, - 13 runs
+Dhaka Gladiators - 208/5 Barisal Burners - 187/5
+2012-02-16
+1,0,6,0,4,1,0, - 12 runs
+0,1,0,0,0,1, - 2 runs
+4,0,2,6,6,0, - 18 runs
+1,W,1,0,4,0, - 6 runs
+0,4,W,0,0,0, - 4 runs
+1,1,0,1,0,1, - 4 runs
+Barisal Burners - 125/7 Chittagong Kings - 126/2
+2012-02-18
+0,0,0,0,4,4, - 8 runs
+0,W,0,0,W,0, - 0 runs
+0,6,1,1,0,0,1, - 9 runs
+0,0,1,1,0,1, - 3 runs
+6,W,1,0,2,1, - 10 runs
+4,1,1,1,0,0, - 7 runs
+Khulna Royal Bengals - 171/6 Sylhet Royals - 169/8
+2012-02-18
+0,4,0,0,0,1, - 5 runs
+4,0,1,0,0,1,1, - 7 runs
+0,1,0,2,W,4,1, - 8 runs
+0,0,4,1,1,4,1, - 11 runs
+0,0,0,0,4,0, - 4 runs
+0,0,W,1,1,0, - 2 runs
+Duronto Rajshahi - 126/6 Chittagong Kings - 117/9
+2012-02-19
+1,2,W,0,0,1,0, - 4 runs
+0,0,2,0,1,1, - 4 runs
+4,1,4,4,1,1,4, - 19 runs
+6,1,0,1,1,0, - 9 runs
+0,1,1,4,0,1, - 7 runs
+1,6,1,1,0,4,0, - 13 runs
+Dhaka Gladiators - 140/8 Khulna Royal Bengals - 141/3
+2012-02-19
+0,0,0,0,0,4, - 4 runs
+1,1,1,1,0,0, - 4 runs
+0,0,0,1,1,0,0, - 2 runs
+4,1,2,4,0,W,1, - 12 runs
+0,1,0,4,1,4, - 10 runs
+6,0,W,4,0,1, - 11 runs
+Sylhet Royals - 120/7 Barisal Burners - 121/1
+2012-02-20
+0,0,0,1,0,W, - 1 runs
+0,1,0,0,0,4, - 5 runs
+2,4,0,1,1,1,1, - 10 runs
+4,1,0,6,1,6, - 18 runs
+4,2,0,4,2,4, - 16 runs
+0,0,0,2,0,0, - 2 runs
+Barisal Burners - 192/3 Duronto Rajshahi - 193/1
+2012-02-22
+2,0,0,4,1,1, - 8 runs
+1,1,0,4,4,4, - 14 runs
+1,4,W,4,4,1, - 14 runs
+W,0,0,0,1,0, - 1 runs
+1,0,W,1,1,1,6, - 10 runs
+0,1,0,4,1,2, - 8 runs
+Khulna Royal Bengals - 161/8 Barisal Burners - 162/6
+2012-02-24
+0,W,1,0,0,1, - 2 runs
+2,1,0,1,1,0, - 5 runs
+4,1,0,1,6,1, - 13 runs
+0,0,1,4,2,0, - 7 runs
+0,1,0,0,3,0, - 4 runs
+0,0,4,2,0,1, - 7 runs
+Chittagong Kings - 120/6 Dhaka Gladiators - 107/9
+2012-02-24
+0,1,1,W,0,1,1, - 4 runs
+1,4,1,4,0,4, - 14 runs
+1,1,0,0,0,0, - 2 runs
+0,0,4,0,0,0, - 4 runs
+W,0,0,1,0,0,W, - 1 runs
+4,1,0,0,0,4, - 9 runs
+Duronto Rajshahi - 124/9 Sylhet Royals - 125/1
+2012-02-25
+0,4,4,0,0,6, - 14 runs
+1,4,0,1,0,4,0, - 10 runs
+0,1,0,6,0,0, - 7 runs
+6,4,1,0,6,1,0, - 18 runs
+4,2,0,1,4,0, - 11 runs
+1,0,0,4,0,1, - 6 runs
+Sylhet Royals - 165/3 Chittagong Kings - 130/8
+2012-02-26
+1,W,1,0,0,1, - 3 runs
+0,1,1,W,3,0, - 5 runs
+0,4,0,0,2,2, - 8 runs
+4,0,0,0,0,6, - 10 runs
+0,0,0,1,1,0, - 2 runs
+0,6,1,0,0,4, - 11 runs
+Khulna Royal Bengals - 106/10 Duronto Rajshahi - 110/2
+2012-02-27
+0,1,1,1,1,0,0, - 4 runs
+W,0,0,0,0,2, - 2 runs
+1,0,0,0,W,0, - 1 runs
+1,4,1,4,0,1,0, - 11 runs
+4,4,4,0,4,0, - 16 runs
+0,4,0,2,0,0, - 6 runs
+Dhaka Gladiators - 116/10 Duronto Rajshahi - 120/7
+2012-02-29
+0,0,0,0,4,2, - 6 runs
+0,1,0,6,0,1, - 8 runs
+2,1,1,0,1,6, - 11 runs
+1,5,1,4,0,2,4, - 17 runs
+1,W,4,0,1,0, - 6 runs
+0,W,0,0,1,0, - 1 runs
+Barisal Burners - 140/7 Dhaka Gladiators - 144/2
+2013-01-18
+0,0,4,4,1,0, - 9 runs
+6,2,W,0,4,0, - 12 runs
+0,4,0,4,6,4, - 18 runs
+0,0,4,1,0,4, - 9 runs
+1,0,1,W,1,0,0,0, - 3 runs
+0,0,6,0,0,1, - 7 runs
+Dhaka Gladiators - 204/4 Khulna Royal Bengals - 142/8
+2013-01-18
+1,1,0,4,1,0,0, - 7 runs
+4,1,0,3,1,3, - 12 runs
+4,3,4,0,1,1,1, - 14 runs
+4,0,W,1,0,4, - 9 runs
+4,1,4,1,0,4, - 14 runs
+0,4,0,1,1,0, - 6 runs
+Sylhet Royals - 175/7 Barisal Burners - 142/9
+2013-01-19
+1,0,0,1,0,W, - 2 runs
+5,0,5,1,0,0,0,0, - 11 runs
+4,0,0,1,0,W, - 5 runs
+1,1,1,1,1,1,1,1,4, - 12 runs
+1,0,0,1,0,0,0, - 2 runs
+1,W,W,1,1,4, - 7 runs
+Duronto Rajshahi - 99/9 Chittagong Kings - 97/10
+2013-01-20
+W,1,0,0,4,0, - 5 runs
+4,0,4,0,0,0, - 8 runs
+4,0,0,4,0,0, - 8 runs
+0,0,0,1,5,1,1, - 8 runs
+0,1,0,W,1,0,4, - 6 runs
+0,0,0,0,1,4, - 5 runs
+Khulna Royal Bengals - 142/8 Barisal Burners - 146/2
+2013-01-20
+W,0,0,0,1,2, - 3 runs
+0,0,0,1,4,0, - 5 runs
+1,W,0,1,1,0, - 3 runs
+0,1,1,4,0,0, - 6 runs
+4,2,4,1,1,4, - 16 runs
+0,1,1,1,0,1, - 4 runs
+Duronto Rajshahi - 147/8 Sylhet Royals - 150/6
+2013-01-22
+0,0,0,1,0,0, - 1 runs
+4,0,0,1,0,0,4, - 9 runs
+3,0,0,1,4,0, - 8 runs
+0,0,1,0,0,1, - 2 runs
+1,1,W,4,0,0, - 6 runs
+0,4,4,1,4,4, - 17 runs
+Dhaka Gladiators - 156/8 Duronto Rajshahi - 143/3
+2013-01-23
+1,0,1,0,4,4, - 10 runs
+1,0,4,0,4,0,0, - 9 runs
+0,0,0,6,1,1, - 8 runs
+0,0,1,1,6,1, - 9 runs
+4,1,0,0,1,0,0, - 6 runs
+4,6,1,1,0,4, - 16 runs
+Rangpur Riders - 174/4 Barisal Burners - 167/8
+2013-01-23
+0,0,0,1,0,0,0, - 1 runs
+0,0,0,0,1,0, - 1 runs
+1,1,0,0,2,2, - 6 runs
+0,4,0,1,W,4, - 9 runs
+0,6,4,4,4,1,1, - 20 runs
+4,W,4,0,0,0, - 8 runs
+Khulna Royal Bengals - 145/7 Sylhet Royals - 146/4
+2013-01-24
+0,1,0,0,1,1,0, - 3 runs
+2,0,1,0,0,0, - 3 runs
+0,2,1,4,1,0, - 8 runs
+1,1,0,1,1,0, - 4 runs
+4,4,2,4,4,1, - 19 runs
+1,2,4,0,0,0, - 7 runs
+Chittagong Kings - 129/7 Barisal Burners - 108/9
+2013-01-24
+0,0,0,0,0,0, - 0 runs
+1,6,0,4,4,6, - 21 runs
+4,0,0,4,1,0, - 9 runs
+0,2,0,0,0,1, - 3 runs
+0,1,6,0,2,0, - 9 runs
+1,1,4,0,1,0, - 7 runs
+Khulna Royal Bengals - 197/0 Duronto Rajshahi - 129/10
+2013-01-25
+1,4,1,0,0,2, - 8 runs
+0,1,1,2,0,0,1, - 5 runs
+W,1,1,0,0,0,1, - 3 runs
+1,4,0,1,4,0, - 10 runs
+1,0,6,0,1,0, - 8 runs
+1,0,1,0,0,4, - 6 runs
+Dhaka Gladiators - 152/8 Sylhet Royals - 157/3
+2013-01-25
+2,0,W,2,4,3, - 11 runs
+5,W,W,0,0,0,0, - 5 runs
+0,0,4,0,0,0, - 4 runs
+1,0,0,4,0,0, - 5 runs
+0,0,1,0,1,0, - 2 runs
+0,0,1,W,0,0, - 1 runs
+Khulna Royal Bengals - 150/7 Rangpur Riders - 141/7
+2013-01-28
+0,4,0,0,1,1, - 6 runs
+1,4,2,4,1,0,0, - 12 runs
+0,6,4,0,6,1, - 17 runs
+4,4,1,1,1,1, - 12 runs
+0,2,4,0,6,0,1, - 13 runs
+1,4,6,0,1,4, - 16 runs
+Duronto Rajshahi - 213/6 Barisal Burners - 209/7
+2013-01-29
+0,0,0,5,1,0,1, - 7 runs
+1,4,0,1,4,0, - 10 runs
+0,0,W,1,0,1,2, - 4 runs
+0,W,0,0,0,0, - 0 runs
+0,1,4,1,4,1, - 11 runs
+1,1,4,0,4,0, - 10 runs
+Rangpur Riders - 122/10 Khulna Royal Bengals - 89/10
+2013-01-31
+1,4,0,1,0,0,1, - 7 runs
+1,1,4,0,0,0,1,1,0, - 8 runs
+0,4,0,0,0,0, - 4 runs
+1,0,4,3,0,1, - 9 runs
+4,0,4,0,1,1, - 10 runs
+W,4,0,0,0,1,0, - 5 runs
+Rangpur Riders - 122/10 Sylhet Royals - 126/5
+2013-01-31
+0,1,4,1,0,4, - 10 runs
+1,W,4,0,0,4, - 9 runs
+0,0,4,0,1,0, - 5 runs
+0,4,0,6,0,0, - 10 runs
+1,0,W,1,0,0,0, - 2 runs
+1,6,1,4,0,4,1, - 17 runs
+Barisal Burners - 182/5 Chittagong Kings - 176/6
+2013-02-01
+0,1,0,0,0,1, - 2 runs
+0,W,4,0,4,0, - 8 runs
+0,0,1,0,0,0, - 1 runs
+4,0,0,6,4,2, - 16 runs
+6,1,1,4,0,1, - 13 runs
+0,4,0,1,2,1, - 8 runs
+Dhaka Gladiators - 137/5 Duronto Rajshahi - 124/9
+2013-02-02
+4,1,0,1,0,0, - 6 runs
+0,1,1,1,0,1, - 4 runs
+1,0,4,4,0,W, - 9 runs
+0,1,1,0,2,2,0, - 6 runs
+4,0,0,0,0,0, - 4 runs
+4,1,1,0,4,1, - 11 runs
+Barisal Burners - 152/6 Duronto Rajshahi - 153/6
+2013-02-02
+1,0,0,0,0,0, - 1 runs
+0,1,W,0,1,1, - 3 runs
+6,0,4,0,4,1, - 15 runs
+0,0,0,0,0,0, - 0 runs
+1,0,4,4,1,0, - 10 runs
+0,6,4,1,0,1, - 12 runs
+Chittagong Kings - 142/10 Dhaka Gladiators - 88/8
+2013-02-04
+0,0,4,1,1,4,0, - 10 runs
+2,0,4,0,1,4, - 11 runs
+1,4,1,0,0,1, - 7 runs
+1,4,0,1,0,0, - 6 runs
+4,1,0,1,0,0, - 6 runs
+0,6,1,6,1,1, - 15 runs
+Rangpur Riders - 163/3 Duronto Rajshahi - 168/3
+2013-02-04
+1,0,0,1,1,0,1, - 4 runs
+0,2,4,0,0,0, - 6 runs
+0,1,3,1,1,0,1, - 7 runs
+0,1,4,0,2,1, - 8 runs
+0,0,0,0,0,0, - 0 runs
+6,0,0,1,1,4, - 12 runs
+Khulna Royal Bengals - 145/7 Barisal Burners - 148/3
+2013-02-05
+0,0,4,4,1,1, - 10 runs
+0,0,1,1,2,4, - 8 runs
+4,0,1,2,4,0, - 11 runs
+4,1,0,W,0,1,0, - 6 runs
+1,0,1,0,1,W, - 3 runs
+1,1,1,0,1,0, - 4 runs
+Dhaka Gladiators - 217/4 Rangpur Riders - 129/9
+2013-02-07
+0,0,0,4,1,0, - 5 runs
+0,4,0,0,W,0, - 4 runs
+0,0,0,W,0,0, - 0 runs
+0,1,0,W,0,1,1, - 3 runs
+0,1,1,0,0,0, - 2 runs
+0,1,1,1,1,2, - 6 runs
+Chittagong Kings - 156/5 Khulna Royal Bengals - 67/10
+2013-02-07
+1,2,1,4,0,W,0, - 8 runs
+4,1,1,0,0,1,1,1, - 9 runs
+0,1,0,0,4,0, - 5 runs
+0,0,2,0,0,1, - 3 runs
+2,0,4,1,2,6, - 15 runs
+0,2,0,0,4,0, - 6 runs
+Rangpur Riders - 197/4 Sylhet Royals - 198/4
+2013-02-08
+0,0,1,0,1,1,0, - 3 runs
+0,0,4,W,0,1, - 5 runs
+1,4,0,4,4,W, - 13 runs
+4,0,4,0,0,0, - 8 runs
+1,0,0,0,1,0, - 2 runs
+W,0,0,6,0,4, - 10 runs
+Duronto Rajshahi - 138/9 Khulna Royal Bengals - 140/3
+2013-02-09
+0,0,1,0,1,4, - 6 runs
+1,4,0,2,W,0, - 7 runs
+1,1,0,4,0,0, - 6 runs
+4,0,0,1,0,1, - 6 runs
+1,0,1,1,1,1, - 5 runs
+1,0,1,4,1,1, - 8 runs
+Chittagong Kings - 160/6 Rangpur Riders - 161/5
+2013-02-09
+0,W,1,0,0,0, - 1 runs
+4,1,0,0,4,0, - 9 runs
+1,0,6,1,0,1,1, - 10 runs
+4,0,2,0,0,0, - 6 runs
+1,0,4,W,0,0, - 5 runs
+0,W,0,0,0,1, - 1 runs
+Barisal Burners - 114/9 Dhaka Gladiators - 115/2
+2013-02-11
+0,W,0,1,3,1, - 5 runs
+0,4,1,0,W,3, - 8 runs
+0,0,1,0,4,0, - 5 runs
+0,3,4,0,1,1, - 9 runs
+0,4,1,1,0,0, - 6 runs
+1,1,0,0,4,1, - 7 runs
+Khulna Royal Bengals - 176/6 Dhaka Gladiators - 180/4
+2013-02-11
+2,4,0,1,0,1,4, - 12 runs
+1,2,4,1,0,4, - 12 runs
+4,0,1,0,1,0, - 6 runs
+1,0,0,1,4,1, - 7 runs
+0,4,0,2,4,1, - 11 runs
+4,4,1,4,6,1, - 20 runs
+Rangpur Riders - 179/8 Duronto Rajshahi - 160/10
+2013-02-12
+0,0,0,0,1,0, - 1 runs
+4,1,0,4,4,0, - 13 runs
+1,0,4,0,1,1,0, - 7 runs
+4,4,0,6,1,1, - 16 runs
+0,1,0,0,1,1,1, - 4 runs
+4,0,0,4,0,4, - 12 runs
+Sylhet Royals - 196/3 Khulna Royal Bengals - 135/7
+2013-02-12
+0,0,0,4,0,0, - 4 runs
+1,0,0,1,1,6, - 9 runs
+1,0,0,0,1,0, - 2 runs
+1,1,0,0,0,0, - 2 runs
+0,1,0,4,1,0, - 6 runs
+1,1,1,1,0,0, - 4 runs
+Dhaka Gladiators - 114/10 Barisal Burners - 117/3
+2013-02-13
+0,0,0,0,0,0, - 0 runs
+0,0,4,1,W,1, - 6 runs
+1,0,0,0,1,0,1, - 3 runs
+0,1,1,2,1,6, - 11 runs
+1,5,6,0,0,4,1,0, - 17 runs
+4,4,1,1,0,0, - 10 runs
+Chittagong Kings - 193/3 Duronto Rajshahi - 160/6
+2013-02-13
+0,1,0,0,4,0, - 5 runs
+0,0,W,1,0,0, - 1 runs
+0,0,W,0,W,4, - 4 runs
+0,0,1,0,1,0, - 2 runs
+1,0,6,4,4,0, - 15 runs
+2,0,1,0,1,0, - 4 runs
+Barisal Burners - 144/9 Sylhet Royals - 145/9
+2013-02-14
+0,0,0,1,1,1,0,1, - 4 runs
+4,1,1,0,1,4, - 11 runs
+0,0,0,1,1,1,4,4, - 11 runs
+0,0,0,1,4,1, - 6 runs
+0,W,0,W,0,4, - 4 runs
+W,1,6,0,1,1, - 9 runs
+Barisal Burners - 139/7 Rangpur Riders - 113/10
+2013-02-14
+0,1,2,0,1,4, - 8 runs
+0,4,1,W,1,0, - 6 runs
+0,0,1,0,1,0, - 2 runs
+0,1,0,0,0,0, - 1 runs
+2,2,0,1,2,0, - 7 runs
+0,3,1,6,0,4, - 14 runs
+Dhaka Gladiators - 168/6 Chittagong Kings - 139/9
+2013-02-15
+W,1,0,0,0,0, - 1 runs
+0,0,W,4,0,0, - 4 runs
+0,0,0,0,6,1,6, - 13 runs
+6,0,4,1,4,1, - 16 runs
+1,0,1,0,0,1, - 3 runs
+4,6,4,0,6,1, - 21 runs
+Dhaka Gladiators - 197/9 Sylhet Royals - 193/6
+2013-02-19
+0,2,0,1,2,W, - 5 runs
+1,0,2,1,0,0,2, - 6 runs
+4,0,1,6,1,1,0, - 13 runs
+1,1,4,0,0,1, - 7 runs
+1,2,1,4,2,4, - 14 runs
+4,W,1,1,0,0, - 6 runs
+Dhaka Gladiators - 172/9 Chittagong Kings - 129/10
+2013-02-18
+1,0,4,0,4,1, - 10 runs
+0,0,4,0,0,2, - 6 runs
+W,1,4,0,1,0, - 6 runs
+0,0,2,1,1,1, - 5 runs
+0,0,0,1,0,1, - 2 runs
+1,1,1,1,0,1, - 5 runs
+Sylhet Royals - 149/7 Chittagong Kings - 150/7
+2015-11-22
+0,0,W,0,2,5,1, - 8 runs
+0,W,4,2,0,1,2, - 9 runs
+4,0,W,1,1,0,0,4, - 10 runs
+0,0,0,0,W,1, - 1 runs
+0,0,2,0,0,4, - 6 runs
+0,0,0,0,1,0, - 1 runs
+Comilla Victorians - 110/8 Dhaka Dynamites - 112/4
+2015-11-23
+0,1,0,1,0,0, - 2 runs
+0,1,W,0,1,W,0, - 2 runs
+W,0,1,0,0,0, - 1 runs
+0,4,0,4,2,W, - 10 runs
+1,0,6,1,0,4, - 12 runs
+4,0,1,1,0,0, - 6 runs
+Barisal Bulls - 155/9 Rangpur Riders - 142/10
+2015-11-24
+0,1,4,4,4,0, - 13 runs
+0,0,1,1,0,1,0,0,0, - 3 runs
+4,4,1,4,0,1, - 14 runs
+0,6,1,0,0,0, - 7 runs
+1,1,1,0,0,1, - 4 runs
+1,0,1,4,6,0, - 12 runs
+Chittagong Vikings - 176/4 Comilla Victorians - 177/3
+2015-11-24
+0,1,1,0,0,0, - 2 runs
+3,1,2,0,1,1,4,1, - 13 runs
+0,4,2,1,1,1, - 9 runs
+1,4,4,1,W,0, - 10 runs
+W,0,4,0,4,0, - 8 runs
+0,4,0,0,0,0, - 4 runs
+Barisal Bulls - 108/10 Sylhet Super Stars - 107/9
+2015-11-25
+0,0,0,1,0,0, - 1 runs
+0,4,0,0,0,1, - 5 runs
+4,0,1,1,0,6, - 12 runs
+4,4,1,0,1,1, - 11 runs
+4,1,4,W,0,4,1, - 14 runs
+1,0,1,6,4,4, - 16 runs
+Rangpur Riders - 176/6 Dhaka Dynamites - 107/10
+2015-11-25
+0,2,0,0,0,1, - 3 runs
+0,W,0,W,0,0, - 0 runs
+4,0,1,1,0,0,0, - 6 runs
+0,0,0,1,4,0, - 5 runs
+0,1,0,0,1,1, - 3 runs
+4,0,0,1,2,2, - 9 runs
+Barisal Bulls - 89/10 Comilla Victorians - 90/2
+2015-11-26
+0,1,0,4,0,0,0, - 5 runs
+0,4,1,1,4,1,1, - 12 runs
+0,1,1,0,W,0, - 2 runs
+1,1,0,0,0,2, - 4 runs
+W,0,1,0,4,0, - 5 runs
+2,1,0,4,0,2, - 9 runs
+Rangpur Riders - 109/9 Sylhet Super Stars - 103/10
+2015-11-26
+1,0,0,0,0,0,1, - 2 runs
+0,0,W,0,0,1, - 1 runs
+0,0,W,1,0,4, - 5 runs
+0,4,0,4,4,1, - 13 runs
+0,0,W,0,1,1, - 2 runs
+1,0,1,6,2,0, - 10 runs
+Chittagong Vikings - 92/10 Dhaka Dynamites - 96/4
+2015-11-27
+1,4,0,0,1,1,1, - 8 runs
+0,0,0,1,W,W, - 1 runs
+0,4,0,0,1,0, - 5 runs
+0,0,0,0,0,0, - 0 runs
+0,2,0,2,0,W, - 4 runs
+0,0,0,1,1,0, - 2 runs
+Rangpur Riders - 82/10 Comilla Victorians - 84/1
+2015-11-27
+1,0,1,W,4,0, - 6 runs
+4,0,0,4,4,1,4, - 17 runs
+4,0,0,0,4,1, - 9 runs
+0,0,0,1,0,0, - 1 runs
+W,0,0,0,0,0, - 0 runs
+0,0,1,1,0,1, - 3 runs
+Dhaka Dynamites - 166/6 Sylhet Super Stars - 132/10
+2015-11-30
+0,4,W,4,1,0, - 9 runs
+1,W,0,0,0,0, - 1 runs
+1,1,W,0,1,0,0, - 3 runs
+2,0,0,1,0,2, - 5 runs
+0,0,0,1,1,1, - 3 runs
+0,0,0,0,1,0, - 1 runs
+Barisal Bulls - 170/7 Chittagong Vikings - 137/10
+2015-11-30
+0,4,0,0,0,2, - 6 runs
+0,3,4,1,0,0, - 8 runs
+0,1,0,0,1,1, - 3 runs
+1,3,1,1,4,1,0, - 11 runs
+1,2,4,4,1,1,0, - 13 runs
+4,1,0,0,1,6, - 12 runs
+Comilla Victorians - 164/5 Sylhet Super Stars - 168/6
+2015-12-01
+4,0,1,0,0,0, - 5 runs
+0,0,0,1,2,1,0, - 4 runs
+0,1,1,4,0,0, - 6 runs
+2,4,0,4,1,1, - 12 runs
+2,1,0,0,1,4,0, - 8 runs
+0,0,1,0,0,0, - 1 runs
+Chittagong Vikings - 111/8 Rangpur Riders - 113/1
+2015-12-01
+1,0,0,0,1,0,0,0, - 2 runs
+0,1,1,1,0,1,1, - 5 runs
+4,1,1,4,2,0, - 12 runs
+1,1,1,1,0,4, - 8 runs
+W,1,2,0,0,0, - 3 runs
+1,0,2,2,4,1, - 10 runs
+Dhaka Dynamites - 158/5 Barisal Bulls - 159/1
+2015-12-02
+1,0,0,0,0,4, - 5 runs
+0,1,1,1,0,0, - 3 runs
+0,2,0,4,0,0, - 6 runs
+0,4,W,0,1,0, - 5 runs
+1,1,0,1,0,4, - 7 runs
+4,W,0,0,0,0, - 4 runs
+Comilla Victorians - 141/7 Dhaka Dynamites - 131/6
+2015-12-02
+4,0,W,0,0,0, - 4 runs
+1,4,1,0,0,4, - 10 runs
+1,1,0,4,1,W, - 7 runs
+W,1,0,0,W,0,1, - 2 runs
+0,0,1,1,0,1, - 3 runs
+4,1,0,4,0,1, - 10 runs
+Sylhet Super Stars - 139/9 Chittagong Vikings - 140/0
+2015-12-03
+0,0,0,0,2,6, - 8 runs
+W,1,0,1,0,W, - 2 runs
+0,0,0,0,1,1,0, - 2 runs
+1,1,0,2,4,0, - 8 runs
+0,0,0,1,1,0, - 2 runs
+1,0,W,4,1,0, - 6 runs
+Rangpur Riders - 104/9 Barisal Bulls - 75/4
+2015-12-06
+0,1,4,0,0,1, - 6 runs
+0,2,4,1,1,1, - 9 runs
+0,0,0,0,0,W, - 0 runs
+0,0,0,6,W,1, - 7 runs
+0,2,W,0,1,1,0, - 4 runs
+0,0,0,1,0,0, - 1 runs
+Barisal Bulls - 58/10 Sylhet Super Stars - 62/1
+2015-12-06
+1,0,0,4,0,1, - 6 runs
+1,0,0,0,1,0,0, - 2 runs
+0,0,0,0,0,0, - 0 runs
+1,2,4,4,0,W, - 11 runs
+1,1,4,1,1,1, - 9 runs
+0,6,1,W,0,0, - 7 runs
+Dhaka Dynamites - 135/7 Rangpur Riders - 136/4
+2015-12-07
+0,1,0,0,0,0, - 1 runs
+0,1,4,6,0,0, - 11 runs
+0,1,0,0,0,1, - 2 runs
+0,0,1,1,4,1,0, - 7 runs
+0,0,W,0,4,1, - 5 runs
+0,1,1,0,0,1, - 3 runs
+Barisal Bulls - 105/6 Comilla Victorians - 106/3
+2015-12-07
+1,0,0,0,0,W,0, - 1 runs
+0,0,0,1,0,1, - 2 runs
+0,4,1,4,W,0, - 9 runs
+1,0,0,0,6,1, - 8 runs
+1,1,1,1,0,W, - 4 runs
+1,W,0,4,W,0, - 5 runs
+Sylhet Super Stars - 59/10 Rangpur Riders - 60/2
+2015-12-08
+0,0,0,0,0,0, - 0 runs
+4,1,1,0,1,1, - 8 runs
+1,0,0,0,4,W, - 5 runs
+0,0,0,W,1,0, - 1 runs
+0,0,0,W,0,4, - 4 runs
+2,0,0,0,2,4, - 8 runs
+Dhaka Dynamites - 121/8 Chittagong Vikings - 76/9
+2015-12-08
+1,0,0,4,1,0, - 6 runs
+0,W,0,0,0,0, - 0 runs
+0,0,0,0,0,1, - 1 runs
+1,4,4,4,1,0, - 14 runs
+1,4,0,1,0,0, - 6 runs
+0,5,1,0,4,0,0, - 10 runs
+Rangpur Riders - 153/6 Comilla Victorians - 132/10
+2015-12-09
+0,4,0,0,0,0, - 4 runs
+4,0,0,0,4,1, - 9 runs
+1,1,0,1,0,0,0, - 3 runs
+1,2,1,1,4,0, - 9 runs
+0,1,1,0,0,0, - 2 runs
+1,0,0,0,W,0, - 1 runs
+Dhaka Dynamites - 157/5 Sylhet Super Stars - 162/4
+2015-12-09
+1,1,4,0,1,0,4, - 11 runs
+4,0,0,1,0,2, - 7 runs
+0,0,1,2,1,0, - 4 runs
+1,0,0,4,6,1,1, - 13 runs
+2,0,2,0,1,0, - 5 runs
+6,6,0,0,W,0, - 12 runs
+Chittagong Vikings - 135/7 Barisal Bulls - 141/2
+2015-12-10
+0,0,1,1,0,0,0, - 2 runs
+1,4,W,0,0,2, - 7 runs
+0,0,1,0,4,4, - 9 runs
+2,1,0,0,1,0, - 4 runs
+4,0,0,1,6,0, - 11 runs
+0,1,1,4,6,0, - 12 runs
+Comilla Victorians - 150/4 Sylhet Super Stars - 79/10
+2015-12-10
+0,0,4,0,0,0, - 4 runs
+1,0,0,4,0,1, - 6 runs
+0,1,1,2,1,0, - 5 runs
+0,0,1,4,2,5, - 12 runs
+1,4,4,1,1,0, - 11 runs
+4,W,0,1,0,1, - 6 runs
+Dhaka Dynamites - 136/6 Barisal Bulls - 137/8
+2015-12-12
+0,1,0,0,1,1,2, - 5 runs
+0,0,1,0,2,0, - 3 runs
+0,0,0,2,1,4, - 7 runs
+0,4,1,0,0,0, - 5 runs
+2,0,0,1,4,6, - 13 runs
+1,2,1,1,4,4,0,0, - 13 runs
+Comilla Victorians - 163/7 Rangpur Riders - 91/10
+2015-12-12
+0,0,0,0,4,W, - 4 runs
+4,2,0,6,4,0, - 16 runs
+0,0,0,0,0,0, - 0 runs
+0,0,4,6,0,4, - 14 runs
+0,0,0,0,0,1, - 1 runs
+0,6,2,0,4,6, - 18 runs
+Barisal Bulls - 135/5 Dhaka Dynamites - 117/8
+2015-12-13
+1,1,0,1,0,1,0, - 4 runs
+0,1,1,0,1,0, - 3 runs
+4,0,1,0,0,1, - 6 runs
+6,1,0,0,0,1, - 8 runs
+4,0,0,1,2,0, - 7 runs
+0,6,0,4,4,0, - 14 runs
+Rangpur Riders - 160/9 Barisal Bulls - 163/5
+2015-12-15
+0,1,0,0,0,2,0, - 3 runs
+1,0,0,1,1,1, - 4 runs
+1,4,0,1,6,W, - 12 runs
+1,0,1,1,1,0,0, - 4 runs
+6,1,1,1,1,4, - 14 runs
+0,0,1,2,1,0, - 4 runs
+Barisal Bulls - 156/4 Comilla Victorians - 157/7
+2016-11-30
+1,1,0,1,1,1, - 5 runs
+0,0,4,1,4,2, - 11 runs
+4,1,4,1,4,0, - 14 runs
+1,1,3,0,2,0, - 7 runs
+1,W,1,1,0,0,0, - 3 runs
+2,0,2,0,0,1, - 5 runs
+Rajshahi Kings - 124/7 Comilla Victorians - 125/2
+2016-11-10
+1,W,1,0,0,4, - 6 runs
+0,1,0,1,0,2, - 4 runs
+0,0,0,0,W,2, - 2 runs
+1,0,1,1,1,W, - 4 runs
+W,W,0,1,2,0, - 3 runs
+1,4,0,4,0,2, - 11 runs
+Khulna Titans - 44/10 Rangpur Riders - 45/1
+2016-11-14
+0,0,0,0,0,0, - 0 runs
+0,4,4,0,0,0, - 8 runs
+0,0,4,0,1,0, - 5 runs
+4,0,0,2,0,6, - 12 runs
+0,4,1,0,1,1, - 7 runs
+4,1,4,4,1,0, - 14 runs
+Chittagong Vikings - 163/3 Barisal Bulls - 167/3
+2016-11-14
+0,1,2,0,1,1, - 5 runs
+1,2,1,0,4,4,0, - 12 runs
+4,1,6,1,1,1, - 14 runs
+1,1,W,1,4,0, - 7 runs
+4,0,4,0,1,4, - 13 runs
+2,1,4,0,1,1,0, - 9 runs
+Dhaka Dynamites - 194/5 Comilla Victorians - 161/9
+2016-11-28
+0,0,0,0,0,0, - 0 runs
+2,0,0,W,0,0, - 2 runs
+3,0,2,0,1,0,4, - 10 runs
+1,0,2,4,0,1, - 8 runs
+1,4,W,0,2,W, - 7 runs
+1,0,0,1,0,0, - 2 runs
+Rajshahi Kings - 128/7 Rangpur Riders - 79/10
+2016-11-20
+1,0,0,0,0,0, - 1 runs
+1,4,0,4,0,4, - 13 runs
+1,1,0,0,0,1, - 3 runs
+1,0,2,0,1,0, - 4 runs
+0,1,W,2,W,1, - 4 runs
+0,1,0,0,0,0, - 1 runs
+Khulna Titans - 151/7 Barisal Bulls - 129/10
+2016-11-08
+0,0,0,0,4,1, - 5 runs
+0,1,4,0,0,0, - 5 runs
+0,W,1,0,4,1, - 6 runs
+0,1,1,1,0,2, - 5 runs
+0,0,1,0,0,6, - 7 runs
+0,1,W,1,0,1,1, - 4 runs
+Barisal Bulls - 148/6 Dhaka Dynamites - 149/2
+2016-11-08
+0,4,0,0,1,1, - 6 runs
+1,0,0,1,1,0, - 3 runs
+0,0,4,0,0,0, - 4 runs
+4,1,1,0,0,1, - 7 runs
+4,0,6,1,0,1, - 12 runs
+1,2,1,0,W,0, - 4 runs
+Chittagong Vikings - 161/3 Comilla Victorians - 132/8
+2016-11-09
+1,0,1,0,0,1,1,0, - 4 runs
+4,0,0,0,4,0, - 8 runs
+0,0,1,0,4,1, - 6 runs
+0,0,W,0,0,1, - 1 runs
+1,4,0,1,0,1,6, - 13 runs
+0,1,0,0,0,0, - 1 runs
+Khulna Titans - 133/8 Rajshahi Kings - 130/10
+2016-11-09
+0,1,0,4,0,0, - 5 runs
+0,4,0,4,0,2, - 10 runs
+0,6,0,W,0,W, - 6 runs
+4,4,4,1,4,1,0, - 18 runs
+0,2,0,1,1,2, - 6 runs
+1,1,1,1,6,1, - 11 runs
+Chittagong Vikings - 124/10 Rangpur Riders - 125/1
+2016-11-11
+0,W,1,1,0,0, - 2 runs
+0,0,1,2,1,0,4, - 8 runs
+4,4,0,0,1,4, - 13 runs
+0,1,1,0,W,2, - 4 runs
+0,4,0,0,1,2,1, - 8 runs
+0,1,1,1,1,1, - 5 runs
+Comilla Victorians - 129/8 Barisal Bulls - 130/4
+2016-11-11
+0,1,4,0,1,0,1, - 7 runs
+0,1,4,1,0,W, - 6 runs
+0,0,1,1,0,1, - 3 runs
+1,4,0,0,1,4,0,0, - 10 runs
+4,0,0,1,0,0, - 5 runs
+1,0,4,0,0,1,6, - 12 runs
+Dhaka Dynamites - 138/5 Rajshahi Kings - 139/4
+2016-11-12
+4,4,1,1,1,2, - 13 runs
+0,2,0,4,3,4, - 13 runs
+4,0,1,0,1,2, - 8 runs
+W,1,1,2,0,W, - 4 runs
+0,1,1,0,1,1, - 4 runs
+W,0,0,0,0,0, - 0 runs
+Khulna Titans - 127/7 Chittagong Vikings - 123/9
+2016-11-12
+0,6,4,W,0,1, - 11 runs
+0,0,4,1,0,4, - 9 runs
+4,1,0,1,1,2, - 9 runs
+1,1,1,1,4,0,0, - 8 runs
+0,4,0,0,4,0, - 8 runs
+1,0,2,1,4,1, - 9 runs
+Dhaka Dynamites - 170/6 Rangpur Riders - 92/9
+2016-11-13
+0,0,W,0,1,5, - 6 runs
+0,0,1,0,0,4, - 5 runs
+0,4,1,0,0,1, - 6 runs
+0,1,1,1,0,1, - 4 runs
+W,0,0,0,4,0, - 4 runs
+1,0,0,1,0,1, - 3 runs
+Barisal Bulls - 192/4 Rajshahi Kings - 188/6
+2016-11-13
+0,0,4,6,0,0, - 10 runs
+0,4,1,0,4,1, - 10 runs
+1,0,1,1,0,1,0, - 4 runs
+4,1,0,4,1,2, - 12 runs
+4,1,4,W,0,4, - 13 runs
+2,0,4,0,2,2, - 10 runs
+Khulna Titans - 144/9 Comilla Victorians - 131/9
+2016-11-17
+0,4,4,0,0,0, - 8 runs
+0,0,0,0,4,0, - 4 runs
+0,0,0,4,1,4,1, - 10 runs
+6,0,1,1,4,4, - 16 runs
+1,0,1,1,W,4, - 7 runs
+0,1,4,3,1,4, - 13 runs
+Dhaka Dynamites - 148/9 Chittagong Vikings - 129/8
+2016-11-17
+1,1,0,0,1,1,0, - 4 runs
+1,4,4,4,1,1,1, - 16 runs
+0,0,1,W,1,4, - 6 runs
+0,1,1,4,4,0, - 10 runs
+4,1,4,0,1,W, - 10 runs
+1,1,4,0,0,6,0,0, - 12 runs
+Rangpur Riders - 175/6 Barisal Bulls - 163/10
+2016-11-18
+1,0,4,4,0,4, - 13 runs
+0,4,0,0,W,0, - 4 runs
+0,4,0,0,1,0, - 5 runs
+4,2,0,1,1,6, - 14 runs
+1,4,0,0,W,1, - 6 runs
+1,0,0,1,0,0, - 2 runs
+Chittagong Vikings - 190/5 Rajshahi Kings - 171/9
+2016-11-18
+0,1,1,0,0,0,0, - 2 runs
+1,0,4,0,0,1, - 6 runs
+W,4,1,0,0,0, - 5 runs
+0,0,1,0,0,0, - 1 runs
+0,0,0,2,1,0, - 3 runs
+0,1,1,1,1,W, - 4 runs
+Comilla Victorians - 122/5 Rangpur Riders - 126/1
+2016-11-19
+1,0,2,0,W,0,0, - 3 runs
+4,2,0,0,0,1, - 7 runs
+6,1,0,0,1,1, - 9 runs
+2,1,0,0,1,W, - 4 runs
+1,4,4,1,1,1, - 12 runs
+1,6,0,4,0,0, - 11 runs
+Khulna Titans - 157/5 Dhaka Dynamites - 148/10
+2016-11-19
+0,1,0,4,1,0, - 6 runs
+0,0,1,1,0,0,4, - 6 runs
+0,0,W,0,0,1, - 1 runs
+4,4,0,1,1,1, - 11 runs
+0,4,0,1,1,0, - 6 runs
+0,4,1,0,1,4, - 10 runs
+Comilla Victorians - 152/5 Rajshahi Kings - 120/10
+2016-11-21
+0,4,2,1,0,0, - 7 runs
+1,0,1,1,0,1,1,1, - 6 runs
+0,1,0,0,1,0, - 2 runs
+1,4,1,6,4,1, - 17 runs
+1,0,6,0,1,0, - 8 runs
+0,0,4,1,0,6, - 11 runs
+Dhaka Dynamites - 182/4 Rajshahi Kings - 184/7
+2016-11-21
+1,0,2,0,4,0,0, - 7 runs
+1,1,1,4,1,0, - 8 runs
+1,0,0,4,4,0, - 9 runs
+0,1,0,1,2,1, - 5 runs
+W,0,4,0,2,1, - 7 runs
+0,4,1,1,0,4, - 10 runs
+Comilla Victorians - 183/3 Chittagong Vikings - 186/4
+2016-11-22
+1,0,1,1,1,0, - 4 runs
+2,0,4,0,0,1, - 7 runs
+0,1,1,0,W,0, - 2 runs
+1,0,0,0,0,0, - 1 runs
+1,1,4,W,0,1, - 7 runs
+0,4,3,0,4,1,0, - 12 runs
+Khulna Titans - 125/7 Rangpur Riders - 129/3
+2016-11-22
+0,0,0,0,1,0, - 1 runs
+0,4,0,0,0,4, - 8 runs
+1,1,4,4,0,0, - 10 runs
+1,1,0,1,0,0, - 3 runs
+6,0,1,4,4,1, - 16 runs
+4,0,1,W,0,0, - 5 runs
+Chittagong Vikings - 185/5 Barisal Bulls - 107/10
+2016-11-25
+0,4,W,0,6,1, - 11 runs
+0,1,2,0,0,0, - 3 runs
+1,1,2,4,0,4,2, - 14 runs
+0,2,0,0,4,1, - 7 runs
+4,0,4,0,0,1, - 9 runs
+4,1,1,0,0,1, - 7 runs
+Rajshahi Kings - 162/5 Rangpur Riders - 150/5
+2016-11-25
+0,0,0,4,4,0, - 8 runs
+0,4,0,0,1,1, - 6 runs
+0,1,0,1,1,1, - 4 runs
+0,W,2,0,0,0, - 2 runs
+1,0,1,2,W,1, - 5 runs
+0,0,4,1,0,4, - 9 runs
+Barisal Bulls - 119/5 Khulna Titans - 120/4
+2016-11-26
+0,4,0,0,4,0, - 8 runs
+0,4,1,1,0,4, - 10 runs
+0,0,1,3,6,4, - 14 runs
+1,1,1,1,1,0, - 5 runs
+1,0,W,0,0,4, - 5 runs
+0,0,1,1,4,0, - 6 runs
+Dhaka Dynamites - 170/4 Comilla Victorians - 138/8
+2016-11-26
+0,1,4,0,0,0, - 5 runs
+0,0,0,1,0,4, - 5 runs
+1,0,0,0,2,0, - 3 runs
+4,4,1,0,4,0, - 13 runs
+0,W,0,1,1,0, - 2 runs
+0,6,W,1,4,1, - 12 runs
+Rajshahi Kings - 154/8 Khulna Titans - 145/6
+2016-11-27
+1,1,0,1,0,1,0,1, - 5 runs
+0,0,0,0,0,1, - 1 runs
+0,0,W,0,0,0, - 0 runs
+0,1,1,5,4,4,W, - 15 runs
+0,2,1,0,1,0, - 4 runs
+1,0,1,1,1,1, - 5 runs
+Barisal Bulls - 132/6 Dhaka Dynamites - 135/6
+2016-11-27
+1,0,1,0,0,0,1, - 3 runs
+0,1,0,0,0,0, - 1 runs
+1,2,1,1,1,0,0, - 6 runs
+1,1,4,1,1,1, - 9 runs
+3,1,0,6,0,4, - 14 runs
+1,0,W,0,1,2, - 4 runs
+Rangpur Riders - 124/7 Chittagong Vikings - 128/1
+2016-11-29
+0,0,0,1,0,0,1, - 2 runs
+6,0,W,0,0,4, - 10 runs
+4,1,0,0,0,1, - 6 runs
+4,6,6,1,0,0, - 17 runs
+1,1,0,1,1,0, - 4 runs
+1,0,1,0,1,0, - 3 runs
+Barisal Bulls - 142/8 Comilla Victorians - 145/2
+2016-11-29
+1,1,0,1,W,1, - 4 runs
+1,1,0,0,1,4, - 7 runs
+W,0,0,1,0,0, - 1 runs
+1,1,W,1,1,4,4, - 12 runs
+4,1,1,0,1,4,2, - 13 runs
+1,0,0,W,0,0, - 1 runs
+Khulna Titans - 131/8 Chittagong Vikings - 135/5
+2016-11-30
+0,0,0,0,0,1, - 1 runs
+0,1,1,4,0,4, - 10 runs
+4,0,0,0,6,1, - 11 runs
+0,0,1,4,1,2, - 8 runs
+1,4,6,1,0,0, - 12 runs
+6,6,0,1,0,1, - 14 runs
+Dhaka Dynamites - 188/7 Rangpur Riders - 146/8
+2016-12-01
+1,0,1,0,0,1, - 3 runs
+4,0,0,W,0,4, - 8 runs
+0,0,0,0,0,0, - 0 runs
+4,0,4,0,0,0, - 8 runs
+0,1,1,0,4,1, - 7 runs
+0,0,0,6,0,1, - 7 runs
+Barisal Bulls - 161/4 Rajshahi Kings - 144/7
+2016-12-03
+1,0,0,4,0,1,1, - 7 runs
+0,1,4,0,1,3, - 9 runs
+1,0,0,1,0,1, - 3 runs
+0,0,4,6,W,1, - 11 runs
+0,1,0,1,1,4, - 7 runs
+1,0,1,1,1,0,0, - 4 runs
+Rangpur Riders - 154/5 Barisal Bulls - 125/10
+2016-12-02
+1,0,0,4,0,0,0, - 5 runs
+0,0,0,0,1,1, - 2 runs
+0,0,2,2,0,4, - 8 runs
+W,0,1,0,0,0, - 1 runs
+1,0,W,0,0,0, - 1 runs
+4,1,0,1,1,1, - 8 runs
+Chittagong Vikings - 134/6 Dhaka Dynamites - 135/4
+2016-12-03
+W,0,0,0,0,4, - 4 runs
+1,0,4,W,0,0, - 5 runs
+0,0,1,0,0,0, - 1 runs
+0,0,0,1,4,1, - 6 runs
+4,4,W,0,1,0, - 9 runs
+0,1,0,1,1,1, - 4 runs
+Chittagong Vikings - 111/9 Rajshahi Kings - 112/4
+2016-12-04
+0,1,1,0,2,1, - 5 runs
+6,4,1,0,0,6, - 17 runs
+0,1,4,0,2,0, - 7 runs
+4,4,4,0,0,4, - 16 runs
+1,0,1,0,0,1, - 3 runs
+0,4,1,0,4,0, - 9 runs
+Comilla Victorians - 170/6 Rangpur Riders - 162/8
+2016-12-04
+0,0,0,1,1,0, - 2 runs
+1,0,1,1,1,1, - 5 runs
+0,4,2,1,1,1, - 9 runs
+4,4,0,1,4,0, - 13 runs
+0,0,2,4,0,4, - 10 runs
+1,4,4,1,0,6, - 16 runs
+Dhaka Dynamites - 158/7 Khulna Titans - 159/4
+2016-12-06
+0,1,0,0,0,1,0, - 2 runs
+0,0,0,0,4,1, - 5 runs
+1,W,0,0,0,0, - 1 runs
+0,0,1,1,4,4, - 10 runs
+1,1,1,4,0,1,0, - 8 runs
+6,6,0,0,0,1, - 13 runs
+Chittagong Vikings - 142/8 Rajshahi Kings - 143/7
+2016-12-06
+0,0,0,6,1,4, - 11 runs
+W,4,0,0,0,4, - 8 runs
+0,1,1,0,6,0, - 8 runs
+W,1,0,W,0,0, - 1 runs
+1,1,1,1,0,0, - 4 runs
+1,1,0,0,4,1, - 7 runs
+Dhaka Dynamites - 140/8 Khulna Titans - 86/10
+2016-12-07
+4,1,0,0,0,0, - 5 runs
+4,1,1,0,0,1, - 7 runs
+W,0,W,0,0,1, - 1 runs
+1,1,2,W,0,0, - 4 runs
+0,4,4,6,0,0, - 14 runs
+4,4,2,4,0,0, - 14 runs
+Khulna Titans - 125/9 Rajshahi Kings - 129/3
+2016-12-09
+0,1,1,4,4,1, - 11 runs
+0,1,0,1,1,0, - 3 runs
+1,2,0,4,0,1, - 8 runs
+1,W,0,2,0,1,0, - 4 runs
+4,1,2,1,1,W, - 9 runs
+0,1,0,1,4,1,0, - 7 runs
+Dhaka Dynamites - 159/9 Rajshahi Kings - 103/10
+2017-11-04
+1,0,0,1,0,W, - 2 runs
+0,4,1,0,0,1,0, - 6 runs
+1,0,0,6,0,0, - 7 runs
+0,4,0,1,1,4, - 10 runs
+4,4,0,1,1,1,1, - 12 runs
+0,0,4,0,0,2, - 6 runs
+Dhaka Dynamites - 136/7 Sylhet Sixers - 137/1
+2017-11-04
+1,4,0,0,1,1, - 7 runs
+1,2,2,W,0,0, - 5 runs
+0,0,0,1,0,0, - 1 runs
+2,4,0,0,0,1, - 7 runs
+2,1,0,4,1,1, - 9 runs
+4,0,4,0,6,1, - 15 runs
+Rajshahi Kings - 154/8 Rangpur Riders - 155/4
+2017-11-05
+0,0,1,0,0,4, - 5 runs
+4,0,0,0,1,0, - 5 runs
+0,4,0,1,1,6, - 12 runs
+1,2,1,4,1,1,2, - 12 runs
+0,1,1,W,0,1, - 3 runs
+0,1,1,0,1,W, - 3 runs
+Comilla Victorians - 145/6 Sylhet Sixers - 148/6
+2017-11-05
+1,1,0,1,0,4, - 7 runs
+0,1,1,4,0,0,1, - 7 runs
+4,1,1,0,1,1, - 8 runs
+6,4,4,1,1,W, - 16 runs
+0,1,3,6,1,4,0, - 15 runs
+4,0,0,1,0,1, - 6 runs
+Dhaka Dynamites - 202/7 Khulna Titans - 137/10
+2017-11-07
+1,0,1,4,1,0, - 7 runs
+0,4,0,1,1,1, - 7 runs
+6,0,0,0,1,6, - 13 runs
+1,1,1,1,4,4, - 12 runs
+0,1,6,6,1,1, - 15 runs
+4,4,0,1,W,0, - 9 runs
+Chittagong Vikings - 143/7 Comilla Victorians - 144/2
+2017-11-07
+0,1,0,0,0,4, - 5 runs
+0,1,0,6,4,0, - 11 runs
+1,4,0,4,1,4,4, - 18 runs
+1,4,0,1,1,0, - 7 runs
+4,1,0,1,0,2, - 8 runs
+6,6,0,1,0,1, - 14 runs
+Sylhet Sixers - 205/6 Rajshahi Kings - 172/8
+2017-11-08
+0,0,6,0,6,0, - 12 runs
+1,4,0,4,4,2, - 15 runs
+1,0,6,6,4,6, - 23 runs
+1,1,1,0,1,4, - 8 runs
+0,1,0,W,0,4, - 5 runs
+0,0,1,1,4,0,0, - 6 runs
+Chittagong Vikings - 166/4 Rangpur Riders - 155/8
+2017-11-08
+4,0,4,0,4,1, - 13 runs
+0,0,1,0,0,4, - 5 runs
+1,W,0,0,0,0, - 1 runs
+1,0,W,0,1,1, - 3 runs
+1,0,6,1,1,1, - 10 runs
+4,0,0,0,1,1, - 6 runs
+Sylhet Sixers - 135/5 Khulna Titans - 138/4
+2017-11-11
+1,0,2,W,4,4,0, - 11 runs
+0,0,4,0,1,0, - 5 runs
+0,2,0,1,0,0,1, - 4 runs
+1,6,4,1,W,1,W, - 13 runs
+1,0,0,0,1,0, - 2 runs
+1,1,0,0,0,0, - 2 runs
+Rangpur Riders - 134/5 Rajshahi Kings - 138/2
+2017-11-11
+0,1,1,4,0,1, - 7 runs
+1,W,0,0,1,4, - 6 runs
+0,W,2,0,0,0, - 2 runs
+4,W,0,1,1,2, - 8 runs
+0,1,1,4,0,W, - 6 runs
+0,0,0,4,0,W, - 4 runs
+Sylhet Sixers - 101/9 Dhaka Dynamites - 106/2
+2017-11-12
+1,1,4,0,W,0, - 6 runs
+1,1,1,1,1,0,1, - 6 runs
+0,1,W,0,0,1, - 2 runs
+1,2,0,6,0,2,0, - 11 runs
+0,4,W,1,0,1, - 6 runs
+1,1,1,1,1,0, - 5 runs
+Khulna Titans - 170/7 Chittagong Vikings - 152/7
+2017-11-12
+0,0,0,4,0,1, - 5 runs
+1,1,0,1,0,0, - 3 runs
+4,1,0,0,1,1, - 7 runs
+6,1,1,W,0,1,0, - 9 runs
+4,1,W,1,1,4, - 11 runs
+4,4,4,W,0,4, - 16 runs
+Rajshahi Kings - 115/8 Comilla Victorians - 120/1
+2017-11-14
+4,1,0,4,0,0, - 9 runs
+0,0,1,0,1,0, - 2 runs
+0,0,0,0,1,1, - 2 runs
+4,1,0,4,W,0, - 9 runs
+0,0,1,1,1,2, - 5 runs
+0,0,0,1,1,W, - 2 runs
+Khulna Titans - 156/5 Dhaka Dynamites - 157/6
+2017-11-14
+0,4,1,1,1,6,1, - 14 runs
+4,0,0,0,4,4, - 12 runs
+1,1,6,0,0,0, - 8 runs
+4,0,0,1,1,0, - 6 runs
+0,0,1,1,0,4, - 6 runs
+W,0,0,1,0,1, - 2 runs
+Chittagong Vikings - 139/4 Comilla Victorians - 140/4
+2017-11-17
+0,1,0,W,1,0, - 2 runs
+0,0,1,0,0,0, - 1 runs
+4,1,0,6,2,0, - 13 runs
+2,0,0,0,0,W, - 2 runs
+0,0,0,4,4,2, - 10 runs
+0,1,0,0,0,0, - 1 runs
+Sylhet Sixers - 146/6 Rajshahi Kings - 150/3
+2017-11-17
+2,0,0,1,1,1,1,W, - 6 runs
+1,0,0,1,0,4, - 6 runs
+2,1,0,2,0,0, - 5 runs
+4,0,1,0,1,2, - 8 runs
+2,6,0,0,0,0, - 8 runs
+1,1,1,1,1,1,4, - 10 runs
+Chittagong Vikings - 160/5 Khulna Titans - 164/5
+2017-11-18
+4,1,1,4,0,1, - 11 runs
+4,0,6,4,2,0, - 16 runs
+4,4,0,2,4,0, - 14 runs
+4,0,0,4,4,0, - 12 runs
+W,1,2,0,4,1, - 8 runs
+1,6,4,1,1,1, - 14 runs
+Dhaka Dynamites - 201/7 Rajshahi Kings - 133/10
+2017-11-18
+0,1,1,0,0,1, - 3 runs
+4,0,4,0,0,1, - 9 runs
+0,1,0,0,1,1, - 3 runs
+4,4,0,0,W,4, - 12 runs
+1,0,0,2,1,4, - 8 runs
+0,4,1,1,1,1, - 8 runs
+Comilla Victorians - 153/6 Rangpur Riders - 139/7
+2017-11-20
+4,1,0,0,6,1, - 12 runs
+W,0,W,2,0,1, - 3 runs
+0,0,1,0,4,1, - 6 runs
+0,4,6,0,4,0, - 14 runs
+0,2,1,6,0,0, - 9 runs
+0,4,0,0,1,0, - 5 runs
+Dhaka Dynamites - 128/10 Comilla Victorians - 129/6
+2017-11-20
+1,0,0,0,0,0, - 1 runs
+0,6,0,0,6,0, - 12 runs
+0,0,0,0,0,0, - 0 runs
+1,1,0,0,0,4, - 6 runs
+0,6,2,1,0,4, - 13 runs
+0,0,4,2,6,6, - 18 runs
+Rangpur Riders - 169/7 Sylhet Sixers - 162/4
+2017-11-21
+0,0,0,1,0,1, - 2 runs
+4,0,W,0,W,0, - 4 runs
+4,4,2,4,1,W, - 15 runs
+4,1,0,0,0,4, - 9 runs
+0,6,1,1,1,0, - 9 runs
+1,6,0,2,4,4, - 17 runs
+Rajshahi Kings - 166/8 Khulna Titans - 168/8
+2017-11-21
+2,0,0,1,0,0, - 3 runs
+0,0,4,0,0,0, - 4 runs
+1,6,1,1,0,4,0, - 13 runs
+1,1,0,4,4,6, - 16 runs
+W,1,0,6,4,0, - 11 runs
+1,1,1,4,4,0, - 11 runs
+Rangpur Riders - 142/10 Dhaka Dynamites - 139/10
+2017-11-24
+0,1,1,1,4,6, - 13 runs
+1,W,1,0,0,0, - 2 runs
+0,4,0,1,4,0,W, - 9 runs
+4,0,4,1,1,1, - 11 runs
+0,1,1,4,0,0, - 6 runs
+4,0,1,1,0,0, - 6 runs
+Khulna Titans - 158/8 Rangpur Riders - 149/6
+2017-11-24
+0,4,0,4,6,1, - 15 runs
+4,1,1,4,1,W, - 11 runs
+0,4,1,1,0,0, - 6 runs
+1,1,1,1,W,2, - 6 runs
+1,0,0,0,1,1,0, - 3 runs
+4,1,1,1,1,0, - 8 runs
+Chittagong Vikings - 211/5 Sylhet Sixers - 171/8
+2017-11-25
+0,0,0,0,4,0, - 4 runs
+0,0,0,0,4,4, - 8 runs
+1,4,1,0,1,4, - 11 runs
+0,4,0,2,0,4, - 10 runs
+4,0,0,1,0,4, - 9 runs
+1,W,2,0,1,0, - 4 runs
+Rajshahi Kings - 185/7 Comilla Victorians - 155/10
+2017-11-25
+0,4,0,1,1,6, - 12 runs
+0,W,4,0,0,1,2, - 7 runs
+6,1,1,0,0,0, - 8 runs
+0,1,0,1,W,1, - 3 runs
+1,0,0,0,6,0,1, - 8 runs
+0,4,1,0,1,4, - 10 runs
+Chittagong Vikings - 176/7 Rangpur Riders - 180/7
+2017-11-27
+0,0,1,1,6,1, - 9 runs
+2,0,4,1,0,0, - 7 runs
+1,0,W,0,0,0, - 1 runs
+4,0,0,6,0,0, - 10 runs
+0,6,1,6,4,6, - 23 runs
+0,1,0,1,1,0, - 3 runs
+Chittagong Vikings - 187/5 Dhaka Dynamites - 191/3
+2017-11-27
+0,1,1,0,1,0, - 3 runs
+4,4,2,0,0,3, - 13 runs
+1,1,0,1,0,4, - 7 runs
+4,1,0,W,0,0, - 5 runs
+0,1,4,0,0,6, - 11 runs
+0,6,0,1,0,1, - 8 runs
+Khulna Titans - 213/5 Rajshahi Kings - 145/10
+2017-11-28
+3,0,1,0,2,4, - 10 runs
+0,4,0,W,0,0, - 4 runs
+4,0,1,2,1,6, - 14 runs
+1,1,0,0,W,1, - 3 runs
+1,1,4,0,2,1, - 9 runs
+0,1,1,1,1,4, - 8 runs
+Sylhet Sixers - 173/5 Rangpur Riders - 177/6
+2017-11-28
+0,0,1,W,4,3, - 8 runs
+W,0,4,0,1,0, - 5 runs
+1,0,1,4,0,4,0, - 10 runs
+0,4,1,0,0,W, - 5 runs
+0,0,0,0,0,0, - 0 runs
+1,W,1,1,0,1,0, - 4 runs
+Khulna Titans - 111/10 Comilla Victorians - 112/1
+2017-11-29
+0,0,1,0,1,1, - 3 runs
+1,1,4,0,1,0,W, - 7 runs
+1,0,1,0,1,4, - 7 runs
+4,4,1,0,4,0, - 13 runs
+0,0,1,0,4,0, - 5 runs
+6,W,4,0,0,4, - 14 runs
+Rajshahi Kings - 157/6 Chittagong Vikings - 124/10
+2017-11-29
+1,0,1,0,0,4, - 6 runs
+4,1,1,1,1,1, - 9 runs
+1,3,4,1,4,4, - 17 runs
+0,1,0,1,1,1, - 4 runs
+1,1,0,0,1,3,0, - 6 runs
+0,1,1,4,4,2, - 12 runs
+Comilla Victorians - 167/6 Dhaka Dynamites - 155/8
+2017-12-02
+0,2,1,0,0,0,0, - 3 runs
+W,1,4,0,W,0, - 5 runs
+0,1,1,0,1,0, - 3 runs
+0,1,4,4,1,0, - 10 runs
+4,0,0,1,0,1, - 6 runs
+1,0,1,0,1,1,1, - 5 runs
+Rangpur Riders - 97/10 Comilla Victorians - 100/6
+2017-12-02
+0,4,0,1,0,0, - 5 runs
+0,0,1,1,0,0, - 2 runs
+0,1,0,0,4,0, - 5 runs
+6,2,1,4,0,0, - 13 runs
+4,0,6,1,2,4, - 17 runs
+0,1,6,1,0,0, - 8 runs
+Dhaka Dynamites - 205/5 Rajshahi Kings - 106/10
+2017-12-03
+6,W,0,0,1,W, - 7 runs
+0,1,1,4,0,0, - 6 runs
+1,0,6,0,W,1, - 8 runs
+0,W,1,0,1,1, - 3 runs
+0,1,0,4,0,1,W, - 6 runs
+1,0,0,0,0,4, - 5 runs
+Chittagong Vikings - 67/10 Sylhet Sixers - 68/0
+2017-12-03
+0,0,1,0,0,1, - 2 runs
+0,1,0,1,0,0, - 2 runs
+1,6,W,1,0,0, - 8 runs
+0,4,2,0,4,6, - 16 runs
+4,0,0,0,0,1, - 5 runs
+4,6,W,0,0,6, - 16 runs
+Rangpur Riders - 147/6 Khulna Titans - 128/8
+2017-12-05
+0,1,1,1,1,0, - 4 runs
+0,0,1,1,0,0, - 2 runs
+4,1,1,1,2,0, - 9 runs
+0,6,1,6,1,0, - 14 runs
+1,6,4,1,4,0, - 16 runs
+2,0,4,0,4,W, - 10 runs
+Khulna Titans - 174/6 Comilla Victorians - 160/7
+2017-12-05
+1,2,0,4,1,0,0, - 8 runs
+1,0,0,4,4,0, - 9 runs
+2,4,6,0,0,1, - 13 runs
+0,4,0,6,1,2, - 13 runs
+1,2,4,0,0,0,0, - 7 runs
+1,4,6,1,1,0, - 13 runs
+Chittagong Vikings - 194/2 Rajshahi Kings - 149/9
+2017-12-06
+0,1,1,2,0,1, - 5 runs
+W,2,0,0,0,0, - 2 runs
+0,0,1,0,0,0, - 1 runs
+1,0,2,1,0,0, - 4 runs
+4,0,0,W,1,4, - 9 runs
+0,0,2,0,4,1,1, - 8 runs
+Dhaka Dynamites - 137/7 Rangpur Riders - 94/7
+2017-12-06
+5,0,1,1,0,1,0, - 8 runs
+2,1,0,2,0,0, - 5 runs
+6,4,1,W,6,1, - 18 runs
+0,1,0,0,0,0,0, - 1 runs
+4,0,0,1,W,2, - 7 runs
+0,4,0,0,0,1, - 5 runs
+Comilla Victorians - 170/4 Sylhet Sixers - 145/7
+2017-12-08
+0,0,0,0,0,1, - 1 runs
+4,2,0,0,0,4, - 10 runs
+0,0,0,1,1,1, - 3 runs
+1,4,1,0,1,W, - 7 runs
+4,0,0,0,6,1,1, - 12 runs
+1,0,0,W,1,6,4,0, - 12 runs
+Khulna Titans - 167/6 Rangpur Riders - 171/2
+2017-12-08
+1,0,0,4,0,0, - 5 runs
+0,1,1,0,4,W, - 6 runs
+0,4,5,0,4,0,4, - 17 runs
+1,0,1,6,1,4, - 13 runs
+1,4,0,1,0,2, - 8 runs
+0,0,0,6,4,6, - 16 runs
+Dhaka Dynamites - 191/7 Comilla Victorians - 96/10
+2017-12-10
+0,6,4,0,1,0, - 11 runs
+0,1,0,0,0,1, - 2 runs
+1,0,1,1,0,6, - 9 runs
+0,1,0,0,4,0, - 5 runs
+W,4,0,1,1,6, - 12 runs
+0,1,0,4,1,0,0, - 6 runs
+Rangpur Riders - 192/3 Comilla Victorians - 156/10
+2017-12-12
+1,0,1,1,1,1, - 5 runs
+0,0,0,0,W,0, - 0 runs
+4,0,0,0,0,4, - 8 runs
+0,1,1,1,0,4, - 7 runs
+0,1,1,0,0,0, - 2 runs
+0,6,0,6,1,6, - 19 runs
+Rangpur Riders - 206/1 Dhaka Dynamites - 149/9
+2019-01-05
+0,0,0,1,0,0,1, - 2 runs
+1,W,0,W,1,0, - 2 runs
+0,4,2,0,W,4, - 10 runs
+0,W,0,2,1,1, - 4 runs
+0,1,1,0,0,0, - 2 runs
+0,4,0,0,0,0, - 4 runs
+Rangpur Riders - 98/10 Chittagong Vikings - 101/7
+2019-01-05
+0,0,2,0,6,1, - 9 runs
+1,0,1,0,0,4,1, - 7 runs
+1,6,0,6,2,6, - 21 runs
+4,0,0,0,0,4, - 8 runs
+0,6,1,4,4,4,1, - 20 runs
+2,0,1,0,0,0, - 3 runs
+Dhaka Dynamites - 189/5 Rajshahi Kings - 106/10
+2019-01-06
+0,0,1,0,0,0, - 1 runs
+0,W,0,4,2,0, - 6 runs
+0,0,0,0,0,0, - 0 runs
+4,0,4,4,0,0, - 12 runs
+0,4,W,0,1,0, - 5 runs
+1,0,4,0,1,0, - 6 runs
+Sylhet Sixers - 127/8 Comilla Victorians - 130/6
+2019-01-06
+1,4,1,0,4,0, - 10 runs
+1,0,1,0,0,0, - 2 runs
+1,4,0,0,1,0, - 6 runs
+0,0,W,1,0,1, - 2 runs
+1,1,4,1,0,2, - 9 runs
+1,4,0,1,6,1, - 13 runs
+Rangpur Riders - 169/3 Khulna Titans - 161/5
+2019-01-08
+0,0,0,0,4,1, - 5 runs
+6,1,1,1,2,6, - 17 runs
+0,1,1,0,0,4,1, - 7 runs
+0,6,0,1,0,0,4, - 11 runs
+6,4,0,4,6,1,6, - 27 runs
+W,1,0,0,0,4, - 5 runs
+Dhaka Dynamites - 192/6 Khulna Titans - 87/9
+2019-01-08
+0,0,1,4,0,0, - 5 runs
+1,0,1,0,0,1, - 3 runs
+1,0,1,0,W,1,1, - 4 runs
+1,0,0,1,0,0,1,1,0, - 4 runs
+0,W,0,2,W,0, - 2 runs
+0,0,W,0,0,0, - 0 runs
+Comilla Victorians - 63/10 Rangpur Riders - 67/1
+2019-01-09
+0,W,1,0,1,2, - 4 runs
+0,1,W,0,0,0, - 1 runs
+1,0,0,W,1,0, - 2 runs
+1,1,0,6,0,0, - 8 runs
+0,1,0,4,1,4,0, - 10 runs
+1,1,0,6,1,2,4, - 15 runs
+Sylhet Sixers - 168/5 Chittagong Vikings - 163/7
+2019-01-09
+0,1,1,1,1,0, - 4 runs
+1,6,1,4,0,1, - 13 runs
+4,0,1,0,1,0, - 6 runs
+0,1,4,1,4,0, - 10 runs
+4,1,1,1,W,0, - 7 runs
+0,0,W,0,0,0, - 0 runs
+Khulna Titans - 117/9 Rajshahi Kings - 118/3
+2019-01-11
+0,1,0,4,4,0, - 9 runs
+W,1,0,0,4,0, - 5 runs
+4,0,1,W,0,1, - 6 runs
+0,1,4,6,2,W, - 13 runs
+0,0,0,1,1,4,0, - 6 runs
+1,4,1,1,1,6, - 14 runs
+Dhaka Dynamites - 183/9 Rangpur Riders - 181/9
+2019-01-11
+1,4,4,1,1,4, - 15 runs
+0,0,0,1,0,4, - 5 runs
+W,W,0,2,0,0, - 2 runs
+4,1,0,4,2,1, - 12 runs
+0,0,0,1,0,4, - 5 runs
+1,1,1,1,0,1,0,1,1, - 7 runs
+Rajshahi Kings - 124/10 Comilla Victorians - 130/5
+2019-01-12
+1,2,0,0,6,4,0, - 13 runs
+0,4,6,1,4,2, - 17 runs
+1,0,W,0,0,0, - 1 runs
+4,2,0,1,0,0, - 7 runs
+0,0,0,1,0,1, - 2 runs
+1,0,W,3,0,0, - 4 runs
+Khulna Titans - 151/6 Chittagong Vikings - 151/8
+2019-01-12
+4,0,0,W,1,0, - 5 runs
+2,0,6,0,0,0, - 8 runs
+0,1,1,0,0,0,4,0, - 6 runs
+1,1,0,1,0,6, - 9 runs
+4,0,0,4,1,1,1, - 11 runs
+0,4,0,6,1,0, - 11 runs
+Dhaka Dynamites - 173/7 Sylhet Sixers - 141/9
+2019-01-13
+0,W,1,0,0,0, - 1 runs
+1,2,0,0,0,0, - 3 runs
+0,1,0,1,2,4, - 8 runs
+4,0,1,1,0,0, - 6 runs
+1,2,0,W,1,0,4, - 8 runs
+0,4,2,0,1,0, - 7 runs
+Comilla Victorians - 184/6 Chittagong Vikings - 186/6
+2019-01-15
+1,0,2,0,0,0, - 3 runs
+2,4,0,6,W,2, - 14 runs
+1,0,0,6,0,0, - 7 runs
+4,0,1,0,0,0,4, - 9 runs
+4,0,W,1,0,1, - 6 runs
+1,1,2,1,0,0, - 5 runs
+Khulna Titans - 128/9 Rajshahi Kings - 103/10
+2019-01-15
+0,0,0,0,0,0, - 0 runs
+4,W,1,W,W,0, - 5 runs
+0,0,2,1,0,W, - 3 runs
+1,4,1,0,1,0, - 7 runs
+0,0,0,0,W,0, - 0 runs
+0,0,0,1,0,0, - 1 runs
+Sylhet Sixers - 68/10 Comilla Victorians - 69/2
+2019-01-16
+0,0,0,0,0,0, - 0 runs
+1,0,1,0,0,0, - 2 runs
+0,0,W,1,0,4, - 5 runs
+1,3,1,0,0,1, - 6 runs
+4,4,0,1,1,6, - 16 runs
+1,1,0,0,4,0, - 6 runs
+Rajshahi Kings - 136/6 Dhaka Dynamites - 116/9
+2019-01-16
+1,1,4,2,2,0, - 10 runs
+1,4,0,0,1,0, - 6 runs
+0,4,4,1,4,1, - 14 runs
+0,1,0,4,1,0, - 6 runs
+1,0,1,2,4,0, - 8 runs
+0,0,6,1,6,4, - 17 runs
+Sylhet Sixers - 187/5 Rangpur Riders - 160/6
+2019-01-18
+1,0,1,0,4,0, - 6 runs
+0,4,1,4,1,1, - 11 runs
+0,0,0,0,1,4, - 5 runs
+0,1,4,1,0,2, - 8 runs
+0,0,2,6,W,0, - 8 runs
+W,0,0,0,0,0, - 0 runs
+Sylhet Sixers - 158/8 Dhaka Dynamites - 163/4
+2019-01-18
+1,1,0,W,1,2, - 5 runs
+4,0,6,1,4,0, - 15 runs
+2,1,1,1,1,4,1,1, - 12 runs
+4,1,1,6,0,1,0, - 13 runs
+2,1,0,1,4,1, - 9 runs
+0,1,2,0,4,4, - 11 runs
+Khulna Titans - 181/7 Comilla Victorians - 186/7
+2019-01-19
+1,1,4,0,0,0, - 6 runs
+0,1,0,6,W,0, - 7 runs
+1,6,0,0,1,0,4, - 12 runs
+4,0,1,0,4,4, - 13 runs
+0,4,0,0,1,1,0, - 6 runs
+0,6,0,1,1,W, - 8 runs
+Sylhet Sixers - 194/4 Rangpur Riders - 195/6
+2019-01-19
+0,0,1,1,0,0,1, - 3 runs
+2,1,0,1,1,0, - 5 runs
+2,1,0,1,1,0, - 5 runs
+0,4,W,6,1,4,4, - 19 runs
+0,0,0,2,1,4, - 7 runs
+4,1,6,6,0,W, - 17 runs
+Chittagong Vikings - 214/4 Khulna Titans - 188/8
+2019-01-21
+1,0,0,2,0,0, - 3 runs
+0,0,0,0,4,W, - 4 runs
+0,0,4,0,1,0, - 5 runs
+1,0,W,1,0,0, - 2 runs
+0,0,1,1,0,0, - 2 runs
+4,0,4,4,0,0, - 12 runs
+Rajshahi Kings - 176/3 Comilla Victorians - 138/10
+2019-01-21
+0,0,W,4,0,0, - 4 runs
+0,4,0,4,0,6, - 14 runs
+4,0,1,4,0,W, - 9 runs
+1,4,0,0,0,1, - 6 runs
+1,0,0,1,0,1, - 3 runs
+1,0,4,1,0,0, - 6 runs
+Dhaka Dynamites - 139/9 Chittagong Vikings - 145/7
+2019-01-22
+0,0,0,0,4,1,W, - 5 runs
+4,6,0,0,1,1, - 12 runs
+1,0,0,0,0,1, - 2 runs
+1,4,0,4,1,W, - 10 runs
+0,0,1,1,1,1,0, - 4 runs
+4,1,1,0,2,1, - 9 runs
+Khulna Titans - 181/6 Rangpur Riders - 183/4
+2019-01-22
+1,4,1,0,0,0,0, - 6 runs
+1,6,2,0,1,0,1, - 11 runs
+W,0,1,1,0,0, - 2 runs
+0,1,0,6,0,0, - 7 runs
+0,0,1,W,0,4, - 5 runs
+0,0,1,0,0,1, - 2 runs
+Comilla Victorians - 153/8 Dhaka Dynamites - 146/9
+2019-01-23
+0,1,0,0,1,0, - 2 runs
+1,0,1,1,0,0, - 3 runs
+W,0,0,1,0,1, - 2 runs
+1,0,0,0,W,0, - 1 runs
+0,0,5,0,4,0, - 9 runs
+1,0,1,4,4,0, - 10 runs
+Rajshahi Kings - 157/5 Chittagong Vikings - 159/4
+2019-01-23
+1,1,1,4,1,1,0,0, - 9 runs
+1,0,0,1,4,1, - 7 runs
+1,0,4,0,4,1, - 10 runs
+4,4,1,4,0,1, - 14 runs
+2,1,2,1,1,1, - 8 runs
+1,1,1,6,6,4, - 19 runs
+Khulna Titans - 170/9 Sylhet Sixers - 149/7
+2019-01-25
+4,1,1,6,2,0, - 14 runs
+1,4,1,W,1,1, - 8 runs
+4,0,1,1,0,W, - 6 runs
+4,2,0,4,1,0, - 11 runs
+1,1,0,1,1,1, - 5 runs
+4,4,1,0,0,4, - 13 runs
+Sylhet Sixers - 180/6 Rajshahi Kings - 104/10
+2019-01-25
+0,0,1,0,1,0, - 2 runs
+0,1,1,1,1,W,0, - 4 runs
+1,3,0,4,4,0, - 12 runs
+1,4,4,0,4,1, - 14 runs
+4,6,0,2,4,6, - 22 runs
+1,0,4,4,0,6, - 15 runs
+Rangpur Riders - 239/4 Chittagong Vikings - 167/8
+2019-01-26
+1,1,6,0,0,0,4, - 12 runs
+6,4,6,0,4,0, - 20 runs
+1,1,0,0,4,2,0, - 8 runs
+0,0,0,4,1,0, - 5 runs
+1,0,0,0,1,1, - 3 runs
+1,1,4,1,5,0,0,1, - 13 runs
+Sylhet Sixers - 195/4 Khulna Titans - 137/10
+2019-01-26
+0,1,0,0,1,0, - 2 runs
+5,0,1,1,4,1,0, - 12 runs
+1,0,1,1,1,0,0, - 4 runs
+0,4,0,4,4,1, - 13 runs
+1,4,0,0,0,4, - 9 runs
+4,1,0,4,1,W, - 10 runs
+Rajshahi Kings - 198/5 Chittagong Vikings - 191/8
+2019-01-28
+1,0,5,1,0,0, - 7 runs
+0,0,4,0,0,1, - 5 runs
+0,0,0,1,4,6, - 11 runs
+0,0,1,1,1,1,4,0, - 8 runs
+1,6,1,0,0,4, - 12 runs
+0,0,4,0,0,0, - 4 runs
+Comilla Victorians - 237/5 Khulna Titans - 157/10
+2019-01-28
+0,2,0,0,2,0, - 4 runs
+0,1,0,1,1,0, - 3 runs
+1,0,0,1,0,0, - 2 runs
+1,0,4,1,1,1, - 8 runs
+0,1,6,4,1,6, - 18 runs
+W,1,0,6,4,0, - 11 runs
+Dhaka Dynamites - 186/6 Rangpur Riders - 189/2
+2019-01-29
+0,0,2,0,0,0, - 2 runs
+0,1,0,W,0,0,W, - 1 runs
+0,1,0,4,0,2, - 7 runs
+0,4,0,0,0,1, - 5 runs
+2,0,0,W,1,4,0, - 7 runs
+6,0,0,0,0,6, - 12 runs
+Chittagong Vikings - 116/8 Comilla Victorians - 117/3
+2019-01-29
+2,1,3,0,1,0,0,1, - 8 runs
+1,0,4,0,4,1, - 10 runs
+0,0,W,4,1,4, - 9 runs
+1,W,0,0,4,0, - 5 runs
+1,0,1,0,1,1, - 4 runs
+0,4,0,4,4,1, - 13 runs
+Rajshahi Kings - 141/8 Rangpur Riders - 145/4
+2019-01-30
+0,4,1,0,1,0, - 6 runs
+0,1,1,1,0,0,4, - 7 runs
+0,1,0,1,1,0,0,4, - 7 runs
+4,0,4,0,4,6, - 18 runs
+0,0,0,0,0,4, - 4 runs
+0,W,0,1,0,1, - 2 runs
+Chittagong Vikings - 174/5 Dhaka Dynamites - 163/9
+2019-01-30
+0,0,6,0,4,W, - 10 runs
+0,4,0,6,0,0, - 10 runs
+0,0,1,6,2,0, - 9 runs
+1,0,1,4,1,0, - 7 runs
+6,W,0,1,0,0, - 7 runs
+0,0,0,1,0,1,4, - 6 runs
+Sylhet Sixers - 189/5 Rajshahi Kings - 190/5
+2019-02-01
+4,4,1,2,0,1, - 12 runs
+0,0,4,1,1,0, - 6 runs
+2,0,0,6,0,1, - 9 runs
+4,1,0,0,0,0, - 5 runs
+1,4,1,0,0,0,W, - 6 runs
+0,6,1,W,1,1, - 9 runs
+Comilla Victorians - 127/10 Dhaka Dynamites - 126/9
+2019-02-01
+0,1,4,6,1,1,0,1, - 14 runs
+0,0,W,0,4,1, - 5 runs
+4,1,0,4,4,0, - 13 runs
+1,0,0,1,0,0, - 2 runs
+1,1,1,W,1,0,1,0, - 5 runs
+4,0,4,0,0,0, - 8 runs
+Sylhet Sixers - 165/5 Chittagong Vikings - 136/10
+2019-02-02
+0,W,0,0,0,0, - 0 runs
+1,1,0,4,1,0, - 7 runs
+4,0,1,0,4,W, - 9 runs
+0,1,1,W,1,0,0, - 3 runs
+W,0,0,1,1,0,0, - 2 runs
+0,2,W,1,0,0, - 3 runs
+Comilla Victorians - 72/10 Rangpur Riders - 76/1
+2019-02-02
+0,0,1,0,0,0, - 1 runs
+0,4,0,1,2,W, - 7 runs
+1,1,0,1,0,1, - 4 runs
+6,0,4,W,0,0, - 10 runs
+0,0,0,1,4,1, - 6 runs
+0,1,4,0,W,2, - 7 runs
+Khulna Titans - 123/9 Dhaka Dynamites - 124/4
+2019-02-04
+0,0,1,0,2,4, - 7 runs
+1,0,0,1,0,1, - 3 runs
+4,1,0,6,1,W, - 12 runs
+0,0,1,1,0,1, - 3 runs
+0,1,1,1,0,0, - 3 runs
+1,1,4,4,4,0, - 14 runs
+Chittagong Vikings - 135/8 Dhaka Dynamites - 136/4
+2019-02-04
+0,0,0,1,1,1, - 3 runs
+4,0,0,4,1,0, - 9 runs
+0,0,0,0,5,W, - 5 runs
+1,0,0,4,0,0,0, - 5 runs
+1,4,0,1,2,0, - 8 runs
+0,4,0,0,0,W, - 4 runs
+Rangpur Riders - 165/5 Comilla Victorians - 166/2
+2019-02-06
+0,0,0,0,0,1, - 1 runs
+0,1,0,0,0,4, - 5 runs
+6,1,4,1,0,6, - 18 runs
+0,6,6,6,0,W, - 18 runs
+W,W,0,0,0,0, - 0 runs
+1,1,1,0,0,0,1, - 4 runs
+Rangpur Riders - 142/10 Dhaka Dynamites - 147/5
+2019-02-08
+0,1,0,1,0,0,1, - 3 runs
+1,0,1,4,W,0, - 6 runs
+0,0,1,0,1,0, - 2 runs
+4,0,0,1,1,0, - 6 runs
+0,6,0,1,0,1, - 8 runs
+1,1,4,1,4,4, - 15 runs
+Comilla Victorians - 199/3 Dhaka Dynamites - 182/9
+2019-12-11
+0,0,0,1,0,0, - 1 runs
+4,0,0,W,2,0, - 6 runs
+0,0,4,4,2,0, - 10 runs
+0,1,0,1,1,1, - 4 runs
+4,4,4,4,1,0, - 17 runs
+0,0,4,4,1,1, - 10 runs
+Sylhet Thunder - 162/4 Chattogram Challengers - 163/5
+2019-12-11
+W,0,0,0,0,1, - 1 runs
+4,0,4,0,6,0, - 14 runs
+0,1,1,0,0,0, - 2 runs
+4,1,4,0,0,4, - 13 runs
+0,4,1,2,4,0, - 11 runs
+W,4,0,0,0,1, - 5 runs
+Cumilla Warriors - 173/7 Rangpur Rangers - 68/9
+2019-12-12
+1,0,0,0,1,0,1, - 3 runs
+1,6,1,0,4,W,1, - 13 runs
+0,0,2,0,0,0, - 2 runs
+0,4,1,0,4,4, - 13 runs
+2,1,1,0,1,0, - 5 runs
+1,1,1,W,1,1, - 5 runs
+Dhaka Platoon - 134/9 Rajshahi Royals - 136/1
+2019-12-12
+0,1,1,0,0,1,1, - 4 runs
+1,0,0,0,0,0, - 1 runs
+0,0,6,4,0,1, - 11 runs
+0,0,0,1,1,0, - 2 runs
+4,1,4,0,0,1, - 10 runs
+1,0,4,0,0,6, - 11 runs
+Chattogram Challengers - 144/6 Khulna Tigers - 146/2
+2019-12-13
+0,1,1,1,6,4, - 13 runs
+0,0,6,0,1,0, - 7 runs
+0,3,4,0,1,1, - 9 runs
+0,4,0,2,0,W, - 6 runs
+0,1,4,1,W,W, - 6 runs
+0,0,1,0,4,0, - 5 runs
+Sylhet Thunder - 91/10 Rajshahi Royals - 95/2
+2019-12-13
+W,1,1,0,0,0, - 2 runs
+0,1,1,1,0,1,1,0, - 5 runs
+1,0,0,0,1,0, - 2 runs
+4,1,0,1,4,0, - 10 runs
+5,1,1,0,0,0,0, - 7 runs
+W,0,1,0,1,0, - 2 runs
+Dhaka Platoon - 180/7 Cumilla Warriors - 160/9
+2019-12-14
+4,1,0,0,1,1, - 7 runs
+0,0,1,0,4,0, - 5 runs
+2,1,4,6,0,0, - 13 runs
+W,1,1,1,1,0, - 4 runs
+1,2,6,4,1,0, - 14 runs
+6,1,4,0,2,1, - 14 runs
+Rangpur Rangers - 157/8 Chattogram Challengers - 158/4
+2019-12-14
+0,0,0,1,0,1, - 2 runs
+1,0,1,1,0,0, - 3 runs
+4,4,0,6,0,1, - 15 runs
+4,0,0,1,1,0, - 6 runs
+1,0,0,1,1,4, - 7 runs
+4,1,4,1,0,1, - 11 runs
+Dhaka Platoon - 182/4 Sylhet Thunder - 158/7
+2019-12-17
+1,0,0,0,1,1, - 3 runs
+0,0,0,4,1,W, - 5 runs
+1,0,1,0,0,0,4, - 6 runs
+2,2,1,6,0,0,1, - 12 runs
+W,0,1,1,1,0, - 3 runs
+6,1,4,0,1,0, - 12 runs
+Rajshahi Royals - 189/4 Khulna Tigers - 192/5
+2019-12-17
+0,0,0,0,0,0, - 0 runs
+0,0,4,1,1,1, - 7 runs
+0,0,4,1,1,0, - 6 runs
+W,0,0,1,1,0,1, - 3 runs
+1,0,6,W,0,2, - 9 runs
+1,0,1,0,1,2, - 5 runs
+Sylhet Thunder - 129/8 Chattogram Challengers - 130/6
+2019-12-18
+4,0,4,0,1,0, - 9 runs
+6,1,1,6,0,0, - 14 runs
+0,1,1,0,2,0, - 4 runs
+4,0,1,1,6,6, - 18 runs
+4,W,4,0,1,0, - 9 runs
+4,4,1,4,0,1, - 14 runs
+Rangpur Rangers - 181/8 Cumilla Warriors - 182/4
+2019-12-18
+0,6,0,1,4,1, - 12 runs
+0,4,1,0,1,0, - 6 runs
+0,4,0,6,4,1, - 15 runs
+0,1,0,4,6,1, - 12 runs
+4,1,1,W,1,1, - 8 runs
+0,6,4,4,6,1, - 21 runs
+Chattogram Challengers - 221/4 Dhaka Platoon - 205/10
+2019-12-20
+0,1,4,1,1,4, - 11 runs
+4,4,1,0,0,0, - 9 runs
+W,0,0,0,1,0, - 1 runs
+1,1,1,1,1,2, - 7 runs
+W,0,0,0,0,0, - 0 runs
+6,4,0,0,1,0, - 11 runs
+Rangpur Rangers - 137/9 Khulna Tigers - 138/2
+2019-12-20
+1,2,0,0,0,1, - 4 runs
+1,6,1,4,0,0,1, - 13 runs
+4,W,0,1,0,1,0, - 6 runs
+0,1,1,4,1,2, - 9 runs
+4,0,4,0,1,4, - 13 runs
+4,4,1,1,0,1,4, - 15 runs
+Chattogram Challengers - 238/4 Cumilla Warriors - 222/7
+2019-12-21
+4,4,1,0,2,W, - 11 runs
+1,0,0,1,1,1, - 4 runs
+1,1,2,0,1,6,1, - 12 runs
+4,4,1,1,1,4, - 15 runs
+4,4,0,1,0,6, - 15 runs
+1,1,0,6,1,6, - 15 runs
+Sylhet Thunder - 232/5 Khulna Tigers - 152/9
+2019-12-21
+0,0,0,W,0,0, - 0 runs
+0,1,4,0,0,1,4, - 10 runs
+4,0,0,0,1,1, - 6 runs
+1,0,4,0,1,W, - 6 runs
+0,1,4,2,0,4, - 11 runs
+1,4,1,1,0,4, - 11 runs
+Chattogram Challengers - 163/7 Rangpur Rangers - 167/4
+2019-12-23
+2,1,3,4,4,0,0, - 14 runs
+1,0,1,W,0,0,0, - 2 runs
+0,1,4,0,6,1,0, - 12 runs
+1,4,0,W,0,0, - 5 runs
+4,1,1,0,1,0,1, - 8 runs
+1,2,0,0,0,0,1, - 4 runs
+Cumilla Warriors - 160/3 Dhaka Platoon - 161/5
+2019-12-23
+1,4,W,1,0,W,0, - 6 runs
+1,1,0,0,0,0,0, - 2 runs
+4,4,4,0,1,1,1,1, - 16 runs
+0,0,1,0,4,0, - 5 runs
+0,W,W,0,1,0, - 1 runs
+1,4,0,1,6,1,0, - 13 runs
+Khulna Tigers - 145/9 Rajshahi Royals - 149/3
+2019-12-24
+W,1,1,4,0,0,1, - 7 runs
+4,0,0,0,0,6, - 10 runs
+1,4,6,1,1,1, - 14 runs
+0,0,0,6,1,0, - 7 runs
+0,1,0,0,4,0, - 5 runs
+0,6,0,0,0,0, - 6 runs
+Sylhet Thunder - 174/4 Dhaka Platoon - 175/2
+2019-12-24
+4,1,4,0,1,0, - 10 runs
+0,0,1,1,1,4, - 7 runs
+4,1,0,4,W,4, - 13 runs
+0,1,0,1,4,2,0, - 8 runs
+4,4,1,1,0,4, - 14 runs
+W,1,1,0,0,0, - 2 runs
+Cumilla Warriors - 170/8 Rajshahi Royals - 171/3
+2019-12-27
+0,2,0,1,4,0, - 7 runs
+0,0,1,0,0,0, - 1 runs
+0,1,1,1,1,0,1, - 5 runs
+4,1,4,0,0,1, - 10 runs
+1,1,1,1,0,1, - 5 runs
+1,1,2,W,0,W, - 4 runs
+Dhaka Platoon - 124/9 Chattogram Challengers - 125/4
+2019-12-27
+4,4,2,0,4,4,0, - 18 runs
+0,1,4,0,W,W, - 5 runs
+1,0,1,1,0,0, - 3 runs
+1,5,0,0,0,4,1, - 11 runs
+6,1,1,W,0,0, - 8 runs
+1,0,0,1,1,1, - 4 runs
+Khulna Tigers - 182/7 Rangpur Rangers - 130/9
+2019-12-28
+1,4,1,0,4,0, - 10 runs
+4,0,1,0,1,0, - 6 runs
+0,1,0,1,4,1,1, - 8 runs
+1,2,1,1,0,1, - 6 runs
+0,0,1,6,4,1, - 12 runs
+1,1,5,1,4,1,1, - 14 runs
+Rajshahi Royals - 190/4 Cumilla Warriors - 175/4
+2019-12-28
+0,1,1,1,0,1, - 4 runs
+1,4,6,4,0,1,1,4, - 21 runs
+1,1,0,0,0,1, - 3 runs
+0,0,0,1,4,0, - 5 runs
+2,0,1,0,1,1, - 5 runs
+0,3,0,0,1,0,1, - 5 runs
+Sylhet Thunder - 157/4 Khulna Tigers - 158/2
+2019-12-30
+0,W,0,0,0,0, - 0 runs
+0,0,0,0,1,0, - 1 runs
+1,6,0,1,1,1, - 10 runs
+1,1,1,1,1,W,1,0,1,1, - 8 runs
+0,1,1,0,0,0, - 2 runs
+2,0,0,2,1,1, - 6 runs
+Sylhet Thunder - 133/9 Rangpur Rangers - 134/3
+2019-12-30
+1,0,1,1,1,2,0, - 6 runs
+1,0,1,4,0,1, - 7 runs
+1,2,4,W,0,4, - 11 runs
+1,0,0,0,1,1, - 3 runs
+1,0,1,0,1,2, - 5 runs
+0,1,1,1,W,1, - 4 runs
+Dhaka Platoon - 174/5 Rajshahi Royals - 100/10
+2019-12-31
+1,1,0,1,0,0,0, - 3 runs
+4,0,0,4,1,0, - 9 runs
+0,2,0,0,4,1, - 7 runs
+1,1,1,4,4,1, - 12 runs
+1,4,1,4,1,4, - 15 runs
+1,1,0,1,1,4, - 8 runs
+Chattogram Challengers - 159/6 Cumilla Warriors - 161/7
+2019-12-31
+0,1,4,6,0,1,0, - 12 runs
+4,4,1,1,1,4,1, - 16 runs
+0,2,1,0,6,0, - 9 runs
+0,0,0,1,0,W, - 1 runs
+0,0,0,1,0,0, - 1 runs
+0,4,4,1,0,4, - 13 runs
+Rangpur Rangers - 182/6 Rajshahi Royals - 135/8
+2020-01-02
+0,1,6,0,1,1, - 9 runs
+0,0,4,2,1,1,4, - 12 runs
+1,0,4,0,1,4, - 10 runs
+0,6,6,1,4,0, - 17 runs
+1,0,1,1,W,0, - 3 runs
+0,1,1,W,1,1, - 4 runs
+Rajshahi Royals - 179/4 Rangpur Rangers - 149/7
+2020-01-02
+4,1,1,4,1,0,4, - 15 runs
+0,2,1,2,1,1,0,1, - 8 runs
+4,4,1,1,4,0, - 14 runs
+2,0,1,1,0,1, - 5 runs
+W,0,0,4,1,1, - 6 runs
+4,0,0,4,0,1, - 9 runs
+Cumilla Warriors - 140/9 Sylhet Thunder - 140/10
+2020-01-03
+0,0,0,4,0,4, - 8 runs
+2,2,1,1,0,0,0,0, - 6 runs
+0,6,1,6,1,1, - 15 runs
+1,1,1,1,5,1,0, - 10 runs
+0,0,0,1,0,4,0, - 5 runs
+1,0,W,0,0,0, - 1 runs
+Dhaka Platoon - 172/4 Khulna Tigers - 160/8
+2020-01-03
+0,0,4,4,1,0, - 9 runs
+0,4,6,0,1,0, - 11 runs
+0,0,1,2,4,0, - 7 runs
+0,0,4,0,0,1, - 5 runs
+1,0,6,6,4,4, - 21 runs
+0,4,4,0,0,2, - 10 runs
+Rangpur Rangers - 199/5 Sylhet Thunder - 161/9
+2020-01-04
+0,0,1,0,4,0, - 5 runs
+0,0,0,2,1,0, - 3 runs
+W,1,4,W,0,0, - 5 runs
+1,W,0,0,0,0, - 1 runs
+0,4,1,1,0,0,0, - 6 runs
+0,0,1,1,0,0, - 2 runs
+Khulna Tigers - 121/10 Chattogram Challengers - 124/4
+2020-01-04
+0,0,0,1,0,0, - 1 runs
+0,0,0,4,1,1, - 6 runs
+2,6,1,1,0,0, - 10 runs
+2,0,1,6,0,W, - 9 runs
+0,0,1,0,0,0, - 1 runs
+1,4,0,4,W,0, - 9 runs
+Sylhet Thunder - 143/6 Rajshahi Royals - 145/4
+2020-01-07
+0,0,0,4,4,1, - 9 runs
+0,0,4,0,0,1, - 5 runs
+0,0,0,0,1,0, - 1 runs
+1,1,4,1,0,1, - 8 runs
+1,0,0,1,1,0, - 3 runs
+1,W,4,0,0,1, - 6 runs
+Sylhet Thunder - 141/5 Cumilla Warriors - 142/5
+2020-01-07
+0,0,4,1,4,0, - 9 runs
+1,1,0,1,4,W, - 7 runs
+1,0,0,0,1,6, - 8 runs
+0,1,0,0,0,1, - 2 runs
+1,1,0,1,2,1, - 6 runs
+1,4,1,4,1,1,0, - 12 runs
+Rajshahi Royals - 166/8 Chattogram Challengers - 170/3
+2020-01-08
+1,0,1,1,0,0, - 3 runs
+0,2,0,1,0,0, - 3 runs
+0,4,1,0,0,0, - 5 runs
+6,1,6,1,0,0, - 14 runs
+0,2,0,4,0,0,1, - 7 runs
+1,0,4,2,4,1, - 12 runs
+Khulna Tigers - 179/2 Cumilla Warriors - 145/10
+2020-01-08
+0,2,2,4,0,0, - 8 runs
+4,0,4,1,1,4,0, - 14 runs
+1,1,1,0,1,W, - 4 runs
+4,0,1,0,1,0,1,0,0, - 7 runs
+1,1,0,0,1,0,0, - 3 runs
+0,4,1,0,0,W, - 5 runs
+Dhaka Platoon - 145/9 Rangpur Rangers - 84/10
+2020-01-10
+0,6,0,0,0,4, - 10 runs
+1,0,W,0,0,0, - 1 runs
+6,1,0,2,0,4, - 13 runs
+4,0,0,0,0,0, - 4 runs
+W,0,0,0,0,4, - 4 runs
+0,0,1,0,1,0, - 2 runs
+Rangpur Rangers - 149/9 Dhaka Platoon - 138/9
+2020-01-10
+1,1,0,W,0,1, - 3 runs
+1,1,2,1,4,0, - 9 runs
+6,6,0,1,1,6, - 20 runs
+1,W,0,0,0,0, - 1 runs
+0,4,1,1,2,1, - 9 runs
+0,1,0,0,0,1, - 2 runs
+Khulna Tigers - 218/3 Cumilla Warriors - 126/9
+2020-01-11
+0,0,1,1,0,2,0, - 4 runs
+1,0,0,1,4,0, - 6 runs
+0,1,0,0,1,1, - 3 runs
+1,0,1,1,0,6, - 9 runs
+0,4,0,0,1,0, - 5 runs
+4,6,0,0,1,0, - 11 runs
+Chattogram Challengers - 155/5 Rajshahi Royals - 156/2
+2020-01-11
+0,0,1,0,0,0, - 1 runs
+0,W,2,0,0,0, - 2 runs
+0,0,1,4,0,0, - 5 runs
+1,2,2,W,1,1, - 7 runs
+2,1,1,0,2,4,1,6, - 17 runs
+1,1,1,W,0,1, - 4 runs
+Dhaka Platoon - 205/4 Khulna Tigers - 207/2
+2020-01-13
+0,0,0,0,1,4, - 5 runs
+1,1,1,0,0,1,0,0,0, - 4 runs
+1,1,0,1,3,W, - 6 runs
+0,0,4,0,1,0, - 5 runs
+6,1,0,0,W,0, - 7 runs
+0,1,0,W,0,0, - 1 runs
+Dhaka Platoon - 144/8 Chattogram Challengers - 147/3
+2020-01-13
+0,1,0,1,1,0, - 3 runs
+4,1,0,0,6,1, - 12 runs
+W,0,0,0,W,0, - 0 runs
+0,0,0,0,0,0, - 0 runs
+1,1,0,1,1,0, - 4 runs
+1,1,6,0,0,4,1, - 13 runs
+Khulna Tigers - 158/4 Rajshahi Royals - 131/10
+2020-01-15
+0,0,0,0,0,0, - 0 runs
+0,2,4,0,6,4, - 16 runs
+6,0,0,0,0,W, - 6 runs
+4,0,6,4,4,0, - 18 runs
+0,0,0,4,0,1, - 5 runs
+W,4,0,1,4,4,0, - 13 runs
+Chattogram Challengers - 164/9 Rajshahi Royals - 165/8
+2020-01-17
+1,1,1,4,0,0, - 7 runs
+0,1,0,1,1,0,0, - 3 runs
+4,0,W,1,4,0, - 9 runs
+0,2,0,1,0,0, - 3 runs
+1,1,1,4,0,4, - 11 runs
+0,0,1,3,0,6, - 10 runs
+Rajshahi Royals - 170/4 Khulna Tigers - 149/8
+2022-01-21
+6,0,W,1,0,0, - 7 runs
+0,0,0,0,2,0, - 2 runs
+4,1,6,1,1,0, - 13 runs
+W,0,0,4,4,1,1,0, - 10 runs
+0,0,1,0,0,W, - 1 runs
+1,0,0,1,1,0, - 3 runs
+Chattogram Challengers - 125/8 Fortune Barishal - 126/6
+2022-01-21
+4,0,0,0,1,0, - 5 runs
+1,0,0,0,0,4, - 5 runs
+0,4,4,4,1,2, - 15 runs
+4,1,1,4,0,4,0, - 14 runs
+4,0,1,0,1,0, - 6 runs
+1,0,4,0,2,4, - 11 runs
+Minister Group Dhaka - 183/6 Khulna Tigers - 186/5
+2022-01-22
+0,0,0,0,3,0, - 3 runs
+1,1,0,0,0,1,0, - 3 runs
+0,0,1,0,W,1,0, - 2 runs
+0,4,0,0,0,0, - 4 runs
+0,3,0,0,6,4, - 13 runs
+1,1,1,1,0,4,W,1,0, - 9 runs
+Sylhet Sunrisers - 96/10 Comilla Victorians - 97/8
+2022-01-22
+0,0,0,0,0,1, - 1 runs
+0,1,4,0,0,0, - 5 runs
+W,0,1,0,4,4, - 9 runs
+0,1,6,0,4,4, - 15 runs
+1,0,0,1,0,1, - 3 runs
+6,1,0,6,4,0, - 17 runs
+Chattogram Challengers - 161/8 Minister Group Dhaka - 131/10
+2022-01-24
+0,0,0,1,0,1, - 2 runs
+1,0,0,6,1,0, - 8 runs
+4,0,1,0,0,1,0, - 6 runs
+0,0,1,4,W,0, - 5 runs
+1,1,0,0,W,0, - 2 runs
+0,W,0,0,1,0, - 1 runs
+Fortune Barishal - 129/8 Minister Group Dhaka - 130/6
+2022-01-24
+5,6,1,0,4,6,1, - 23 runs
+6,0,W,2,0,1, - 9 runs
+0,4,6,0,1,1,4, - 16 runs
+0,0,4,W,1,0, - 5 runs
+0,4,1,1,0,0, - 6 runs
+1,1,0,1,1,1, - 5 runs
+Chattogram Challengers - 190/7 Khulna Tigers - 165/10
+2022-01-25
+1,1,4,0,1,0,2, - 9 runs
+0,0,0,W,0,0, - 0 runs
+0,W,1,0,0,0, - 1 runs
+0,0,0,1,0,1,0, - 2 runs
+1,1,1,0,1,1, - 5 runs
+0,W,0,0,4,1, - 5 runs
+Minister Group Dhaka - 100/10 Sylhet Sunrisers - 101/3
+2022-01-25
+0,0,1,0,0,0, - 1 runs
+0,1,6,0,4,4, - 15 runs
+0,4,0,4,4,1, - 13 runs
+4,W,0,0,4,0, - 8 runs
+1,0,1,4,1,1, - 8 runs
+0,0,1,1,W,0, - 2 runs
+Comilla Victorians - 158/7 Fortune Barishal - 95/10
+2022-01-28
+1,1,0,0,1,0, - 3 runs
+W,0,4,0,1,0, - 5 runs
+0,0,4,1,0,0,6, - 11 runs
+4,0,0,0,4,1, - 9 runs
+1,0,4,0,2,0, - 7 runs
+4,4,1,1,0,1, - 11 runs
+Chattogram Challengers - 143/8 Khulna Tigers - 144/4
+2022-01-28
+1,0,0,1,4,4,1, - 11 runs
+0,0,0,1,1,0, - 2 runs
+1,6,0,0,1,1,1, - 10 runs
+0,0,0,2,4,4, - 10 runs
+1,4,4,2,0,4, - 15 runs
+0,1,0,1,W,0, - 2 runs
+Sylhet Sunrisers - 175/5 Minister Group Dhaka - 177/1
+2022-01-29
+1,0,4,4,4,1,0, - 14 runs
+1,1,1,1,0,0,0, - 4 runs
+4,4,W,0,0,0, - 8 runs
+1,0,1,1,0,1,0, - 4 runs
+4,1,1,0,4,0, - 10 runs
+1,0,0,0,6,0, - 7 runs
+Fortune Barishal - 141/9 Khulna Tigers - 124/10
+2022-01-29
+0,0,1,0,4,1, - 6 runs
+0,4,1,1,6,0, - 12 runs
+0,1,1,1,6,6, - 15 runs
+1,4,1,4,4,4,1, - 19 runs
+2,4,4,W,0,0, - 10 runs
+4,0,W,0,4,1, - 9 runs
+Chattogram Challengers - 202/5 Sylhet Sunrisers - 186/6
+2022-01-31
+1,1,0,1,0,0, - 3 runs
+1,0,W,2,1,1, - 5 runs
+1,0,0,1,1,4, - 7 runs
+0,6,4,0,1,0, - 11 runs
+4,0,0,4,4,0, - 12 runs
+1,1,1,1,4,6, - 14 runs
+Comilla Victorians - 183/3 Chattogram Challengers - 131/10
+2022-01-31
+0,1,0,0,0,0, - 1 runs
+4,4,W,0,0,1, - 9 runs
+0,1,0,4,0,0, - 5 runs
+2,1,W,0,2,4, - 9 runs
+W,0,0,0,1,0,1, - 2 runs
+1,0,0,0,1,1, - 3 runs
+Fortune Barishal - 145/10 Khulna Tigers - 139/6
+2022-02-01
+0,1,0,0,0,0, - 1 runs
+1,0,0,1,4,W, - 6 runs
+0,1,0,4,0,0, - 5 runs
+2,6,1,1,4,1, - 15 runs
+1,4,0,1,1,1, - 8 runs
+1,1,1,1,1,0,6,1, - 12 runs
+Minister Group Dhaka - 181/6 Comilla Victorians - 131/10
+2022-02-01
+1,1,W,0,1,0, - 3 runs
+0,1,1,0,1,1,0, - 4 runs
+0,0,1,0,6,0, - 7 runs
+0,0,4,0,1,0, - 5 runs
+0,1,0,6,0,0, - 7 runs
+4,0,2,1,0,1, - 8 runs
+Fortune Barishal - 149/10 Chattogram Challengers - 135/10
+2022-02-03
+5,0,0,1,0,0,0, - 6 runs
+1,0,0,0,0,0, - 1 runs
+1,4,W,0,1,0, - 6 runs
+1,0,0,0,0,0, - 1 runs
+0,0,0,0,1,1, - 2 runs
+1,0,1,1,0,1,4, - 8 runs
+Sylhet Sunrisers - 142/5 Khulna Tigers - 144/1
+2022-02-03
+0,0,W,0,4,0, - 4 runs
+4,0,4,1,0,4, - 13 runs
+0,0,2,4,0,2, - 8 runs
+1,1,0,1,0,4, - 7 runs
+6,1,1,0,1,0, - 9 runs
+1,1,1,1,4,6, - 14 runs
+Chattogram Challengers - 138/8 Comilla Victorians - 148/1
+2022-02-07
+0,0,2,0,0,4, - 6 runs
+1,0,0,1,4,0, - 6 runs
+2,6,1,1,0,6, - 16 runs
+4,0,0,W,0,0, - 4 runs
+1,1,6,0,4,4, - 16 runs
+W,1,1,1,1,1, - 5 runs
+Fortune Barishal - 155/5 Comilla Victorians - 123/9
+2022-02-07
+1,W,W,4,4,0, - 9 runs
+1,0,4,1,4,0, - 10 runs
+1,0,0,1,1,4, - 7 runs
+4,0,0,0,0,2, - 6 runs
+0,2,4,1,1,1, - 9 runs
+1,1,2,1,0,W, - 5 runs
+Khulna Tigers - 182/3 Sylhet Sunrisers - 167/6
+2022-02-08
+0,1,0,2,1,0, - 4 runs
+0,4,1,W,0,4, - 9 runs
+1,0,0,1,1,4,1, - 8 runs
+1,0,4,0,1,0, - 6 runs
+1,0,1,1,0,0, - 3 runs
+1,1,1,1,4,1, - 9 runs
+Chattogram Challengers - 148/6 Minister Group Dhaka - 145/6
+2022-02-08
+4,1,1,6,4,1, - 17 runs
+0,4,2,1,0,1,0, - 8 runs
+2,1,1,1,6,0,0, - 11 runs
+4,0,1,6,0,1,1,0, - 13 runs
+4,4,1,0,1,0, - 10 runs
+4,0,0,4,0,0, - 8 runs
+Fortune Barishal - 199/4 Sylhet Sunrisers - 187/6
+2022-02-09
+1,0,1,1,W,1, - 4 runs
+0,1,0,0,0,0, - 1 runs
+2,1,2,W,0,1, - 6 runs
+0,W,W,0,0,0, - 0 runs
+0,2,2,4,0,1, - 9 runs
+1,4,1,1,1,0, - 8 runs
+Khulna Tigers - 129/8 Minister Group Dhaka - 131/5
+2022-02-09
+0,0,2,4,0,0, - 6 runs
+1,0,0,4,1,4, - 10 runs
+0,4,1,0,0,0, - 5 runs
+0,1,0,0,4,0, - 5 runs
+0,4,6,4,4,1, - 19 runs
+0,1,0,1,1,4, - 7 runs
+Sylhet Sunrisers - 169/5 Comilla Victorians - 173/6
+2022-02-11
+1,0,1,1,0,0, - 3 runs
+4,6,0,4,1,1, - 16 runs
+4,1,0,4,4,6, - 19 runs
+0,0,0,0,0,4, - 4 runs
+1,0,W,0,0,0, - 1 runs
+0,2,6,1,0,0, - 9 runs
+Comilla Victorians - 188/6 Khulna Tigers - 123/10
+2022-02-11
+0,1,0,1,0,1, - 3 runs
+0,4,0,0,W,1, - 5 runs
+2,0,0,1,0,0,1, - 4 runs
+4,4,0,4,1,0, - 13 runs
+1,0,1,1,1,W,0, - 4 runs
+4,4,0,0,1,0, - 9 runs
+Minister Group Dhaka - 128/9 Fortune Barishal - 129/2
+2022-02-12
+0,0,2,0,0,6, - 8 runs
+0,1,0,1,1,1,0, - 4 runs
+1,0,0,4,1,1, - 7 runs
+1,0,6,2,1,4, - 14 runs
+1,0,6,1,W,0, - 8 runs
+4,0,1,0,W,4, - 9 runs
+Sylhet Sunrisers - 185/6 Chattogram Challengers - 188/6
+2022-02-12
+1,0,0,0,1,5,4, - 11 runs
+6,0,W,0,0,0, - 6 runs
+0,0,1,1,4,0, - 6 runs
+1,0,1,4,1,W, - 7 runs
+0,4,1,1,1,1, - 8 runs
+2,1,0,1,1,4, - 9 runs
+Comilla Victorians - 182/5 Khulna Tigers - 183/1
+2022-02-14
+4,0,0,1,6,1,W, - 12 runs
+0,0,0,0,1,1, - 2 runs
+2,W,1,4,0,0, - 7 runs
+4,0,2,0,1,1, - 8 runs
+0,1,1,1,4,0, - 7 runs
+0,0,1,2,0,0, - 3 runs
+Chattogram Challengers - 189/5 Khulna Tigers - 182/5
+2022-02-14
+0,0,6,0,6,4, - 16 runs
+1,1,0,0,6,0,0, - 8 runs
+0,1,0,2,1,1, - 5 runs
+4,4,0,0,4,4, - 16 runs
+0,1,0,1,1,1, - 4 runs
+0,1,1,1,5,0,0,0, - 8 runs
+Fortune Barishal - 143/8 Comilla Victorians - 133/7
+2022-02-16
+4,1,4,0,0,4, - 13 runs
+1,0,0,0,0,4, - 5 runs
+4,0,6,1,0,1, - 12 runs
+0,1,0,W,1,1, - 3 runs
+1,0,4,1,W,4, - 10 runs
+0,W,W,0,0,0, - 0 runs
+Chattogram Challengers - 148/10 Comilla Victorians - 149/3
+2022-02-18
+0,1,1,6,4,6, - 18 runs
+1,4,6,1,0,0,6, - 18 runs
+0,1,1,1,1,W, - 4 runs
+1,1,0,0,4,0, - 6 runs
+4,1,4,4,0,3, - 16 runs
+6,1,W,1,1,0,1,1, - 11 runs
+Comilla Victorians - 151/9 Fortune Barishal - 150/8
+2023-01-06
+0,0,0,0,0,1, - 1 runs
+0,0,0,1,0,0, - 1 runs
+0,2,6,1,W,1, - 10 runs
+1,0,3,0,1,0,1, - 6 runs
+0,W,0,0,0,0, - 0 runs
+1,0,1,0,0,1, - 3 runs
+Chattogram Challengers - 89/9 Sylhet Strikers - 90/2
+2023-01-06
+1,0,0,0,0,0,1, - 2 runs
+4,0,1,4,4,1, - 14 runs
+4,1,1,3,0,0, - 9 runs
+4,6,2,0,0,4, - 16 runs
+0,1,0,0,4,1, - 6 runs
+4,4,4,4,1,0, - 17 runs
+Rangpur Riders - 176/5 Comilla Victorians - 142/10
+2023-01-07
+1,0,0,0,0,0, - 1 runs
+1,1,1,0,0,0,0, - 3 runs
+1,0,0,0,1,1, - 3 runs
+0,4,W,4,0,0, - 8 runs
+1,0,W,0,4,4, - 9 runs
+0,4,0,W,0,4, - 8 runs
+Khulna Tigers - 113/8 Dhaka Dominators - 117/5
+2023-01-07
+0,1,3,4,6,1,0, - 15 runs
+2,1,0,4,0,0, - 7 runs
+1,0,4,1,2,0, - 8 runs
+0,4,0,1,0,1, - 6 runs
+1,0,6,4,1,1, - 13 runs
+4,0,0,0,1,0, - 5 runs
+Fortune Barishal - 194/7 Sylhet Strikers - 196/4
+2023-01-09
+4,1,0,4,W,0,0, - 9 runs
+0,1,0,4,1,1, - 7 runs
+0,1,0,2,1,1, - 5 runs
+0,2,1,4,4,4, - 15 runs
+1,W,1,2,0,4, - 8 runs
+1,1,W,0,0,1, - 3 runs
+Comilla Victorians - 149/6 Sylhet Strikers - 150/5
+2023-01-09
+0,0,0,0,0,0, - 0 runs
+0,4,0,1,0,0, - 5 runs
+0,0,W,0,0,2, - 2 runs
+0,1,0,4,W,1, - 6 runs
+0,2,4,6,1,0, - 13 runs
+4,1,1,1,6,0, - 13 runs
+Khulna Tigers - 178/5 Chattogram Challengers - 179/1
+2023-01-10
+W,0,4,1,0,0, - 5 runs
+4,1,0,4,4,0, - 13 runs
+5,0,W,1,1,1,2,1,1, - 12 runs
+0,1,0,5,0,0, - 6 runs
+0,4,1,W,0,0, - 5 runs
+1,4,0,1,0,1, - 7 runs
+Rangpur Riders - 158/7 Fortune Barishal - 162/4
+2023-01-10
+1,0,1,4,0,0,1,4, - 11 runs
+4,1,0,1,0,W, - 6 runs
+1,1,2,1,0,1,0, - 6 runs
+4,0,0,0,4,1, - 9 runs
+0,1,3,4,4,0, - 12 runs
+4,2,0,0,0,0, - 6 runs
+Sylhet Strikers - 201/8 Dhaka Dominators - 139/9
+2023-01-13
+0,1,4,4,4,2, - 15 runs
+2,1,0,0,1,4, - 8 runs
+0,2,6,1,1,W, - 10 runs
+4,0,1,4,4,W, - 13 runs
+4,0,0,1,0,0, - 5 runs
+0,0,1,6,0,1, - 8 runs
+Fortune Barishal - 202/7 Chattogram Challengers - 176/4
+2023-01-13
+0,0,1,0,1,0, - 2 runs
+0,W,1,0,0,0, - 1 runs
+0,0,0,0,1,4, - 5 runs
+0,6,4,0,0,W, - 10 runs
+0,0,W,0,0,0, - 0 runs
+1,0,1,1,1,2, - 6 runs
+Khulna Tigers - 130/10 Rangpur Riders - 131/6
+2023-01-14
+1,0,1,1,0,0,1,1,0, - 5 runs
+4,0,1,0,4,0, - 9 runs
+1,0,1,0,1,6,1,1, - 11 runs
+1,W,6,4,0,0, - 11 runs
+1,1,0,1,0,0, - 3 runs
+1,4,6,0,0,W, - 11 runs
+Fortune Barishal - 177/6 Comilla Victorians - 165/7
+2023-01-14
+0,0,0,1,0,0, - 1 runs
+0,0,0,1,0,4, - 5 runs
+0,0,1,0,4,0, - 5 runs
+0,2,1,0,6,0, - 9 runs
+2,0,0,4,4,0, - 10 runs
+0,5,0,0,1,0, - 6 runs
+Dhaka Dominators - 158/6 Chattogram Challengers - 159/2
+2023-01-16
+0,1,W,0,0,1, - 2 runs
+1,0,1,1,0,4, - 7 runs
+0,4,1,4,0,0, - 9 runs
+4,0,1,0,0,0, - 5 runs
+0,0,1,4,1,1, - 7 runs
+2,W,W,0,0,0, - 2 runs
+Dhaka Dominators - 128/7 Sylhet Strikers - 134/5
+2023-01-16
+0,0,0,1,1,W, - 2 runs
+1,1,1,0,0,4, - 7 runs
+1,4,4,1,0,6, - 16 runs
+0,0,1,1,1,4, - 7 runs
+4,0,4,1,0,0, - 9 runs
+0,0,4,0,0,W, - 4 runs
+Chattogram Challengers - 135/8 Comilla Victorians - 137/4
+2023-01-17
+0,W,1,1,4,0, - 6 runs
+0,0,1,0,1,1,0, - 3 runs
+0,1,4,0,2,6,W, - 13 runs
+0,0,4,0,1,1,1, - 7 runs
+0,0,4,0,0,0, - 4 runs
+0,1,1,0,0,0, - 2 runs
+Rangpur Riders - 129/10 Khulna Tigers - 130/1
+2023-01-17
+0,0,1,0,0,1, - 2 runs
+0,1,0,6,W,1, - 8 runs
+1,W,0,0,4,0,1, - 6 runs
+0,4,W,4,0,0, - 8 runs
+0,0,1,0,0,1,4, - 6 runs
+0,0,0,1,4,0, - 5 runs
+Sylhet Strikers - 133/7 Comilla Victorians - 134/5
+2023-01-19
+0,W,0,1,0,0, - 1 runs
+0,1,1,4,0,1, - 7 runs
+6,0,0,4,0,0, - 10 runs
+0,0,6,1,0,0, - 7 runs
+1,4,0,6,1,0, - 12 runs
+1,1,1,1,0,1, - 5 runs
+Comilla Victorians - 184/4 Dhaka Dominators - 151/4
+2023-01-19
+4,1,0,0,0,1, - 6 runs
+2,0,2,0,0,0, - 4 runs
+1,1,0,1,0,1, - 4 runs
+0,0,1,6,1,6,1,1, - 16 runs
+W,0,0,W,0,4, - 4 runs
+6,6,W,W,0,0, - 12 runs
+Fortune Barishal - 238/4 Rangpur Riders - 171/9
+2023-01-20
+0,1,0,0,1,0, - 2 runs
+4,1,1,0,0,W, - 6 runs
+0,1,0,4,2,2, - 9 runs
+4,0,4,4,0,4, - 16 runs
+3,1,0,1,1,0,1,1, - 8 runs
+2,0,0,5,6,0,0, - 13 runs
+Chattogram Challengers - 157/9 Khulna Tigers - 159/3
+2023-01-20
+4,1,1,4,1,0, - 11 runs
+0,W,0,0,1,1, - 2 runs
+0,0,0,4,W,0, - 4 runs
+1,0,0,1,0,4, - 6 runs
+0,1,4,0,0,6, - 11 runs
+4,1,1,4,W,1, - 11 runs
+Fortune Barishal - 173/5 Dhaka Dominators - 160/4
+2023-01-23
+1,1,W,0,0,0, - 2 runs
+0,1,0,1,1,0, - 3 runs
+0,0,0,6,0,0, - 6 runs
+1,4,0,1,4,0, - 10 runs
+0,0,0,4,1,W, - 5 runs
+4,4,1,0,1,0, - 10 runs
+Rangpur Riders - 179/6 Chattogram Challengers - 124/9
+2023-01-23
+0,1,0,0,0,0, - 1 runs
+1,0,0,0,1,1, - 3 runs
+0,0,W,0,0,0, - 0 runs
+0,1,0,4,0,0, - 5 runs
+4,0,4,2,1,4, - 15 runs
+4,2,0,1,0,4, - 11 runs
+Comilla Victorians - 164/6 Dhaka Dominators - 104/9
+2023-01-24
+0,0,0,6,4,0, - 10 runs
+W,0,4,0,1,W,W, - 5 runs
+0,0,4,0,1,1,1, - 7 runs
+0,0,1,0,0,0, - 1 runs
+0,0,1,1,1,2,4, - 9 runs
+4,1,0,0,0,4, - 9 runs
+Sylhet Strikers - 173/6 Fortune Barishal - 171/8
+2023-01-24
+0,0,4,1,0,1, - 6 runs
+0,0,W,0,W,0, - 0 runs
+0,1,0,0,0,0, - 1 runs
+1,W,1,1,1,4, - 8 runs
+0,1,0,4,0,1,4, - 10 runs
+0,0,0,0,0,0, - 0 runs
+Dhaka Dominators - 108/10 Khulna Tigers - 84/10
+2023-01-27
+1,0,0,1,0,0, - 2 runs
+0,1,1,0,W,0, - 2 runs
+2,0,0,6,W,0, - 8 runs
+0,0,0,W,W,0, - 0 runs
+0,0,W,0,1,0, - 1 runs
+0,0,1,1,1,0, - 3 runs
+Sylhet Strikers - 92/9 Rangpur Riders - 93/4
+2023-01-27
+1,0,0,4,0,1, - 6 runs
+1,4,W,0,0,0, - 5 runs
+0,1,1,4,1,4, - 11 runs
+0,0,1,4,1,0,1, - 7 runs
+1,0,1,0,4,1, - 7 runs
+W,1,0,4,2,0, - 7 runs
+Chattogram Challengers - 168/6 Fortune Barishal - 171/7
+2023-01-28
+0,0,0,4,0,1, - 5 runs
+0,0,1,1,2,4, - 8 runs
+1,0,4,0,2,0, - 7 runs
+0,1,0,0,0,0, - 1 runs
+4,1,0,0,0,4, - 9 runs
+0,1,1,1,0,0, - 3 runs
+Comilla Victorians - 165/2 Khulna Tigers - 161/6
+2023-01-28
+W,0,0,1,0,0, - 1 runs
+0,0,0,1,1,4, - 6 runs
+1,0,1,0,4,2,4, - 12 runs
+0,6,0,0,0,0, - 6 runs
+0,1,0,0,0,4, - 5 runs
+1,0,0,4,4,4, - 13 runs
+Chattogram Challengers - 174/6 Sylhet Strikers - 177/3
+2023-01-30
+4,0,1,1,0,0, - 6 runs
+4,0,1,W,2,0,0, - 7 runs
+0,1,0,0,1,4, - 6 runs
+0,4,W,0,0,4, - 8 runs
+1,0,0,0,0,W, - 1 runs
+0,1,0,1,0,0,0, - 2 runs
+Dhaka Dominators - 144/5 Rangpur Riders - 146/5
+2023-01-30
+0,0,2,4,0,0, - 6 runs
+1,4,1,1,1,0, - 8 runs
+2,1,1,1,0,0, - 5 runs
+1,0,1,1,1,0, - 4 runs
+0,1,1,W,0,1, - 3 runs
+4,1,4,2,4,1, - 16 runs
+Sylhet Strikers - 192/4 Khulna Tigers - 161/9
+2023-01-31
+1,1,4,0,1,1,4, - 12 runs
+0,1,0,0,0,1, - 2 runs
+1,0,1,0,0,0, - 2 runs
+0,0,0,4,0,0, - 4 runs
+0,0,4,1,6,0, - 11 runs
+4,0,0,1,4,1, - 10 runs
+Fortune Barishal - 156/8 Dhaka Dominators - 157/5
+2023-01-31
+0,0,0,0,0,4, - 4 runs
+1,2,1,0,0,0, - 4 runs
+4,0,1,W,4,0, - 9 runs
+1,0,4,1,1,0, - 7 runs
+0,4,1,1,0,0,0, - 6 runs
+1,4,0,0,1,1, - 7 runs
+Khulna Tigers - 210/2 Comilla Victorians - 213/4
+2023-02-03
+0,6,4,0,1,1, - 12 runs
+0,6,0,0,4,1, - 11 runs
+0,4,0,1,1,1, - 7 runs
+1,1,W,2,4,0,1,1, - 10 runs
+0,0,4,1,1,0, - 6 runs
+4,0,4,0,0,1,1,6, - 16 runs
+Fortune Barishal - 194/5 Khulna Tigers - 157/8
+2023-02-03
+4,1,0,W,2,0, - 7 runs
+0,0,0,1,W,0, - 1 runs
+0,0,0,1,1,1, - 3 runs
+W,0,1,1,2,0,0, - 4 runs
+6,0,1,0,6,0, - 13 runs
+3,1,1,5,2,0,1, - 13 runs
+Dhaka Dominators - 130/8 Rangpur Riders - 133/8
+2023-02-04
+0,W,1,0,0,0, - 1 runs
+0,1,0,3,0,0, - 4 runs
+0,0,1,W,4,0, - 5 runs
+4,0,0,1,1,0, - 6 runs
+1,6,0,1,0,0, - 8 runs
+0,0,1,4,1,0, - 6 runs
+Chattogram Challengers - 156/7 Comilla Victorians - 157/4
+2023-02-04
+0,4,0,0,0,1, - 5 runs
+0,0,4,0,0,0, - 4 runs
+0,0,1,0,4,0, - 5 runs
+0,0,0,0,0,0, - 0 runs
+4,0,1,1,0,0, - 6 runs
+1,4,0,1,0,0, - 6 runs
+Sylhet Strikers - 170/2 Rangpur Riders - 176/2
+2023-02-07
+0,1,1,0,0,0,0,1, - 3 runs
+1,0,1,0,1,1,4, - 8 runs
+0,0,1,0,1,0, - 2 runs
+0,1,2,0,0,1, - 4 runs
+0,1,0,W,0,0, - 1 runs
+0,W,0,1,W,1, - 2 runs
+Chattogram Challengers - 118/8 Dhaka Dominators - 103/9
+2023-02-07
+1,0,0,2,0,1,1,0, - 5 runs
+W,1,1,1,0,4, - 7 runs
+1,2,0,1,0,1, - 5 runs
+1,W,0,4,1,1,0, - 7 runs
+1,0,1,2,1,0, - 5 runs
+1,0,4,0,0,0, - 5 runs
+Fortune Barishal - 121/10 Comilla Victorians - 122/5
+2023-02-08
+1,1,1,1,0,1,1, - 6 runs
+1,0,1,0,W,0, - 2 runs
+0,0,1,0,0,2, - 3 runs
+0,2,0,1,0,1, - 4 runs
+0,6,W,0,0,0, - 6 runs
+W,2,4,0,4,0, - 10 runs
+Khulna Tigers - 113/8 Sylhet Strikers - 114/4
+2023-02-08
+1,0,0,0,0,4, - 5 runs
+0,0,0,1,1,0, - 2 runs
+0,6,W,0,4,0, - 10 runs
+0,W,4,1,2,4,0, - 11 runs
+0,0,0,1,W,2,0, - 3 runs
+1,0,0,1,0,6,0, - 8 runs
+Chattogram Challengers - 132/8 Rangpur Riders - 135/3
+2023-02-10
+1,0,0,1,0,4,1, - 7 runs
+1,0,2,0,2,1, - 6 runs
+0,4,0,6,0,1, - 11 runs
+4,0,0,1,1,1, - 7 runs
+1,6,0,4,1,W, - 12 runs
+4,6,1,5,4,W,0, - 20 runs
+Comilla Victorians - 177/5 Rangpur Riders - 107/10
+2023-02-10
+0,0,4,0,0,0, - 4 runs
+0,0,1,0,4,1,0, - 6 runs
+0,0,4,W,0,6, - 10 runs
+0,0,1,1,0,0, - 2 runs
+1,1,0,0,0,1, - 3 runs
+1,0,0,4,4,1, - 10 runs
+Fortune Barishal - 169/8 Khulna Tigers - 172/4
+2023-02-12
+0,1,0,1,1,0, - 3 runs
+1,1,2,4,0,0, - 8 runs
+2,4,0,1,6,0, - 13 runs
+0,0,1,4,4,4, - 13 runs
+1,1,0,1,1,0, - 4 runs
+4,0,0,1,W,0, - 5 runs
+Fortune Barishal - 170/3 Rangpur Riders - 172/6
+2023-02-12
+1,0,4,0,1,0, - 6 runs
+W,1,0,W,0,1,0, - 2 runs
+1,0,2,4,1,W, - 8 runs
+4,0,4,6,1,0, - 15 runs
+0,0,0,1,2,0, - 3 runs
+1,4,4,0,0,0, - 9 runs
+Sylhet Strikers - 125/10 Comilla Victorians - 130/6
+2023-02-14
+0,0,0,0,1,1, - 2 runs
+1,1,4,0,1,0, - 7 runs
+0,0,1,0,4,0, - 5 runs
+4,1,4,1,1,1, - 12 runs
+1,4,0,4,0,0, - 9 runs
+1,4,2,0,0,2, - 9 runs
+Sylhet Strikers - 182/7 Rangpur Riders - 163/8
+2023-02-16
+4,0,4,4,1,5, - 18 runs
+W,1,0,0,0,1, - 2 runs
+0,4,1,1,0,0,W, - 6 runs
+1,4,0,1,0,1,1, - 8 runs
+0,0,4,2,0,0, - 6 runs
+1,0,1,0,0,0, - 2 runs
+Sylhet Strikers - 175/7 Comilla Victorians - 176/3

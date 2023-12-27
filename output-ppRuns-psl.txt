@@ -1,0 +1,1710 @@
+2016-02-04
+0,0,0,0,0,0, - 0 runs
+0,1,2,0,0,2, - 5 runs
+1,4,0,0,0,1, - 6 runs
+0,0,1,0,0,0, - 1 runs
+1,0,0,6,2,W, - 9 runs
+0,0,1,0,0,0, - 1 runs
+Islamabad United - 128/7 Quetta Gladiators - 132/2
+2016-02-05
+2,0,4,W,1,0, - 7 runs
+0,0,0,0,4,0, - 4 runs
+1,1,1,1,0,2,1, - 7 runs
+4,1,1,1,1,4, - 12 runs
+4,0,1,1,1,W, - 7 runs
+0,0,1,0,0,0, - 1 runs
+Lahore Qalandars - 125/8 Karachi Kings - 131/3
+2016-02-05
+1,5,1,0,4,0,1,0, - 12 runs
+2,0,4,0,W,1, - 7 runs
+4,0,0,0,0,0, - 4 runs
+1,0,1,0,4,1, - 7 runs
+0,1,0,0,0,0, - 1 runs
+1,1,W,0,1,0,0, - 3 runs
+Peshawar Zalmi - 145/7 Islamabad United - 121/9
+2016-02-06
+0,0,0,4,1,W, - 5 runs
+0,0,0,0,0,0, - 0 runs
+1,6,1,1,1,1, - 11 runs
+0,0,0,0,0,2, - 2 runs
+1,1,0,1,1,6,1, - 11 runs
+0,0,1,0,0,W, - 1 runs
+Karachi Kings - 147/7 Quetta Gladiators - 153/2
+2016-02-06
+W,0,W,0,0,0, - 0 runs
+4,0,0,W,4,0, - 8 runs
+1,0,1,0,3,0, - 5 runs
+1,0,4,0,0,1,0, - 6 runs
+0,0,0,0,0,1, - 1 runs
+0,4,1,0,1,1, - 7 runs
+Lahore Qalandars - 117/6 Peshawar Zalmi - 118/1
+2016-02-07
+0,0,0,1,1,0, - 2 runs
+0,1,1,1,1,0,0, - 4 runs
+1,6,2,1,0,2, - 12 runs
+1,3,1,0,4,4, - 13 runs
+W,0,4,0,6,1, - 11 runs
+2,0,1,4,0,0, - 7 runs
+Islamabad United - 132/8 Karachi Kings - 130/9
+2016-02-07
+2,0,2,0,1,2, - 7 runs
+0,2,1,2,0,0, - 5 runs
+4,0,0,0,0,1, - 5 runs
+0,1,2,1,0,0, - 4 runs
+1,W,2,0,W,0, - 3 runs
+0,1,1,1,0,0,2, - 5 runs
+Peshawar Zalmi - 135/7 Quetta Gladiators - 139/7
+2016-02-08
+1,0,0,0,6,0,1, - 8 runs
+1,0,0,2,0,1, - 4 runs
+1,0,4,1,0,1, - 7 runs
+0,0,0,0,1,0, - 1 runs
+0,4,0,1,4,0, - 9 runs
+0,4,0,1,0,0, - 5 runs
+Lahore Qalandars - 194/3 Quetta Gladiators - 131/10
+2016-02-10
+1,1,0,0,4,0, - 6 runs
+1,4,2,4,1,1,1, - 14 runs
+W,0,4,0,0,0, - 4 runs
+1,1,1,0,1,0, - 4 runs
+0,6,0,0,2,0, - 8 runs
+4,0,0,2,4,W, - 10 runs
+Lahore Qalandars - 166/6 Islamabad United - 169/2
+2016-02-11
+0,0,0,0,0,1,1, - 2 runs
+0,0,1,1,4,1, - 7 runs
+0,0,0,4,4,0, - 8 runs
+1,6,1,W,6,0, - 14 runs
+2,1,1,1,2,1, - 8 runs
+1,0,0,6,6,2, - 15 runs
+Islamabad United - 117/10 Quetta Gladiators - 118/3
+2016-02-12
+0,1,4,1,0,1,1,0, - 8 runs
+0,0,1,1,1,1, - 4 runs
+0,0,4,1,0,1, - 6 runs
+1,0,1,1,0,6, - 9 runs
+1,0,0,6,2,1, - 10 runs
+1,0,4,1,0,6, - 12 runs
+Karachi Kings - 178/5 Lahore Qalandars - 151/8
+2016-02-12
+0,0,0,0,1,0, - 1 runs
+0,4,0,0,4,1, - 9 runs
+0,0,0,1,0,1,4, - 6 runs
+1,0,0,1,4,4, - 10 runs
+1,0,W,0,0,1, - 2 runs
+4,0,0,1,1,2, - 8 runs
+Islamabad United - 152/6 Peshawar Zalmi - 153/3
+2016-02-13
+0,4,1,0,0,0, - 5 runs
+0,0,1,1,0,0, - 2 runs
+4,4,1,W,1,0, - 10 runs
+1,0,0,6,4,1, - 12 runs
+0,1,2,6,1,1, - 11 runs
+1,1,1,4,1,1, - 9 runs
+Karachi Kings - 126/9 Quetta Gladiators - 127/5
+2016-02-13
+2,1,1,W,4,0,0, - 8 runs
+0,1,0,0,1,0,5,0, - 7 runs
+0,4,1,2,0,0, - 7 runs
+1,2,1,4,0,0, - 8 runs
+0,0,1,0,1,0, - 2 runs
+0,1,1,1,6,0, - 9 runs
+Lahore Qalandars - 164/3 Peshawar Zalmi - 160/7
+2016-02-14
+0,1,1,1,0,0, - 3 runs
+0,W,0,W,0,1, - 1 runs
+0,0,1,4,4,0, - 9 runs
+0,0,0,0,1,0, - 1 runs
+4,1,1,1,4,1, - 12 runs
+1,1,1,0,2,1, - 6 runs
+Karachi Kings - 128/5 Islamabad United - 131/5
+2016-02-14
+0,0,1,0,4,0, - 5 runs
+1,0,1,4,1,1, - 8 runs
+0,0,1,0,4,4,0, - 9 runs
+1,2,2,1,0,6, - 12 runs
+6,W,0,1,W,0,1, - 8 runs
+0,W,0,1,1,0, - 2 runs
+Quetta Gladiators - 129/10 Peshawar Zalmi - 130/2
+2016-02-16
+4,0,0,0,1,1, - 6 runs
+0,0,1,2,0,4, - 7 runs
+1,0,6,0,6,0, - 13 runs
+1,6,0,0,0,1, - 8 runs
+2,1,6,6,1,0,1, - 17 runs
+4,0,4,1,0,1, - 10 runs
+Lahore Qalandars - 201/2 Quetta Gladiators - 203/8
+2016-02-17
+1,4,0,0,0,0,1,0, - 6 runs
+0,1,4,0,1,1, - 7 runs
+1,2,0,0,0,1,4, - 8 runs
+1,0,1,1,0,1, - 4 runs
+1,1,0,1,1,2, - 6 runs
+4,0,0,6,W,1, - 11 runs
+Karachi Kings - 152/7 Peshawar Zalmi - 158/5
+2016-02-17
+1,1,0,0,0,1,1,W, - 4 runs
+0,W,0,1,0,0,0, - 1 runs
+1,0,0,W,1,0, - 2 runs
+1,1,0,0,0,0,0, - 2 runs
+0,0,0,0,1,2, - 3 runs
+2,1,6,4,3,0, - 16 runs
+Lahore Qalandars - 150/5 Islamabad United - 151/5
+2016-02-19
+0,W,0,0,0,0, - 0 runs
+1,1,0,0,0,4, - 6 runs
+0,4,1,0,0,0, - 5 runs
+W,1,4,0,1,0, - 6 runs
+0,1,0,1,0,4, - 6 runs
+4,0,0,4,0,4, - 12 runs
+Quetta Gladiators - 133/10 Peshawar Zalmi - 132/9
+2016-02-20
+0,0,0,0,0,0, - 0 runs
+0,0,1,0,0,1, - 2 runs
+4,0,4,6,0,4, - 18 runs
+0,W,0,1,1,0, - 2 runs
+1,4,1,W,0,0, - 6 runs
+1,0,W,0,0,0, - 1 runs
+Karachi Kings - 111/9 Islamabad United - 115/1
+2016-02-21
+0,1,4,1,0,0, - 6 runs
+0,0,4,2,4,0,0, - 10 runs
+0,4,1,1,0,4, - 10 runs
+0,1,1,1,4,0, - 7 runs
+0,0,0,0,0,1, - 1 runs
+0,0,1,0,0,1, - 2 runs
+Islamabad United - 176/3 Peshawar Zalmi - 126/10
+2016-02-23
+0,0,W,0,0,1, - 1 runs
+0,1,0,1,1,1, - 4 runs
+1,6,0,0,0,2, - 9 runs
+0,4,2,1,1,4, - 12 runs
+0,1,1,2,2,1, - 7 runs
+W,1,0,1,0,1, - 3 runs
+Quetta Gladiators - 174/7 Islamabad United - 175/4
+2017-02-09
+W,1,0,0,0,0, - 1 runs
+0,2,0,1,4,0, - 7 runs
+4,2,0,0,6,1, - 13 runs
+0,1,1,4,1,0, - 7 runs
+2,1,6,0,4,0, - 13 runs
+4,1,4,0,1,1, - 11 runs
+Peshawar Zalmi - 190/9 Islamabad United - 175/3
+2017-02-10
+0,1,1,1,1,0, - 4 runs
+0,1,1,1,1,4,0, - 8 runs
+0,2,W,2,1,0, - 5 runs
+0,0,1,4,0,0, - 5 runs
+0,W,1,0,0,0, - 1 runs
+0,1,1,0,1,0, - 3 runs
+Quetta Gladiators - 136/9 Lahore Qalandars - 128/10
+2017-02-10
+0,0,W,1,0,1, - 2 runs
+0,0,W,2,2,0, - 4 runs
+0,0,1,0,1,0, - 2 runs
+W,0,0,4,0,0, - 4 runs
+0,0,0,W,2,1, - 3 runs
+2,4,4,1,1,1, - 13 runs
+Karachi Kings - 118/7 Peshawar Zalmi - 119/3
+2017-02-11
+1,0,0,0,1,0, - 2 runs
+0,1,0,1,2,0, - 4 runs
+0,0,2,0,1,4, - 7 runs
+4,0,4,1,4,1,1, - 15 runs
+1,0,0,1,4,0, - 6 runs
+4,1,4,4,1,0, - 14 runs
+Islamabad United - 158/7 Lahore Qalandars - 160/4
+2017-02-11
+2,0,0,0,2,1,0, - 5 runs
+0,0,0,0,1,0, - 1 runs
+0,6,0,1,4,1, - 12 runs
+4,2,4,W,1,1, - 12 runs
+1,1,1,0,0,1, - 4 runs
+1,0,W,1,0,1, - 3 runs
+Karachi Kings - 159/8 Quetta Gladiators - 160/3
+2017-02-12
+0,4,1,0,0,W, - 5 runs
+4,0,W,0,0,W, - 4 runs
+4,0,6,1,0,0, - 11 runs
+4,3,W,0,0,0, - 7 runs
+2,0,0,4,0,2, - 8 runs
+0,0,4,5,2,0,1, - 12 runs
+Lahore Qalandars - 59/10 Peshawar Zalmi - 60/7
+2017-02-15
+1,4,0,2,2,1, - 10 runs
+6,1,0,0,1,0, - 8 runs
+0,0,1,4,0,4, - 9 runs
+1,0,1,1,1,4, - 8 runs
+W,W,1,0,0,1, - 2 runs
+4,0,2,0,1,0, - 7 runs
+Quetta Gladiators - 148/6 Islamabad United - 149/5
+2017-02-16
+0,0,2,4,1,0, - 7 runs
+4,1,W,6,0,4, - 15 runs
+1,0,2,1,3,0, - 7 runs
+1,4,6,1,1,1, - 14 runs
+1,1,4,1,6,1, - 14 runs
+0,W,0,4,0,1, - 5 runs
+Lahore Qalandars - 179/8 Karachi Kings - 172/8
+2017-02-17
+5,0,4,1,0,1,0, - 11 runs
+0,0,4,0,0,0, - 4 runs
+4,2,1,0,0,0, - 7 runs
+1,1,0,4,1,1, - 8 runs
+0,2,1,0,0,1, - 4 runs
+0,1,2,4,W,0, - 7 runs
+2017-02-17
+1,W,0,0,0,4, - 5 runs
+1,1,0,1,0,0,0, - 3 runs
+0,1,0,1,0,W, - 2 runs
+1,0,1,0,1,1, - 4 runs
+1,6,0,1,0,0, - 8 runs
+6,1,0,0,1,2, - 10 runs
+Islamabad United - 90/8 Karachi Kings - 75/4
+2017-02-18
+0,4,1,0,4,4, - 13 runs
+0,0,0,1,1,4, - 6 runs
+0,1,2,4,4,1, - 12 runs
+1,0,1,1,2,6,6, - 17 runs
+4,1,6,1,1,1, - 14 runs
+0,4,0,4,1,4, - 13 runs
+Lahore Qalandars - 200/3 Quetta Gladiators - 202/5
+2017-02-18
+1,1,1,0,1,0, - 4 runs
+0,0,1,1,0,1, - 3 runs
+4,1,0,1,4,0, - 10 runs
+0,W,0,0,4,0, - 4 runs
+1,4,0,2,W,0, - 7 runs
+1,0,4,0,1,4, - 10 runs
+Peshawar Zalmi - 136/9 Islamabad United - 137/5
+2017-02-19
+0,4,4,0,0,0, - 8 runs
+1,0,4,0,6,0, - 11 runs
+2,1,0,4,0,1, - 8 runs
+4,1,0,1,2,1, - 9 runs
+1,1,1,1,4,1, - 9 runs
+0,1,1,0,0,0, - 2 runs
+Karachi Kings - 174/4 Peshawar Zalmi - 165/10
+2017-02-20
+4,0,1,0,1,0, - 6 runs
+0,2,6,1,1,0, - 10 runs
+4,1,0,2,6,1, - 14 runs
+1,1,W,1,0,0, - 3 runs
+1,1,0,1,0,0, - 3 runs
+0,0,1,W,0,0, - 1 runs
+Islamabad United - 145/8 Lahore Qalandars - 146/9
+2017-02-23
+1,0,1,0,1,0,1, - 4 runs
+0,0,1,4,0,1,4, - 10 runs
+0,4,0,1,6,0, - 11 runs
+2,1,1,2,1,3, - 10 runs
+0,6,1,0,4,0, - 11 runs
+0,1,0,2,1,0,0, - 4 runs
+Karachi Kings - 154/6 Quetta Gladiators - 158/4
+2017-02-24
+4,1,0,0,0,0, - 5 runs
+1,W,4,0,0,0,0, - 5 runs
+4,0,0,2,4,1, - 11 runs
+1,1,1,0,1,4, - 8 runs
+5,0,1,2,1,0,4, - 13 runs
+0,4,1,1,0,4, - 10 runs
+Peshawar Zalmi - 166/6 Lahore Qalandars - 149/9
+2017-02-24
+0,0,W,0,0,4, - 4 runs
+0,0,0,0,2,4, - 6 runs
+0,1,0,1,1,1, - 4 runs
+0,0,1,1,1,6, - 9 runs
+0,4,1,0,0,2, - 7 runs
+1,1,4,4,0,1, - 11 runs
+Islamabad United - 165/6 Quetta Gladiators - 164/5
+2017-02-25
+0,3,1,0,W,0, - 4 runs
+0,1,0,2,0,6, - 9 runs
+0,1,1,0,1,2,4, - 9 runs
+0,4,1,1,1,1,4,0, - 12 runs
+1,1,0,0,4,0, - 6 runs
+0,W,1,1,0,0, - 2 runs
+Lahore Qalandars - 155/6 Karachi Kings - 158/5
+2017-02-25
+2,0,0,1,0,0, - 3 runs
+W,0,1,0,W,1, - 2 runs
+0,1,0,0,0,0, - 1 runs
+4,2,0,0,0,3, - 9 runs
+0,0,2,4,1,1, - 8 runs
+1,0,0,0,2,2, - 5 runs
+Quetta Gladiators - 128/10 Peshawar Zalmi - 130/8
+2017-02-26
+4,0,0,4,0,1, - 9 runs
+4,0,1,0,0,1, - 6 runs
+0,1,0,4,2,0, - 7 runs
+0,0,4,1,1,1, - 7 runs
+4,4,W,1,1,1, - 11 runs
+1,0,1,0,0,1, - 3 runs
+Islamabad United - 123/7 Karachi Kings - 127/4
+2017-02-28
+4,0,0,4,1,4, - 13 runs
+0,0,4,4,1,1, - 10 runs
+0,0,6,1,1,W, - 8 runs
+2,2,2,1,0,1,1, - 9 runs
+1,0,0,1,1,1, - 4 runs
+4,1,1,1,6,2,0, - 15 runs
+Quetta Gladiators - 200/7 Peshawar Zalmi - 199/9
+2017-03-01
+0,0,0,0,0,0, - 0 runs
+0,0,0,0,0,0, - 0 runs
+0,4,4,4,4,2, - 18 runs
+1,0,4,1,1,0, - 7 runs
+4,4,0,0,1,1, - 10 runs
+0,0,1,6,W,0, - 7 runs
+Karachi Kings - 126/10 Islamabad United - 82/10
+2017-03-03
+4,4,0,1,0,1, - 10 runs
+0,4,0,0,4,0, - 8 runs
+0,0,0,0,1,4, - 5 runs
+0,0,2,1,1,0, - 4 runs
+1,1,4,0,0,1,0, - 7 runs
+4,1,6,1,0,1, - 13 runs
+Peshawar Zalmi - 181/3 Karachi Kings - 157/7
+2017-03-05
+1,0,4,4,0,4, - 13 runs
+0,2,1,6,2,4,0, - 15 runs
+1,1,0,4,0,0, - 6 runs
+1,0,4,1,1,0,0, - 7 runs
+0,0,1,W,4,0, - 5 runs
+1,0,0,1,4,0, - 6 runs
+Peshawar Zalmi - 148/6 Quetta Gladiators - 90/10
+2018-02-22
+0,0,1,0,0,0, - 1 runs
+0,1,0,0,1,1,W,0, - 3 runs
+1,0,4,0,1,4,0, - 10 runs
+4,4,W,0,0,0, - 8 runs
+4,0,0,0,0,0, - 4 runs
+0,2,0,0,0,1, - 3 runs
+Peshawar Zalmi - 151/6 Multan Sultans - 152/3
+2018-02-23
+1,4,0,1,0,0, - 6 runs
+1,1,4,2,1,4, - 13 runs
+1,1,0,2,1,1, - 6 runs
+1,1,1,0,1,1, - 5 runs
+0,4,W,0,0,1, - 5 runs
+0,1,0,1,1,1, - 4 runs
+Karachi Kings - 149/9 Quetta Gladiators - 130/9
+2018-02-23
+0,0,1,0,1,2, - 4 runs
+0,0,4,1,2,6, - 13 runs
+1,4,5,1,1,1,1,1, - 15 runs
+1,0,1,2,0,0, - 4 runs
+0,4,1,1,4,0, - 10 runs
+0,1,4,0,1,0,1, - 7 runs
+Multan Sultans - 179/5 Lahore Qalandars - 136/10
+2018-02-24
+0,4,0,0,0,0, - 4 runs
+0,1,0,0,0,0,1, - 2 runs
+4,0,4,0,0,1, - 9 runs
+4,6,0,4,1,6, - 21 runs
+0,4,1,0,1,1, - 7 runs
+4,6,0,4,0,0, - 14 runs
+Peshawar Zalmi - 176/6 Islamabad United - 142/9
+2018-02-24
+0,0,4,1,0,4, - 9 runs
+0,0,4,2,6,0, - 12 runs
+0,6,4,6,4,4, - 24 runs
+1,0,W,1,1,0, - 3 runs
+1,4,6,1,W,0, - 12 runs
+0,W,0,0,1,0, - 1 runs
+Lahore Qalandars - 119/9 Quetta Gladiators - 120/1
+2018-02-25
+4,1,0,0,0,0, - 5 runs
+0,1,0,0,0,2, - 3 runs
+W,0,1,0,0,0, - 1 runs
+4,1,0,1,W,0, - 6 runs
+0,1,0,1,0,1, - 3 runs
+1,W,1,0,4,0, - 6 runs
+Multan Sultans - 113/10 Islamabad United - 117/5
+2018-02-25
+0,1,0,6,4,4, - 15 runs
+0,0,1,W,0,0, - 1 runs
+1,0,4,0,1,4,1,0, - 11 runs
+W,0,4,0,0,1, - 5 runs
+0,1,0,2,0,0, - 3 runs
+0,1,0,1,0,0, - 2 runs
+Peshawar Zalmi - 131/9 Karachi Kings - 135/5
+2018-02-26
+0,0,4,1,4,0, - 9 runs
+1,4,1,1,6,0, - 13 runs
+0,0,1,4,1,0, - 6 runs
+0,0,4,0,4,W, - 8 runs
+W,0,0,0,0,0, - 0 runs
+0,0,W,1,0,2, - 3 runs
+Karachi Kings - 159/7 Lahore Qalandars - 132/10
+2018-02-28
+1,0,1,4,0,0, - 6 runs
+2,2,2,1,0,0, - 7 runs
+W,1,1,1,4,0, - 7 runs
+1,0,1,2,0,1, - 5 runs
+W,1,1,0,1,0,0, - 3 runs
+4,2,4,4,6,4, - 24 runs
+Islamabad United - 134/7 Quetta Gladiators - 135/4
+2018-03-01
+1,0,0,0,0,0, - 1 runs
+0,4,0,0,1,0, - 5 runs
+0,2,1,1,W,0, - 4 runs
+0,6,2,1,4,0, - 13 runs
+4,0,1,1,0,0, - 6 runs
+1,1,0,0,0,0, - 2 runs
+Quetta Gladiators - 141/8 Peshawar Zalmi - 143/5
+2018-03-02
+0,W,1,0,0,1, - 2 runs
+0,0,0,2,0,1, - 3 runs
+1,4,1,0,1,1, - 8 runs
+4,1,0,0,0,W, - 5 runs
+0,0,0,0,0,1, - 1 runs
+1,0,1,0,4,0, - 6 runs
+Islamabad United - 121/9 Lahore Qalandars - 121/10
+2018-03-03
+4,0,0,5,0,1,1, - 11 runs
+1,0,0,0,0,6,0, - 7 runs
+1,1,1,4,0,0, - 7 runs
+0,1,0,1,W,1, - 3 runs
+W,0,0,0,0,1, - 1 runs
+1,1,1,1,4,5,0, - 13 runs
+Quetta Gladiators - 102/10 Multan Sultans - 108/1
+2018-03-03
+0,6,4,0,4,1, - 15 runs
+0,0,4,6,0,0, - 10 runs
+1,1,0,0,0,1, - 3 runs
+6,0,0,0,1,0, - 7 runs
+0,0,1,6,W,2,4, - 13 runs
+1,0,0,0,0,4, - 5 runs
+Lahore Qalandars - 100/10 Peshawar Zalmi - 104/0
+2018-03-04
+0,0,0,1,4,0, - 5 runs
+0,0,1,W,4,0, - 5 runs
+0,0,4,1,0,1, - 6 runs
+0,1,4,0,4,0, - 9 runs
+1,1,1,1,2,0, - 6 runs
+1,0,0,0,0,0, - 1 runs
+Karachi Kings - 153/6 Islamabad United - 156/2
+2018-03-06
+0,2,2,2,0,1, - 7 runs
+1,0,1,4,1,0, - 7 runs
+0,1,0,1,0,0, - 2 runs
+0,6,0,4,1,0,4, - 15 runs
+4,1,4,0,0,0, - 9 runs
+0,1,0,0,0,0, - 1 runs
+Multan Sultans - 183/3 Peshawar Zalmi - 164/8
+2018-03-07
+W,0,0,1,0,1, - 2 runs
+0,0,1,0,0,W,0, - 1 runs
+0,0,0,1,1,1, - 3 runs
+0,1,4,6,1,2,1, - 15 runs
+2,6,0,0,0,1, - 9 runs
+0,1,0,4,0,0, - 5 runs
+Multan Sultans - 152/5 Quetta Gladiators - 156/8
+2018-03-08
+0,0,0,1,1,1, - 3 runs
+1,0,1,0,6,2, - 10 runs
+0,2,1,1,0,3,2, - 9 runs
+0,4,2,1,0,0, - 7 runs
+0,4,6,1,1,4,2, - 18 runs
+0,0,1,0,0,1, - 2 runs
+Lahore Qalandars - 163/8 Islamabad United - 164/4
+2018-03-08
+1,2,4,0,0,0, - 7 runs
+0,1,0,0,0,1, - 2 runs
+0,6,0,0,6,6, - 18 runs
+2,1,0,4,0,0, - 7 runs
+0,1,0,1,0,1, - 3 runs
+0,1,4,0,6,4, - 15 runs
+Quetta Gladiators - 180/4 Karachi Kings - 113/8
+2018-03-09
+0,0,0,4,1,0, - 5 runs
+1,0,4,0,0,4, - 9 runs
+1,0,0,0,0,1, - 2 runs
+6,0,4,0,4,1, - 15 runs
+0,4,4,1,0,1, - 10 runs
+4,0,0,1,4,4, - 13 runs
+Multan Sultans - 114/10 Lahore Qalandars - 115/4
+2018-03-09
+0,0,0,4,0,2, - 6 runs
+0,1,0,0,1,0, - 2 runs
+4,1,4,0,4,1, - 14 runs
+0,0,4,0,1,0, - 5 runs
+0,4,4,4,W,0, - 12 runs
+0,0,1,0,0,1, - 2 runs
+Islamabad United - 182/5 Peshawar Zalmi - 156/9
+2018-03-10
+0,1,0,0,0,0,0, - 1 runs
+0,0,1,1,4,2, - 8 runs
+1,1,2,4,1,0,1, - 10 runs
+0,1,1,W,1,0, - 3 runs
+0,0,1,1,4,1,1, - 8 runs
+1,0,1,0,0,0, - 2 runs
+Karachi Kings - 188/3 Multan Sultans - 125/10
+2018-03-10
+4,1,W,0,1,0, - 6 runs
+0,2,0,0,0,1, - 3 runs
+0,0,2,0,4,0, - 6 runs
+0,1,1,1,0,1, - 4 runs
+1,1,0,6,6,0, - 14 runs
+1,1,1,0,1,0, - 4 runs
+Peshawar Zalmi - 157/5 Quetta Gladiators - 158/4
+2018-03-11
+0,0,4,0,4,4, - 12 runs
+1,2,1,1,1,1, - 7 runs
+W,0,0,1,0,0, - 1 runs
+0,1,0,1,0,4, - 6 runs
+0,4,0,2,4,0, - 10 runs
+1,1,0,4,0,4, - 10 runs
+Karachi Kings - 163/5 Lahore Qalandars - 163/8
+2018-03-13
+4,1,1,0,0,4, - 10 runs
+1,0,1,6,1,0,1, - 10 runs
+1,4,6,0,0,1, - 12 runs
+0,0,1,1,4,6, - 12 runs
+1,1,0,0,0,W, - 2 runs
+0,0,0,4,4,0, - 8 runs
+Islamabad United - 185/4 Multan Sultans - 152/10
+2018-03-14
+0,1,0,0,0,4, - 5 runs
+0,4,2,0,2,0, - 8 runs
+0,1,1,1,4,0, - 7 runs
+0,1,1,1,4,4, - 11 runs
+0,6,4,1,0,0,0, - 11 runs
+1,W,6,1,1,1, - 10 runs
+Lahore Qalandars - 186/4 Quetta Gladiators - 169/6
+2018-03-15
+1,0,0,0,0,1, - 2 runs
+0,1,0,W,0,0, - 1 runs
+0,4,0,1,0,0, - 5 runs
+0,1,0,0,1,1, - 3 runs
+0,6,0,6,1,0, - 13 runs
+1,1,4,1,0,0, - 7 runs
+Peshawar Zalmi - 181/6 Karachi Kings - 137/8
+2018-03-15
+0,0,4,1,0,0, - 5 runs
+0,1,1,0,0,4, - 6 runs
+1,0,1,6,W,1, - 9 runs
+1,0,4,1,0,0,1, - 7 runs
+1,1,0,0,0,0, - 2 runs
+1,W,0,1,1,4, - 7 runs
+Quetta Gladiators - 147/7 Islamabad United - 149/4
+2018-03-16
+0,1,0,0,0,6, - 7 runs
+0,0,1,0,1,0,6, - 8 runs
+0,0,4,0,W,0, - 4 runs
+4,0,0,0,6,1, - 11 runs
+1,0,6,1,1,1,W, - 10 runs
+0,1,0,1,6,1, - 9 runs
+Lahore Qalandars - 172/4 Peshawar Zalmi - 176/3
+2018-03-16
+0,0,0,4,0,0, - 4 runs
+1,0,0,W,0,0, - 1 runs
+0,1,4,2,0,0,0, - 7 runs
+1,4,W,0,4,0, - 9 runs
+1,0,0,0,0,0, - 1 runs
+0,4,1,0,4,1, - 10 runs
+Islamabad United - 124/10 Karachi Kings - 125/3
+2018-03-18
+1,1,0,0,0,0, - 2 runs
+0,1,0,4,0,0, - 5 runs
+0,0,4,0,0,4, - 8 runs
+0,1,1,W,0,W, - 2 runs
+1,1,1,0,1,0, - 4 runs
+1,1,0,2,4,0, - 8 runs
+Karachi Kings - 154/4 Islamabad United - 155/2
+2018-03-20
+0,4,0,4,1,0,0, - 9 runs
+0,0,W,1,0,0, - 1 runs
+0,W,0,0,4,0, - 4 runs
+1,4,0,4,0,1, - 10 runs
+0,1,0,4,4,4, - 13 runs
+1,0,1,1,4,0, - 7 runs
+Peshawar Zalmi - 157/10 Quetta Gladiators - 156/9
+2018-03-21
+1,0,0,0,0,1, - 2 runs
+1,0,4,1,1,6, - 13 runs
+0,0,0,2,1,1,0, - 4 runs
+0,6,0,0,0,4, - 10 runs
+6,4,4,4,6,1, - 25 runs
+1,4,0,0,4,6, - 15 runs
+Peshawar Zalmi - 170/7 Karachi Kings - 157/2
+2018-03-25
+0,0,1,0,0,0, - 1 runs
+0,0,0,0,1,1, - 2 runs
+4,4,1,W,0,1, - 10 runs
+1,0,4,1,6,1, - 13 runs
+W,4,0,1,4,1, - 10 runs
+0,1,0,0,1,W, - 2 runs
+Peshawar Zalmi - 148/9 Islamabad United - 154/7
+2019-02-14
+4,1,1,0,3,0, - 9 runs
+0,0,0,1,7,1,0, - 9 runs
+0,0,4,1,0,1, - 6 runs
+0,6,4,1,4,0, - 15 runs
+1,1,0,4,0,0, - 6 runs
+0,1,2,1,6,1,1, - 12 runs
+Lahore Qalandars - 171/8 Islamabad United - 177/5
+2019-02-15
+1,0,1,4,1,0,1, - 8 runs
+1,1,0,0,0,2,1, - 5 runs
+2,1,1,1,4,1, - 10 runs
+1,2,1,0,6,2, - 12 runs
+1,0,1,4,4,0, - 10 runs
+1,0,0,2,4,1, - 8 runs
+Karachi Kings - 183/6 Multan Sultans - 176/9
+2019-02-15
+4,0,0,0,0,1, - 5 runs
+0,1,1,0,0,6, - 8 runs
+0,W,0,0,0,4, - 4 runs
+1,0,1,1,0,6, - 9 runs
+4,0,4,0,1,0, - 9 runs
+1,0,1,0,0,0, - 2 runs
+Peshawar Zalmi - 155/4 Quetta Gladiators - 161/4
+2019-02-16
+0,0,2,1,1,0, - 4 runs
+1,6,6,0,1,0, - 14 runs
+0,1,0,0,1,0, - 2 runs
+1,3,0,1,W,0,0, - 5 runs
+0,0,1,0,W,0, - 1 runs
+0,1,0,1,0,1, - 3 runs
+Islamabad United - 125/7 Multan Sultans - 126/5
+2019-02-16
+0,1,0,4,1,1, - 7 runs
+1,1,1,2,1,1, - 7 runs
+4,1,1,1,4,1, - 12 runs
+1,1,1,1,0,1, - 5 runs
+1,4,0,0,0,1, - 6 runs
+0,1,1,0,6,4,1, - 13 runs
+Lahore Qalandars - 138/6 Karachi Kings - 116/10
+2019-02-17
+W,0,0,0,0,W, - 0 runs
+4,0,0,0,1,1, - 6 runs
+0,0,0,0,1,1, - 2 runs
+0,W,0,0,0,1, - 1 runs
+2,0,4,6,1,2, - 15 runs
+1,0,1,4,4,4, - 14 runs
+Islamabad United - 157/8 Quetta Gladiators - 161/3
+2019-02-17
+1,0,1,0,4,0, - 6 runs
+1,0,1,4,0,1, - 7 runs
+1,0,W,0,W,0, - 1 runs
+0,0,0,4,4,0, - 8 runs
+4,1,1,4,1,0, - 11 runs
+0,4,W,1,1,W, - 6 runs
+Lahore Qalandars - 78/10 Peshawar Zalmi - 81/3
+2019-02-20
+1,0,1,1,4,4, - 11 runs
+1,1,1,0,1,1, - 5 runs
+1,0,4,0,0,1, - 6 runs
+4,4,0,4,W,1, - 13 runs
+0,1,4,0,1,0, - 6 runs
+1,0,1,4,4,0, - 10 runs
+Multan Sultans - 160/9 Quetta Gladiators - 161/2
+2019-02-21
+0,0,1,0,0,1, - 2 runs
+1,0,W,1,6,1, - 9 runs
+0,1,1,0,1,0,1, - 4 runs
+4,0,1,0,0,1, - 6 runs
+0,0,1,1,1,1, - 4 runs
+1,4,1,1,4,1,1, - 13 runs
+Peshawar Zalmi - 153/8 Karachi Kings - 109/9
+2019-02-22
+0,0,1,0,0,4, - 5 runs
+1,0,1,1,0,0, - 3 runs
+1,0,1,1,4,0,1, - 8 runs
+4,1,0,6,1,6, - 18 runs
+4,4,5,6,0,1,0, - 20 runs
+2,1,1,1,1,0, - 6 runs
+Multan Sultans - 200/6 Lahore Qalandars - 204/5
+2019-02-22
+0,4,0,1,1,0, - 6 runs
+0,0,1,0,2,0, - 3 runs
+1,6,1,0,0,1, - 9 runs
+2,1,1,1,6,1, - 12 runs
+1,1,W,0,0,1, - 3 runs
+4,0,1,0,2,0, - 7 runs
+Islamabad United - 158/9 Peshawar Zalmi - 146/10
+2019-02-23
+1,0,0,1,1,0, - 3 runs
+1,0,6,4,1,W, - 12 runs
+0,2,6,0,0,1, - 9 runs
+0,0,1,0,2,1,1, - 5 runs
+2,1,0,6,1,1, - 11 runs
+W,1,W,1,4,1,1, - 8 runs
+Lahore Qalandars - 143/7 Quetta Gladiators - 148/7
+2019-02-23
+0,1,W,4,4,0, - 9 runs
+0,0,1,1,1,4, - 7 runs
+0,1,0,1,1,0, - 3 runs
+0,W,1,0,0,1, - 2 runs
+0,4,W,0,1,1, - 6 runs
+0,1,1,0,1,4, - 7 runs
+Karachi Kings - 143/6 Islamabad United - 147/3
+2019-02-24
+1,W,1,0,0,0, - 2 runs
+0,2,0,5,1,0,0,0, - 8 runs
+1,1,1,4,0,1, - 8 runs
+0,4,1,0,1,0, - 6 runs
+6,1,1,0,0,0, - 8 runs
+6,6,4,1,6,0, - 23 runs
+Multan Sultans - 145/10 Peshawar Zalmi - 146/5
+2019-02-24
+0,1,0,1,4,0, - 6 runs
+1,1,0,1,4,1,0, - 8 runs
+W,4,0,1,0,0, - 5 runs
+1,1,1,5,0,1,1, - 10 runs
+3,6,0,6,0,1, - 16 runs
+1,0,1,1,1,4, - 8 runs
+Quetta Gladiators - 186/5 Karachi Kings - 188/4
+2019-02-26
+0,0,1,4,0,W, - 5 runs
+0,1,0,4,0,4, - 9 runs
+0,0,1,1,1,6, - 9 runs
+1,4,1,4,1,W,0, - 11 runs
+4,4,0,W,0,0, - 8 runs
+0,1,2,0,0,0, - 3 runs
+Islamabad United - 121/10 Multan Sultans - 122/4
+2019-02-27
+0,1,0,0,0,4, - 5 runs
+4,1,0,0,1,0, - 6 runs
+6,0,4,6,4,0, - 20 runs
+1,0,1,W,0,1, - 3 runs
+4,1,1,1,1,1, - 9 runs
+W,1,0,0,1,W, - 2 runs
+Quetta Gladiators - 106/10 Lahore Qalandars - 107/2
+2019-02-27
+0,4,4,0,1,1, - 10 runs
+1,4,4,0,1,1, - 11 runs
+2,W,4,0,1,0, - 7 runs
+1,1,0,6,4,1, - 13 runs
+4,0,6,1,2,0, - 13 runs
+0,1,0,4,4,4, - 13 runs
+Karachi Kings - 168/8 Islamabad United - 169/5
+2019-02-28
+1,0,4,0,4,0,1, - 10 runs
+2,0,0,1,1,6, - 10 runs
+4,0,0,0,1,0, - 5 runs
+0,6,6,1,W,1, - 14 runs
+1,4,0,1,0,1,1, - 8 runs
+2,0,4,4,4,4, - 18 runs
+Multan Sultans - 172/5 Peshawar Zalmi - 176/3
+2019-02-28
+1,4,W,1,0,4, - 10 runs
+1,4,0,0,1,0, - 6 runs
+0,0,1,0,4,1, - 6 runs
+2,0,1,1,4,1, - 9 runs
+1,0,0,0,0,1, - 2 runs
+0,4,1,0,0,4, - 9 runs
+Lahore Qalandars - 133/5 Karachi Kings - 134/5
+2019-03-01
+4,4,0,1,0,0, - 9 runs
+W,4,0,2,1,1, - 8 runs
+0,0,1,4,4,0, - 9 runs
+0,0,1,1,0,0, - 2 runs
+0,0,1,4,4,1, - 10 runs
+0,0,1,4,0,1, - 6 runs
+Islamabad United - 176/10 Peshawar Zalmi - 177/6
+2019-03-01
+2,0,1,4,0,1, - 8 runs
+0,4,W,0,0,1, - 5 runs
+0,0,2,0,0,1, - 3 runs
+0,4,4,0,0,1, - 9 runs
+1,0,0,0,4,0, - 5 runs
+0,1,1,0,1,1,1, - 5 runs
+Multan Sultans - 121/10 Quetta Gladiators - 122/4
+2019-03-04
+0,4,6,0,1,1, - 12 runs
+4,0,1,0,1,0, - 6 runs
+4,4,1,0,0,0, - 9 runs
+0,1,0,1,1,1,1, - 5 runs
+2,1,1,1,4,0, - 9 runs
+4,6,0,1,1,0, - 12 runs
+Peshawar Zalmi - 165/4 Quetta Gladiators - 166/2
+2019-03-04
+0,4,1,0,0,0, - 5 runs
+W,1,0,4,0,0, - 5 runs
+0,0,1,1,4,1, - 7 runs
+W,1,1,1,4,1, - 8 runs
+0,0,1,0,0,0, - 1 runs
+1,1,1,1,4,0,1, - 9 runs
+Multan Sultans - 118/7 Karachi Kings - 120/5
+2019-03-05
+4,1,0,0,1,2, - 8 runs
+0,4,0,W,1,0, - 5 runs
+1,4,0,W,0,0, - 5 runs
+0,2,0,0,0,0, - 2 runs
+1,0,1,0,0,0, - 2 runs
+1,1,4,0,6,1, - 13 runs
+Lahore Qalandars - 124/7 Peshawar Zalmi - 125/6
+2019-03-05
+0,0,1,1,0,0, - 2 runs
+2,4,1,4,6,4, - 21 runs
+1,0,0,W,1,2, - 4 runs
+0,1,1,0,0,1,0, - 3 runs
+4,1,1,0,4,1,4, - 15 runs
+1,1,1,0,1,4,4, - 12 runs
+Quetta Gladiators - 180/9 Islamabad United - 137/9
+2019-03-11
+0,0,0,0,1,0, - 1 runs
+1,1,4,0,4,4, - 14 runs
+0,2,4,0,1,0, - 7 runs
+4,4,0,1,4,0,0, - 13 runs
+4,1,1,1,1,6, - 14 runs
+1,0,0,6,4,1, - 12 runs
+Peshawar Zalmi - 203/7 Karachi Kings - 142/10
+2019-03-09
+W,0,4,1,4,4, - 13 runs
+4,0,1,4,6,4, - 19 runs
+0,W,0,0,1,4, - 5 runs
+4,2,0,0,6,6, - 18 runs
+6,0,1,0,1,0, - 8 runs
+4,0,1,1,0,1, - 7 runs
+Islamabad United - 238/3 Lahore Qalandars - 189/9
+2019-03-10
+0,0,0,1,1,0, - 2 runs
+0,0,1,1,0,6, - 8 runs
+4,1,0,4,2,4,0, - 15 runs
+1,1,1,1,1,1, - 6 runs
+1,0,1,4,0,1,0,1,1, - 9 runs
+1,4,1,0,4,1, - 11 runs
+Karachi Kings - 190/5 Quetta Gladiators - 189/7
+2019-03-11
+4,4,0,0,1,0, - 9 runs
+0,0,2,1,4,0, - 7 runs
+0,4,1,0,0,0, - 5 runs
+4,0,1,0,0,0, - 5 runs
+0,1,W,0,0,0, - 1 runs
+4,1,0,1,1,4, - 11 runs
+Lahore Qalandars - 140/8 Multan Sultans - 141/3
+2019-03-14
+3,1,1,4,4,4, - 17 runs
+1,1,4,1,4,4, - 15 runs
+4,4,0,1,4,0, - 13 runs
+1,6,W,0,0,4, - 11 runs
+2,1,1,0,0,1, - 5 runs
+0,1,5,0,6,1,4, - 17 runs
+Karachi Kings - 161/9 Islamabad United - 164/6
+2019-03-13
+0,0,1,1,0,1,0, - 3 runs
+W,1,0,0,1,4, - 6 runs
+1,4,1,6,6,1, - 19 runs
+0,4,0,0,1,1, - 6 runs
+1,6,4,6,1,1, - 19 runs
+1,1,1,0,0,1, - 4 runs
+Quetta Gladiators - 186/6 Peshawar Zalmi - 176/7
+2019-03-15
+4,0,0,0,0,0, - 4 runs
+4,0,1,0,1,1, - 7 runs
+1,4,4,4,0,0, - 13 runs
+4,1,0,0,2,1,1, - 9 runs
+6,4,1,6,0,1, - 18 runs
+0,1,1,1,0,4, - 7 runs
+Peshawar Zalmi - 214/5 Islamabad United - 166/9
+2019-03-17
+1,1,0,0,0,0, - 2 runs
+2,0,W,0,1,4, - 7 runs
+1,0,2,1,4,0, - 8 runs
+6,4,0,0,4,W, - 14 runs
+4,1,2,0,0,0, - 7 runs
+1,1,1,0,0,0, - 3 runs
+Peshawar Zalmi - 138/8 Quetta Gladiators - 139/2
+2020-02-20
+W,0,1,4,0,0, - 5 runs
+4,1,0,0,4,0, - 9 runs
+1,4,1,4,0,1,1, - 12 runs
+0,1,6,4,1,W,0, - 12 runs
+4,4,1,2,0,0, - 11 runs
+4,1,0,0,0,1, - 6 runs
+Islamabad United - 168/10 Quetta Gladiators - 171/7
+2020-02-21
+0,0,0,1,1,2, - 4 runs
+0,4,1,1,0,1, - 7 runs
+1,1,6,6,0,W, - 14 runs
+1,0,1,1,0,0,4, - 7 runs
+4,1,0,1,1,1, - 8 runs
+1,1,4,4,0,1,1,4,1, - 17 runs
+Karachi Kings - 201/4 Peshawar Zalmi - 191/7
+2020-02-21
+2,0,1,0,0,0,0, - 3 runs
+0,0,0,4,4,0, - 8 runs
+4,0,6,1,6,1, - 18 runs
+4,0,2,1,4,1, - 12 runs
+1,0,0,4,6,1, - 12 runs
+6,W,1,W,0,1, - 8 runs
+Lahore Qalandars - 138/8 Multan Sultans - 142/5
+2020-02-22
+0,6,1,1,1,0, - 9 runs
+0,0,0,4,0,0, - 4 runs
+1,6,0,0,0,0, - 7 runs
+4,1,4,1,1,2, - 13 runs
+0,0,0,W,1,0, - 1 runs
+0,0,0,0,1,1, - 2 runs
+Quetta Gladiators - 148/5 Peshawar Zalmi - 153/4
+2020-02-22
+0,0,0,1,1,1, - 3 runs
+1,0,1,1,0,1, - 4 runs
+0,1,0,0,1,1, - 3 runs
+0,4,1,0,4,1, - 10 runs
+1,1,0,1,4,4, - 11 runs
+4,1,1,4,W,1, - 11 runs
+Multan Sultans - 164/8 Islamabad United - 165/2
+2020-02-23
+0,0,4,4,1,0, - 9 runs
+4,0,0,0,1,1,4, - 10 runs
+0,4,2,1,0,0, - 7 runs
+4,0,0,0,1,0, - 5 runs
+0,0,0,W,0,4, - 4 runs
+1,0,1,1,0,2, - 5 runs
+Karachi Kings - 156/9 Quetta Gladiators - 157/5
+2020-02-23
+4,1,0,4,1,3,0, - 13 runs
+1,1,1,0,1,1, - 5 runs
+4,W,0,4,0,0, - 8 runs
+0,4,4,0,0,4, - 12 runs
+2,0,6,4,0,4, - 16 runs
+1,0,0,1,1,0, - 3 runs
+Lahore Qalandars - 182/6 Islamabad United - 183/9
+2020-02-26
+0,0,4,0,W,4, - 8 runs
+0,4,0,2,1,1, - 8 runs
+4,0,0,0,6,0, - 10 runs
+4,1,0,4,W,0,1, - 10 runs
+1,0,4,0,0,0, - 5 runs
+W,0,W,0,1,6, - 7 runs
+Peshawar Zalmi - 123/10 Multan Sultans - 124/4
+2020-02-27
+4,6,1,0,0,0, - 11 runs
+W,1,1,1,4,0, - 7 runs
+0,0,1,1,0,6, - 8 runs
+0,1,1,6,1,1,W, - 10 runs
+0,4,1,2,0,6,1, - 14 runs
+6,W,0,1,0,0, - 7 runs
+Islamabad United - 187/7 Quetta Gladiators - 190/5
+2020-02-28
+0,0,0,0,1,0, - 1 runs
+0,2,1,4,4,1, - 12 runs
+1,1,1,0,1,1, - 5 runs
+0,6,0,4,1,2, - 13 runs
+W,1,1,0,6,0, - 8 runs
+1,4,1,1,1,1, - 9 runs
+Multan Sultans - 186/6 Karachi Kings - 134/10
+2020-02-28
+1,0,1,1,4,1,4, - 12 runs
+4,0,0,3,4,0, - 11 runs
+2,6,0,0,1,W,4, - 13 runs
+1,6,1,6,2,2,4, - 22 runs
+6,4,1,W,1,0, - 12 runs
+6,0,6,2,1,1, - 16 runs
+Peshawar Zalmi - 132/7 Lahore Qalandars - 116/6
+2020-02-29
+1,0,0,0,0,4, - 5 runs
+4,0,1,0,0,4, - 9 runs
+1,4,1,0,0,0, - 6 runs
+1,1,1,0,W,0, - 3 runs
+1,1,4,4,0,1,1, - 12 runs
+0,0,0,4,0,0, - 4 runs
+Multan Sultans - 199/5 Quetta Gladiators - 169/7
+2020-03-01
+0,0,1,0,0,1, - 2 runs
+0,W,4,0,0,2, - 6 runs
+6,1,2,1,4,0,1,0, - 15 runs
+0,1,0,4,1,1, - 7 runs
+0,4,4,1,1,0, - 10 runs
+0,0,1,4,0,1,1, - 7 runs
+Islamabad United - 183/3 Karachi Kings - 187/5
+2020-03-02
+W,4,W,0,0,1, - 5 runs
+0,0,0,0,0,0, - 0 runs
+0,4,0,0,0,0, - 4 runs
+1,0,W,1,0,0, - 2 runs
+0,0,1,0,1,4, - 6 runs
+4,1,1,2,1,1,1, - 11 runs
+Peshawar Zalmi - 151/8 Karachi Kings - 152/4
+2020-03-03
+1,1,0,0,1,0, - 3 runs
+0,1,0,4,0,4, - 9 runs
+4,1,1,4,1,0, - 11 runs
+1,0,0,4,6,0, - 11 runs
+1,1,0,W,0,1, - 3 runs
+1,4,0,1,4,0, - 10 runs
+Lahore Qalandars - 209/5 Quetta Gladiators - 172/10
+2020-03-04
+0,1,1,1,1,0, - 4 runs
+0,2,0,0,1,1, - 4 runs
+1,6,6,1,4,4, - 22 runs
+0,1,0,1,4,1, - 7 runs
+0,0,1,1,1,0, - 3 runs
+4,1,4,0,1,0, - 10 runs
+Islamabad United - 198/3 Lahore Qalandars - 127/10
+2020-03-05
+1,0,0,1,0,0, - 2 runs
+2,4,0,1,W,1,4, - 12 runs
+4,0,0,1,0,0, - 5 runs
+1,1,1,4,1,0, - 8 runs
+6,6,W,1,0,1, - 14 runs
+0,1,1,1,1,0, - 4 runs
+Peshawar Zalmi - 170/6 Quetta Gladiators - 140/7
+2020-03-06
+2,0,0,3,1,0, - 6 runs
+0,1,1,0,0,0, - 2 runs
+1,1,0,6,1,W, - 9 runs
+0,4,1,1,0,1, - 7 runs
+0,4,2,1,2,0, - 9 runs
+1,1,2,W,W,4, - 8 runs
+2020-03-07
+0,0,6,0,W,5, - 11 runs
+4,2,0,2,0,2, - 10 runs
+4,0,1,4,4,1, - 14 runs
+0,6,0,0,0,0, - 6 runs
+W,0,1,1,4,1, - 7 runs
+0,6,0,4,1,0, - 11 runs
+Islamabad United - 195/5 Peshawar Zalmi - 85/2
+2020-03-07
+1,W,0,1,1,4,4,0, - 11 runs
+0,0,1,0,0,1, - 2 runs
+W,0,1,0,0,1, - 2 runs
+0,1,0,0,W,1, - 2 runs
+0,1,1,1,0,1, - 4 runs
+W,0,0,0,W,W, - 0 runs
+Quetta Gladiators - 98/9 Lahore Qalandars - 100/2
+2020-03-08
+1,0,1,4,0,1, - 7 runs
+1,4,1,0,6,4, - 16 runs
+0,1,2,W,2,4, - 9 runs
+6,6,6,1,0,1, - 20 runs
+1,4,W,1,1,0, - 7 runs
+1,1,4,W,2,1, - 9 runs
+Islamabad United - 91/7 Multan Sultans - 94/1
+2020-03-08
+0,1,0,1,1,1, - 4 runs
+0,0,0,1,0,0, - 1 runs
+1,0,4,W,4,0, - 9 runs
+0,4,1,1,0,0, - 6 runs
+4,0,4,4,4,1, - 17 runs
+1,1,0,1,4,4, - 11 runs
+Karachi Kings - 187/5 Lahore Qalandars - 190/2
+2020-03-10
+1,W,0,0,0,4, - 5 runs
+4,1,W,0,0,0, - 5 runs
+0,0,0,4,4,0, - 8 runs
+6,W,1,1,1,1, - 10 runs
+2,0,4,0,1,0, - 7 runs
+1,1,1,2,1,1, - 7 runs
+Peshawar Zalmi - 187/7 Lahore Qalandars - 189/5
+2020-03-12
+0,0,4,4,0,1, - 9 runs
+4,1,4,1,0,1, - 11 runs
+1,0,0,1,0,1, - 3 runs
+4,0,0,1,0,1, - 6 runs
+4,0,1,1,1,1, - 8 runs
+0,4,2,1,1,4,W, - 12 runs
+Lahore Qalandars - 150/5 Karachi Kings - 151/0
+2020-03-13
+0,4,1,0,0,0, - 5 runs
+0,1,0,4,1,1, - 7 runs
+1,0,0,4,0,1, - 6 runs
+1,2,2,0,1,1,0, - 7 runs
+4,1,1,0,0,1, - 7 runs
+W,1,1,0,1,4, - 7 runs
+Multan Sultans - 154/6 Peshawar Zalmi - 151/8
+2020-03-14
+1,1,4,0,0,0,1, - 7 runs
+1,4,0,4,1,0, - 10 runs
+0,2,1,0,4,1, - 8 runs
+4,0,0,1,0,1, - 6 runs
+0,1,1,2,W,0, - 4 runs
+6,1,1,1,2,1, - 12 runs
+Islamabad United - 136/6 Karachi Kings - 137/6
+2020-03-15
+0,1,1,0,0,W, - 2 runs
+1,1,W,4,2,1, - 9 runs
+0,2,0,1,0,0, - 3 runs
+1,1,1,1,1,1, - 6 runs
+4,0,0,0,4,0, - 8 runs
+1,0,4,1,1,1, - 8 runs
+Multan Sultans - 186/6 Lahore Qalandars - 191/1
+2020-03-15
+0,W,0,0,1,0, - 1 runs
+2,1,1,1,2,1, - 8 runs
+0,0,0,1,0,1, - 2 runs
+4,2,1,1,4,1, - 13 runs
+4,0,1,1,W,0, - 6 runs
+2,0,0,4,0,0, - 6 runs
+Karachi Kings - 150/5 Quetta Gladiators - 154/5
+2020-11-14
+0,4,4,0,0,0, - 8 runs
+0,0,2,6,1,1, - 10 runs
+1,0,W,3,1,0, - 5 runs
+0,W,1,0,0,2, - 3 runs
+1,0,1,4,1,1, - 8 runs
+0,1,1,W,1,1, - 4 runs
+Multan Sultans - 141/7 Karachi Kings - 141/8
+2020-11-14
+1,W,1,1,0,1, - 4 runs
+1,0,0,0,6,0, - 7 runs
+0,0,0,0,4,1, - 5 runs
+1,1,6,1,0,0,1, - 10 runs
+0,6,W,1,0,1, - 8 runs
+0,1,0,1,2,0, - 4 runs
+Peshawar Zalmi - 170/9 Lahore Qalandars - 171/5
+2020-11-15
+0,2,0,1,2,0,4, - 9 runs
+1,1,4,2,1,0,0, - 9 runs
+0,0,4,4,0,1, - 9 runs
+4,1,6,0,0,4, - 15 runs
+0,2,1,1,W,0, - 4 runs
+1,4,1,1,1,W,0, - 8 runs
+Lahore Qalandars - 182/6 Multan Sultans - 157/10
+2020-11-17
+0,0,0,4,0,0, - 4 runs
+1,4,1,1,0,0,1,0, - 8 runs
+1,1,1,0,1,0,1, - 5 runs
+4,4,1,0,0,1, - 10 runs
+0,1,0,1,1,0, - 3 runs
+0,0,2,1,0,4,0, - 7 runs
+Lahore Qalandars - 134/7 Karachi Kings - 135/5
+2021-02-20
+1,1,4,W,4,0, - 10 runs
+0,1,0,1,1,0, - 3 runs
+4,0,0,W,0,1,0, - 5 runs
+4,1,0,1,0,1, - 7 runs
+2,0,4,6,6,0, - 18 runs
+1,1,0,4,0,0, - 6 runs
+Quetta Gladiators - 121/10 Karachi Kings - 126/3
+2021-02-21
+W,1,0,0,0,0, - 1 runs
+0,0,0,4,4,1, - 9 runs
+0,0,1,1,1,0,0,1, - 4 runs
+0,4,W,1,W,0, - 5 runs
+0,0,0,4,2,1, - 7 runs
+0,4,1,4,1,0, - 10 runs
+Peshawar Zalmi - 140/6 Lahore Qalandars - 143/6
+2021-02-21
+0,0,0,1,0,1, - 2 runs
+1,0,1,0,W,0, - 2 runs
+0,1,0,0,1,1, - 3 runs
+4,0,1,0,4,1, - 10 runs
+0,0,1,0,6,4, - 11 runs
+0,6,1,4,0,0, - 11 runs
+Multan Sultans - 150/8 Islamabad United - 151/7
+2021-02-22
+0,0,0,1,1,2, - 4 runs
+1,1,1,0,W,0, - 3 runs
+4,1,W,4,4,0, - 13 runs
+0,0,1,1,1,1, - 4 runs
+0,1,0,0,0,0, - 1 runs
+1,1,1,1,4,1,4, - 13 runs
+Quetta Gladiators - 178/6 Lahore Qalandars - 179/1
+2021-02-23
+0,1,0,0,1,4, - 6 runs
+W,0,1,1,0,0, - 2 runs
+0,6,1,0,1,2, - 10 runs
+4,1,0,0,1,4, - 10 runs
+0,1,2,0,4,0, - 7 runs
+0,4,1,4,1,0,1, - 11 runs
+Multan Sultans - 193/4 Peshawar Zalmi - 197/4
+2021-02-24
+0,0,0,4,0,0, - 4 runs
+0,0,4,1,0,0, - 5 runs
+0,4,0,1,0,0, - 5 runs
+0,4,1,0,1,1, - 7 runs
+4,4,0,0,1,0, - 9 runs
+1,1,1,0,0,0, - 3 runs
+Karachi Kings - 196/3 Islamabad United - 197/5
+2021-02-26
+0,1,0,0,0,1, - 2 runs
+0,0,4,1,1,0, - 6 runs
+0,1,1,1,0,4,2, - 9 runs
+0,W,0,0,0,0, - 0 runs
+0,0,W,1,0,1, - 2 runs
+1,0,1,0,4,0, - 6 runs
+Lahore Qalandars - 157/6 Multan Sultans - 159/3
+2021-02-26
+4,4,1,0,0,1, - 10 runs
+1,0,0,4,0,0, - 5 runs
+W,0,0,1,0,0, - 1 runs
+0,0,2,1,1,4, - 8 runs
+0,0,1,3,0,0, - 4 runs
+6,0,0,4,0,4, - 14 runs
+Quetta Gladiators - 198/7 Peshawar Zalmi - 202/7
+2021-02-27
+4,3,1,1,0,0, - 9 runs
+0,4,0,0,4,0, - 8 runs
+4,4,1,0,1,4, - 14 runs
+1,4,6,0,4,1,1,1, - 18 runs
+4,W,0,0,0,1, - 5 runs
+1,4,1,4,4,4, - 18 runs
+Multan Sultans - 195/6 Karachi Kings - 198/3
+2021-02-27
+1,0,1,W,0,0, - 2 runs
+0,1,0,1,6,4, - 12 runs
+1,1,1,4,0,4, - 11 runs
+1,0,1,1,4,2, - 9 runs
+0,4,W,1,1,1, - 7 runs
+0,W,2,0,4,0, - 6 runs
+Islamabad United - 118/10 Peshawar Zalmi - 122/4
+2021-02-28
+4,0,4,0,0,0, - 8 runs
+1,0,0,1,1,0, - 3 runs
+1,0,1,2,5,W,0, - 9 runs
+1,0,0,0,0,4, - 5 runs
+0,6,6,0,W,W, - 12 runs
+0,6,4,6,0,0, - 16 runs
+Karachi Kings - 186/9 Lahore Qalandars - 189/4
+2021-03-02
+1,0,1,1,4,W,3, - 10 runs
+2,1,4,0,0,0,4, - 11 runs
+W,0,0,0,1,1, - 2 runs
+0,4,W,2,1,1, - 8 runs
+1,0,4,1,1,1, - 8 runs
+0,1,0,1,W,0, - 2 runs
+Quetta Gladiators - 156/7 Islamabad United - 157/4
+2021-03-03
+0,4,0,4,0,0, - 8 runs
+0,1,4,0,4,1, - 10 runs
+1,0,1,0,1,6, - 9 runs
+0,1,0,1,1,0, - 3 runs
+W,1,1,1,0,W,1,0, - 4 runs
+W,0,0,0,4,1, - 5 runs
+Peshawar Zalmi - 188/5 Karachi Kings - 191/4
+2021-03-03
+0,0,0,2,4,3, - 9 runs
+1,0,1,0,1,0, - 3 runs
+1,1,0,0,4,4, - 10 runs
+0,1,0,1,6,4, - 12 runs
+4,1,0,4,1,1, - 11 runs
+4,0,1,1,4,0, - 10 runs
+Quetta Gladiators - 176/7 Multan Sultans - 154/10
+2021-06-10
+0,1,0,1,2,W, - 4 runs
+1,1,0,0,4,0,1, - 7 runs
+2,4,4,6,4,1, - 21 runs
+4,1,0,2,1,W, - 8 runs
+0,6,1,4,2,0, - 13 runs
+0,1,0,1,4,1, - 7 runs
+Multan Sultans - 176/5 Karachi Kings - 164/7
+2021-06-10
+1,0,1,0,W,1, - 3 runs
+0,0,1,4,0,0, - 5 runs
+0,0,0,0,0,0, - 0 runs
+2,W,0,0,1,0, - 3 runs
+0,1,0,1,W,1, - 3 runs
+1,0,1,0,2,0, - 4 runs
+Lahore Qalandars - 170/8 Peshawar Zalmi - 160/8
+2021-06-09
+0,0,0,1,0,1, - 2 runs
+0,4,6,0,W,4, - 14 runs
+1,1,0,0,4,4, - 10 runs
+4,0,W,1,1,1, - 7 runs
+1,1,1,0,1,0,0,4, - 8 runs
+1,W,1,0,0,0, - 2 runs
+Islamabad United - 143/9 Lahore Qalandars - 144/5
+2021-06-11
+4,0,0,1,2,4,4, - 15 runs
+1,1,1,0,2,1,0, - 6 runs
+0,1,1,0,W,0, - 2 runs
+0,0,1,0,0,4, - 5 runs
+1,0,1,1,1,0, - 4 runs
+0,1,1,1,1,0,0, - 4 runs
+Quetta Gladiators - 133/10 Islamabad United - 137/0
+2021-06-13
+0,0,W,1,1,0,1, - 3 runs
+0,0,1,W,1,1, - 3 runs
+0,0,1,0,1,0, - 2 runs
+4,0,1,W,1,0, - 6 runs
+1,1,1,0,1,1, - 5 runs
+0,1,0,0,W,0, - 1 runs
+Islamabad United - 152/7 Lahore Qalandars - 124/10
+2021-06-12
+W,0,1,0,2,1, - 4 runs
+0,1,0,1,0,4, - 6 runs
+0,W,0,0,0,1, - 1 runs
+0,0,1,1,0,1, - 3 runs
+0,1,1,1,1,1, - 5 runs
+0,1,0,1,0,1,0, - 3 runs
+Peshawar Zalmi - 197/5 Quetta Gladiators - 136/9
+2021-06-13
+0,4,1,2,1,0, - 8 runs
+0,0,0,1,0,4, - 5 runs
+0,4,1,0,1,0, - 6 runs
+1,0,1,1,0,1,1, - 5 runs
+1,0,4,4,4,1,3,0, - 17 runs
+1,1,2,1,1,1,4, - 11 runs
+Peshawar Zalmi - 166/7 Multan Sultans - 167/2
+2021-06-14
+0,1,1,1,0,1,1,0, - 5 runs
+0,4,0,0,6,1, - 11 runs
+3,0,2,1,1,1, - 8 runs
+2,1,1,2,6,0,0, - 12 runs
+0,1,W,1,0,1, - 3 runs
+4,0,2,6,4,1, - 17 runs
+Karachi Kings - 190/4 Islamabad United - 191/2
+2021-06-15
+0,0,0,0,4,0, - 4 runs
+0,0,0,W,1,0,0, - 1 runs
+1,1,0,1,1,4,1,0, - 9 runs
+0,1,0,0,0,1, - 2 runs
+0,1,1,4,1,4,1, - 12 runs
+0,4,0,6,4,2, - 16 runs
+Quetta Gladiators - 158/5 Lahore Qalandars - 140/10
+2021-06-15
+0,1,W,0,0,4, - 5 runs
+0,0,1,0,0,0, - 1 runs
+4,1,0,0,1,W,W, - 6 runs
+6,0,2,0,0,1, - 9 runs
+1,0,2,0,1,0,0, - 4 runs
+1,1,1,1,1,0,2,1,0, - 8 runs
+Karachi Kings - 108/9 Peshawar Zalmi - 109/4
+2021-06-16
+1,0,0,2,0,0, - 3 runs
+1,0,1,4,4,0, - 10 runs
+1,0,4,0,1,2, - 8 runs
+0,1,1,1,1,1, - 5 runs
+1,1,1,4,1,4,0, - 12 runs
+1,1,2,4,4,0, - 12 runs
+Multan Sultans - 183/5 Quetta Gladiators - 73/10
+2021-06-17
+0,0,0,1,1,4, - 6 runs
+0,4,0,0,1,1, - 6 runs
+4,0,1,1,0,1, - 7 runs
+4,1,0,4,1,1,4, - 15 runs
+1,0,1,2,6,1, - 11 runs
+1,0,1,1,1,4,1, - 9 runs
+Islamabad United - 247/2 Peshawar Zalmi - 232/6
+2021-06-17
+4,1,1,1,6,0,1, - 14 runs
+0,1,0,0,4,0, - 5 runs
+0,1,1,W,1,2, - 5 runs
+1,1,0,0,1,1, - 4 runs
+0,0,1,0,6,1, - 8 runs
+2,1,1,1,1,1, - 7 runs
+Karachi Kings - 176/5 Lahore Qalandars - 169/7
+2021-06-18
+W,5,1,1,0,0,0,0, - 7 runs
+1,0,1,4,2,4, - 12 runs
+0,4,0,0,1,1, - 6 runs
+0,0,6,1,0,1, - 8 runs
+4,0,4,4,0,W, - 12 runs
+1,0,0,2,0,1,1, - 5 runs
+Multan Sultans - 169/8 Lahore Qalandars - 89/10
+2021-06-19
+1,5,0,0,1,0,0,0, - 7 runs
+0,0,6,1,0,1, - 8 runs
+0,4,0,1,0,1,2, - 8 runs
+1,0,6,1,0,4, - 12 runs
+0,0,4,0,0,0, - 4 runs
+1,0,1,0,1,0, - 3 runs
+Karachi Kings - 176/7 Quetta Gladiators - 162/6
+2021-06-19
+1,0,1,0,0,0,2,0, - 4 runs
+0,0,4,1,2,1,1, - 9 runs
+1,0,1,1,1,4,1,4, - 13 runs
+4,4,4,1,4,1, - 18 runs
+0,1,1,2,1,1,0, - 6 runs
+2,0,4,0,1,0,4, - 11 runs
+Multan Sultans - 149/10 Islamabad United - 150/6
+2021-06-21
+0,4,0,0,1,0, - 5 runs
+0,1,0,W,0,0, - 1 runs
+1,4,1,1,4,4, - 15 runs
+0,1,0,6,1,0, - 8 runs
+0,1,0,0,2,0, - 3 runs
+6,0,0,4,2,0, - 12 runs
+Multan Sultans - 180/5 Islamabad United - 149/10
+2021-06-21
+0,0,1,4,0,4, - 9 runs
+0,0,0,0,4,4, - 8 runs
+0,1,1,1,1,1, - 5 runs
+1,1,0,0,0,1, - 3 runs
+1,0,4,4,1,0, - 10 runs
+4,1,1,0,W,0, - 6 runs
+Karachi Kings - 175/7 Peshawar Zalmi - 176/5
+2021-06-22
+0,1,0,W,4,2, - 7 runs
+1,1,2,0,4,W, - 8 runs
+4,0,4,0,4,0, - 12 runs
+0,1,1,1,1,0, - 4 runs
+1,4,1,0,1,0, - 7 runs
+4,6,4,4,1,0, - 19 runs
+Islamabad United - 174/9 Peshawar Zalmi - 177/2
+2021-06-24
+1,0,0,0,0,0,0, - 1 runs
+1,1,0,4,0,0, - 6 runs
+2,0,1,0,1,1,0, - 5 runs
+4,0,0,6,0,0, - 10 runs
+4,4,1,1,4,1, - 15 runs
+0,1,1,1,1,1, - 5 runs
+Multan Sultans - 206/4 Peshawar Zalmi - 159/9
+2022-01-27
+1,0,0,1,0,1, - 3 runs
+1,1,1,1,1,4, - 9 runs
+4,0,1,1,6,0, - 12 runs
+1,0,1,0,0,0, - 2 runs
+1,1,1,1,4,0, - 8 runs
+1,0,4,1,0,1, - 7 runs
+Karachi Kings - 124/5 Multan Sultans - 126/3
+2022-01-28
+1,4,0,1,0,4, - 10 runs
+0,6,4,0,0,0, - 10 runs
+0,4,1,1,1,1,4, - 12 runs
+0,1,4,0,1,4, - 10 runs
+0,0,4,1,1,0, - 6 runs
+4,1,1,0,2,6, - 14 runs
+Quetta Gladiators - 190/4 Peshawar Zalmi - 191/5
+2022-01-29
+0,1,0,1,0,4, - 6 runs
+1,1,1,6,4,4, - 17 runs
+4,1,1,0,0,0, - 6 runs
+2,0,4,2,1,1, - 10 runs
+0,2,4,0,4,0, - 10 runs
+4,4,4,1,1,4, - 18 runs
+Lahore Qalandars - 206/5 Multan Sultans - 209/5
+2022-01-29
+4,4,0,0,0,1, - 9 runs
+1,0,0,4,1,0, - 6 runs
+0,1,W,0,2,W, - 3 runs
+4,1,2,1,0,0, - 8 runs
+W,W,0,0,4,0, - 4 runs
+1,1,1,0,0,0, - 3 runs
+Karachi Kings - 113/10 Quetta Gladiators - 114/2
+2022-01-30
+0,0,W,4,0,4, - 8 runs
+4,1,0,0,0,4, - 9 runs
+0,0,0,4,4,1, - 9 runs
+W,0,0,1,0,0, - 1 runs
+1,1,1,0,0,1, - 4 runs
+0,0,W,0,4,0, - 4 runs
+Peshawar Zalmi - 168/6 Islamabad United - 172/1
+2022-01-30
+1,4,0,4,0,0,4, - 13 runs
+1,4,0,0,4,0, - 9 runs
+1,1,0,0,4,1, - 7 runs
+0,0,0,1,4,1,1, - 7 runs
+0,0,0,4,1,0, - 5 runs
+0,4,1,1,1,0, - 7 runs
+Karachi Kings - 170/7 Lahore Qalandars - 174/4
+2022-01-31
+4,2,0,0,1,0, - 7 runs
+4,1,W,1,0,0, - 6 runs
+0,1,1,1,4,0, - 7 runs
+1,0,1,0,0,0,4, - 6 runs
+3,6,1,0,1,1, - 12 runs
+1,0,1,0,1,1,4, - 8 runs
+Multan Sultans - 174/4 Quetta Gladiators - 168/10
+2022-02-01
+4,1,0,1,0,0, - 6 runs
+1,4,0,0,0,0, - 5 runs
+1,0,0,1,1,4, - 7 runs
+0,0,4,4,0,0, - 8 runs
+4,0,0,0,W,0, - 4 runs
+0,1,1,4,6,1,0, - 13 runs
+Multan Sultans - 217/5 Islamabad United - 197/10
+2022-02-02
+1,4,1,1,1,2, - 10 runs
+4,0,4,0,1,1, - 10 runs
+0,0,1,6,2,2, - 11 runs
+0,2,1,0,1,1, - 5 runs
+6,4,1,0,1,4,1, - 17 runs
+4,2,0,0,1,1, - 8 runs
+Lahore Qalandars - 199/4 Peshawar Zalmi - 170/9
+2022-02-03
+0,6,0,4,0,0, - 10 runs
+5,4,0,1,4,0,1, - 15 runs
+6,0,2,4,4,0, - 16 runs
+1,1,4,4,4,W, - 14 runs
+1,0,4,2,1,1, - 9 runs
+1,6,4,1,1,4, - 17 runs
+Islamabad United - 229/4 Quetta Gladiators - 186/10
+2022-02-04
+0,0,0,0,0,4, - 4 runs
+0,0,0,1,0,1, - 2 runs
+1,4,0,0,0,0,1, - 6 runs
+6,6,4,1,4,0,0, - 21 runs
+4,1,1,1,1,1, - 9 runs
+1,4,5,1,0,W, - 11 runs
+Peshawar Zalmi - 173/4 Karachi Kings - 164/6
+2022-02-05
+0,5,1,1,4,0,6, - 17 runs
+1,1,4,1,1,1, - 9 runs
+1,4,1,4,4,1, - 15 runs
+0,1,1,4,4,1,1, - 12 runs
+0,1,4,1,1,1, - 8 runs
+0,1,0,4,1,4,2, - 12 runs
+Lahore Qalandars - 174/9 Islamabad United - 166/5
+2022-02-05
+4,0,0,4,1,2, - 11 runs
+1,0,2,0,1,1,1, - 6 runs
+1,1,4,0,1,1, - 8 runs
+1,1,4,0,4,1, - 11 runs
+3,1,4,4,1,1, - 14 runs
+1,1,1,0,4,4, - 11 runs
+Multan Sultans - 222/3 Peshawar Zalmi - 165/8
+2022-02-06
+0,1,0,1,4,6, - 12 runs
+4,0,4,0,0,1, - 9 runs
+1,0,1,1,2,0, - 5 runs
+1,4,1,1,0,1, - 8 runs
+0,0,0,2,0,1, - 3 runs
+0,4,6,1,4,1, - 16 runs
+Islamabad United - 177/6 Karachi Kings - 135/9
+2022-02-07
+1,4,1,1,0,1, - 8 runs
+0,0,0,0,2,0, - 2 runs
+1,1,1,0,1,4, - 8 runs
+0,6,1,1,1,0, - 9 runs
+0,6,1,0,1,2, - 10 runs
+1,1,0,1,2,1,1, - 7 runs
+Lahore Qalandars - 204/5 Quetta Gladiators - 207/3
+2022-02-10
+1,1,1,0,0,4, - 7 runs
+2,4,0,0,1,0, - 7 runs
+4,4,1,0,1,0, - 10 runs
+1,4,4,4,0,0, - 13 runs
+1,4,0,4,0,0, - 9 runs
+1,0,1,1,0,4, - 7 runs
+Multan Sultans - 182/7 Peshawar Zalmi - 140/10
+2022-02-11
+0,1,0,4,W,0, - 5 runs
+1,0,1,0,4,4, - 10 runs
+0,1,4,1,0,0, - 6 runs
+0,4,1,4,0,1,4, - 14 runs
+1,4,1,2,1,1, - 10 runs
+1,0,4,4,1,1, - 11 runs
+Lahore Qalandars - 182/4 Multan Sultans - 130/10
+2022-02-12
+0,0,2,1,1,6, - 10 runs
+0,1,0,1,4,1, - 7 runs
+0,0,0,1,1,2, - 4 runs
+1,6,0,0,4,1, - 12 runs
+6,1,4,0,4,W, - 15 runs
+1,1,6,1,0,1,0, - 10 runs
+Islamabad United - 199/8 Quetta Gladiators - 203/5
+2022-02-13
+1,6,0,1,0,1, - 9 runs
+1,2,5,6,0,0,0, - 14 runs
+4,0,0,0,0,1, - 5 runs
+0,1,0,4,2,4, - 11 runs
+1,0,0,1,1,1, - 4 runs
+2,1,4,1,0,0, - 8 runs
+Peshawar Zalmi - 193/6 Karachi Kings - 138/6
+2022-02-13
+0,W,W,0,1,0, - 1 runs
+0,1,1,1,1,1,1, - 6 runs
+4,0,4,1,0,4, - 13 runs
+W,0,1,0,1,0,1, - 3 runs
+1,1,0,0,W,1, - 3 runs
+4,4,0,0,4,1, - 13 runs
+Quetta Gladiators - 141/7 Lahore Qalandars - 143/2
+2022-02-14
+6,0,6,0,W,1, - 13 runs
+5,0,4,0,1,0,1,1, - 12 runs
+0,0,0,1,0,0, - 1 runs
+W,0,1,1,4,1, - 7 runs
+0,0,4,1,1,0, - 6 runs
+1,2,0,1,0,4, - 8 runs
+Islamabad United - 191/7 Karachi Kings - 190/8
+2022-02-15
+0,0,1,0,0,4, - 5 runs
+W,1,0,W,4,0,1, - 6 runs
+4,0,0,1,0,0, - 5 runs
+4,1,0,4,1,1, - 11 runs
+4,1,4,4,0,4, - 17 runs
+1,4,1,0,1,2, - 9 runs
+Peshawar Zalmi - 185/7 Quetta Gladiators - 161/8
+2022-02-16
+0,1,0,1,1,1, - 4 runs
+1,W,4,0,2,0,1,0, - 8 runs
+0,1,0,0,2,4, - 7 runs
+0,4,0,2,0,1,2, - 9 runs
+4,1,1,0,1,0, - 7 runs
+2,1,0,0,0,1,1, - 5 runs
+Karachi Kings - 174/6 Multan Sultans - 176/3
+2022-02-17
+1,0,6,1,0,0, - 8 runs
+6,4,4,4,0,4, - 22 runs
+1,1,1,2,6,0, - 11 runs
+1,0,2,1,2,0,6, - 12 runs
+4,1,1,0,4,1,4, - 15 runs
+4,0,1,W,1,0, - 6 runs
+Peshawar Zalmi - 206/8 Islamabad United - 196/7
+2022-02-18
+4,1,0,2,0,0, - 7 runs
+0,2,1,4,1,0, - 8 runs
+0,1,1,0,4,1, - 7 runs
+1,4,0,0,6,4, - 15 runs
+0,4,1,1,0,6, - 12 runs
+2,1,1,1,2,6,1,1, - 15 runs
+Multan Sultans - 245/3 Quetta Gladiators - 128/10
+2022-02-18
+4,1,1,0,1,0,0, - 7 runs
+4,1,W,4,1,0, - 10 runs
+4,0,1,2,0,W, - 7 runs
+0,0,0,0,0,0, - 0 runs
+4,0,0,4,1,2, - 11 runs
+0,4,1,0,1,6, - 12 runs
+Karachi Kings - 149/10 Lahore Qalandars - 127/9
+2022-02-19
+2,0,1,1,1,1, - 6 runs
+W,0,W,0,0,1, - 1 runs
+1,4,W,0,0,1, - 6 runs
+0,0,1,0,1,2, - 4 runs
+1,4,4,1,4,6, - 20 runs
+1,0,4,4,1,1, - 11 runs
+Lahore Qalandars - 197/6 Islamabad United - 131/9
+2022-02-20
+1,0,0,4,0,0, - 5 runs
+0,4,0,1,1,4, - 10 runs
+4,0,1,1,0,W, - 6 runs
+0,4,4,1,1,0, - 10 runs
+0,1,4,4,0,1, - 10 runs
+0,1,0,4,0,0, - 5 runs
+Quetta Gladiators - 166/4 Karachi Kings - 143/8
+2022-02-20
+1,0,1,0,1,0, - 3 runs
+0,1,1,1,1,2, - 6 runs
+0,0,W,0,0,0, - 0 runs
+1,4,4,4,1,1, - 15 runs
+2,0,1,4,4,1, - 12 runs
+W,1,1,0,1,2, - 5 runs
+Islamabad United - 105/7 Multan Sultans - 111/4
+2022-02-21
+1,2,0,4,0,0, - 7 runs
+1,1,4,0,W,0, - 6 runs
+1,2,1,0,6,4,1,1, - 16 runs
+1,0,1,4,4,2,0, - 12 runs
+2,1,1,1,0,1,1,1, - 8 runs
+W,1,1,0,0,0, - 2 runs
+Peshawar Zalmi - 158/7 Lahore Qalandars - 158/8
+2022-02-23
+0,0,1,1,1,0, - 3 runs
+W,1,0,0,1,1, - 3 runs
+4,0,0,1,1,4, - 10 runs
+0,2,0,4,2,1,0, - 9 runs
+4,1,4,1,1,0,4, - 15 runs
+1,0,2,0,1,1, - 5 runs
+Multan Sultans - 163/2 Lahore Qalandars - 135/9
+2022-02-24
+1,1,6,1,2,4, - 15 runs
+0,0,0,4,0,1, - 5 runs
+0,0,0,1,1,4, - 6 runs
+0,0,4,W,0,1, - 5 runs
+1,1,1,1,0,0, - 4 runs
+4,0,1,4,1,1, - 11 runs
+Peshawar Zalmi - 169/5 Islamabad United - 170/5
+2022-02-25
+0,1,1,W,1,0, - 3 runs
+1,0,1,0,2,0, - 4 runs
+0,0,W,0,0,0, - 0 runs
+1,0,0,0,0,1, - 2 runs
+1,6,1,4,1,1, - 14 runs
+6,1,1,1,4,0, - 13 runs
+Lahore Qalandars - 168/7 Islamabad United - 162/10
+2022-02-27
+1,0,0,0,0,4, - 5 runs
+1,0,1,0,1,4, - 7 runs
+0,W,4,1,3,1, - 9 runs
+1,1,W,1,1,0, - 4 runs
+0,W,0,0,0,1, - 1 runs
+4,1,1,4,4,1, - 15 runs
+Lahore Qalandars - 180/5 Multan Sultans - 138/10

@@ -1,0 +1,3262 @@
+2015-12-18
+0,0,0,1,0,1, - 2 runs
+0,1,0,0,W,0, - 1 runs
+0,0,1,1,0,0, - 2 runs
+2,1,0,0,1,0, - 4 runs
+1,0,4,0,0,2, - 7 runs
+W,0,1,0,0,0, - 1 runs
+Sydney Sixers - 101/9 Melbourne Stars - 104/1
+2015-12-19
+4,1,0,0,1,0, - 6 runs
+1,0,0,2,1,0, - 4 runs
+4,0,1,4,W,0, - 9 runs
+1,1,0,0,0,W,0, - 2 runs
+0,0,4,1,0,0, - 5 runs
+1,1,1,1,0,0,1, - 5 runs
+Adelaide Strikers - 125/9 Brisbane Heat - 128/2
+2015-12-19
+1,0,0,0,1,0,0, - 2 runs
+0,0,1,0,0,0, - 1 runs
+0,4,0,W,0,0, - 4 runs
+1,0,1,0,0,1, - 3 runs
+0,0,0,0,1,1, - 2 runs
+0,4,0,0,1,0, - 5 runs
+Sydney Sixers - 80/9 Melbourne Stars - 81/3
+2015-12-26
+0,0,0,0,0,0, - 0 runs
+0,0,0,0,2,1, - 3 runs
+0,0,4,1,0,1, - 6 runs
+0,1,0,4,1,4, - 10 runs
+0,0,1,0,2,0, - 3 runs
+0,0,4,0,4,0, - 8 runs
+Melbourne Stars - 102/6 Perth Scorchers - 103/4
+2015-12-27
+0,0,0,1,1,0, - 2 runs
+1,4,0,0,4,1, - 10 runs
+2,4,0,0,2,1, - 9 runs
+W,1,0,1,4,1, - 7 runs
+0,1,1,1,1,0, - 4 runs
+0,1,0,0,W,0, - 1 runs
+Melbourne Stars - 127/6 Perth Scorchers - 130/2
+2015-12-31
+1,1,0,0,0,0, - 2 runs
+1,0,0,1,1,1,2,1, - 7 runs
+1,4,4,4,4,1, - 18 runs
+2,1,0,0,1,0, - 4 runs
+1,0,4,0,0,4,0, - 9 runs
+1,0,0,2,4,0, - 7 runs
+Adelaide Strikers - 135/6 Perth Scorchers - 100/10
+2016-01-15
+1,0,1,0,2,0,0, - 4 runs
+0,4,0,1,2,0,1, - 8 runs
+4,1,1,4,1,0, - 11 runs
+0,W,0,4,0,W, - 4 runs
+1,0,1,1,1,4,0, - 8 runs
+0,0,1,1,0,1, - 3 runs
+Sydney Sixers - 98/7 Hobart Hurricanes - 74/7
+2016-01-17
+0,1,0,0,1,4, - 6 runs
+0,W,0,0,0,1, - 1 runs
+4,4,1,0,W,0, - 9 runs
+4,0,W,0,0,0, - 4 runs
+1,4,0,1,1,0, - 7 runs
+0,0,1,0,0,0, - 1 runs
+Melbourne Renegades - 108/8 Perth Scorchers - 111/1
+2016-01-21
+0,0,0,0,1,0, - 1 runs
+0,0,1,1,1,0, - 3 runs
+0,4,0,1,1,0, - 6 runs
+0,6,1,0,4,1, - 12 runs
+0,1,1,1,5,0,0, - 8 runs
+W,0,0,1,0,0, - 1 runs
+Sydney Thunder - 118/6 Perth Scorchers - 110/9
+2016-01-22
+1,W,0,1,0,0, - 2 runs
+4,0,0,0,0,0, - 4 runs
+1,1,2,3,4,4, - 15 runs
+0,0,0,4,4,1, - 9 runs
+W,0,0,1,0,0, - 1 runs
+0,4,1,1,4,1, - 11 runs
+Hobart Hurricanes - 86/8 Sydney Sixers - 55/0
+2016-12-10
+0,1,1,4,1,2,0, - 9 runs
+1,0,0,2,1,W, - 4 runs
+1,0,1,1,4,1,0,W, - 8 runs
+0,0,W,0,0,0, - 0 runs
+W,0,0,1,0,0, - 1 runs
+1,4,4,0,1,0, - 10 runs
+Adelaide Strikers - 116/10 Melbourne Renegades - 102/10
+2016-12-11
+0,0,0,0,1,0, - 1 runs
+0,0,0,0,0,0, - 0 runs
+0,4,0,0,2,0, - 6 runs
+0,1,0,0,0,0, - 1 runs
+0,1,0,2,2,1,4, - 10 runs
+0,W,0,2,4,W, - 6 runs
+Adelaide Strikers - 128/6 Melbourne Renegades - 131/3
+2016-12-11
+0,0,0,0,4,0, - 4 runs
+1,0,0,1,0,0, - 2 runs
+0,0,1,0,4,0, - 5 runs
+4,1,0,0,0,0, - 5 runs
+0,2,1,4,4,1, - 12 runs
+0,1,1,4,0,4, - 10 runs
+Perth Scorchers - 142/4 Hobart Hurricanes - 125/9
+2016-12-13
+0,1,0,0,0,0,2, - 3 runs
+0,0,1,0,4,1, - 6 runs
+1,1,0,1,0,0,4, - 7 runs
+1,0,1,4,1,0, - 7 runs
+1,1,1,W,1,0, - 4 runs
+1,0,4,0,W,0, - 5 runs
+Melbourne Stars - 116/9 Sydney Thunder - 121/2
+2016-12-17
+0,W,1,1,4,0,0,0, - 6 runs
+0,1,0,3,0,1, - 5 runs
+0,0,0,W,0,1, - 1 runs
+0,1,0,0,4,0, - 5 runs
+0,4,0,0,1,1, - 6 runs
+0,0,0,0,0,4, - 4 runs
+Hobart Hurricanes - 133/4 Melbourne Renegades - 130/5
+2016-12-17
+0,4,0,1,W,0, - 5 runs
+0,W,0,0,0,0, - 0 runs
+0,0,0,W,0,2, - 2 runs
+0,0,2,2,4,1,2, - 11 runs
+1,0,1,1,1,1, - 5 runs
+1,0,1,2,0,1,2, - 7 runs
+Sydney Sixers - 122/8 Melbourne Stars - 124/3
+2016-12-17
+0,1,0,0,1,1, - 3 runs
+0,0,0,2,0,1, - 3 runs
+0,1,1,0,1,2, - 5 runs
+W,1,0,0,2,2, - 5 runs
+4,0,0,0,0,2,0, - 6 runs
+1,1,W,1,0,1,0,0, - 4 runs
+Sydney Thunder - 102/5 Adelaide Strikers - 103/4
+2016-12-17
+0,0,0,1,1,0, - 2 runs
+1,3,0,4,0,0,1, - 9 runs
+0,0,W,0,0,0, - 0 runs
+0,1,1,1,0,0, - 3 runs
+0,0,0,0,4,0, - 4 runs
+0,1,1,0,1,0,4,0, - 7 runs
+Brisbane Heat - 101/9 Perth Scorchers - 102/2
+2016-12-18
+1,0,4,0,0,2, - 7 runs
+0,0,0,4,0,0, - 4 runs
+1,1,2,W,0,1,0, - 5 runs
+2,0,0,0,1,0, - 3 runs
+0,0,0,0,1,0, - 1 runs
+W,0,0,0,4,0, - 4 runs
+Hobart Hurricanes - 121/5 Melbourne Renegades - 121/6
+2016-12-18
+0,4,0,0,4,0, - 8 runs
+0,1,1,1,0,W, - 3 runs
+0,0,0,0,2,W, - 2 runs
+0,0,0,0,W,0, - 0 runs
+2,0,4,0,1,1, - 8 runs
+0,0,2,0,0,0, - 2 runs
+Sydney Sixers - 111/8 Melbourne Stars - 115/3
+2016-12-26
+0,0,0,0,3,1, - 4 runs
+1,0,0,0,4,1,1,0, - 7 runs
+1,0,0,0,0,1, - 2 runs
+0,1,0,1,0,0,1, - 3 runs
+0,0,0,6,0,4, - 10 runs
+1,0,1,4,2,2, - 10 runs
+Melbourne Stars - 148/2 Brisbane Heat - 94/7
+2016-12-27
+0,0,1,1,0,1, - 3 runs
+0,1,1,1,0,1, - 4 runs
+0,1,0,2,0,4, - 7 runs
+0,3,1,1,0,0, - 5 runs
+1,0,1,1,0,2, - 5 runs
+0,0,0,0,0,1, - 1 runs
+Brisbane Heat - 129/5 Melbourne Stars - 124/6
+2016-12-28
+1,1,0,1,0,1, - 4 runs
+0,0,1,0,4,4, - 9 runs
+1,0,0,1,0,1, - 3 runs
+4,4,4,0,0,0, - 12 runs
+0,1,1,1,0,0, - 3 runs
+4,4,0,0,1,0, - 9 runs
+Sydney Sixers - 164/3 Sydney Thunder - 131/7
+2016-12-29
+1,1,1,0,4,1, - 8 runs
+0,0,1,0,0,0, - 1 runs
+0,0,0,0,1,0,0, - 1 runs
+0,0,0,0,1,W, - 1 runs
+1,0,0,0,0,0, - 1 runs
+2,0,0,0,1,4, - 7 runs
+Hobart Hurricanes - 106/8 Sydney Sixers - 110/3
+2016-12-31
+1,2,0,1,0,1, - 5 runs
+0,0,0,0,W,0, - 0 runs
+0,W,1,0,W,1, - 2 runs
+0,0,0,1,0,1, - 2 runs
+0,4,0,0,0,0, - 4 runs
+0,0,1,0,0,1, - 2 runs
+Adelaide Strikers - 82/9 Perth Scorchers - 85/4
+2017-01-01
+0,1,0,0,0,0, - 1 runs
+2,1,0,1,3,1, - 8 runs
+2,0,1,0,0,1,0, - 4 runs
+1,1,4,4,0,1, - 11 runs
+1,0,0,2,0,0, - 3 runs
+2,0,0,1,1,2, - 6 runs
+Melbourne Stars - 127/3 Melbourne Renegades - 52/1
+2017-01-02
+1,1,0,0,0,1, - 3 runs
+0,1,0,0,1,0,0, - 2 runs
+0,0,2,1,2,1,0, - 6 runs
+1,4,0,1,6,4, - 16 runs
+1,1,0,0,1,2, - 5 runs
+4,1,4,0,0,1, - 10 runs
+Sydney Sixers - 161/3 Adelaide Strikers - 142/5
+2017-01-02
+1,0,0,1,1,0, - 3 runs
+0,4,1,0,4,0, - 9 runs
+4,1,W,1,1,0, - 7 runs
+1,0,4,1,0,0, - 6 runs
+0,0,1,0,0,4, - 5 runs
+1,0,0,0,0,0, - 1 runs
+Sydney Thunder - 132/8 Brisbane Heat - 129/9
+2017-01-03
+0,0,0,1,1,0, - 2 runs
+0,0,0,1,0,0, - 1 runs
+0,1,4,0,0,0, - 5 runs
+0,0,0,4,2,W,0, - 6 runs
+0,0,1,0,0,0, - 1 runs
+1,0,0,4,0,0, - 5 runs
+Adelaide Strikers - 94/10 Sydney Sixers - 97/6
+2017-01-04
+0,0,0,0,0,4, - 4 runs
+1,0,1,3,0,0, - 5 runs
+0,0,0,4,0,0, - 4 runs
+1,W,0,1,0,4, - 6 runs
+0,0,0,W,0,0, - 0 runs
+0,0,1,0,1,1, - 3 runs
+Perth Scorchers - 131/7 Melbourne Renegades - 132/5
+2017-01-05
+2,0,1,0,0,0, - 3 runs
+1,4,4,0,0,1,0, - 10 runs
+2,2,6,0,6,0, - 16 runs
+0,0,0,1,0,0, - 1 runs
+1,1,0,1,3,1,0, - 7 runs
+1,4,1,0,1,W, - 7 runs
+Hobart Hurricanes - 171/3 Sydney Thunder - 127/9
+2017-01-07
+4,1,0,0,0,0, - 5 runs
+1,0,0,0,2,0, - 3 runs
+0,1,0,0,1,2,1, - 5 runs
+1,1,1,0,2,3, - 8 runs
+2,0,4,2,0,0, - 8 runs
+0,4,0,2,0,W, - 6 runs
+Melbourne Stars - 127/7 Melbourne Renegades - 128/5
+2017-01-10
+1,0,0,0,1,1, - 3 runs
+0,1,0,0,4,W, - 5 runs
+1,1,4,0,0,1, - 7 runs
+0,1,1,0,0,1,1, - 4 runs
+0,0,1,0,0,0, - 1 runs
+0,0,1,0,4,0, - 5 runs
+Adelaide Strikers - 94/9 Melbourne Stars - 96/4
+2017-01-08
+1,3,0,0,0,1,4, - 9 runs
+1,1,0,1,4,2,2, - 11 runs
+0,4,1,0,0,0, - 5 runs
+1,1,0,1,1,1, - 5 runs
+2,0,4,1,0,4, - 11 runs
+0,1,0,1,1,1, - 4 runs
+Brisbane Heat - 153/2 Hobart Hurricanes - 138/8
+2017-01-09
+0,1,1,1,0,W,0, - 3 runs
+4,0,1,4,0,0, - 9 runs
+1,0,4,1,1,1,0, - 8 runs
+1,1,0,0,1,0, - 3 runs
+0,W,0,4,1,3, - 8 runs
+4,1,1,0,W,1, - 7 runs
+Brisbane Heat - 122/10 Hobart Hurricanes - 123/2
+2017-01-09
+0,4,0,0,1,4, - 9 runs
+0,0,0,0,0,0, - 0 runs
+0,2,0,0,1,0, - 3 runs
+W,1,0,0,0,0, - 1 runs
+0,0,1,0,1,W, - 2 runs
+0,0,0,0,3,1, - 4 runs
+Perth Scorchers - 129/9 Sydney Sixers - 133/6
+2017-01-13
+0,0,1,0,2,0, - 3 runs
+0,2,1,2,1,1,0, - 7 runs
+4,0,1,4,2,1, - 12 runs
+1,4,0,2,0,1,0, - 8 runs
+W,0,0,0,0,0, - 0 runs
+2,1,2,1,0,2,0, - 8 runs
+Melbourne Stars - 125/10 Adelaide Strikers - 88/10
+2017-01-13
+0,0,2,4,0,1, - 7 runs
+0,0,0,4,0,W, - 4 runs
+0,1,0,1,0,1,1, - 4 runs
+0,0,0,0,0,0, - 0 runs
+0,0,1,1,1,0, - 3 runs
+W,0,0,1,1,1, - 3 runs
+Sydney Sixers - 134/6 Hobart Hurricanes - 118/8
+2017-01-14
+0,1,0,0,1,4, - 6 runs
+1,1,1,0,1,1,4,0, - 9 runs
+0,0,4,1,0,1, - 6 runs
+1,0,1,0,1,0, - 3 runs
+0,4,1,0,1,4, - 10 runs
+W,4,1,0,0,4, - 9 runs
+Adelaide Strikers - 120/6 Perth Scorchers - 122/3
+2017-01-14
+0,0,0,0,0,2, - 2 runs
+4,0,0,0,0,5,0, - 9 runs
+0,W,W,0,1,0, - 1 runs
+1,0,1,4,4,2, - 12 runs
+1,0,1,0,2,0, - 4 runs
+1,0,0,4,1,W,W, - 6 runs
+Melbourne Renegades - 102/10 Brisbane Heat - 105/5
+2017-01-14
+1,4,0,W,1,0,0, - 6 runs
+0,1,0,1,1,0, - 3 runs
+1,0,1,1,1,0,1, - 5 runs
+0,0,0,3,1,0, - 4 runs
+1,1,2,0,1,0, - 5 runs
+1,1,1,4,0,0, - 7 runs
+Sydney Sixers - 138/7 Sydney Thunder - 138/6
+2017-01-15
+0,1,0,0,1,0,0, - 2 runs
+1,0,1,1,6,1, - 10 runs
+0,0,W,1,0,0, - 1 runs
+1,1,2,2,4,1, - 11 runs
+0,0,4,0,0,0, - 4 runs
+0,W,1,W,1,2, - 4 runs
+Perth Scorchers - 130/4 Melbourne Stars - 97/9
+2017-01-16
+4,0,0,1,W,0, - 5 runs
+2,4,0,4,1,0, - 11 runs
+0,1,0,0,0,0,0, - 1 runs
+0,0,0,3,0,0, - 3 runs
+0,1,4,4,0,4, - 13 runs
+0,4,1,0,1,0, - 6 runs
+Sydney Thunder - 115/9 Hobart Hurricanes - 117/4
+2017-01-20
+1,0,0,0,1,0, - 2 runs
+1,0,4,1,2,0,1, - 9 runs
+1,1,0,1,0,0, - 3 runs
+W,0,W,0,0,1, - 1 runs
+4,0,1,1,0,0, - 6 runs
+0,0,0,0,2,4, - 6 runs
+Adelaide Strikers - 139/5 Brisbane Heat - 142/1
+2017-01-20
+0,1,0,0,4,0, - 5 runs
+0,1,1,0,0,0, - 2 runs
+0,1,4,1,0,1, - 7 runs
+1,1,0,1,4,0, - 7 runs
+1,1,0,6,6,1, - 15 runs
+0,1,1,2,2,0, - 6 runs
+Perth Scorchers - 149/5 Sydney Thunder - 145/6
+2017-01-20
+0,1,1,4,0,0,4,0, - 10 runs
+1,0,0,0,0,1,2, - 4 runs
+0,1,0,0,0,0, - 1 runs
+2,1,0,0,0,0, - 3 runs
+0,1,0,0,4,1, - 6 runs
+1,0,1,0,4,2, - 8 runs
+Sydney Sixers - 148/5 Melbourne Renegades - 150/4
+2017-01-20
+1,4,0,0,1,0,1, - 7 runs
+4,0,0,0,1,2, - 7 runs
+4,W,0,1,1,0, - 6 runs
+1,4,1,0,0,0, - 6 runs
+0,1,0,4,1,0, - 6 runs
+3,1,1,W,1,0,4, - 10 runs
+Hobart Hurricanes - 115/3 Melbourne Stars - 98/6
+2017-01-21
+0,0,1,0,1,0, - 2 runs
+0,1,1,0,1,1, - 4 runs
+2,4,4,4,1,1, - 16 runs
+2,4,4,1,1,0, - 12 runs
+0,1,0,0,W,0, - 1 runs
+0,1,0,2,1,4,3, - 11 runs
+Sydney Sixers - 158/5 Melbourne Renegades - 123/9
+2017-01-21
+0,1,0,1,0,0,4, - 6 runs
+1,0,1,0,6,4, - 12 runs
+2,0,0,W,0,1, - 3 runs
+1,0,1,2,2,1, - 7 runs
+2,0,1,3,1,0, - 7 runs
+1,1,W,0,1,1,1, - 5 runs
+Melbourne Stars - 135/8 Hobart Hurricanes - 136/6
+2017-01-24
+1,4,0,0,0,0, - 5 runs
+4,0,0,1,0,0,1, - 6 runs
+4,1,4,0,1,1, - 11 runs
+0,1,0,0,1,0, - 2 runs
+0,0,0,1,W,0, - 1 runs
+1,0,2,0,0,0, - 3 runs
+Brisbane Heat - 124/5 Perth Scorchers - 125/1
+2017-01-25
+0,1,1,0,1,0, - 3 runs
+0,6,0,0,1,0, - 7 runs
+1,0,W,0,1,0, - 2 runs
+2,0,4,1,0,0, - 7 runs
+0,4,4,1,4,0,4, - 17 runs
+1,4,4,1,1,2, - 13 runs
+Sydney Sixers - 169/6 Hobart Hurricanes - 66/10
+2017-01-28
+2,4,1,1,0,1, - 9 runs
+1,0,0,W,0,0, - 1 runs
+1,2,2,0,1,1, - 7 runs
+0,1,0,0,0,0, - 1 runs
+1,0,4,0,1,2,1, - 9 runs
+1,4,4,0,4,0, - 13 runs
+Sydney Sixers - 124/5 Perth Scorchers - 117/7
+2017-12-09
+1,0,0,1,4,1, - 7 runs
+1,4,W,1,0,0, - 6 runs
+1,0,2,1,0,0,6, - 10 runs
+2,4,0,W,1,0, - 7 runs
+W,4,0,1,0,2, - 7 runs
+0,1,0,0,0,0, - 1 runs
+Sydney Thunder - 200/6 Melbourne Renegades - 189/6
+2017-12-09
+0,4,0,4,0,4, - 12 runs
+3,0,1,0,0,0, - 4 runs
+1,0,0,1,4,1, - 7 runs
+1,0,6,1,4,1, - 13 runs
+1,4,0,0,1,1,0, - 7 runs
+1,1,0,0,1,1,0, - 4 runs
+Adelaide Strikers - 183/3 Hobart Hurricanes - 138/9
+2017-12-09
+2,1,0,1,1,1,2,0, - 8 runs
+0,1,1,W,1,4,1, - 8 runs
+4,6,4,0,4,4, - 22 runs
+1,0,4,0,0,1, - 6 runs
+0,4,1,0,0,0, - 5 runs
+0,6,1,4,4,0, - 15 runs
+Sydney Sixers - 242/4 Melbourne Stars - 156/7
+2017-12-10
+0,0,4,0,0,1, - 5 runs
+4,4,0,2,1,0, - 11 runs
+W,0,1,1,0,W,0, - 2 runs
+1,4,0,4,W,0, - 9 runs
+4,0,4,0,0,0, - 8 runs
+0,4,1,1,1,1, - 8 runs
+Perth Scorchers - 188/6 Brisbane Heat - 170/9
+2017-12-10
+4,W,0,0,0,0, - 4 runs
+1,4,0,1,0,0, - 6 runs
+0,2,0,0,4,0, - 6 runs
+0,1,1,0,1,0, - 3 runs
+1,0,1,1,1,0, - 4 runs
+0,4,4,4,2,4, - 18 runs
+Sydney Thunder - 142/6 Sydney Sixers - 146/4
+2017-12-12
+4,2,4,0,4,1, - 15 runs
+1,0,0,W,0,0,0, - 1 runs
+0,0,4,2,0,1, - 7 runs
+0,0,0,0,1,1,1,4, - 7 runs
+0,0,2,1,1,1,0, - 5 runs
+0,1,0,1,0,1, - 3 runs
+Sydney Sixers - 122/8 Perth Scorchers - 123/1
+2017-12-12
+0,0,0,0,0,1, - 1 runs
+1,1,6,0,1,0, - 9 runs
+4,0,0,0,1,0, - 5 runs
+1,0,4,0,0,0, - 5 runs
+0,0,4,4,4,2, - 14 runs
+1,5,0,W,4,1,0, - 11 runs
+Melbourne Stars - 114/8 Sydney Thunder - 115/2
+2017-12-15
+4,1,0,0,0,4, - 9 runs
+0,1,0,4,0,1, - 6 runs
+0,4,1,0,0,0, - 5 runs
+3,0,0,W,0,4,4, - 11 runs
+1,1,0,0,0,0, - 2 runs
+0,0,0,0,W,0, - 0 runs
+Perth Scorchers - 112/7 Brisbane Heat - 116/4
+2017-12-16
+0,1,0,4,2,0,0, - 7 runs
+0,0,0,0,2,0, - 2 runs
+4,0,0,6,4,1, - 15 runs
+1,0,1,0,1,6, - 9 runs
+1,0,1,0,W,1, - 3 runs
+0,1,0,4,1,4, - 10 runs
+Adelaide Strikers - 139/6 Melbourne Renegades - 138/8
+2017-12-17
+1,1,1,4,1,0, - 8 runs
+1,1,4,0,1,2,0, - 9 runs
+1,1,4,0,W,0,1,0, - 7 runs
+1,0,0,0,W,0, - 1 runs
+0,2,0,4,0,0, - 6 runs
+0,4,0,1,1,0, - 6 runs
+Sydney Sixers - 152/8 Hobart Hurricanes - 119/8
+2017-12-17
+1,0,1,1,0,1, - 4 runs
+1,4,1,0,0,1,1, - 8 runs
+0,W,4,0,1,1, - 6 runs
+1,1,1,0,0,1, - 4 runs
+0,1,0,4,2,0, - 7 runs
+4,1,0,4,0,4, - 13 runs
+Melbourne Renegades - 160/5 Adelaide Strikers - 151/9
+2017-12-22
+0,2,2,0,1,2, - 7 runs
+1,0,0,1,0,0, - 2 runs
+2,0,1,0,0,0, - 3 runs
+1,0,4,0,0,6, - 11 runs
+0,4,1,0,4,6, - 15 runs
+0,4,0,0,0,0, - 4 runs
+Melbourne Renegades - 133/6 Brisbane Heat - 125/10
+2017-12-23
+1,1,W,1,0,0,0,1,4, - 8 runs
+1,W,0,1,2,0,0, - 4 runs
+0,0,0,0,4,4, - 8 runs
+1,0,1,1,1,1, - 5 runs
+1,W,0,1,4,0, - 6 runs
+0,0,1,0,0,1, - 2 runs
+Brisbane Heat - 66/10 Melbourne Renegades - 67/0
+2017-12-26
+0,4,0,1,0,4, - 9 runs
+0,0,1,4,4,4,6, - 19 runs
+0,W,0,0,0,1,0, - 1 runs
+0,0,0,4,0,0, - 4 runs
+0,2,0,0,0,0, - 2 runs
+0,4,4,0,1,1, - 10 runs
+Melbourne Stars - 163/4 Perth Scorchers - 164/1
+2017-12-27
+0,1,0,4,4,0,0, - 9 runs
+0,0,0,0,0,2, - 2 runs
+0,1,1,4,0,0,1, - 7 runs
+0,0,1,1,W,2,1, - 5 runs
+1,1,1,4,1,2,1,0, - 11 runs
+4,0,W,1,1,1, - 7 runs
+Melbourne Stars - 149/6 Perth Scorchers - 137/4
+2017-12-29
+0,1,0,2,0,1, - 4 runs
+1,W,0,0,1,1, - 3 runs
+0,0,W,0,1,0, - 1 runs
+0,1,4,1,0,1,0, - 7 runs
+4,0,2,1,0,2,0, - 9 runs
+2,1,0,0,1,2, - 6 runs
+Adelaide Strikers - 113/6 Brisbane Heat - 114/1
+2017-12-30
+W,0,2,4,0,0, - 6 runs
+1,2,4,0,2,0, - 9 runs
+0,0,0,0,0,0, - 0 runs
+0,W,0,1,4,0, - 5 runs
+1,4,0,4,1,4,0, - 14 runs
+0,1,0,4,0,0, - 5 runs
+Sydney Sixers - 138/10 Perth Scorchers - 139/4
+2017-12-31
+0,0,0,2,0,1,0, - 3 runs
+1,0,0,2,0,4, - 7 runs
+1,W,4,0,0,0, - 5 runs
+0,0,3,4,1,0, - 8 runs
+0,1,0,1,1,0, - 3 runs
+0,0,0,4,0,4, - 8 runs
+Hobart Hurricanes - 97/10 Sydney Thunder - 99/2
+2017-12-31
+1,0,0,1,1,0, - 3 runs
+1,0,1,2,1,2, - 7 runs
+0,0,0,0,1,1, - 2 runs
+0,1,0,0,0,0, - 1 runs
+0,0,1,2,4,0, - 7 runs
+0,4,4,1,2,0, - 11 runs
+Adelaide Strikers - 119/7 Brisbane Heat - 122/2
+2018-01-02
+0,0,1,0,0,4, - 5 runs
+0,0,4,0,0,1, - 5 runs
+0,0,1,2,0,1, - 4 runs
+0,0,0,1,1,0,0, - 2 runs
+6,0,0,0,1,W, - 7 runs
+0,0,6,6,0,1, - 13 runs
+Sydney Sixers - 128/7 Melbourne Renegades - 92/10
+2018-01-05
+1,1,4,1,0,0,0, - 7 runs
+4,0,0,0,0,4, - 8 runs
+1,1,0,0,W,1, - 3 runs
+4,0,1,1,0,0, - 6 runs
+1,0,1,0,0,2, - 4 runs
+4,4,1,0,0,1,1, - 11 runs
+Adelaide Strikers - 144/5 Melbourne Stars - 122/9
+2018-01-06
+1,0,4,0,1,0, - 6 runs
+1,4,0,4,0,1, - 10 runs
+0,1,0,1,0,W, - 2 runs
+0,0,0,0,0,1, - 1 runs
+0,W,0,1,0,1,0, - 2 runs
+0,1,1,4,0,0, - 6 runs
+Melbourne Renegades - 142/6 Melbourne Stars - 145/3
+2018-01-07
+0,0,5,0,4,0, - 9 runs
+0,1,0,0,0,0, - 1 runs
+0,1,0,2,2,1, - 6 runs
+0,0,2,W,0,0, - 2 runs
+1,1,1,1,0,0,1,2, - 7 runs
+0,1,0,0,1,0, - 2 runs
+Hobart Hurricanes - 111/4 Brisbane Heat - 114/2
+2018-01-08
+0,2,1,1,0,4, - 8 runs
+0,1,1,0,W,0,1, - 3 runs
+4,1,0,0,0,0, - 5 runs
+1,2,0,0,1,0,4, - 8 runs
+0,2,1,4,0,2, - 9 runs
+0,0,0,1,4,1, - 6 runs
+Brisbane Heat - 168/4 Hobart Hurricanes - 126/10
+2018-01-08
+0,1,0,W,0,0, - 1 runs
+2,0,1,1,0,2, - 6 runs
+1,0,0,4,0,0, - 5 runs
+2,1,W,0,0,1, - 4 runs
+0,0,0,0,0,4, - 4 runs
+4,4,0,0,1,0, - 9 runs
+Sydney Thunder - 134/4 Perth Scorchers - 136/2
+2018-01-09
+0,4,0,1,0,0, - 5 runs
+0,1,1,0,1,4, - 7 runs
+1,1,4,0,0,4,0, - 10 runs
+0,0,0,1,0,0, - 1 runs
+1,2,1,0,0,1, - 5 runs
+0,1,1,0,6,0, - 8 runs
+Melbourne Stars - 132/5 Adelaide Strikers - 134/9
+2018-01-12
+0,2,1,4,0,0,0, - 7 runs
+0,1,1,0,0,1, - 3 runs
+0,0,1,1,1,0,1,0, - 4 runs
+1,1,6,0,0,0, - 8 runs
+2,0,4,2,0,1, - 9 runs
+1,0,0,0,0,W, - 1 runs
+Melbourne Stars - 133/3 Brisbane Heat - 134/5
+2018-01-13
+0,0,0,0,2,W, - 2 runs
+1,0,0,1,1,1, - 4 runs
+4,1,1,1,2,0, - 9 runs
+0,0,3,0,4,W,0, - 7 runs
+1,0,0,0,0,0, - 1 runs
+1,1,0,1,0,1, - 4 runs
+Perth Scorchers - 87/9 Adelaide Strikers - 88/4
+2018-01-13
+1,4,0,0,1,0, - 6 runs
+0,0,0,0,1,W, - 1 runs
+0,0,4,0,0,0, - 4 runs
+4,0,0,4,4,0, - 12 runs
+0,0,1,0,0,4, - 5 runs
+0,1,1,0,4,1, - 7 runs
+Sydney Sixers - 113/10 Sydney Thunder - 114/6
+2018-01-13
+0,0,2,W,0,0, - 2 runs
+0,1,0,0,0,0, - 1 runs
+0,0,4,0,W,0, - 4 runs
+1,0,0,0,0,W, - 1 runs
+0,1,0,0,1,2, - 4 runs
+0,0,1,0,1,0, - 2 runs
+Brisbane Heat - 93/8 Melbourne Stars - 94/4
+2018-01-14
+0,0,1,1,0,0, - 2 runs
+1,0,1,1,4,0, - 7 runs
+W,0,0,0,1,0, - 1 runs
+1,0,0,6,0,4, - 11 runs
+1,0,0,0,0,1, - 2 runs
+0,1,1,0,0,0, - 2 runs
+Adelaide Strikers - 107/7 Perth Scorchers - 76/10
+2018-01-15
+0,0,1,1,4,1,1, - 8 runs
+0,1,2,0,0,0, - 3 runs
+0,0,0,1,4,4,W, - 9 runs
+0,4,1,4,1,0, - 10 runs
+1,1,0,4,1,0,1, - 8 runs
+0,0,0,0,4,0, - 4 runs
+Hobart Hurricanes - 120/9 Melbourne Renegades - 116/6
+2018-01-19
+W,0,2,4,1,4, - 11 runs
+6,0,0,1,0,0, - 7 runs
+0,1,1,0,0,1, - 3 runs
+4,0,0,0,0,1, - 5 runs
+6,W,0,1,0,0, - 7 runs
+1,1,0,4,1,0,4, - 11 runs
+Sydney Sixers - 144/7 Brisbane Heat - 126/4
+2018-01-21
+0,0,0,0,4,1, - 5 runs
+0,0,1,2,4,1, - 8 runs
+0,1,2,0,4,1, - 8 runs
+1,0,2,0,W,0, - 3 runs
+W,0,0,0,4,0, - 4 runs
+0,2,0,0,1,4, - 7 runs
+Hobart Hurricanes - 130/7 Perth Scorchers - 134/4
+2018-01-21
+0,0,0,0,0,0, - 0 runs
+0,0,0,2,0,W, - 2 runs
+0,2,0,W,0,0, - 2 runs
+2,4,1,0,4,W, - 11 runs
+0,2,0,2,0,1, - 5 runs
+1,1,0,W,0,1, - 3 runs
+Melbourne Stars - 106/7 Sydney Sixers - 107/5
+2018-01-24
+1,0,0,0,W,0, - 1 runs
+W,1,0,4,0,0, - 5 runs
+1,0,0,1,2,0, - 4 runs
+4,0,2,1,0,0, - 7 runs
+0,W,1,0,4,0, - 5 runs
+0,W,0,0,0,0, - 0 runs
+Melbourne Renegades - 68/10 Sydney Thunder - 69/6
+2018-01-27
+0,1,0,0,1,1, - 3 runs
+0,0,0,1,0,1, - 2 runs
+1,4,4,0,1,0, - 10 runs
+4,4,0,1,1,4, - 14 runs
+1,0,0,0,0,1, - 2 runs
+0,1,0,1,2,2, - 6 runs
+Hobart Hurricanes - 107/7 Melbourne Stars - 108/3
+2018-01-27
+0,1,0,4,0,0, - 5 runs
+1,1,0,0,1,6, - 9 runs
+0,1,0,1,1,2, - 5 runs
+1,0,2,0,0,1, - 4 runs
+0,4,2,1,4,0, - 11 runs
+6,1,0,1,1,1, - 10 runs
+Adelaide Strikers - 149/5 Sydney Sixers - 150/3
+2018-01-27
+0,1,0,0,1,1, - 3 runs
+0,0,1,0,6,0, - 7 runs
+0,0,0,0,4,0, - 4 runs
+6,0,2,W,0,0, - 8 runs
+1,0,1,0,W,0,2, - 4 runs
+0,1,W,1,0,1, - 3 runs
+Perth Scorchers - 124/7 Melbourne Renegades - 125/6
+2018-01-27
+0,1,0,0,0,0,1, - 2 runs
+4,1,0,4,1,0,0, - 10 runs
+0,4,2,2,1,W, - 9 runs
+4,2,1,2,2,1, - 12 runs
+0,4,1,0,1,1, - 7 runs
+1,6,0,6,4,0, - 17 runs
+Sydney Thunder - 145/5 Brisbane Heat - 146/4
+2018-01-28
+2,1,0,2,0,0, - 5 runs
+1,0,0,2,1,0,3, - 7 runs
+0,1,0,2,0,0, - 3 runs
+1,4,0,0,1,1, - 7 runs
+0,1,1,4,0,0, - 6 runs
+0,4,0,4,1,0, - 9 runs
+Hobart Hurricanes - 130/6 Melbourne Stars - 128/7
+2018-01-28
+1,1,0,0,W,0, - 2 runs
+1,0,1,0,1,0, - 3 runs
+0,1,0,0,0,0, - 1 runs
+2,1,0,4,0,0, - 7 runs
+1,0,4,0,1,0, - 6 runs
+W,1,1,4,0,1,0, - 7 runs
+Melbourne Renegades - 112/9 Perth Scorchers - 113/6
+2018-01-28
+1,0,0,0,1,0, - 2 runs
+0,0,0,2,0,0, - 2 runs
+1,2,1,0,1,0, - 5 runs
+1,0,1,0,0,2, - 4 runs
+6,1,0,W,0,0, - 7 runs
+4,2,0,0,1,0, - 7 runs
+Adelaide Strikers - 111/9 Sydney Sixers - 112/3
+2018-01-28
+0,0,0,0,1,1,0, - 2 runs
+0,1,1,1,0,1,0, - 4 runs
+0,4,6,4,0,W, - 14 runs
+1,0,1,1,0,4,W, - 7 runs
+0,0,0,1,1,1,1, - 4 runs
+0,0,1,1,4,0, - 6 runs
+Sydney Thunder - 117/8 Brisbane Heat - 115/10
+2018-02-01
+1,0,0,0,2,5,0,1, - 9 runs
+0,4,0,4,0,0, - 8 runs
+1,4,1,1,1,0, - 8 runs
+4,2,0,1,4,0, - 11 runs
+0,1,0,4,4,0, - 9 runs
+1,0,1,4,0,0, - 6 runs
+Perth Scorchers - 148/2 Sydney Thunder - 121/8
+2018-02-02
+0,0,1,0,1,1, - 3 runs
+0,0,0,W,1,2,0, - 3 runs
+0,1,0,0,0,0, - 1 runs
+0,1,0,0,1,0, - 2 runs
+1,0,4,0,6,0, - 11 runs
+1,0,6,6,0,0, - 13 runs
+Sydney Sixers - 138/5 Adelaide Strikers - 121/9
+2018-02-04
+0,0,1,1,0,1, - 3 runs
+1,1,1,0,0,0,1, - 4 runs
+0,4,0,0,0,0, - 4 runs
+0,0,0,1,0,4, - 5 runs
+1,0,0,0,0,0, - 1 runs
+0,1,0,4,0,0, - 5 runs
+Perth Scorchers - 99/10 Sydney Sixers - 100/1
+2018-12-01
+1,6,1,0,1,0, - 9 runs
+0,1,1,1,0,4, - 7 runs
+1,4,4,0,6,1, - 16 runs
+0,4,0,1,1,6, - 12 runs
+2,W,0,0,1,0, - 3 runs
+1,0,0,0,1,4, - 6 runs
+Hobart Hurricanes - 143/7 Perth Scorchers - 147/4
+2018-12-01
+0,4,0,0,0,4, - 8 runs
+0,2,0,2,1,2, - 7 runs
+0,0,0,0,4,1, - 5 runs
+0,0,2,4,0,2,1, - 9 runs
+1,1,1,4,4,0,1, - 12 runs
+1,1,0,6,1,3,4, - 16 runs
+Sydney Sixers - 165/7 Melbourne Stars - 166/3
+2018-12-02
+1,1,1,0,6,1, - 10 runs
+0,1,0,0,W,5, - 6 runs
+0,4,4,4,0,0, - 12 runs
+0,0,1,0,0,3, - 4 runs
+4,4,2,W,0,6,1,0, - 17 runs
+0,4,4,0,0,0, - 8 runs
+Adelaide Strikers - 172/7 Brisbane Heat - 136/2
+2018-12-02
+1,1,0,0,0,W, - 2 runs
+1,0,1,0,1,1, - 4 runs
+0,1,0,4,1,0, - 6 runs
+1,W,0,0,0,0, - 1 runs
+0,0,4,1,0,1, - 6 runs
+0,4,0,0,1,2, - 7 runs
+Melbourne Renegades - 98/8 Sydney Thunder - 99/4
+2018-12-07
+1,1,4,0,0,0, - 6 runs
+0,1,0,4,1,4, - 10 runs
+1,0,4,4,4,0, - 13 runs
+0,2,1,6,0,0, - 9 runs
+0,4,0,1,2,4, - 11 runs
+0,0,4,0,4,0, - 8 runs
+Perth Scorchers - 167/9 Sydney Sixers - 171/4
+2018-12-08
+4,2,1,0,W,0, - 7 runs
+0,0,1,W,4,2,2, - 9 runs
+0,0,0,0,0,4, - 4 runs
+0,0,2,1,0,4,0, - 7 runs
+4,0,0,4,W,1,0, - 9 runs
+1,0,1,0,1,1,4, - 8 runs
+Hobart Hurricanes - 158/6 Melbourne Stars - 159/5
+2018-12-08
+1,0,0,0,0,1, - 2 runs
+4,1,0,4,1,1, - 11 runs
+1,4,4,1,1,0,2,0, - 13 runs
+0,0,1,0,0,0, - 1 runs
+0,1,4,4,4,0, - 13 runs
+4,0,0,1,0,1, - 6 runs
+Adelaide Strikers - 153/7 Melbourne Renegades - 154/4
+2018-12-08
+0,0,0,0,0,1, - 1 runs
+0,0,0,0,1,0, - 1 runs
+0,0,0,0,1,0, - 1 runs
+0,1,0,0,4,4, - 9 runs
+0,1,W,0,4,W, - 5 runs
+0,0,4,0,1,0,0, - 5 runs
+Perth Scorchers - 103/8 Brisbane Heat - 104/3
+2018-12-08
+0,0,4,4,0,0, - 8 runs
+0,0,0,1,0,0, - 1 runs
+1,0,1,1,0,1, - 4 runs
+0,1,1,0,1,0,1, - 4 runs
+0,1,4,5,1,0,1, - 12 runs
+0,2,4,1,1,4, - 12 runs
+Sydney Sixers - 168/4 Sydney Thunder - 132/7
+2018-12-09
+0,6,0,W,4,0, - 10 runs
+0,0,4,1,4,0, - 9 runs
+1,4,1,2,1,1,0, - 10 runs
+4,4,1,0,4,0, - 13 runs
+0,0,0,0,1,0, - 1 runs
+1,4,1,4,0,1,1, - 12 runs
+Hobart Hurricanes - 196/6 Melbourne Stars - 124/10
+2018-12-09
+1,0,0,0,0,0, - 1 runs
+0,0,1,0,1,0,W, - 2 runs
+2,0,1,0,1,0,0, - 4 runs
+0,1,4,W,1,0,1, - 7 runs
+4,1,2,0,4,1, - 12 runs
+0,1,1,0,2,1,1, - 6 runs
+Melbourne Renegades - 83/4 Adelaide Strikers - 27/2
+2018-12-09
+0,0,1,1,0,0,1,1, - 4 runs
+1,1,6,4,0,0, - 12 runs
+1,0,1,1,1,1,0,1, - 6 runs
+0,0,1,1,4,1, - 7 runs
+2,1,4,0,1,1, - 9 runs
+1,0,1,1,4,1, - 8 runs
+Sydney Thunder - 192/4 Brisbane Heat - 164/10
+2018-12-15
+0,0,1,2,2,0, - 5 runs
+4,0,1,0,1,0, - 6 runs
+4,0,2,1,0,0, - 7 runs
+4,2,0,W,4,0, - 10 runs
+2,1,1,0,0,1, - 5 runs
+1,0,0,4,6,1, - 12 runs
+Melbourne Stars - 124/9 Perth Scorchers - 125/2
+2018-12-15
+0,1,1,1,0,0, - 3 runs
+2,0,0,0,0,4, - 6 runs
+0,0,0,W,0,1, - 1 runs
+2,2,1,W,4,0, - 9 runs
+0,1,0,0,1,4, - 6 runs
+4,W,1,1,1,0, - 7 runs
+Adelaide Strikers - 132/10 Sydney Thunder - 134/4
+2018-12-15
+0,4,0,0,W,1, - 5 runs
+0,4,0,4,1,1, - 10 runs
+4,1,2,1,4,0, - 12 runs
+4,4,0,1,4,1, - 14 runs
+1,1,W,0,0,1, - 3 runs
+2,0,0,0,1,4, - 7 runs
+Hobart Hurricanes - 133/5 Sydney Sixers - 155/3
+2018-12-16
+0,1,0,1,0,0, - 2 runs
+2,1,0,4,0,W, - 7 runs
+0,1,1,W,0,0, - 2 runs
+0,1,0,W,2,0, - 3 runs
+0,0,0,0,4,0, - 4 runs
+0,1,0,0,1,0, - 2 runs
+Perth Scorchers - 90/7 Melbourne Stars - 91/6
+2018-12-16
+1,0,1,0,2,4, - 8 runs
+0,0,0,2,4,2,0, - 8 runs
+1,0,4,0,0,0, - 5 runs
+1,W,1,1,1,1, - 5 runs
+4,4,3,1,0,1, - 13 runs
+0,6,W,0,0,0, - 6 runs
+Adelaide Strikers - 145/5 Sydney Thunder - 146/5
+2018-12-16
+1,0,1,1,1,0, - 4 runs
+0,0,0,0,1,0, - 1 runs
+1,4,0,1,4,1, - 11 runs
+1,1,0,4,4,4, - 14 runs
+1,4,0,0,4,W, - 9 runs
+0,4,1,0,W,0, - 5 runs
+Sydney Sixers - 158/3 Hobart Hurricanes - 141/10
+2018-12-16
+0,1,0,6,4,W, - 11 runs
+0,4,1,0,6,2, - 13 runs
+4,1,6,4,1,1, - 17 runs
+4,0,0,1,6,4, - 15 runs
+1,2,W,0,1,0, - 4 runs
+0,2,0,2,1,0, - 5 runs
+Brisbane Heat - 174/8 Melbourne Renegades - 153/7
+2018-12-18
+0,0,0,1,1,4, - 6 runs
+0,0,2,0,2,0, - 4 runs
+0,2,0,2,1,4, - 9 runs
+0,2,0,4,2,4, - 12 runs
+0,1,4,1,4,6, - 16 runs
+4,6,0,2,W,0, - 12 runs
+Hobart Hurricanes - 173/7 Perth Scorchers - 173/6
+2018-12-19
+0,1,0,1,0,0, - 2 runs
+0,0,1,W,1,0, - 2 runs
+1,0,1,0,4,4, - 10 runs
+0,0,1,1,1,0, - 3 runs
+0,1,1,0,1,0, - 3 runs
+1,0,1,1,0,0, - 3 runs
+Melbourne Stars - 132/7 Brisbane Heat - 138/0
+2018-12-21
+1,4,4,1,1,4, - 15 runs
+1,0,4,0,1,2, - 8 runs
+0,0,1,1,4,2, - 8 runs
+1,0,0,0,4,3, - 8 runs
+1,1,2,W,1,1, - 6 runs
+4,2,0,0,1,4, - 11 runs
+Hobart Hurricanes - 153/9 Sydney Thunder - 156/4
+2018-12-21
+1,1,1,0,0,4, - 7 runs
+1,0,1,4,1,W, - 7 runs
+0,2,0,4,1,4, - 11 runs
+0,0,0,W,0,1, - 1 runs
+0,4,0,0,1,0,1,0, - 6 runs
+0,0,0,0,0,1, - 1 runs
+Adelaide Strikers - 144/7 Melbourne Stars - 145/6
+2018-12-22
+0,0,1,0,4,1, - 6 runs
+0,1,0,1,0,0, - 2 runs
+W,0,0,0,1,4, - 5 runs
+0,2,0,0,0,6, - 8 runs
+0,0,1,1,1,0, - 3 runs
+0,0,1,0,0,0, - 1 runs
+Sydney Sixers - 166/3 Brisbane Heat - 155/7
+2018-12-22
+0,1,1,0,4,1,1, - 8 runs
+1,2,1,1,0,W,0,0, - 5 runs
+0,0,0,2,1,1, - 4 runs
+0,1,1,1,0,1, - 4 runs
+1,1,2,0,0,2,1,W, - 7 runs
+4,0,4,0,2,0, - 10 runs
+Perth Scorchers - 122/6 Melbourne Renegades - 123/6
+2018-12-23
+1,4,0,0,1,0,1,0, - 7 runs
+1,4,4,1,0,1,0, - 11 runs
+0,1,1,0,1,1,1, - 5 runs
+0,4,W,2,0,1, - 7 runs
+0,1,0,W,2,1,1, - 5 runs
+0,2,0,1,6,1, - 10 runs
+Adelaide Strikers - 172/3 Melbourne Stars - 153/9
+2018-12-23
+0,2,0,4,1,0, - 7 runs
+4,4,0,4,0,0, - 12 runs
+0,W,4,2,1,0, - 7 runs
+6,6,0,0,0,0, - 12 runs
+1,1,1,W,1,1,2, - 7 runs
+4,1,0,0,0,1, - 6 runs
+Brisbane Heat - 154/7 Sydney Sixers - 88/10
+2018-12-23
+0,4,1,0,1,0, - 6 runs
+0,0,4,1,1,1,1,0, - 8 runs
+0,0,4,1,4,0, - 9 runs
+4,0,4,4,0,1, - 13 runs
+0,0,1,1,0,4, - 6 runs
+1,0,1,1,1,1,0,1, - 6 runs
+Perth Scorchers - 172/2 Melbourne Renegades - 157/6
+2018-12-24
+1,0,W,0,0,4, - 5 runs
+1,2,0,1,2,2, - 8 runs
+2,1,1,0,4,0, - 8 runs
+1,4,0,0,1,1,4, - 11 runs
+6,0,4,1,1,4, - 16 runs
+4,0,1,W,1,0, - 6 runs
+Hobart Hurricanes - 135/10 Sydney Thunder - 136/4
+2018-12-26
+4,0,4,0,1,4, - 13 runs
+0,1,0,4,1,4, - 10 runs
+0,0,1,0,0,0, - 1 runs
+1,2,1,4,1,4, - 13 runs
+0,4,0,0,0,4, - 8 runs
+0,0,0,1,0,1, - 2 runs
+Perth Scorchers - 136/5 Brisbane Heat - 139/5
+2018-12-27
+0,2,0,1,2,0, - 5 runs
+1,1,1,0,0,1,1,1,1, - 7 runs
+0,0,0,W,0,1, - 1 runs
+1,1,1,1,0,W,1,4,0, - 9 runs
+0,1,0,0,0,1, - 2 runs
+0,0,4,4,2,0, - 10 runs
+Melbourne Renegades - 110/8 Sydney Sixers - 111/3
+2018-12-28
+4,4,0,2,4,1, - 15 runs
+0,0,0,0,0,0, - 0 runs
+1,0,1,0,1,1, - 4 runs
+6,0,0,1,0,4, - 11 runs
+4,0,0,0,4,0, - 8 runs
+0,0,4,1,4,4, - 13 runs
+Sydney Sixers - 206/1 Adelaide Strikers - 132/10
+2018-12-29
+0,2,1,0,0,0, - 3 runs
+1,1,1,1,1,0,1,1, - 7 runs
+0,1,4,4,0,4, - 13 runs
+4,1,0,4,0,5,4, - 18 runs
+1,0,1,4,4,4, - 14 runs
+4,4,4,1,0,0, - 13 runs
+Sydney Thunder - 179/5 Perth Scorchers - 180/4
+2018-12-31
+0,6,4,0,0,2, - 12 runs
+1,0,1,1,0,0, - 3 runs
+0,4,1,0,0,1, - 6 runs
+0,0,1,1,0,0,1,4, - 7 runs
+1,0,1,1,2,1,1, - 7 runs
+1,4,4,1,1,1, - 12 runs
+Brisbane Heat - 138/8 Hobart Hurricanes - 80/10
+2018-12-29
+1,1,2,0,2,0, - 6 runs
+0,1,5,1,0,0,4, - 11 runs
+1,1,1,0,4,1,1, - 9 runs
+1,1,2,0,4,0,2, - 10 runs
+1,0,1,6,1,2, - 11 runs
+0,1,0,4,0,4, - 9 runs
+Melbourne Stars - 130/10 Melbourne Renegades - 131/9
+2018-12-30
+0,0,0,4,1,0, - 5 runs
+W,0,1,0,0,1,0, - 2 runs
+1,1,0,1,0,0,3, - 6 runs
+1,0,0,W,1,2,1, - 5 runs
+4,1,0,0,0,0, - 5 runs
+0,0,6,1,W,0, - 7 runs
+Perth Scorchers - 127/7 Sydney Thunder - 124/5
+2018-12-30
+0,4,1,0,0,1, - 6 runs
+0,0,1,0,0,4, - 5 runs
+0,1,1,4,4,2,4, - 16 runs
+0,1,1,1,4,0,1, - 8 runs
+0,1,W,0,1,0, - 2 runs
+1,0,4,6,0,W, - 11 runs
+Brisbane Heat - 129/10 Hobart Hurricanes - 133/5
+2018-12-31
+2,1,0,1,0,0,1, - 5 runs
+1,0,1,6,2,4, - 14 runs
+0,1,0,0,1,1, - 3 runs
+1,0,4,4,W,0, - 9 runs
+4,0,0,1,4,0, - 9 runs
+0,0,1,0,0,1, - 2 runs
+Sydney Sixers - 147/4 Adelaide Strikers - 139/8
+2019-01-01
+0,4,1,2,4,0,0, - 11 runs
+0,0,0,0,2,0,0, - 2 runs
+0,4,1,0,4,0, - 9 runs
+4,0,2,4,0,1, - 11 runs
+0,0,1,4,4,0, - 9 runs
+0,1,1,6,0,1, - 9 runs
+Melbourne Renegades - 149/5 Melbourne Stars - 101/7
+2019-01-02
+1,0,0,4,0,0, - 5 runs
+1,0,0,0,4,0, - 5 runs
+0,0,1,1,0,1, - 3 runs
+4,1,4,W,1,W, - 10 runs
+0,0,W,0,0,1,0, - 1 runs
+0,0,0,W,0,0, - 0 runs
+Sydney Sixers - 98/7 Sydney Thunder - 101/2
+2019-01-03
+1,0,4,4,W,0, - 9 runs
+2,0,0,1,0,0, - 3 runs
+0,0,4,4,4,0, - 12 runs
+0,0,4,1,0,0, - 5 runs
+0,0,2,1,0,0, - 3 runs
+0,4,1,W,1,2, - 8 runs
+Hobart Hurricanes - 115/8 Melbourne Renegades - 119/5
+2019-01-05
+1,0,0,1,0,4,0,1, - 7 runs
+0,1,0,W,0,1,0, - 2 runs
+4,0,1,2,5,0,1,4, - 17 runs
+0,1,0,5,0,1,0,4, - 11 runs
+0,W,4,1,0,0, - 5 runs
+1,0,1,0,0,1, - 3 runs
+2019-01-05
+1,0,0,1,2,1, - 5 runs
+0,0,4,0,4,0, - 8 runs
+2,1,1,1,0,1, - 6 runs
+4,1,2,0,0,2,0, - 9 runs
+1,0,1,W,0,1, - 3 runs
+3,1,3,0,4,0, - 11 runs
+Brisbane Heat - 160/7 Adelaide Strikers - 117/7
+2019-01-06
+0,2,1,0,0,0, - 3 runs
+0,1,0,4,2,1, - 8 runs
+4,0,0,1,1,0, - 6 runs
+1,W,0,4,1,0, - 6 runs
+0,1,0,1,1,0, - 3 runs
+4,1,0,0,2,2, - 9 runs
+Sydney Thunder - 122/6 Melbourne Stars - 117/9
+2019-01-06
+0,0,0,2,0,0, - 2 runs
+1,0,1,0,1,2,2,1, - 8 runs
+1,0,1,0,1,0, - 3 runs
+1,2,0,1,0,0,1,1, - 6 runs
+1,2,1,1,1,4, - 10 runs
+0,1,1,0,2,0, - 4 runs
+Melbourne Renegades - 143/3 Brisbane Heat - 118/10
+2019-01-08
+0,1,1,4,0,0, - 6 runs
+4,0,1,0,4,0, - 9 runs
+1,0,0,1,0,0,0, - 2 runs
+0,4,0,0,2,1, - 7 runs
+2,4,1,0,0,4, - 11 runs
+0,6,W,0,1,0, - 7 runs
+Melbourne Renegades - 139/4 Sydney Thunder - 141/4
+2019-01-08
+0,0,0,0,4,0, - 4 runs
+1,1,1,1,1,1,0, - 6 runs
+6,1,0,W,0,1, - 8 runs
+0,4,1,1,0,0,0, - 6 runs
+1,0,0,1,0,0, - 2 runs
+0,0,4,0,0,1, - 5 runs
+Adelaide Strikers - 189/5 Hobart Hurricanes - 189/8
+2019-01-09
+1,0,1,1,1,1, - 5 runs
+0,0,0,1,0,0, - 1 runs
+1,0,2,0,0,4, - 7 runs
+4,0,0,4,1,0, - 9 runs
+6,0,6,1,0,4, - 17 runs
+4,1,0,0,4,0, - 9 runs
+Adelaide Strikers - 165/5 Hobart Hurricanes - 141/9
+2019-01-10
+W,0,1,0,0,0, - 1 runs
+1,5,1,0,0,0,0, - 7 runs
+0,W,1,0,0,0,0, - 1 runs
+2,1,1,0,0,0,1, - 5 runs
+W,0,1,1,1,0,0, - 3 runs
+1,1,1,0,1,1,1, - 6 runs
+Melbourne Stars - 88/10 Brisbane Heat - 91/3
+2019-01-12
+0,0,2,0,0,0, - 2 runs
+0,4,0,1,1,4, - 10 runs
+0,1,0,0,0,1, - 2 runs
+1,1,0,1,1,1, - 5 runs
+1,1,1,1,2,4, - 10 runs
+1,1,0,0,1,0, - 3 runs
+Adelaide Strikers - 138/7 Perth Scorchers - 108/10
+2019-01-12
+0,1,W,0,1,1, - 3 runs
+0,2,0,0,0,4, - 6 runs
+2,1,1,2,0,1, - 7 runs
+0,4,0,4,0,0, - 8 runs
+1,1,1,0,4,0,1, - 8 runs
+1,0,1,1,0,0, - 3 runs
+Melbourne Renegades - 146/6 Hobart Hurricanes - 143/6
+2019-01-12
+0,1,0,2,4,4, - 11 runs
+1,0,1,4,1,1,6, - 14 runs
+4,0,0,0,1,W, - 5 runs
+1,1,0,5,1,2,0,0,0, - 10 runs
+1,0,0,W,0,2, - 3 runs
+1,0,1,4,2,1, - 9 runs
+Sydney Thunder - 171/7 Brisbane Heat - 172/7
+2019-01-13
+0,4,1,2,0,0, - 7 runs
+0,0,0,1,1,0, - 2 runs
+4,0,0,1,0,1, - 6 runs
+0,0,1,1,W,1, - 3 runs
+0,0,0,1,1,0, - 2 runs
+4,4,0,0,0,1, - 9 runs
+Adelaide Strikers - 140/6 Perth Scorchers - 144/0
+2019-01-13
+0,0,0,0,0,0, - 0 runs
+0,0,0,1,0,0, - 1 runs
+1,0,0,0,0,0, - 1 runs
+1,0,1,4,W,0, - 6 runs
+1,0,0,0,0,0, - 1 runs
+4,0,1,0,0,4, - 9 runs
+Sydney Sixers - 136/2 Melbourne Renegades - 107/8
+2019-01-14
+2,0,1,1,1,1,0,1, - 7 runs
+0,0,2,1,1,4, - 8 runs
+0,1,4,4,0,1, - 10 runs
+1,0,0,4,0,0, - 5 runs
+4,6,1,0,W,0, - 11 runs
+4,0,W,0,0,0, - 4 runs
+Sydney Sixers - 92/10 Melbourne Stars - 96/5
+2019-01-19
+0,0,0,0,0,4, - 4 runs
+0,1,6,2,0,0, - 9 runs
+1,0,4,0,1,2, - 8 runs
+0,W,1,1,1,1, - 4 runs
+1,0,1,4,2,1, - 9 runs
+W,0,0,4,0,0, - 4 runs
+Brisbane Heat - 140/7 Sydney Thunder - 136/7
+2019-01-19
+0,0,0,1,4,0, - 5 runs
+1,0,1,0,1,0,0,0, - 3 runs
+W,0,0,0,0,0, - 0 runs
+4,W,0,0,0,0, - 4 runs
+0,1,1,4,0,W, - 6 runs
+0,0,1,0,0,0, - 1 runs
+Sydney Sixers - 131/4 Melbourne Renegades - 131/6
+2019-01-26
+1,0,0,1,4,2, - 8 runs
+0,0,1,0,0,0, - 1 runs
+0,2,1,0,0,0, - 3 runs
+0,1,1,1,6,4, - 13 runs
+1,W,0,0,0,0, - 1 runs
+0,1,0,0,0,1, - 2 runs
+Sydney Sixers - 131/7 Brisbane Heat - 132/7
+2019-10-18
+4,2,1,0,0,0, - 7 runs
+1,4,4,1,0,1, - 11 runs
+0,4,1,0,4,0, - 9 runs
+0,0,1,0,0,4, - 5 runs
+1,1,4,1,1,1, - 9 runs
+1,0,0,0,1,1, - 3 runs
+Sydney Sixers - 192/6 Sydney Thunder - 143/9
+2019-10-19
+0,4,2,0,1,0, - 7 runs
+1,0,1,1,0,0, - 3 runs
+1,0,W,0,W,1, - 2 runs
+0,2,1,0,0,1, - 4 runs
+1,1,1,0,1,0, - 4 runs
+W,0,0,1,0,W, - 1 runs
+Melbourne Renegades - 117/7 Adelaide Strikers - 120/4
+2019-10-19
+0,0,0,2,0,4, - 6 runs
+2,4,1,1,6,0, - 14 runs
+0,W,4,1,4,0, - 9 runs
+0,0,0,0,0,2, - 2 runs
+0,0,1,1,4,1, - 7 runs
+0,1,1,0,0,4, - 6 runs
+Hobart Hurricanes - 164/5 Melbourne Stars - 144/9
+2019-10-19
+2,1,0,1,1,1,1, - 7 runs
+1,0,1,1,5,4,1, - 13 runs
+1,1,0,0,1,1, - 4 runs
+0,1,1,1,1,1, - 5 runs
+1,0,4,4,0,4, - 13 runs
+1,0,4,0,0,0, - 5 runs
+Brisbane Heat - 165/6 Sydney Sixers - 73/10
+2019-10-20
+0,0,6,1,0,0, - 7 runs
+1,0,0,0,2,0, - 3 runs
+0,0,1,1,1,0,4, - 7 runs
+0,4,0,0,0,4, - 8 runs
+4,2,1,6,0,0,6, - 19 runs
+1,1,1,0,0,0, - 3 runs
+Adelaide Strikers - 152/5 Melbourne Renegades - 154/5
+2019-10-20
+0,4,1,1,4,0,W,0, - 10 runs
+0,0,0,0,1,1,1,0, - 3 runs
+0,4,1,0,1,0, - 6 runs
+1,0,1,0,0,0,0, - 2 runs
+4,0,1,0,0,2, - 7 runs
+1,0,4,1,1,1,4,4, - 16 runs
+Melbourne Stars - 136/7 Hobart Hurricanes - 137/5
+2019-10-20
+1,0,0,1,1,0,0, - 3 runs
+1,2,1,0,0,0, - 4 runs
+0,0,1,1,4,1, - 7 runs
+4,4,1,1,1,0, - 11 runs
+4,4,4,0,0,4, - 16 runs
+1,1,1,W,0,6, - 9 runs
+Brisbane Heat - 150/9 Sydney Thunder - 153/3
+2019-10-23
+1,1,0,0,1,0, - 3 runs
+0,0,W,0,0,0, - 0 runs
+0,0,1,1,1,0,0,5,4, - 12 runs
+0,0,0,1,0,0, - 1 runs
+1,1,1,0,1,1, - 5 runs
+2,0,0,1,4,1,0, - 8 runs
+Perth Scorchers - 132/5 Melbourne Renegades - 133/6
+2019-10-26
+0,0,0,1,1,1, - 3 runs
+1,0,1,1,0,1,0, - 4 runs
+1,0,2,0,1,0,1, - 5 runs
+1,W,0,0,4,1, - 6 runs
+0,0,4,0,0,0, - 4 runs
+1,4,0,0,W,1,1, - 7 runs
+Adelaide Strikers - 113/8 Hobart Hurricanes - 110/7
+2019-10-26
+1,0,0,1,0,0, - 2 runs
+0,0,2,1,0,0, - 3 runs
+0,1,1,4,1,0, - 7 runs
+W,0,0,0,1,0, - 1 runs
+0,3,0,1,2,1, - 7 runs
+0,0,1,0,0,2,0,0, - 3 runs
+Melbourne Stars - 107/9 Sydney Sixers - 108/2
+2019-10-26
+4,4,1,1,0,0, - 10 runs
+4,1,1,1,1,1,1, - 10 runs
+0,4,0,4,1,1, - 10 runs
+0,W,1,0,4,0, - 5 runs
+0,0,0,1,W,0, - 1 runs
+1,0,0,0,1,2, - 4 runs
+Brisbane Heat - 146/7 Perth Scorchers - 147/1
+2019-10-26
+0,0,0,0,1,0, - 1 runs
+0,6,4,4,0,W, - 14 runs
+1,4,1,0,0,0, - 6 runs
+4,4,0,1,0,1,0, - 10 runs
+4,1,4,4,0,0, - 13 runs
+4,2,1,0,0,1, - 8 runs
+Sydney Thunder - 132/8 Melbourne Renegades - 129/8
+2019-10-27
+0,0,0,0,0,0, - 0 runs
+2,1,0,4,0,W, - 7 runs
+0,0,0,W,0,0, - 0 runs
+4,0,1,4,0,0, - 9 runs
+0,5,1,2,0,4, - 12 runs
+1,0,1,1,1,1, - 5 runs
+Perth Scorchers - 115/9 Adelaide Strikers - 116/3
+2019-10-27
+0,0,0,1,2,0, - 3 runs
+0,0,1,1,0,0, - 2 runs
+0,4,1,0,0,4, - 9 runs
+0,2,0,6,6,0, - 14 runs
+0,1,2,0,1,1, - 5 runs
+4,0,0,1,0,0, - 5 runs
+Melbourne Stars - 141/5 Sydney Thunder - 142/6
+2019-10-27
+0,2,0,1,0,1, - 4 runs
+0,0,0,0,0,0, - 0 runs
+4,2,W,0,0,0, - 6 runs
+0,4,0,W,0,0, - 4 runs
+0,0,2,0,4,2, - 8 runs
+1,1,1,1,0,1, - 5 runs
+Hobart Hurricanes - 123/8 Brisbane Heat - 124/5
+2019-11-01
+4,1,1,0,1,0,4,0, - 11 runs
+2,0,0,1,1,4, - 8 runs
+1,0,1,4,0,1, - 7 runs
+4,0,0,1,1,2,1, - 9 runs
+1,0,1,1,1,4,1,0,1, - 10 runs
+0,4,W,0,4,0, - 8 runs
+Melbourne Renegades - 134/1 Perth Scorchers - 77/2
+2019-11-02
+4,0,1,W,0,0,0, - 5 runs
+0,1,1,0,0,1,1,1, - 5 runs
+0,0,W,0,0,0, - 0 runs
+0,0,0,1,0,0, - 1 runs
+0,0,0,0,0,4, - 4 runs
+1,0,1,4,0,1,0, - 7 runs
+Melbourne Renegades - 120/8 Sydney Sixers - 121/6
+2019-11-02
+0,0,0,0,0,0, - 0 runs
+6,1,1,0,1,6, - 15 runs
+0,0,0,0,4,0, - 4 runs
+0,1,0,1,1,0, - 3 runs
+0,0,4,1,1,1, - 7 runs
+0,1,0,1,1,4,0, - 7 runs
+Melbourne Stars - 155/3 Perth Scorchers - 135/6
+2019-11-02
+4,0,0,0,0,0, - 4 runs
+1,0,0,1,2,1,1, - 6 runs
+2,2,4,4,1,1,0, - 14 runs
+1,0,0,4,0,0, - 5 runs
+1,4,1,4,0,1, - 11 runs
+1,1,4,1,2,0, - 9 runs
+Brisbane Heat - 139/10 Adelaide Strikers - 143/2
+2019-11-03
+0,0,0,1,0,1, - 2 runs
+1,1,0,0,1,0, - 3 runs
+0,1,2,1,4,W,0, - 8 runs
+1,0,0,4,0,1, - 6 runs
+0,1,0,1,1,0,0, - 3 runs
+1,1,2,0,1,1, - 6 runs
+Hobart Hurricanes - 148/6 Sydney Thunder - 149/4
+2019-11-03
+0,0,0,0,0,2, - 2 runs
+0,1,1,0,0,4,4, - 10 runs
+4,0,4,0,0,0, - 8 runs
+0,4,4,0,0,1, - 9 runs
+1,1,2,4,0,1, - 9 runs
+W,1,1,W,0,1,4, - 7 runs
+Adelaide Strikers - 141/8 Brisbane Heat - 142/1
+2019-11-09
+0,1,1,1,0,0,0,4, - 7 runs
+0,1,3,0,1,1, - 6 runs
+1,0,1,0,0,4, - 6 runs
+4,W,0,1,2,1, - 8 runs
+0,0,0,0,2,1, - 3 runs
+0,4,0,W,1,1, - 6 runs
+Hobart Hurricanes - 150/5 Melbourne Renegades - 151/6
+2019-11-09
+0,4,0,0,1,4, - 9 runs
+1,1,0,0,1,2,0,0, - 5 runs
+0,0,0,0,0,1, - 1 runs
+0,1,0,1,1,1, - 4 runs
+1,0,4,1,0,1, - 7 runs
+0,0,1,1,1,1, - 4 runs
+Perth Scorchers - 173/3 Adelaide Strikers - 171/4
+2019-11-09
+4,0,0,1,0,1, - 6 runs
+0,1,W,1,0,1, - 3 runs
+W,4,4,0,1,0, - 9 runs
+0,0,0,4,1,0, - 5 runs
+0,2,4,1,0,1, - 8 runs
+4,0,4,0,0,4, - 12 runs
+Sydney Sixers - 123/7 Brisbane Heat - 127/3
+2019-11-10
+0,1,0,0,0,0, - 1 runs
+1,0,1,1,1,0,4, - 8 runs
+0,0,1,1,0,1, - 3 runs
+0,0,0,0,0,0, - 0 runs
+0,1,1,0,4,4, - 10 runs
+0,0,4,1,0,1, - 6 runs
+Adelaide Strikers - 164/4 Melbourne Stars - 147/8
+2019-11-10
+0,0,4,0,1,0, - 5 runs
+1,0,0,1,W,4, - 6 runs
+0,1,1,0,0,4, - 6 runs
+0,4,0,0,0,0, - 4 runs
+1,1,0,0,W,0, - 2 runs
+0,1,0,0,1,1, - 3 runs
+Perth Scorchers - 151/5 Sydney Thunder - 144/6
+2019-11-10
+1,0,4,2,0,0, - 7 runs
+W,0,0,1,W,0, - 1 runs
+1,0,0,0,0,4, - 5 runs
+0,0,0,1,4,0, - 5 runs
+0,1,0,0,1,0, - 2 runs
+0,1,2,4,1,0, - 8 runs
+Hobart Hurricanes - 108/8 Melbourne Renegades - 109/2
+2019-11-12
+1,0,W,1,0,0, - 2 runs
+1,1,0,0,0,0, - 2 runs
+4,0,2,0,0,0, - 6 runs
+1,1,0,0,1,0, - 3 runs
+1,4,4,0,0,0, - 9 runs
+4,0,6,0,1,1, - 12 runs
+Perth Scorchers - 116/6 Sydney Thunder - 105/10
+2019-11-13
+0,1,1,0,1,0, - 3 runs
+1,4,1,1,0,0, - 7 runs
+0,0,1,4,0,0, - 5 runs
+1,4,0,1,0,1, - 7 runs
+1,4,0,5,6,6,4, - 26 runs
+0,6,4,0,0,1, - 11 runs
+Sydney Sixers - 172/2 Hobart Hurricanes - 133/10
+2019-11-13
+0,0,1,1,4,0, - 6 runs
+1,1,4,0,W,0, - 6 runs
+0,W,0,0,4,0, - 4 runs
+1,0,0,2,1,0, - 4 runs
+0,0,2,0,0,0, - 2 runs
+0,4,0,4,0,1, - 9 runs
+Melbourne Stars - 165/4 Brisbane Heat - 168/1
+2019-11-15
+1,0,1,1,0,4, - 7 runs
+0,0,0,4,0,0, - 4 runs
+0,1,1,0,0,4, - 6 runs
+0,0,0,0,0,1, - 1 runs
+0,0,1,0,2,0,1, - 4 runs
+0,1,0,1,0,0, - 2 runs
+Sydney Sixers - 152/3 Sydney Thunder - 112/8
+2019-11-16
+0,1,2,0,2,W, - 5 runs
+1,1,0,0,2,2, - 6 runs
+0,4,4,0,1,1, - 10 runs
+2,1,6,W,0,0, - 9 runs
+0,1,1,0,0,4, - 6 runs
+2,4,1,1,0,1, - 9 runs
+Brisbane Heat - 128/8 Sydney Thunder - 96/10
+2019-11-16
+0,0,1,1,1,0,1,0,1,0, - 5 runs
+0,0,0,1,0,0, - 1 runs
+0,1,4,4,2,1, - 12 runs
+4,0,0,1,4,1, - 10 runs
+1,0,1,1,0,1, - 4 runs
+W,0,0,0,0,0, - 0 runs
+Adelaide Strikers - 153/2 Melbourne Stars - 96/8
+2019-11-17
+0,0,0,0,0,4, - 4 runs
+0,0,1,1,W,0, - 2 runs
+0,4,0,0,0,W, - 4 runs
+0,1,0,0,0,0, - 1 runs
+1,0,0,4,0,4, - 9 runs
+0,4,0,1,0,0, - 5 runs
+Perth Scorchers - 112/8 Brisbane Heat - 113/2
+2019-11-17
+4,W,0,1,0,1, - 6 runs
+0,0,0,0,2,0, - 2 runs
+1,0,1,1,1,0, - 4 runs
+4,1,2,1,1,0, - 9 runs
+1,4,1,0,1,2, - 9 runs
+0,1,6,0,0,4, - 11 runs
+Sydney Sixers - 139/4 Melbourne Renegades - 141/8
+2019-11-20
+0,5,4,0,0,1,0, - 10 runs
+0,0,0,1,0,1, - 2 runs
+0,1,0,0,1,1,0, - 3 runs
+1,0,6,1,0,0,2,0, - 10 runs
+0,4,0,1,0,0,1, - 6 runs
+0,1,1,0,1,1, - 4 runs
+Melbourne Stars - 149/6 Perth Scorchers - 151/1
+2019-11-22
+0,2,1,0,4,0, - 7 runs
+1,1,W,0,0,0, - 2 runs
+0,0,1,0,0,W, - 1 runs
+0,1,1,0,0,2, - 4 runs
+0,4,1,0,1,0, - 6 runs
+1,0,1,4,1,1, - 8 runs
+Brisbane Heat - 157/9 Hobart Hurricanes - 150/7
+2019-11-23
+1,0,2,1,1,0,0, - 5 runs
+0,0,0,1,1,0, - 2 runs
+4,1,0,1,4,0, - 10 runs
+2,0,0,0,4,0, - 6 runs
+6,0,2,4,1,1, - 14 runs
+5,4,2,1,0,0,0, - 12 runs
+Adelaide Strikers - 143/3 Hobart Hurricanes - 141/7
+2019-11-23
+0,0,1,0,0,0, - 1 runs
+1,0,4,0,0,1,1, - 7 runs
+1,4,0,4,0,4, - 13 runs
+4,1,0,1,0,0,1, - 7 runs
+2,0,4,4,1,2, - 13 runs
+1,W,1,4,0,1, - 7 runs
+Melbourne Renegades - 165/3 Melbourne Stars - 169/3
+2019-11-24
+1,0,0,1,0,0, - 2 runs
+4,1,2,0,0,0, - 7 runs
+0,0,0,4,0,1, - 5 runs
+1,W,2,0,0,1,4, - 8 runs
+0,0,0,0,0,0, - 0 runs
+0,0,0,4,1,4, - 9 runs
+Adelaide Strikers - 161/6 Sydney Thunder - 161/6
+2019-11-24
+W,0,1,0,0,0, - 1 runs
+0,0,0,0,4,1, - 5 runs
+0,0,6,0,0,0, - 6 runs
+0,0,4,0,4,4, - 12 runs
+0,1,1,4,4,1,0, - 11 runs
+1,0,6,0,4,1, - 12 runs
+Sydney Sixers - 164/6 Perth Scorchers - 165/2
+2019-11-27
+0,1,4,0,4,0, - 9 runs
+1,0,0,1,0,1, - 3 runs
+0,0,4,1,1,0, - 6 runs
+0,0,1,1,0,0, - 2 runs
+1,1,1,4,1,4, - 12 runs
+2,0,1,4,1,0, - 8 runs
+Brisbane Heat - 183/4 Melbourne Renegades - 185/4
+2019-11-27
+0,0,0,2,4,1, - 7 runs
+0,4,1,0,1,1,1,W, - 8 runs
+1,0,1,0,0,1, - 3 runs
+0,0,2,0,4,1, - 7 runs
+1,0,4,1,3,0, - 9 runs
+4,1,1,4,2,1, - 13 runs
+Sydney Thunder - 162/6 Melbourne Stars - 144/5
+2019-11-30
+0,0,2,4,0,2, - 8 runs
+1,0,1,0,4,1, - 7 runs
+0,1,4,0,0,1, - 6 runs
+2,0,1,4,1,0, - 8 runs
+0,4,0,4,0,0, - 8 runs
+4,2,1,1,0,1, - 9 runs
+Melbourne Stars - 162/4 Melbourne Renegades - 163/4
+2019-11-30
+0,0,0,0,W,0, - 0 runs
+0,0,1,0,1,1,1,0, - 4 runs
+W,4,0,0,0,0, - 4 runs
+0,0,1,1,1,4, - 7 runs
+1,1,1,0,1,0, - 4 runs
+0,0,W,0,0,0, - 0 runs
+Sydney Sixers - 93/9 Adelaide Strikers - 94/2
+2019-11-30
+0,2,0,0,0,1, - 3 runs
+0,1,4,1,W,1,0, - 7 runs
+4,0,0,0,0,0, - 4 runs
+0,0,0,4,0,1, - 5 runs
+W,0,1,0,1,0, - 2 runs
+0,W,1,1,0,0, - 2 runs
+Perth Scorchers - 107/10 Hobart Hurricanes - 113/4
+2019-12-01
+0,0,1,3,0,1, - 5 runs
+0,0,0,1,0,0, - 1 runs
+W,W,0,0,0,4, - 4 runs
+1,0,0,0,1,1, - 3 runs
+1,0,2,0,1,1, - 5 runs
+1,1,1,1,0,0,0, - 4 runs
+Melbourne Renegades - 151/6 Sydney Thunder - 122/7
+2019-12-01
+0,1,0,1,4,0, - 6 runs
+1,1,5,0,0,1,4, - 12 runs
+W,1,4,0,0,4, - 9 runs
+1,0,4,0,4,0,1, - 10 runs
+0,1,6,0,1,1, - 9 runs
+1,1,1,0,0,1,6, - 10 runs
+Sydney Sixers - 177/7 Adelaide Strikers - 164/7
+2019-12-01
+1,1,0,0,0,1,0, - 3 runs
+1,1,0,1,0,0,1,0, - 4 runs
+1,0,0,2,6,4, - 13 runs
+0,1,0,0,1,1, - 3 runs
+1,0,4,0,1,4,1, - 11 runs
+4,4,0,0,0,1, - 9 runs
+Perth Scorchers - 167/4 Hobart Hurricanes - 132/6
+2019-12-01
+4,0,0,1,1,0,1, - 7 runs
+4,6,4,1,0,2, - 17 runs
+0,1,6,0,4,0, - 11 runs
+0,0,1,1,1,0, - 3 runs
+4,2,1,W,1,1, - 9 runs
+W,1,2,0,1,W, - 4 runs
+Melbourne Stars - 87/6 Brisbane Heat - 88/2
+2019-12-07
+0,0,1,0,1,0, - 2 runs
+1,0,0,W,4,1,0, - 6 runs
+1,0,0,0,2,4, - 7 runs
+1,0,1,0,4,0,0, - 6 runs
+0,1,0,1,W,W, - 2 runs
+0,0,0,2,1,0, - 3 runs
+Perth Scorchers - 126/7 Adelaide Strikers - 130/2
+2019-12-07
+0,1,1,0,0,2, - 4 runs
+0,1,1,0,0,0,0, - 2 runs
+1,4,0,0,0,1, - 6 runs
+4,4,0,W,4,0, - 12 runs
+0,1,0,0,1,4, - 6 runs
+4,0,0,1,0,6, - 11 runs
+Melbourne Renegades - 163/4 Brisbane Heat - 165/6
+2019-12-08
+0,0,4,0,1,0, - 5 runs
+0,W,0,1,0,1,3,6, - 11 runs
+4,1,2,4,1,0, - 12 runs
+0,4,0,0,4,3, - 11 runs
+0,1,1,1,6,1, - 10 runs
+0,0,2,1,1,1, - 5 runs
+Adelaide Strikers - 161/7 Brisbane Heat - 162/4
+2020-10-25
+W,1,1,1,4,1,0,4, - 12 runs
+0,1,0,0,0,4, - 5 runs
+0,0,1,1,0,1, - 3 runs
+4,2,0,0,1,0,1, - 8 runs
+0,2,1,1,0,0, - 4 runs
+1,4,1,1,1,2,0, - 10 runs
+2020-10-25
+1,W,W,0,0,0,1,0, - 2 runs
+0,1,1,1,1,0,1,W, - 5 runs
+0,0,0,0,0,4, - 4 runs
+0,1,0,0,0,4, - 5 runs
+0,0,0,0,4,1,3, - 8 runs
+1,2,1,1,2,0,1, - 8 runs
+Hobart Hurricanes - 84/10 Adelaide Strikers - 85/2
+2020-10-25
+0,4,1,2,1,0, - 8 runs
+0,1,0,0,0,4, - 5 runs
+6,0,0,1,0,1, - 8 runs
+1,1,0,1,5,0, - 8 runs
+0,0,1,1,2,0,0, - 4 runs
+0,1,0,6,1,1, - 9 runs
+Perth Scorchers - 132/7 Brisbane Heat - 134/3
+2020-10-26
+1,0,1,0,1,0, - 3 runs
+0,1,2,W,0,0, - 3 runs
+1,1,0,W,1,1, - 4 runs
+1,0,0,1,1,0, - 3 runs
+2020-10-26
+1,0,W,0,1,0,0,0, - 2 runs
+0,2,1,0,0,0, - 3 runs
+W,0,1,1,0,1, - 3 runs
+0,0,0,4,0,1, - 5 runs
+W,1,W,1,1,1,0,4,2, - 10 runs
+1,0,6,2,1,1, - 11 runs
+Adelaide Strikers - 68/7 Sydney Sixers - 47/1
+2020-10-31
+1,1,0,1,0,0,0, - 3 runs
+0,0,1,0,1,0,1, - 3 runs
+2,0,0,0,1,4, - 7 runs
+1,0,1,0,0,0, - 2 runs
+0,1,0,6,1,1, - 9 runs
+W,0,1,1,2,0, - 4 runs
+Sydney Thunder - 190/6 Adelaide Strikers - 132/8
+2020-10-31
+0,0,1,0,0,0, - 1 runs
+0,4,0,0,W,0, - 4 runs
+1,0,W,0,1,0,0, - 2 runs
+0,1,1,2,0,0,4, - 8 runs
+1,0,0,W,0,0, - 1 runs
+0,0,2,0,0,1, - 3 runs
+Melbourne Renegades - 105/5 Perth Scorchers - 62/0
+2020-10-31
+0,W,1,4,0,0, - 5 runs
+0,1,4,0,1,0,0, - 6 runs
+0,1,0,1,1,4, - 7 runs
+1,1,1,4,0,2, - 9 runs
+0,1,1,0,0,0, - 2 runs
+4,1,1,2,0,0, - 8 runs
+Brisbane Heat - 80/2 Hobart Hurricanes - 43/0
+2020-11-01
+0,1,0,0,1,0, - 2 runs
+1,1,1,0,0,0,0,0, - 3 runs
+0,1,1,0,0,0, - 2 runs
+1,1,2,1,4,0, - 9 runs
+W,2,W,1,0,0, - 3 runs
+0,1,0,1,2,0, - 4 runs
+Adelaide Strikers - 70/4 Perth Scorchers - 25/1
+2020-11-01
+0,0,1,1,0,1,0, - 3 runs
+0,0,2,1,1,0,0,0, - 4 runs
+0,1,1,4,0,4, - 10 runs
+4,1,0,0,0,1, - 6 runs
+0,4,0,1,0,4,1, - 10 runs
+0,4,1,4,0,1, - 10 runs
+Sydney Thunder - 80/3 Brisbane Heat - 30/7
+2020-11-01
+4,0,0,0,0,0, - 4 runs
+0,1,4,0,0,1, - 6 runs
+W,0,0,1,0,0, - 1 runs
+0,1,0,1,0,0, - 2 runs
+1,1,4,0,4,0, - 10 runs
+W,0,0,1,1,0, - 2 runs
+Melbourne Renegades - 119/7 Sydney Sixers - 121/2
+2020-11-01
+0,1,1,W,0,0,1, - 3 runs
+W,1,1,0,1,6, - 9 runs
+1,0,0,0,W,1, - 2 runs
+2,1,1,0,W,4,1,0,1,0, - 10 runs
+1,4,4,1,0,0, - 10 runs
+1,1,1,1,0,W, - 4 runs
+Hobart Hurricanes - 89/9 Melbourne Stars - 93/2
+2020-11-03
+1,W,1,0,1,0, - 3 runs
+0,0,0,0,1,0, - 1 runs
+1,0,1,0,1,1,0, - 4 runs
+0,1,0,2,0,0, - 3 runs
+4,1,0,1,1,1,0, - 8 runs
+0,4,0,0,1,1, - 6 runs
+Melbourne Renegades - 81/10 Hobart Hurricanes - 82/1
+2020-11-03
+0,0,0,1,1,1, - 3 runs
+0,1,1,2,W,1,0, - 5 runs
+0,1,0,0,0,0, - 1 runs
+1,2,0,1,1,1,0,1, - 7 runs
+1,2,0,0,1,0, - 4 runs
+1,0,1,1,4,1, - 8 runs
+Adelaide Strikers - 154/6 Melbourne Stars - 159/3
+2020-11-04
+0,0,1,0,4,0, - 5 runs
+1,0,0,4,1,1, - 7 runs
+1,1,1,1,0,W,4,0, - 8 runs
+W,0,0,0,1,0, - 1 runs
+0,1,W,0,0,0, - 1 runs
+4,0,0,0,4,1, - 9 runs
+Sydney Thunder - 144/4 Perth Scorchers - 120/10
+2020-11-04
+1,4,1,0,1,4, - 11 runs
+1,2,4,1,0,4,0, - 12 runs
+0,1,W,0,1,0, - 2 runs
+4,4,1,W,0,0,0, - 9 runs
+2,1,0,0,0,4, - 7 runs
+0,0,1,4,0,4, - 9 runs
+Sydney Sixers - 129/7 Brisbane Heat - 105/10
+2020-11-07
+0,2,1,0,0,0, - 3 runs
+0,1,0,0,0,4, - 5 runs
+0,0,1,0,0,0, - 1 runs
+1,0,1,1,4,2, - 9 runs
+1,1,6,6,W,0, - 14 runs
+0,0,1,1,4,1,0, - 7 runs
+Melbourne Renegades - 110/10 Sydney Thunder - 108/7
+2020-11-07
+0,0,4,0,0,0, - 4 runs
+0,4,2,1,0,0, - 7 runs
+0,0,1,0,6,6, - 13 runs
+1,1,1,1,0,4, - 8 runs
+0,1,0,0,1,1, - 3 runs
+1,4,1,W,1,0, - 7 runs
+Sydney Sixers - 149/6 Hobart Hurricanes - 140/8
+2020-11-07
+0,0,1,0,1,0, - 2 runs
+0,0,0,1,1,1, - 3 runs
+1,0,0,4,0,4, - 9 runs
+6,1,W,0,0,0,0, - 7 runs
+4,0,2,0,2,0, - 8 runs
+1,1,0,1,0,W, - 3 runs
+Perth Scorchers - 118/10 Melbourne Stars - 120/2
+2020-11-08
+2,2,0,0,1,0, - 5 runs
+0,2,W,1,0,1,1,1, - 6 runs
+1,1,1,0,1,1, - 5 runs
+4,W,0,2,4,0, - 10 runs
+1,1,2,0,1,1,0, - 6 runs
+2,0,0,1,4,0, - 7 runs
+Sydney Thunder - 129/7 Hobart Hurricanes - 128/7
+2020-11-08
+1,0,0,1,4,1, - 7 runs
+2,0,2,1,0,0, - 5 runs
+1,0,1,0,W,0, - 2 runs
+W,0,W,0,1,0, - 1 runs
+4,0,1,0,0,1, - 6 runs
+0,0,0,1,1,0, - 2 runs
+Adelaide Strikers - 127/9 Melbourne Renegades - 121/8
+2020-11-08
+0,4,4,1,0,1, - 10 runs
+4,4,0,0,4,0, - 12 runs
+1,2,0,2,2,0, - 7 runs
+1,1,0,0,0,0, - 2 runs
+0,5,4,1,1,6,4, - 21 runs
+0,1,2,6,6,1, - 16 runs
+Melbourne Stars - 177/9 Brisbane Heat - 154/8
+2020-11-08
+1,0,0,0,4,1,0, - 6 runs
+0,0,0,1,1,4, - 6 runs
+2,0,2,1,4,0, - 9 runs
+1,1,0,4,0,1,1, - 8 runs
+1,4,6,6,6,1, - 24 runs
+1,4,1,0,0,1, - 7 runs
+Perth Scorchers - 183/4 Sydney Sixers - 147/5
+2020-11-10
+0,0,4,0,0,1, - 5 runs
+W,0,0,4,0,0, - 4 runs
+0,4,0,1,1,0,4, - 10 runs
+4,1,3,0,0,1, - 9 runs
+1,0,1,4,1,0, - 7 runs
+1,1,1,2,1,1, - 7 runs
+Adelaide Strikers - 140/7 Melbourne Stars - 144/5
+2020-11-10
+4,1,0,1,1,1, - 8 runs
+4,4,0,1,1,0, - 10 runs
+0,2,4,1,1,0, - 8 runs
+2,4,1,0,4,4,0, - 15 runs
+W,0,0,1,0,0,0, - 1 runs
+0,0,2,1,0,0, - 3 runs
+Hobart Hurricanes - 143/7 Melbourne Renegades - 134/5
+2020-11-11
+0,0,0,4,0,W, - 4 runs
+1,4,0,0,0,0, - 5 runs
+0,0,1,4,1,1, - 7 runs
+W,0,0,0,4,0, - 4 runs
+2,0,0,1,0,4, - 7 runs
+0,1,1,0,4,0, - 6 runs
+Sydney Sixers - 137/5 Perth Scorchers - 138/5
+2020-11-11
+1,0,1,1,0,0,1, - 4 runs
+0,1,0,0,0,1, - 2 runs
+W,0,0,4,4,4, - 12 runs
+1,0,1,4,0,1,0, - 7 runs
+0,6,0,0,0,0, - 6 runs
+1,0,0,0,1,1, - 3 runs
+Sydney Thunder - 111/9 Brisbane Heat - 115/2
+2020-11-14
+1,0,1,0,4,0, - 6 runs
+0,0,1,0,1,1,W, - 3 runs
+1,4,0,1,0,1,0,4,0, - 11 runs
+0,0,0,0,4,0, - 4 runs
+0,0,0,2,0,0, - 2 runs
+2,1,0,1,0,0, - 4 runs
+Melbourne Renegades - 122/3 Perth Scorchers - 123/1
+2020-11-14
+0,0,0,0,0,4, - 4 runs
+0,0,2,0,0,1, - 3 runs
+0,0,2,0,4,0, - 6 runs
+0,0,0,W,0,1, - 1 runs
+0,0,4,0,0,0, - 4 runs
+4,1,2,0,0,0, - 7 runs
+Brisbane Heat - 136/7 Adelaide Strikers - 122/7
+2020-11-14
+0,0,0,0,0,0, - 0 runs
+1,4,0,4,1,0, - 10 runs
+0,4,1,0,1,2, - 8 runs
+1,0,4,1,0,4, - 10 runs
+4,1,W,4,0,0, - 9 runs
+0,3,0,1,4,0, - 8 runs
+Sydney Sixers - 139/4 Hobart Hurricanes - 143/1
+2020-11-14
+1,1,0,4,1,1,1, - 9 runs
+0,0,1,0,0,1, - 2 runs
+1,W,0,5,0,0,W, - 6 runs
+0,0,1,0,0,0, - 1 runs
+1,1,1,1,1,0,1, - 6 runs
+0,0,0,0,4,1, - 5 runs
+Sydney Thunder - 131/5 Melbourne Stars - 135/2
+2020-11-15
+0,0,0,0,W,1, - 1 runs
+1,0,0,0,4,0, - 5 runs
+0,2,0,1,0,4, - 7 runs
+0,0,0,0,0,2, - 2 runs
+4,2,2,1,0,2, - 11 runs
+1,2,W,2,0,0, - 5 runs
+Adelaide Strikers - 119/8 Sydney Sixers - 105/9
+2020-11-15
+1,0,0,0,4,0,0, - 5 runs
+1,1,4,0,0,0,0, - 6 runs
+4,0,4,4,0,1,1, - 14 runs
+W,2,0,0,0,0, - 2 runs
+1,1,0,6,0,0,W, - 8 runs
+0,W,0,0,0,0, - 0 runs
+Hobart Hurricanes - 82/10 Brisbane Heat - 86/0
+2020-11-15
+0,1,6,0,0,1, - 8 runs
+1,1,1,0,0,0, - 3 runs
+1,1,4,2,1,0,0, - 9 runs
+1,1,1,0,0,1, - 4 runs
+4,0,0,0,1,0, - 5 runs
+1,0,1,0,0,0, - 2 runs
+Perth Scorchers - 131/8 Sydney Thunder - 97/10
+2020-11-15
+0,4,0,0,0,0, - 4 runs
+1,0,0,1,0,0,4, - 6 runs
+0,1,1,1,0,4, - 7 runs
+1,0,4,0,0,4,4, - 13 runs
+0,0,0,4,0,W, - 4 runs
+4,2,1,0,4,2, - 13 runs
+Melbourne Stars - 165/8 Melbourne Renegades - 165/7
+2020-11-17
+0,0,1,1,0,1, - 3 runs
+1,1,1,1,1,4, - 9 runs
+0,0,1,1,0,0, - 2 runs
+1,1,1,1,W,0, - 4 runs
+0,4,0,0,4,4, - 12 runs
+0,1,0,1,0,1, - 3 runs
+Adelaide Strikers - 141/6 Hobart Hurricanes - 77/10
+2020-11-17
+0,0,1,0,0,0, - 1 runs
+0,2,1,0,4,1, - 8 runs
+0,1,1,0,4,0, - 6 runs
+0,0,1,0,1,0, - 2 runs
+1,0,4,6,1,0, - 12 runs
+2,4,2,4,W,0, - 12 runs
+Sydney Sixers - 122/7 Brisbane Heat - 123/7
+2020-11-17
+0,1,0,1,W,1, - 3 runs
+0,4,1,0,1,1,0, - 7 runs
+0,4,4,1,4,0, - 13 runs
+0,0,1,1,6,1,1, - 10 runs
+0,1,0,1,4,0,2, - 8 runs
+4,0,4,0,2,1, - 11 runs
+Melbourne Stars - 149/8 Perth Scorchers - 143/8
+2020-11-17
+0,0,1,0,1,0, - 2 runs
+0,0,2,0,0,4, - 6 runs
+W,0,0,0,1,0,1, - 2 runs
+1,0,0,4,0,1, - 6 runs
+4,4,1,1,1,0, - 11 runs
+W,0,4,1,0,0, - 5 runs
+Melbourne Renegades - 126/7 Sydney Thunder - 132/2
+2020-11-18
+1,0,1,0,4,2,1, - 9 runs
+2,4,1,1,1,1, - 10 runs
+4,0,0,0,0,0, - 4 runs
+1,0,2,1,1,1, - 6 runs
+1,4,1,W,1,0,1,0, - 8 runs
+6,4,5,0,0,0, - 15 runs
+Perth Scorchers - 137/8 Brisbane Heat - 139/6
+2020-11-18
+0,2,0,4,0,0, - 6 runs
+0,0,2,0,2,W, - 4 runs
+1,0,4,0,1,1, - 7 runs
+0,0,1,0,0,0, - 1 runs
+0,2,0,0,0,2, - 4 runs
+4,4,0,W,0,2, - 10 runs
+Adelaide Strikers - 122/6 Melbourne Renegades - 123/3
+2020-11-18
+4,1,1,0,0,4,4, - 14 runs
+6,0,1,0,0,2, - 9 runs
+0,1,0,0,1,0,1, - 3 runs
+0,0,0,0,1,0, - 1 runs
+4,0,4,1,0,0, - 9 runs
+W,0,0,2,0,1, - 3 runs
+Melbourne Stars - 159/3 Hobart Hurricanes - 120/8
+2020-11-18
+4,0,0,0,4,4, - 12 runs
+2,0,0,4,0,0, - 6 runs
+4,1,1,4,1,1, - 12 runs
+0,1,4,0,4,1, - 10 runs
+0,1,0,1,0,4, - 6 runs
+1,4,4,0,W,0, - 9 runs
+Sydney Sixers - 147/7 Sydney Thunder - 143/8
+2020-11-21
+1,0,W,4,0,0, - 5 runs
+0,1,0,1,0,2, - 4 runs
+0,0,4,4,0,0, - 8 runs
+0,0,0,4,1,0, - 5 runs
+0,0,0,0,0,0, - 0 runs
+0,0,1,4,1,4, - 10 runs
+Melbourne Stars - 151/5 Brisbane Heat - 152/7
+2020-11-21
+0,0,0,4,2,2, - 8 runs
+0,0,1,0,0,1, - 2 runs
+4,2,1,2,1,0,0,0, - 10 runs
+1,W,0,1,2,0, - 4 runs
+1,1,0,0,0,1, - 3 runs
+0,0,0,4,1,0, - 5 runs
+Adelaide Strikers - 133/6 Sydney Thunder - 136/5
+2020-11-21
+0,0,0,0,4,4, - 8 runs
+0,1,W,1,1,1, - 4 runs
+0,0,4,1,0,4,0, - 9 runs
+0,1,0,1,4,0, - 6 runs
+W,0,0,4,1,0,1, - 6 runs
+0,0,0,0,0,0, - 0 runs
+Hobart Hurricanes - 134/6 Perth Scorchers - 140/0
+2020-11-21
+1,0,0,0,4,0, - 5 runs
+0,1,0,0,1,2, - 4 runs
+4,0,0,2,4,4, - 14 runs
+4,1,0,0,0,0, - 5 runs
+0,1,1,6,4,0, - 12 runs
+1,0,4,0,6,0, - 11 runs
+Sydney Sixers - 166/4 Melbourne Renegades - 169/4
+2020-11-22
+1,W,0,0,1,0,W, - 2 runs
+0,0,0,0,0,0, - 0 runs
+0,1,1,0,W,0, - 2 runs
+0,1,0,0,0,4,0, - 5 runs
+0,0,1,1,0,0,0, - 2 runs
+1,1,0,4,4,0, - 10 runs
+Hobart Hurricanes - 115/9 Sydney Thunder - 116/4
+2020-11-22
+0,1,1,0,1,4, - 7 runs
+W,1,2,0,1,2, - 6 runs
+0,2,1,0,1,2, - 6 runs
+1,1,1,1,0,1,1, - 6 runs
+4,4,4,2,0,2, - 16 runs
+4,0,0,2,0,4, - 10 runs
+Adelaide Strikers - 159/6 Perth Scorchers - 156/7
+2020-11-22
+0,1,0,1,0,0,0, - 2 runs
+0,1,0,4,4,4,0, - 13 runs
+0,0,1,1,1,0,0, - 3 runs
+0,0,1,1,4,4, - 10 runs
+0,0,0,1,4,0, - 5 runs
+0,0,4,4,1,4, - 13 runs
+Melbourne Stars - 178/4 Sydney Sixers - 184/5
+2020-11-22
+0,0,0,1,1,1, - 3 runs
+0,0,1,1,0,0, - 2 runs
+4,4,W,0,0,0, - 8 runs
+1,0,0,W,1,0,0, - 2 runs
+2,2,1,2,0,0, - 7 runs
+2,0,0,3,1,0, - 6 runs
+Brisbane Heat - 114/6 Melbourne Renegades - 76/10
+2020-11-25
+1,1,0,0,1,1, - 4 runs
+0,0,1,1,1,1,0, - 4 runs
+1,1,1,0,1,1, - 5 runs
+4,1,0,2,0,1,0, - 8 runs
+1,1,1,0,2,1, - 6 runs
+1,1,1,1,0,1, - 5 runs
+Perth Scorchers - 125/8 Melbourne Stars - 127/3
+2020-11-26
+0,4,0,4,0,0, - 8 runs
+4,0,0,0,2,W, - 6 runs
+1,1,4,0,2,0,0, - 8 runs
+1,0,4,0,4,1,0, - 10 runs
+1,0,2,1,0,4, - 8 runs
+1,0,0,W,0,0, - 1 runs
+Sydney Thunder - 143/6 Brisbane Heat - 131/10
+2020-11-29
+0,0,0,1,0,1,0, - 2 runs
+0,0,0,0,0,1, - 1 runs
+W,1,1,0,1,4, - 7 runs
+0,1,0,0,6,0, - 7 runs
+0,1,0,1,0,0, - 2 runs
+0,0,0,1,W,0, - 1 runs
+Melbourne Stars - 86/9 Sydney Thunder - 87/3
+2021-10-14
+1,0,0,3,4,2, - 10 runs
+1,0,0,4,1,0,1, - 7 runs
+2,3,2,1,0,1,2, - 11 runs
+1,1,1,2,0,0,0, - 5 runs
+0,1,1,2,1,1,1, - 7 runs
+0,1,4,4,W,0, - 9 runs
+Melbourne Stars - 99/1 Sydney Sixers - 100/4
+2021-10-16
+0,0,1,0,0,1, - 2 runs
+1,0,1,2,0,1, - 5 runs
+4,0,4,0,4,0, - 12 runs
+1,0,1,1,0,1, - 4 runs
+1,1,1,1,1,0,W,0,0, - 5 runs
+1,2,1,0,4,0, - 8 runs
+Hobart Hurricanes - 121/10 Melbourne Renegades - 125/4
+2021-10-16
+0,1,0,0,2,1,4,0, - 8 runs
+2,4,1,1,0,W, - 8 runs
+0,0,4,0,0,W, - 4 runs
+1,0,4,1,W,1,1, - 8 runs
+0,4,1,1,0,2,1, - 9 runs
+0,4,2,0,1,1, - 8 runs
+Adelaide Strikers - 140/7 Sydney Thunder - 110/10
+2021-10-17
+0,1,0,1,1,1,1,1, - 6 runs
+0,1,0,0,0,6, - 7 runs
+1,4,4,3,0,0, - 12 runs
+W,2,0,0,1,1, - 4 runs
+2,2,0,0,1,0, - 5 runs
+1,4,2,1,1,1,0, - 10 runs
+Perth Scorchers - 137/7 Brisbane Heat - 137/9
+2021-10-17
+1,1,1,0,0,0, - 3 runs
+1,0,0,W,0,1,5,0, - 7 runs
+1,0,W,1,0,0,0,1, - 3 runs
+1,0,0,4,0,4, - 9 runs
+0,0,1,0,0,0,1,0, - 2 runs
+0,1,0,1,0,W, - 2 runs
+Hobart Hurricanes - 125/9 Sydney Sixers - 129/5
+2021-10-19
+0,1,0,0,0,0, - 1 runs
+0,0,0,4,0,1, - 5 runs
+0,4,4,1,2,0, - 11 runs
+2,1,0,W,1,1,0,0, - 5 runs
+W,0,0,0,0,0, - 0 runs
+0,4,1,0,1,1, - 7 runs
+Hobart Hurricanes - 152/4 Melbourne Stars - 89/10
+2021-10-19
+0,0,0,0,0,0, - 0 runs
+2,1,5,1,0,0,4,4, - 17 runs
+1,1,1,0,1,0,2, - 6 runs
+4,0,1,1,3,2,0,1, - 12 runs
+4,0,4,1,4,0, - 13 runs
+0,1,0,0,1,0, - 2 runs
+Brisbane Heat - 162/5 Perth Scorchers - 103/10
+2021-10-20
+1,2,0,1,0,1,0, - 5 runs
+1,0,0,0,2,1, - 4 runs
+1,0,0,1,1,0,0,0, - 3 runs
+0,1,0,1,1,4, - 7 runs
+W,0,1,0,0,1, - 2 runs
+W,0,0,0,4,2, - 6 runs
+Melbourne Renegades - 126/6 Adelaide Strikers - 129/2
+2021-10-20
+0,1,0,0,0,2, - 3 runs
+2,0,1,0,0,1,4,1,4, - 13 runs
+4,0,0,4,0,4, - 12 runs
+W,0,0,1,1,0, - 2 runs
+1,1,0,0,0,0, - 2 runs
+0,1,0,0,0,1, - 2 runs
+Melbourne Stars - 139/3 Sydney Sixers - 109/8
+2021-10-23
+1,1,0,0,0,1,1, - 4 runs
+0,0,0,3,2,1,1, - 7 runs
+0,W,0,1,1,0,0, - 2 runs
+2,1,2,0,4,0, - 9 runs
+0,4,0,0,1,W,0, - 5 runs
+0,0,0,0,0,2, - 2 runs
+2021-10-24
+0,4,4,1,0,0,4, - 13 runs
+4,1,3,1,4,0, - 13 runs
+4,4,1,0,W,0, - 9 runs
+0,4,1,2,1,0, - 8 runs
+0,0,1,6,1,4, - 12 runs
+1,0,1,W,W,W, - 2 runs
+Brisbane Heat - 104/5 Adelaide Strikers - 99/4
+2021-10-24
+0,1,W,0,0,1, - 2 runs
+2,0,4,0,0,W, - 6 runs
+2,0,0,0,1,0, - 3 runs
+0,1,0,0,0,0, - 1 runs
+W,0,1,0,0,0, - 1 runs
+0,1,1,1,0,1, - 4 runs
+Sydney Sixers - 118/4 Melbourne Renegades - 120/3
+2021-10-24
+0,2,0,0,1,1, - 4 runs
+1,0,0,3,1,0,0, - 5 runs
+1,0,0,1,6,0, - 8 runs
+0,1,2,0,1,1, - 5 runs
+2,4,1,0,0,1,0, - 8 runs
+0,1,0,0,4,0, - 5 runs
+Perth Scorchers - 186/2 Sydney Thunder - 105/9
+2021-10-26
+0,0,1,0,0,0, - 1 runs
+4,0,0,0,0,0, - 4 runs
+0,2,1,0,0,1, - 4 runs
+0,0,1,W,0,0, - 1 runs
+0,0,1,0,1,0, - 2 runs
+0,4,1,1,W,0, - 6 runs
+Melbourne Stars - 108/7 Sydney Thunder - 96/5
+2021-10-26
+W,0,2,0,W,1, - 3 runs
+1,0,1,4,W,0,1,0,1,0, - 8 runs
+0,0,0,0,0,4, - 4 runs
+0,W,0,0,1,0,0, - 1 runs
+0,1,1,4,1,0,0,4, - 11 runs
+1,0,0,0,4,1, - 6 runs
+Hobart Hurricanes - 132/8 Brisbane Heat - 138/2
+2021-10-27
+0,0,1,1,4,1, - 7 runs
+1,0,1,1,0,0, - 3 runs
+0,1,1,0,1,2, - 5 runs
+0,4,1,1,1,0, - 7 runs
+0,0,1,0,4,0, - 5 runs
+0,1,0,2,0,1, - 4 runs
+Melbourne Renegades - 142/5 Sydney Thunder - 133/8
+2021-10-27
+1,0,1,0,4,0, - 6 runs
+0,5,0,0,1,1,0,4, - 11 runs
+0,0,1,4,1,0, - 6 runs
+0,1,4,0,1,0,0, - 6 runs
+1,0,0,0,1,2, - 4 runs
+0,1,1,0,4,0,4, - 10 runs
+Melbourne Stars - 144/4 Hobart Hurricanes - 147/4
+2021-10-30
+0,0,0,0,0,0, - 0 runs
+1,0,0,0,4,W, - 5 runs
+1,0,1,4,0,0, - 6 runs
+1,1,0,0,0,4, - 6 runs
+4,W,0,0,1,1,5,6, - 17 runs
+2,0,4,1,4,0, - 11 runs
+Melbourne Renegades - 142/7 Sydney Sixers - 130/9
+2021-10-30
+0,0,0,0,1,2, - 3 runs
+0,1,1,0,4,0, - 6 runs
+0,W,0,1,0,0, - 1 runs
+0,0,0,0,0,0, - 0 runs
+0,1,0,3,1,1, - 6 runs
+4,0,0,4,1,1, - 10 runs
+Sydney Thunder - 133/5 Melbourne Stars - 114/8
+2021-10-30
+1,0,0,0,1,0, - 2 runs
+1,0,2,0,1,1, - 5 runs
+0,1,0,1,0,1, - 3 runs
+0,4,0,0,0,4, - 8 runs
+1,4,0,0,1,0, - 6 runs
+0,1,1,2,4,4, - 12 runs
+Perth Scorchers - 121/5 Adelaide Strikers - 121/8
+2021-10-30
+0,0,0,0,1,0, - 1 runs
+1,0,0,4,0,2, - 7 runs
+0,0,1,0,0,0, - 1 runs
+0,1,2,1,2,4,4, - 14 runs
+1,1,1,1,0,0, - 4 runs
+0,4,1,2,4,4, - 15 runs
+Brisbane Heat - 170/6 Hobart Hurricanes - 156/9
+2021-10-31
+0,1,0,1,0,0,1, - 3 runs
+1,0,0,1,0,1, - 3 runs
+W,0,1,1,1,1,4, - 8 runs
+1,6,0,1,0,0, - 8 runs
+0,2,1,2,1,4,0,2,0,0, - 12 runs
+1,1,0,4,0,1,1, - 8 runs
+Sydney Thunder - 146/6 Hobart Hurricanes - 109/8
+2021-10-31
+5,0,0,4,0,4,0, - 13 runs
+0,0,2,1,0,1, - 4 runs
+0,1,0,1,0,6, - 8 runs
+0,4,0,4,2,0, - 10 runs
+1,0,0,1,2,0,2, - 6 runs
+1,0,0,0,1,0, - 2 runs
+Adelaide Strikers - 160/5 Melbourne Renegades - 162/4
+2021-10-31
+1,1,0,4,1,0,1,W, - 8 runs
+4,4,0,1,0,1, - 10 runs
+0,0,0,4,0,0, - 4 runs
+1,0,1,0,1,W, - 3 runs
+0,0,1,1,0,0, - 2 runs
+0,2,1,1,0,1,4, - 9 runs
+Brisbane Heat - 95/9 Melbourne Stars - 99/2
+2021-10-31
+1,1,0,0,0,2,0, - 4 runs
+0,1,1,0,1,0, - 3 runs
+0,1,0,0,1,1, - 3 runs
+0,4,1,0,4,0, - 9 runs
+4,1,1,4,0,4, - 14 runs
+1,0,6,1,1,0, - 9 runs
+Sydney Sixers - 161/3 Perth Scorchers - 117/9
+2021-11-03
+0,1,0,W,0,1,0, - 2 runs
+1,0,0,1,0,1, - 3 runs
+0,0,0,0,0,0, - 0 runs
+4,0,0,4,0,2, - 10 runs
+1,5,0,1,4,1,4,0,0, - 16 runs
+1,1,0,2,4,1, - 9 runs
+Sydney Sixers - 141/4 Hobart Hurricanes - 110/7
+2021-11-03
+0,1,0,4,1,0, - 6 runs
+1,0,0,4,4,0, - 9 runs
+1,4,1,1,0,4,1, - 12 runs
+1,2,2,1,4,4, - 14 runs
+4,1,2,1,2,0, - 10 runs
+2,0,1,4,1,4, - 12 runs
+Perth Scorchers - 194/2 Melbourne Renegades - 154/6
+2021-11-06
+4,4,0,1,0,0, - 9 runs
+0,1,4,0,1,4, - 10 runs
+0,0,4,0,1,4, - 9 runs
+1,0,0,0,4,4, - 9 runs
+2,1,1,0,4,0, - 8 runs
+2,0,1,2,4,1,4, - 14 runs
+Melbourne Renegades - 207/4 Brisbane Heat - 192/10
+2021-11-06
+0,0,0,1,1,0, - 2 runs
+1,1,1,0,0,1,0, - 4 runs
+1,1,4,1,1,0, - 8 runs
+1,0,1,0,4,1, - 7 runs
+1,1,4,1,1,0, - 8 runs
+4,2,1,4,1,1, - 13 runs
+Melbourne Stars - 126/4 Adelaide Strikers - 89/8
+2021-11-06
+0,0,0,0,4,1, - 5 runs
+0,0,2,0,0,0,0, - 2 runs
+0,1,0,2,2,1, - 6 runs
+0,2,1,1,0,4,2, - 10 runs
+0,1,1,0,0,4,1, - 7 runs
+0,0,1,2,4,1, - 8 runs
+Hobart Hurricanes - 137/8 Perth Scorchers - 135/8
+2021-11-07
+1,0,2,1,0,0,1,4,4, - 13 runs
+0,4,0,0,0,0, - 4 runs
+0,6,1,0,W,0, - 7 runs
+1,0,2,0,1,0, - 4 runs
+2,1,2,0,3,1, - 9 runs
+1,4,4,1,0,4,0, - 14 runs
+Sydney Thunder - 143/7 Brisbane Heat - 144/5
+2021-11-07
+1,0,0,0,0,0, - 1 runs
+W,1,0,3,1,4, - 9 runs
+0,0,1,0,0,0, - 1 runs
+0,0,6,W,0,4, - 10 runs
+0,2,0,0,1,1, - 4 runs
+1,0,1,0,4,0, - 6 runs
+Melbourne Stars - 103/10 Melbourne Renegades - 104/3
+2021-11-07
+0,0,0,0,0,1, - 1 runs
+0,W,1,W,0,1, - 2 runs
+1,0,0,1,0,1, - 3 runs
+0,2,W,1,0,0,0, - 3 runs
+0,0,1,W,3,0, - 4 runs
+W,0,0,4,0,0, - 4 runs
+Hobart Hurricanes - 96/10 Perth Scorchers - 99/5
+2021-11-09
+1,1,0,0,2,0,0, - 4 runs
+1,0,0,2,1,1,1,1, - 7 runs
+4,0,1,0,0,0, - 5 runs
+1,0,1,0,0,4,4, - 10 runs
+0,0,1,1,0,0, - 2 runs
+W,0,4,0,0,1, - 5 runs
+Sydney Sixers - 159/2 Brisbane Heat - 162/2
+2021-11-09
+0,0,0,0,0,0, - 0 runs
+0,0,0,0,0,1, - 1 runs
+0,0,0,1,0,0, - 1 runs
+1,2,4,1,1,2, - 11 runs
+4,1,1,1,0,1, - 8 runs
+1,4,1,0,1,1, - 8 runs
+Adelaide Strikers - 176/4 Sydney Thunder - 158/6
+2021-11-10
+0,0,1,0,1,0, - 2 runs
+0,0,0,W,0,0, - 0 runs
+1,0,2,4,1,5,0,0, - 13 runs
+0,0,0,4,0,0, - 4 runs
+0,0,0,0,W,0, - 0 runs
+1,0,0,0,0,W, - 1 runs
+Melbourne Stars - 97/9 Perth Scorchers - 98/0
+2021-11-10
+0,4,0,0,0,1, - 5 runs
+4,0,1,1,0,1, - 7 runs
+0,0,1,4,0,0, - 5 runs
+2,0,4,6,W,W, - 12 runs
+4,2,1,1,0,1, - 9 runs
+W,1,0,0,0,4, - 5 runs
+Sydney Sixers - 142/4 Adelaide Strikers - 148/2
+2021-11-11
+0,4,0,4,0,0, - 8 runs
+1,2,1,1,1,0, - 6 runs
+4,0,0,0,0,W, - 4 runs
+0,4,4,0,1,1, - 10 runs
+0,0,4,0,0,4, - 8 runs
+1,1,1,4,4,1,0, - 12 runs
+Perth Scorchers - 184/2 Sydney Thunder - 21/1
+2021-11-13
+0,0,1,1,0,W, - 2 runs
+2,0,1,2,1,0, - 6 runs
+0,0,1,0,0,0, - 1 runs
+0,0,1,4,0,4, - 9 runs
+0,1,1,0,1,1,1, - 5 runs
+1,0,4,4,1,2, - 12 runs
+Adelaide Strikers - 142/4 Hobart Hurricanes - 94/10
+2021-11-13
+0,1,1,1,2,1,0, - 6 runs
+W,0,0,0,0,W, - 0 runs
+4,1,4,0,0,1,0, - 10 runs
+0,0,1,0,0,0, - 1 runs
+0,1,0,0,1,1, - 3 runs
+1,0,0,W,2,0, - 3 runs
+Sydney Sixers - 91/7 Brisbane Heat - 92/7
+2021-11-14
+0,2,1,0,0,0, - 3 runs
+0,1,0,1,1,0, - 3 runs
+2,0,W,0,0,0, - 2 runs
+4,1,1,0,1,0,0, - 7 runs
+4,0,0,0,0,0, - 4 runs
+5,0,0,1,1,0,0, - 7 runs
+Brisbane Heat - 94/7 Adelaide Strikers - 98/2
+2021-11-14
+0,0,0,0,0,0, - 0 runs
+0,0,0,4,0,0, - 4 runs
+0,1,0,2,0,0, - 3 runs
+1,1,1,1,1,0, - 5 runs
+1,W,0,1,0,1, - 3 runs
+4,1,1,1,W,W, - 7 runs
+Sydney Sixers - 94/6 Sydney Thunder - 96/4
+2021-11-17
+0,0,4,0,1,1, - 6 runs
+1,1,0,0,1,2, - 5 runs
+0,1,1,4,1,1, - 8 runs
+2,0,1,1,1,2, - 7 runs
+1,0,1,4,4,4,1, - 15 runs
+0,4,1,0,0,4, - 9 runs
+Perth Scorchers - 177/3 Adelaide Strikers - 165/5
+2021-11-17
+0,0,2,W,3,0, - 5 runs
+4,0,0,0,0,W, - 4 runs
+0,2,0,0,1,0, - 3 runs
+0,0,1,4,0,0, - 5 runs
+4,0,1,4,0,0, - 9 runs
+1,1,0,4,0,4,0, - 10 runs
+Melbourne Renegades - 175/4 Sydney Thunder - 171/2
+2021-11-19
+0,W,0,0,0,1, - 1 runs
+1,4,0,0,0,2, - 7 runs
+0,0,0,0,1,0, - 1 runs
+1,1,1,0,1,4,1,5,0, - 14 runs
+3,4,4,0,4,1, - 16 runs
+4,6,0,1,0,2, - 13 runs
+Hobart Hurricanes - 161/5 Melbourne Renegades - 109/10
+2021-11-19
+2,0,1,1,4,0,4, - 12 runs
+1,0,0,4,0,0,0, - 5 runs
+0,1,1,1,4,1, - 8 runs
+0,1,0,0,2,1, - 4 runs
+4,1,0,4,1,0, - 10 runs
+0,4,4,1,1,4,0, - 14 runs
+Sydney Thunder - 162/5 Brisbane Heat - 153/9
+2021-11-20
+0,0,2,0,0,1, - 3 runs
+0,0,0,0,0,0, - 0 runs
+1,1,0,0,0,0, - 2 runs
+0,2,1,1,1,1,4,0,0,1, - 11 runs
+1,1,0,0,2,0,0, - 4 runs
+0,4,1,2,0,1,1,4,2, - 15 runs
+Melbourne Stars - 122/7 Perth Scorchers - 123/6
+2021-11-20
+1,0,W,0,0,0,0, - 1 runs
+W,0,4,1,4,0, - 9 runs
+0,2,1,4,0,0, - 7 runs
+1,0,1,4,1,W, - 7 runs
+W,1,0,0,1,0, - 2 runs
+1,1,0,0,W,0, - 2 runs
+Sydney Sixers - 82/10 Adelaide Strikers - 84/2
+2021-11-20
+0,0,W,1,0,1, - 2 runs
+0,3,0,1,0,0, - 4 runs
+4,1,1,1,0,1,6, - 14 runs
+4,1,0,4,0,0, - 9 runs
+0,0,0,2,4,0, - 6 runs
+0,0,W,0,0,1, - 1 runs
+Hobart Hurricanes - 147/5 Sydney Thunder - 143/9
+2021-11-20
+1,0,0,4,0,1,1, - 7 runs
+0,0,2,2,4,1, - 9 runs
+4,1,0,2,0,1,0, - 8 runs
+1,1,0,1,1,1,1, - 6 runs
+1,4,0,1,1,W, - 7 runs
+4,0,4,2,0,0, - 10 runs
+Brisbane Heat - 156/5 Melbourne Renegades - 113/9
+2021-11-21
+1,0,2,0,0,0, - 3 runs
+0,0,0,1,1,0, - 2 runs
+0,0,1,1,4,1, - 7 runs
+1,1,0,0,2,1,1, - 6 runs
+1,0,4,2,1,1,0, - 9 runs
+0,4,4,0,6,0, - 14 runs
+Sydney Sixers - 128/4 Perth Scorchers - 131/2
+2021-11-21
+0,1,1,W,0,1,0, - 3 runs
+3,0,0,1,1,1, - 6 runs
+0,0,1,4,4,0,1, - 10 runs
+4,1,0,0,4,1,1, - 11 runs
+1,0,4,0,0,4, - 9 runs
+0,0,4,0,1,1, - 6 runs
+Adelaide Strikers - 175/3 Melbourne Stars - 181/1
+2021-11-24
+2,0,0,2,0,0, - 4 runs
+1,1,0,0,0,0,1, - 3 runs
+0,0,2,4,0,0, - 6 runs
+1,1,W,0,1,0,1,0, - 4 runs
+0,0,0,4,0,0, - 4 runs
+0,0,0,0,4,0, - 4 runs
+Brisbane Heat - 114/8 Adelaide Strikers - 118/2
+2021-11-25
+W,1,1,1,0,1, - 4 runs
+1,0,W,0,1,0, - 2 runs
+4,4,1,4,1,0,0, - 14 runs
+0,0,W,0,4,0, - 4 runs
+0,0,0,0,0,1, - 1 runs
+0,1,0,0,0,1, - 2 runs
+Melbourne Renegades - 83/8 Adelaide Strikers - 86/1
+2021-11-27
+0,1,0,2,0,1, - 4 runs
+0,4,0,1,0,0, - 5 runs
+0,1,0,2,1,0, - 4 runs
+1,1,0,1,0,1,0,1, - 5 runs
+0,1,1,1,4,0,0, - 7 runs
+0,4,0,1,1,2,4, - 12 runs
+Perth Scorchers - 146/5 Adelaide Strikers - 134/6
+2022-10-13
+0,0,1,0,4,1, - 6 runs
+0,3,W,0,0,0, - 3 runs
+2,0,0,0,0,0, - 2 runs
+0,0,1,0,4,1, - 6 runs
+0,1,0,0,1,2, - 4 runs
+4,1,4,0,1,0, - 10 runs
+Brisbane Heat - 141/8 Sydney Sixers - 143/6
+2022-10-14
+1,0,0,0,0,0, - 1 runs
+0,0,0,1,4,2, - 7 runs
+1,0,0,6,0,1,0, - 8 runs
+0,0,0,1,2,0, - 3 runs
+W,0,0,0,0,0, - 0 runs
+0,1,1,1,0,0,1, - 4 runs
+Hobart Hurricanes - 125/5 Sydney Thunder - 106/9
+2022-10-15
+1,4,1,0,0,0, - 6 runs
+0,2,0,0,0,1, - 3 runs
+1,1,0,0,0,1, - 3 runs
+0,0,1,0,0,1,W, - 2 runs
+1,0,4,0,1,1, - 7 runs
+0,0,1,0,1,1, - 3 runs
+Sydney Sixers - 151/2 Adelaide Strikers - 134/9
+2022-10-15
+0,1,1,0,0,1,0, - 3 runs
+1,0,0,0,0,4,1, - 6 runs
+1,4,2,0,0,0,0,1, - 8 runs
+0,1,1,1,1,4, - 8 runs
+0,0,1,1,1,1, - 4 runs
+0,1,6,2,1,1, - 11 runs
+Brisbane Heat - 179/3 Melbourne Stars - 170/8
+2022-10-16
+2,2,1,0,6,1,0, - 12 runs
+4,W,0,0,0,0, - 4 runs
+0,0,0,0,1,1, - 2 runs
+1,2,0,0,2,4, - 9 runs
+1,W,0,0,0,0, - 1 runs
+1,0,1,2,1,1,1, - 7 runs
+Adelaide Strikers - 126/7 Melbourne Renegades - 128/6
+2022-10-16
+0,4,0,0,0,1, - 5 runs
+0,1,0,4,0,4, - 9 runs
+1,0,W,0,0,4, - 5 runs
+4,1,1,1,0,0,1,2, - 10 runs
+1,4,0,1,1,4,1, - 12 runs
+1,4,0,0,2,2, - 9 runs
+Sydney Sixers - 147/6 Melbourne Stars - 120/9
+2022-10-16
+0,0,0,0,1,0, - 1 runs
+1,W,1,0,1,1,0,0, - 4 runs
+1,1,W,1,0,0, - 3 runs
+0,0,W,0,0,0, - 0 runs
+1,4,1,0,0,1,0, - 7 runs
+0,1,0,0,1,W, - 2 runs
+Sydney Thunder - 88/8 Perth Scorchers - 89/1
+2022-10-17
+2,1,0,0,0,W, - 3 runs
+0,0,0,0,1,0, - 1 runs
+1,0,5,0,1,0,0,0,0, - 7 runs
+2,0,W,0,0,0, - 2 runs
+0,0,1,1,1,0, - 3 runs
+1,4,0,0,4,0, - 9 runs
+Hobart Hurricanes - 109/9 Perth Scorchers - 110/2
+2022-10-18
+4,0,0,4,4,0, - 12 runs
+0,2,4,0,1,0, - 7 runs
+0,0,0,0,0,0, - 0 runs
+0,1,1,4,0,4, - 10 runs
+1,0,1,1,1,1,1,1,0, - 7 runs
+1,2,1,0,1,1, - 6 runs
+Brisbane Heat - 180/1 Melbourne Renegades - 159/6
+2022-10-18
+2,2,0,1,1,0, - 6 runs
+1,0,0,1,0,4, - 6 runs
+1,0,2,0,4,0, - 7 runs
+0,1,1,1,0,4, - 7 runs
+0,0,2,0,1,2, - 5 runs
+1,0,1,1,1,W, - 4 runs
+Hobart Hurricanes - 144/7 Sydney Thunder - 95/10
+2022-10-20
+W,1,0,0,0,0, - 1 runs
+0,0,0,0,0,4, - 4 runs
+W,0,0,4,0,4, - 8 runs
+0,1,4,0,0,0, - 5 runs
+1,0,4,0,4,0, - 9 runs
+4,0,W,1,0,0, - 5 runs
+Melbourne Stars - 110/9 Perth Scorchers - 111/8
+2022-10-21
+0,1,0,0,1,0, - 2 runs
+1,1,1,0,0,1,0, - 4 runs
+0,0,1,4,0,1, - 6 runs
+4,0,0,1,0,W, - 5 runs
+0,1,1,0,2,4, - 8 runs
+1,1,0,4,W,W, - 6 runs
+Brisbane Heat - 163/8 Melbourne Renegades - 137/10
+2022-10-21
+0,0,0,0,0,4, - 4 runs
+0,2,0,4,4,2, - 12 runs
+1,4,4,0,0,W, - 9 runs
+0,1,0,0,W,0, - 1 runs
+1,1,2,1,1,1, - 7 runs
+1,1,1,1,0,0,0, - 4 runs
+Adelaide Strikers - 142/6 Sydney Sixers - 139/8
+2022-10-22
+2,0,1,4,0,0,0, - 7 runs
+1,1,0,4,1,0, - 7 runs
+2,0,0,1,1,0, - 4 runs
+1,4,0,1,0,0,1,0, - 7 runs
+4,0,2,1,1,W,0, - 8 runs
+1,2,0,1,0,1, - 5 runs
+Sydney Thunder - 166/4 Perth Scorchers - 141/9
+2022-10-23
+0,1,W,1,2,0,4,0, - 8 runs
+4,0,0,4,2,0, - 10 runs
+0,1,0,0,0,0, - 1 runs
+0,4,4,0,4,4, - 16 runs
+0,0,1,2,4,0, - 7 runs
+0,0,4,0,0,1, - 5 runs
+2022-10-24
+0,1,0,1,1,0, - 3 runs
+0,4,W,0,0,1, - 5 runs
+0,4,1,0,1,1, - 7 runs
+1,1,0,0,0,W, - 2 runs
+1,1,0,0,W,0, - 2 runs
+0,0,0,1,1,1, - 3 runs
+Melbourne Renegades - 101/10 Adelaide Strikers - 102/2
+2022-10-25
+4,0,1,1,4,0,1, - 11 runs
+0,1,0,0,0,0, - 1 runs
+4,0,0,4,4,1, - 13 runs
+4,0,0,0,0,4, - 8 runs
+0,W,1,0,1,1, - 3 runs
+0,1,1,2,2,1, - 7 runs
+Sydney Thunder - 139/7 Brisbane Heat - 120/5
+2022-10-27
+1,0,1,0,0,0,0,4, - 6 runs
+1,0,W,0,0,0, - 1 runs
+1,0,4,0,0,4,0, - 9 runs
+0,2,0,0,4,4, - 10 runs
+0,0,2,4,1,1, - 8 runs
+0,0,1,2,0,1, - 4 runs
+Adelaide Strikers - 140/8 Brisbane Heat - 109/10
+2022-10-28
+0,0,4,1,0,0, - 5 runs
+0,0,1,0,1,0, - 2 runs
+0,2,0,1,0,2, - 5 runs
+1,W,1,4,0,0, - 6 runs
+W,1,0,0,0,0, - 1 runs
+0,0,4,1,0,4, - 9 runs
+Perth Scorchers - 111/5 Adelaide Strikers - 112/4
+2022-10-29
+0,1,0,2,0,0, - 3 runs
+6,4,1,0,W,0, - 11 runs
+1,0,1,2,1,4,2,1, - 12 runs
+0,0,1,4,1,4, - 10 runs
+2,1,0,1,2,W, - 6 runs
+2,0,6,1,0,0, - 9 runs
+Hobart Hurricanes - 95/8 Sydney Sixers - 96/2
+2022-10-29
+1,W,0,0,0,0, - 1 runs
+4,0,0,0,1,0, - 5 runs
+4,1,0,0,4,0,0, - 9 runs
+0,0,4,0,0,1, - 5 runs
+2,0,1,0,1,1, - 5 runs
+1,1,2,0,2,0,1,1, - 8 runs
+Melbourne Renegades - 91/10 Melbourne Stars - 92/4
+2022-10-29
+1,1,1,0,0,0, - 3 runs
+W,0,0,4,0,4, - 8 runs
+0,1,4,1,1,1, - 8 runs
+1,1,0,1,4,1, - 8 runs
+3,1,0,2,W,4, - 10 runs
+4,0,2,1,0,1, - 8 runs
+Perth Scorchers - 140/7 Brisbane Heat - 137/7
+2022-10-30
+0,0,1,0,0,1, - 2 runs
+4,4,0,1,2,0, - 11 runs
+0,1,0,1,0,0, - 2 runs
+1,0,0,6,1,1, - 9 runs
+1,0,4,1,1,1, - 8 runs
+1,1,1,1,1,4, - 9 runs
+Sydney Sixers - 188/3 Melbourne Renegades - 151/9
+2022-10-31
+0,0,0,1,0,0, - 1 runs
+0,1,0,0,0,0, - 1 runs
+1,1,1,0,0,1, - 4 runs
+4,4,1,0,2,4,1, - 16 runs
+1,4,1,1,0,1, - 8 runs
+1,1,1,W,1,1, - 5 runs
+2022-11-02
+0,0,0,0,1,1, - 2 runs
+0,1,0,0,0,1, - 2 runs
+4,0,0,4,1,1, - 10 runs
+1,0,0,0,4,0, - 5 runs
+1,4,W,0,4,0,1, - 10 runs
+4,1,0,0,1,6, - 12 runs
+Melbourne Stars - 186/5 Adelaide Strikers - 164/8
+2022-11-02
+0,0,0,4,1,0, - 5 runs
+W,1,0,1,W,1, - 3 runs
+0,0,4,4,1,0, - 9 runs
+0,1,4,2,0,0, - 7 runs
+0,1,1,0,4,1, - 7 runs
+1,1,1,4,4,1, - 12 runs
+Sydney Sixers - 163/6 Sydney Thunder - 148/7
+2022-11-03
+0,3,1,0,4,0,0, - 8 runs
+4,0,4,0,0,0, - 8 runs
+1,4,0,0,1,4, - 10 runs
+0,0,4,4,1,0, - 9 runs
+0,0,1,1,0,0, - 2 runs
+0,1,1,W,1,1,W, - 4 runs
+Melbourne Renegades - 133/5 Hobart Hurricanes - 137/6
+2022-11-04
+0,0,4,0,4,4, - 12 runs
+4,4,0,0,1,0, - 9 runs
+1,0,1,4,0,1, - 7 runs
+0,W,0,0,0,0, - 0 runs
+1,1,0,0,1,0,1, - 4 runs
+2,0,1,0,2,1, - 6 runs
+Brisbane Heat - 163/3 Sydney Thunder - 149/9
+2022-11-05
+0,0,0,0,2,0, - 2 runs
+1,0,0,1,0,1, - 3 runs
+0,0,0,1,0,2, - 3 runs
+0,0,4,1,0,1,4, - 10 runs
+0,4,1,0,0,2, - 7 runs
+1,1,W,1,1,0,0, - 4 runs
+Melbourne Stars - 112/8 Adelaide Strikers - 113/5
+2022-11-05
+4,0,W,4,0,1,0, - 9 runs
+0,2,2,0,0,1, - 5 runs
+0,4,0,4,0,4, - 12 runs
+0,1,0,0,1,0,0, - 2 runs
+0,0,1,0,1,1, - 3 runs
+1,1,0,0,0,4, - 6 runs
+Sydney Sixers - 155/5 Perth Scorchers - 158/1
+2022-11-06
+0,1,4,1,1,2,2,2, - 13 runs
+0,0,W,1,2,0, - 3 runs
+0,W,0,0,2,0, - 2 runs
+2,0,0,W,0,0, - 2 runs
+0,1,0,1,1,0,1,1, - 5 runs
+6,0,1,0,1,1, - 9 runs
+Hobart Hurricanes - 164/7 Brisbane Heat - 168/6
+2022-11-06
+2,0,1,1,0,1, - 5 runs
+0,1,0,0,0,0,0, - 1 runs
+0,0,0,0,0,1, - 1 runs
+0,W,0,1,2,1,4, - 8 runs
+0,0,0,1,0,1, - 2 runs
+0,4,1,1,1,0, - 7 runs
+Sydney Thunder - 121/6 Melbourne Renegades - 122/5
+2022-11-06
+1,W,0,W,0,0, - 1 runs
+1,1,1,0,0,4,0,1, - 8 runs
+0,4,0,1,0,1, - 6 runs
+0,0,4,4,0,4, - 12 runs
+1,0,0,1,0,1,4, - 7 runs
+0,1,1,1,1,1, - 5 runs
+Perth Scorchers - 119/9 Adelaide Strikers - 120/3
+2022-11-07
+4,1,0,1,1,1, - 8 runs
+0,1,0,4,0,0, - 5 runs
+0,W,1,1,1,0, - 3 runs
+0,W,0,0,0,1, - 1 runs
+1,4,0,4,1,1, - 11 runs
+4,0,1,W,0,0, - 5 runs
+Melbourne Renegades - 80/10 Hobart Hurricanes - 82/2
+2022-11-09
+2,1,0,1,1,1,0, - 6 runs
+1,0,0,1,0,4,1, - 7 runs
+0,1,1,1,0,6, - 9 runs
+1,0,0,1,0,1, - 3 runs
+1,1,1,1,5,1,2,0, - 12 runs
+0,0,3,1,0,0, - 4 runs
+Brisbane Heat - 153/8 Perth Scorchers - 120/8
+2022-11-10
+0,0,1,4,0,0, - 5 runs
+0,2,1,2,1,0,0, - 6 runs
+0,0,1,1,0,1, - 3 runs
+4,4,1,0,1,0, - 10 runs
+1,0,0,1,4,1,0, - 7 runs
+0,1,1,1,0,0, - 3 runs
+2022-11-11
+0,1,0,0,0,0, - 1 runs
+4,0,0,0,4,0, - 8 runs
+1,1,1,4,4,0, - 11 runs
+0,0,2,1,6,0, - 9 runs
+4,0,0,0,0,0, - 4 runs
+0,W,1,4,1,0, - 6 runs
+Hobart Hurricanes - 152/4 Adelaide Strikers - 129/4
+2022-11-12
+0,0,0,1,0,0, - 1 runs
+0,4,0,0,4,1,0, - 9 runs
+0,1,0,0,0,0, - 1 runs
+0,1,1,4,0,0, - 6 runs
+3,1,1,1,2,1, - 9 runs
+4,1,4,0,0,0, - 9 runs
+Perth Scorchers - 192/4 Melbourne Renegades - 88/10
+2022-11-12
+0,0,1,1,W,2,1, - 5 runs
+1,1,1,5,4,0,0, - 12 runs
+0,0,0,1,1,0, - 2 runs
+1,1,4,0,4,0,1, - 11 runs
+4,1,0,0,0,W, - 5 runs
+1,1,1,1,0,0, - 4 runs
+Sydney Sixers - 160/9 Melbourne Stars - 115/10
+2022-11-12
+0,0,1,W,1,1, - 3 runs
+0,0,2,W,1,0, - 3 runs
+0,1,4,0,1,0, - 6 runs
+4,0,1,0,0,1, - 6 runs
+W,1,1,2,4,1, - 9 runs
+1,2,4,1,4,1,4, - 17 runs
+Brisbane Heat - 100/6 Hobart Hurricanes - 101/4
+2022-11-13
+1,2,0,0,0,4, - 7 runs
+0,0,1,W,1,0, - 2 runs
+1,1,W,0,0,0, - 2 runs
+4,6,0,4,0,0, - 14 runs
+1,4,1,0,1,4, - 11 runs
+0,1,0,4,1,0, - 6 runs
+Perth Scorchers - 176/4 Sydney Sixers - 180/4
+2022-11-13
+0,0,0,4,4,1, - 9 runs
+1,0,0,W,0,1, - 2 runs
+1,1,0,1,1,4, - 8 runs
+4,4,0,0,W,0, - 8 runs
+1,0,W,1,0,0, - 2 runs
+1,1,4,1,1,0,0, - 8 runs
+Melbourne Renegades - 148/8 Melbourne Stars - 149/5
+2022-11-13
+1,0,0,2,1,0,0, - 4 runs
+0,1,0,0,0,0, - 1 runs
+4,0,1,0,0,0, - 5 runs
+4,0,0,0,0,1, - 5 runs
+4,0,0,0,1,0, - 5 runs
+1,1,4,2,1,0, - 9 runs
+2022-11-14
+0,1,0,2,0,0, - 3 runs
+0,1,0,0,4,4, - 9 runs
+0,1,1,4,2,0, - 8 runs
+4,1,1,1,W,0,0, - 7 runs
+0,4,1,W,1,1, - 7 runs
+W,0,0,0,0,1, - 1 runs
+Brisbane Heat - 114/6 Adelaide Strikers - 115/10
+2022-11-15
+0,1,0,1,0,0, - 2 runs
+1,1,1,2,1,4, - 10 runs
+1,6,W,1,1,1,2, - 12 runs
+4,1,0,W,1,2, - 8 runs
+0,1,4,1,1,W, - 7 runs
+1,2,0,2,1,1, - 7 runs
+Hobart Hurricanes - 130/8 Melbourne Stars - 132/6
+2022-11-15
+0,1,1,0,4,W, - 6 runs
+0,0,0,1,0,1, - 2 runs
+0,4,1,0,4,0, - 9 runs
+1,W,0,0,0,0, - 1 runs
+0,W,1,W,0,1,1, - 3 runs
+1,1,1,0,1,0, - 4 runs
+Sydney Thunder - 95/10 Melbourne Renegades - 98/2
+2022-11-16
+1,6,1,1,2,1,0,1,2,0,1, - 16 runs
+4,0,1,0,0,4, - 9 runs
+2,0,0,1,1,1,1,4, - 10 runs
+1,1,1,W,0,0, - 3 runs
+0,0,2,1,0,0, - 3 runs
+1,2,1,0,1,1,0, - 6 runs
+Hobart Hurricanes - 152/7 Melbourne Stars - 114/6
+2022-11-16
+0,0,0,6,1,1,1, - 9 runs
+0,1,4,0,0,1, - 6 runs
+0,6,1,0,4,0, - 11 runs
+0,4,1,4,4,0, - 13 runs
+0,6,1,1,W,0, - 8 runs
+0,0,0,0,1,1, - 2 runs
+Brisbane Heat - 163/5 Sydney Sixers - 164/5
+2022-11-18
+0,4,0,0,1,0, - 5 runs
+0,0,0,0,1,0,0, - 1 runs
+0,0,1,4,4,1,0, - 10 runs
+1,0,W,1,0,0,0, - 2 runs
+4,0,0,1,W,1,0, - 6 runs
+2,1,1,1,1,2,1, - 9 runs
+Hobart Hurricanes - 154/10 Adelaide Strikers - 155/2
+2022-11-18
+0,0,2,0,4,W, - 6 runs
+0,0,2,0,0,0, - 2 runs
+0,0,0,2,6,0, - 8 runs
+W,1,1,0,0,1, - 3 runs
+0,4,1,1,0,0, - 6 runs
+0,1,1,1,1,0, - 4 runs
+Sydney Sixers - 178/6 Sydney Thunder - 160/7
+2022-11-19
+1,0,2,0,1,0,0, - 4 runs
+1,3,1,4,4,4, - 17 runs
+2,0,4,4,1,0, - 11 runs
+0,0,0,4,4,4, - 12 runs
+0,1,2,0,1,1, - 5 runs
+6,1,0,1,W,0, - 8 runs
+Melbourne Stars - 179/8 Perth Scorchers - 173/7
+2022-11-20
+1,W,0,1,2,0, - 4 runs
+4,0,1,0,1,1, - 7 runs
+0,0,0,0,1,0, - 1 runs
+0,W,1,4,0,0, - 5 runs
+1,1,6,0,0,2, - 10 runs
+0,0,0,1,0,1, - 2 runs
+Perth Scorchers - 46/2 Melbourne Renegades - 58/4
+2022-11-20
+1,0,1,0,4,4,0,1,0, - 11 runs
+0,0,4,4,1,0, - 9 runs
+0,1,0,4,4,0,0, - 9 runs
+W,1,0,0,4,0,0, - 5 runs
+0,0,0,0,1,1, - 2 runs
+1,6,0,1,0,1, - 9 runs
+Hobart Hurricanes - 156/10 Sydney Sixers - 157/2
+2022-11-20
+1,4,1,1,1,6, - 14 runs
+W,0,1,1,0,0, - 2 runs
+1,1,1,1,0,1, - 5 runs
+4,4,4,0,4,0, - 16 runs
+0,1,0,0,4,2,1,4, - 12 runs
+1,W,0,1,1,6, - 9 runs
+Brisbane Heat - 104/5 Melbourne Stars - 49/1
+2022-11-20
+0,4,0,4,0,1, - 9 runs
+W,1,0,0,0,4, - 5 runs
+W,0,4,4,0,4, - 12 runs
+0,0,1,0,0,0, - 1 runs
+1,0,0,1,1,4,0, - 7 runs
+1,0,0,1,2,1, - 5 runs
+Adelaide Strikers - 144/4 Sydney Thunder - 118/10
+2022-11-23
+2,0,0,0,0,1,0, - 3 runs
+0,1,1,4,0,6, - 12 runs
+0,1,0,4,0,1, - 6 runs
+2,4,1,0,4,1, - 12 runs
+1,1,1,6,2,0, - 11 runs
+1,0,1,0,4,W, - 6 runs
+Brisbane Heat - 179/7 Hobart Hurricanes - 135/9
+2022-11-24
+0,0,0,1,4,0, - 5 runs
+0,1,1,1,1,W,0, - 4 runs
+0,0,4,W,1,1, - 6 runs
+0,1,1,0,0,0, - 2 runs
+0,1,0,1,4,4,1, - 11 runs
+0,4,0,1,1,1, - 7 runs
+Brisbane Heat - 154/8 Adelaide Strikers - 156/4
+2022-11-26
+1,0,0,0,4,0, - 5 runs
+1,0,1,0,1,0, - 3 runs
+0,0,4,0,1,4, - 9 runs
+4,0,4,0,1,0, - 9 runs
+1,4,4,1,4,0, - 14 runs
+1,2,1,1,4,1, - 10 runs
+Adelaide Strikers - 147/5 Sydney Sixers - 137/10
+2023-10-19
+0,4,0,1,1,0, - 6 runs
+2,2,0,0,1,2, - 7 runs
+0,6,0,0,4,4, - 14 runs
+2,0,1,0,1,0, - 4 runs
+1,0,W,4,1,1,4, - 11 runs
+1,1,0,0,4,2, - 8 runs
+Melbourne Stars - 165/8 Sydney Sixers - 163/9
+2023-10-20
+2,4,0,1,1,0, - 8 runs
+1,0,4,0,6,6, - 17 runs
+0,4,0,0,4,0, - 8 runs
+4,1,1,2,4,1, - 13 runs
+4,0,1,0,1,4, - 10 runs
+0,0,1,1,1,0, - 3 runs
+Brisbane Heat - 187/9 Melbourne Renegades - 181/8
+2023-10-20
+0,0,0,0,1,0, - 1 runs
+2,0,1,4,4,0,1,4, - 16 runs
+2,1,0,1,4,W, - 8 runs
+0,0,0,0,0,4, - 4 runs
+1,0,1,1,4,0, - 7 runs
+1,1,1,0,1,0, - 4 runs
+Perth Scorchers - 186/4 Hobart Hurricanes - 88/10
+2023-10-21
+0,2,4,4,1,0, - 11 runs
+1,1,1,0,1,4, - 8 runs
+0,1,2,4,0,1, - 8 runs
+2,4,4,1,1,0, - 12 runs
+1,0,4,0,1,0,1, - 7 runs
+4,0,4,1,0,4, - 13 runs
+Adelaide Strikers - 177/3 Melbourne Stars - 29/10
+2023-10-22
+1,4,1,4,0,1,0, - 11 runs
+0,0,1,0,1,4, - 6 runs
+2,0,1,0,4,1, - 8 runs
+0,W,W,0,1,0,4, - 5 runs
+4,6,1,1,0,0,0, - 12 runs
+4,0,4,4,1,1, - 14 runs
+Brisbane Heat - 229/7 Perth Scorchers - 179/8
+2023-10-22
+0,0,0,1,0,4, - 5 runs
+0,4,1,0,0,4, - 9 runs
+0,1,0,4,1,4, - 10 runs
+0,4,1,1,1,0, - 7 runs
+1,4,1,4,1,0, - 11 runs
+2,6,0,0,0,0, - 8 runs
+Sydney Thunder - 190/5 Sydney Sixers - 148/9
+2023-10-23
+0,0,0,1,4,1, - 6 runs
+1,0,1,2,0,1,1,2, - 8 runs
+1,4,W,0,1,1, - 7 runs
+4,0,4,1,0,1, - 10 runs
+0,1,0,1,1,1, - 4 runs
+4,1,1,4,1,1, - 12 runs
+Melbourne Renegades - 167/3 Adelaide Strikers - 86/10
+2023-10-24
+1,0,1,0,4,0,0, - 6 runs
+1,0,1,0,0,1, - 3 runs
+0,0,1,0,0,0, - 1 runs
+2,4,1,W,0,0, - 7 runs
+1,1,1,1,1,W,1, - 6 runs
+1,0,1,4,0,0, - 6 runs
+Melbourne Stars - 133/6 Adelaide Strikers - 134/6
+2023-10-24
+0,2,0,0,1,1,1,0, - 5 runs
+1,4,0,4,4,4,0, - 17 runs
+0,1,1,1,0,6, - 9 runs
+0,W,0,0,0,1, - 1 runs
+W,0,W,1,0,0, - 1 runs
+1,4,1,0,1,4, - 11 runs
+Sydney Sixers - 146/8 Brisbane Heat - 147/7
+2023-10-25
+0,0,1,1,0,0, - 2 runs
+0,4,0,4,4,1, - 13 runs
+0,0,1,0,4,0, - 5 runs
+0,1,0,0,4,1,1,0, - 7 runs
+1,W,0,1,1,2, - 5 runs
+4,1,0,0,W,0, - 5 runs
+Hobart Hurricanes - 158/10 Perth Scorchers - 161/3
+2023-10-26
+1,0,1,1,1,2, - 6 runs
+0,0,1,0,0,0, - 1 runs
+1,2,0,2,W,0, - 5 runs
+4,1,0,0,2,0, - 7 runs
+1,1,0,4,1,1, - 8 runs
+4,1,1,0,1,4, - 11 runs
+Melbourne Renegades - 147/5 Sydney Thunder - 151/2
+2023-10-27
+0,0,4,4,0,2, - 10 runs
+4,0,1,2,0,1,2, - 10 runs
+1,1,1,1,1,1, - 6 runs
+1,2,1,2,1,0, - 7 runs
+1,3,1,1,1,6, - 13 runs
+4,2,1,1,1,4, - 13 runs
+Adelaide Strikers - 74/1 Hobart Hurricanes - 76/3
+2023-10-27
+2,0,0,1,1,0,4, - 8 runs
+1,0,4,2,4,0, - 11 runs
+1,1,0,1,1,4,0, - 8 runs
+1,1,1,0,2,1,0, - 6 runs
+1,1,0,6,1,0, - 9 runs
+0,1,6,0,0,W, - 7 runs
+Brisbane Heat - 150/6 Melbourne Stars - 137/7
+2023-10-28
+0,1,0,2,0,1, - 4 runs
+0,0,4,4,2,1, - 11 runs
+0,W,0,0,0,1, - 1 runs
+0,1,0,1,4,0, - 6 runs
+2,0,0,1,4,2, - 9 runs
+0,1,1,0,4,1,1, - 8 runs
+Sydney Sixers - 164/7 Melbourne Renegades - 158/9
+2023-10-29
+1,0,2,2,0,0,0, - 5 runs
+0,0,4,W,0,0, - 4 runs
+0,0,0,1,0,0, - 1 runs
+1,4,2,1,1,0, - 9 runs
+0,1,4,1,1,0,1,0, - 8 runs
+0,4,0,4,1,4, - 13 runs
+Melbourne Stars - 154/7 Perth Scorchers - 147/9
+2023-10-29
+0,1,1,1,0,1,1,4, - 9 runs
+0,0,W,3,1,0, - 4 runs
+1,0,1,0,1,4,1,1,1,1, - 11 runs
+0,0,0,0,W,1,0, - 1 runs
+0,1,1,0,0,0, - 2 runs
+1,1,0,0,0,1, - 3 runs
+Adelaide Strikers - 148/4 Brisbane Heat - 89/10
+2023-10-30
+0,0,0,0,1,1, - 2 runs
+4,0,4,0,1,0, - 9 runs
+0,0,4,1,1,0, - 6 runs
+2,0,1,0,0,0, - 3 runs
+1,4,0,1,2,0, - 8 runs
+1,4,0,1,1,4, - 11 runs
+Hobart Hurricanes - 174/3 Sydney Thunder - 150/6
+2023-10-31
+1,0,0,0,1,2, - 4 runs
+1,0,4,1,0,1, - 7 runs
+1,4,0,4,1,2,2,0, - 14 runs
+0,1,0,4,1,2, - 8 runs
+4,1,1,1,1,1, - 9 runs
+1,4,1,2,1,2,W,0, - 11 runs
+Perth Scorchers - 166/8 Sydney Sixers - 130/9
+2023-11-01
+0,0,4,0,0,4, - 8 runs
+0,0,0,1,0,4,4, - 9 runs
+4,4,0,0,4,0, - 12 runs
+0,4,0,1,1,0, - 6 runs
+4,1,2,0,0,1,1, - 9 runs
+0,1,1,1,0,0, - 3 runs
+Sydney Thunder - 190/5 Melbourne Renegades - 153/7
+2023-11-02
+0,0,0,W,0,0, - 0 runs
+1,3,0,0,1,W, - 5 runs
+0,0,0,1,0,1, - 2 runs
+2,0,0,1,4,1, - 8 runs
+1,0,0,0,3,0, - 4 runs
+1,1,0,0,4,W, - 6 runs
+Melbourne Stars - 142/8 Hobart Hurricanes - 143/4
+2023-11-03
+0,0,0,0,1,2, - 3 runs
+4,1,0,0,1,0, - 6 runs
+4,0,6,0,1,0, - 11 runs
+0,W,0,0,0,0, - 0 runs
+1,0,1,1,1,0, - 4 runs
+0,1,W,2,1,1, - 5 runs
+Sydney Sixers - 111/6 Adelaide Strikers - 114/5
+2023-11-03
+0,W,0,2,1,2, - 5 runs
+0,2,1,1,4,4, - 12 runs
+0,1,1,1,W,0, - 3 runs
+1,0,0,0,0,0, - 1 runs
+1,0,1,2,1,0, - 5 runs
+0,2,0,1,6,2, - 11 runs
+Melbourne Renegades - 171/6 Perth Scorchers - 172/4
+2023-11-04
+0,0,0,1,0,0, - 1 runs
+0,0,W,1,2,0,0, - 3 runs
+0,0,0,4,0,0, - 4 runs
+4,0,2,4,1,4, - 15 runs
+2,0,1,1,2,0,1, - 7 runs
+1,1,0,3,1,0, - 6 runs
+Melbourne Stars - 123/5 Sydney Thunder - 128/1
+2023-11-04
+2,1,0,0,1,1, - 5 runs
+W,0,0,0,2,1, - 3 runs
+0,1,1,0,2,0,0, - 4 runs
+1,2,0,1,0,1, - 5 runs
+1,4,1,1,0,0,1, - 8 runs
+1,1,1,1,1,1, - 6 runs
+Hobart Hurricanes - 120/8 Brisbane Heat - 124/4
+2023-11-05
+0,0,0,1,0,0, - 1 runs
+4,W,0,0,0,1, - 5 runs
+0,0,2,0,0,4, - 6 runs
+4,1,0,2,1,1, - 9 runs
+W,0,2,0,3,0, - 5 runs
+1,0,0,W,0,0, - 1 runs
+Melbourne Renegades - 104/10 Sydney Sixers - 107/3
+2023-11-05
+0,0,0,0,W,1, - 1 runs
+1,0,0,4,1,0, - 6 runs
+1,4,0,4,1,0,1, - 11 runs
+0,4,0,0,4,4, - 12 runs
+1,1,1,0,0,4,0, - 7 runs
+1,0,1,4,0,1, - 7 runs
+Perth Scorchers - 165/7 Adelaide Strikers - 169/4
+2023-11-06
+4,4,0,0,2,0, - 10 runs
+1,1,4,0,0,1,0, - 7 runs
+4,0,1,1,1,4, - 11 runs
+1,0,0,1,1,1,1, - 5 runs
+0,1,6,0,1,4, - 12 runs
+0,1,6,4,0,4, - 15 runs
+Sydney Thunder - 204/4 Brisbane Heat - 196/5
+2023-11-08
+4,0,4,0,1,1, - 10 runs
+1,0,0,0,1,1,1,0,0, - 4 runs
+2,0,0,1,1,0, - 4 runs
+4,1,0,1,0,4, - 10 runs
+0,1,1,1,2,W, - 5 runs
+0,1,4,1,0,0,0, - 6 runs
+Sydney Sixers - 134/7 Melbourne Stars - 51/6
+2023-11-08
+4,0,0,4,1,W, - 9 runs
+0,0,1,0,0,0, - 1 runs
+0,2,0,0,1,2, - 5 runs
+4,1,1,1,4,4, - 15 runs
+0,1,0,1,1,0, - 3 runs
+2,1,0,W,1,1, - 5 runs
+Melbourne Renegades - 148/5 Adelaide Strikers - 149/4
+2023-11-09
+1,1,0,0,1,0,0, - 3 runs
+0,0,1,1,1,4, - 7 runs
+1,2,1,4,0,0,4, - 12 runs
+1,0,0,4,0,0, - 5 runs
+1,0,1,1,1,1, - 5 runs
+1,1,1,1,0,4, - 8 runs
+Perth Scorchers - 192/3 Brisbane Heat - 153/10
+2023-11-10
+0,1,0,1,0,1, - 3 runs
+0,4,1,0,4,0, - 9 runs
+1,1,0,0,0,1,4, - 7 runs
+1,1,4,1,0,1, - 8 runs
+1,1,1,0,W,1, - 4 runs
+0,0,0,1,1,1,2, - 5 runs
+Sydney Thunder - 125/10 Melbourne Stars - 121/9
+2023-11-10
+4,0,1,1,2,1, - 9 runs
+0,0,0,1,1,0,2, - 4 runs
+0,4,0,6,0,4, - 14 runs
+1,0,1,0,0,0,0, - 2 runs
+0,W,0,1,1,1, - 3 runs
+1,0,W,1,4,0,1, - 7 runs
+Sydney Sixers - 166/8 Hobart Hurricanes - 109/9

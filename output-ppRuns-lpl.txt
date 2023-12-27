@@ -1,0 +1,758 @@
+2020-11-26
+0,0,1,1,1,4, - 7 runs
+4,0,0,6,1,1, - 12 runs
+1,0,4,6,4,4, - 19 runs
+4,0,4,1,4,1, - 14 runs
+1,4,0,1,4,0, - 10 runs
+1,6,6,W,4,0, - 17 runs
+Kandy Tuskers - 219/3 Colombo Kings - 219/7
+2020-11-27
+0,4,0,0,0,1, - 5 runs
+4,0,4,1,0,1, - 10 runs
+0,0,2,1,4,1, - 8 runs
+0,1,W,1,4,4,4, - 14 runs
+1,0,4,1,1,1,1, - 9 runs
+0,1,1,0,4,1, - 7 runs
+Galle Gladiators - 175/8 Jaffna Stallions - 176/2
+2020-11-28
+1,0,2,1,0,1,1, - 6 runs
+6,2,1,1,1,1, - 12 runs
+1,1,0,6,W,0, - 8 runs
+0,0,1,4,1,1, - 7 runs
+0,4,0,4,2,1, - 11 runs
+1,0,1,1,4,1, - 8 runs
+Dambulla Viiking - 195/5 Kandy Tuskers - 84/3
+2020-11-28
+0,1,6,4,6,1,4,4, - 26 runs
+5,W,1,6,2,4,4,4, - 26 runs
+0,4,1,1,1,4, - 11 runs
+6,6,1,4,1,1,1, - 20 runs
+1,0,1,0,4,6,1, - 13 runs
+Colombo Kings - 96/1 Galle Gladiators - 62/2
+2020-11-30
+4,0,W,1,0,0, - 5 runs
+4,W,1,0,1,1, - 7 runs
+1,1,0,4,1,4, - 11 runs
+1,W,0,4,1,1, - 7 runs
+4,0,2,W,0,1, - 7 runs
+0,0,0,1,2,0, - 3 runs
+Jaffna Stallions - 218/7 Dambulla Viiking - 152/10
+2020-11-30
+1,0,1,0,1,0, - 3 runs
+0,0,1,0,1,4, - 6 runs
+1,6,6,W,4,0, - 17 runs
+0,0,1,1,0,1, - 3 runs
+1,4,1,4,6,1, - 17 runs
+5,1,6,6,1,2,0,0, - 21 runs
+Kandy Tuskers - 196/5 Galle Gladiators - 171/7
+2020-12-01
+0,1,1,1,0,W,0, - 3 runs
+0,W,0,0,1,1,4,0, - 6 runs
+0,0,6,1,4,0, - 11 runs
+4,0,1,0,1,0, - 6 runs
+1,0,0,2,0,1,4, - 8 runs
+1,4,0,4,0,1,1, - 11 runs
+Dambulla Viiking - 175/9 Colombo Kings - 147/10
+2020-12-01
+1,0,1,2,0,0,0, - 4 runs
+0,1,0,0,4,0, - 5 runs
+1,0,0,2,0,W,0, - 3 runs
+0,0,1,1,1,0, - 3 runs
+0,1,1,4,0,0, - 6 runs
+0,1,W,1,1,1, - 4 runs
+Jaffna Stallions - 185/8 Kandy Tuskers - 131/10
+2020-12-03
+0,1,0,1,1,2, - 5 runs
+0,1,0,1,4,1, - 7 runs
+1,0,4,0,1,1,1, - 8 runs
+0,0,1,1,1,4, - 7 runs
+4,0,0,4,1,1, - 10 runs
+4,4,1,1,1,1,0,1, - 13 runs
+Galle Gladiators - 170/6 Jaffna Stallions - 174/5
+2020-12-03
+4,0,1,0,4,1, - 10 runs
+1,1,0,0,1,0, - 3 runs
+1,6,1,0,4,4, - 16 runs
+1,1,1,1,W,1, - 5 runs
+1,0,0,1,1,1,0, - 4 runs
+1,0,1,1,4,1, - 8 runs
+Kandy Tuskers - 156/6 Dambulla Viiking - 157/5
+2020-12-04
+1,0,1,0,0,1, - 3 runs
+1,0,0,6,W,4, - 11 runs
+0,0,1,0,0,1, - 2 runs
+1,0,6,1,0,0, - 8 runs
+0,1,0,0,1,1, - 3 runs
+4,1,1,6,0,0, - 12 runs
+Jaffna Stallions - 148/9 Colombo Kings - 151/4
+2020-12-05
+0,0,1,0,0,1,0, - 2 runs
+4,1,0,2,1,0, - 8 runs
+0,1,0,0,0,0, - 1 runs
+4,4,4,1,2,0, - 15 runs
+1,0,0,1,4,6, - 12 runs
+1,2,0,2,1,4, - 10 runs
+Dambulla Viiking - 207/4 Galle Gladiators - 198/7
+2020-12-05
+0,6,4,1,0,0, - 11 runs
+1,0,4,0,0,1,4, - 10 runs
+0,1,W,0,2,4, - 7 runs
+0,1,4,0,1,W,4, - 10 runs
+0,1,1,1,0,1, - 4 runs
+6,W,1,0,1,4, - 12 runs
+Kandy Tuskers - 105/10 Colombo Kings - 108/3
+2020-12-07
+3,0,4,1,4,0, - 12 runs
+1,1,0,1,4,0, - 7 runs
+W,1,0,0,0,0, - 1 runs
+0,0,1,0,4,1, - 6 runs
+4,1,1,6,6,1, - 19 runs
+0,W,1,0,0,0, - 1 runs
+Colombo Kings - 171/10 Galle Gladiators - 175/2
+2020-12-07
+0,0,0,3,0,1, - 4 runs
+0,1,1,W,0,2,0, - 4 runs
+0,0,4,0,1,4, - 9 runs
+0,0,2,4,0,4, - 10 runs
+0,W,1,1,4,4,0, - 10 runs
+0,0,0,0,0,W, - 0 runs
+2020-12-09
+0,W,0,0,0,6, - 6 runs
+0,0,0,1,4,2, - 7 runs
+0,0,4,0,4,1,4, - 13 runs
+0,0,6,W,1,4, - 11 runs
+4,1,0,W,0,1, - 6 runs
+2,0,4,1,0,0, - 7 runs
+Jaffna Stallions - 150/10 Kandy Tuskers - 151/4
+2020-12-09
+4,4,0,1,1,1,1, - 12 runs
+4,4,0,4,0,1,1, - 14 runs
+1,4,1,1,W,1,0,0, - 8 runs
+0,1,0,6,0,4,0, - 11 runs
+4,1,6,1,4,0, - 16 runs
+1,1,4,6,0,0, - 12 runs
+Galle Gladiators - 168/8 Dambulla Viiking - 174/6
+2020-12-10
+0,0,4,0,4,0, - 8 runs
+1,0,0,1,0,1, - 3 runs
+1,1,0,1,1,1,1, - 6 runs
+0,1,W,1,0,0, - 2 runs
+1,0,0,0,1,1, - 3 runs
+1,1,4,1,1,1, - 9 runs
+Colombo Kings - 173/4 Jaffna Stallions - 167/6
+2020-12-10
+0,0,0,0,0,0, - 0 runs
+0,W,0,4,0,0, - 4 runs
+0,0,0,0,0,4, - 4 runs
+0,0,1,W,1,1,1, - 4 runs
+4,1,1,0,1,0,0, - 7 runs
+0,1,0,1,4,4, - 10 runs
+Kandy Tuskers - 126/10 Galle Gladiators - 130/1
+2020-12-11
+1,1,1,4,4,2,4, - 17 runs
+1,1,0,4,0,0, - 6 runs
+1,0,2,1,4,4,4, - 16 runs
+1,0,0,1,6,1, - 9 runs
+1,1,0,W,W,1, - 3 runs
+1,1,1,4,0,1, - 8 runs
+Dambulla Viiking - 203/3 Colombo Kings - 205/5
+2020-12-13
+1,0,0,0,1,1,0, - 3 runs
+W,0,0,0,1,0, - 1 runs
+0,0,4,0,0,0, - 4 runs
+4,0,1,4,1,0, - 10 runs
+4,0,0,1,4,4, - 13 runs
+0,1,W,0,0,0, - 1 runs
+Colombo Kings - 150/9 Galle Gladiators - 151/8
+2020-12-14
+0,0,1,0,1,0, - 2 runs
+0,0,1,4,6,0, - 11 runs
+4,4,1,0,6,0, - 15 runs
+0,1,0,0,0,1,0, - 2 runs
+1,0,0,6,1,0, - 8 runs
+0,1,6,1,4,0,0, - 12 runs
+Jaffna Stallions - 165/9 Dambulla Viiking - 128/10
+2020-12-16
+0,1,4,4,0,2, - 11 runs
+0,1,0,4,1,4,4, - 14 runs
+6,0,1,0,1,0,0, - 8 runs
+0,4,0,1,0,4, - 9 runs
+0,1,0,1,W,4,0, - 6 runs
+0,2,0,1,0,0, - 3 runs
+Jaffna Stallions - 188/6 Galle Gladiators - 135/9
+2021-12-05
+4,0,4,W,1,2,1, - 12 runs
+0,1,0,1,1,0, - 3 runs
+2,4,1,4,1,0,1, - 13 runs
+0,4,0,0,1,4, - 9 runs
+1,1,1,0,W,1, - 4 runs
+0,0,W,0,2,0, - 2 runs
+Galle Gladiators - 164/7 Jaffna Kings - 110/10
+2021-12-06
+4,1,1,4,0,0, - 10 runs
+4,6,2,2,0,1, - 15 runs
+4,6,2,1,0,1, - 14 runs
+4,1,1,2,1,0, - 9 runs
+4,1,2,2,0,1,4, - 14 runs
+4,1,1,2,4,0, - 12 runs
+Dambulla Giants - 190/7 Kandy Warriors - 170/8
+2021-12-06
+0,0,0,0,0,0, - 0 runs
+0,0,4,W,1,1, - 6 runs
+0,0,0,0,W,0, - 0 runs
+0,0,0,0,0,1, - 1 runs
+0,0,4,3,4,4, - 15 runs
+W,2,0,1,1,1, - 5 runs
+Galle Gladiators - 116/8 Colombo Stars - 117/6
+2021-12-07
+1,1,1,1,4,1, - 9 runs
+1,4,0,W,0,0, - 5 runs
+0,1,0,1,1,1, - 4 runs
+1,4,2,1,W,0, - 8 runs
+W,1,1,0,4,0, - 6 runs
+0,1,4,0,1,0,0, - 6 runs
+Dambulla Giants - 110/10 Jaffna Kings - 114/2
+2021-12-07
+0,W,0,1,1,0, - 2 runs
+2,4,0,1,1,1,0, - 9 runs
+0,0,4,0,1,0, - 5 runs
+W,4,0,0,1,1, - 6 runs
+1,0,0,4,0,6, - 11 runs
+0,4,1,4,0,4, - 13 runs
+Kandy Warriors - 143/6 Galle Gladiators - 147/6
+2021-12-08
+0,4,2,1,4,4, - 15 runs
+0,0,6,0,6,4, - 16 runs
+1,4,4,4,0,4, - 17 runs
+4,1,4,W,4,1,1, - 15 runs
+2,W,0,2,1,1, - 6 runs
+0,W,1,0,1,4, - 6 runs
+Dambulla Giants - 195/6 Colombo Stars - 177/10
+2021-12-08
+0,0,0,4,4,0, - 8 runs
+0,1,1,0,5,W,0,1, - 8 runs
+0,0,1,0,0,0, - 1 runs
+6,1,0,1,1,1, - 10 runs
+1,4,0,W,1,1, - 7 runs
+1,6,6,6,6,6, - 31 runs
+Jaffna Kings - 181/6 Kandy Warriors - 166/5
+2021-12-10
+1,0,0,0,0,1, - 2 runs
+4,4,4,2,4,1, - 19 runs
+W,1,0,0,4,4, - 9 runs
+0,1,0,3,1,0, - 5 runs
+0,1,4,0,0,1,2, - 8 runs
+4,1,4,0,1,0, - 10 runs
+Dambulla Giants - 159/7 Galle Gladiators - 18/0
+2021-12-10
+W,0,0,2,4,0, - 6 runs
+0,4,0,0,W,0, - 4 runs
+1,1,3,1,4,1,4, - 15 runs
+1,4,1,4,2,4, - 16 runs
+1,0,1,0,6,0, - 8 runs
+1,1,1,2,6,3,6, - 20 runs
+Jaffna Kings - 207/6 Colombo Stars - 114/10
+2021-12-11
+1,1,2,1,6,2,0, - 13 runs
+0,4,W,0,0,0, - 4 runs
+1,0,0,W,0,0, - 1 runs
+1,0,4,0,0,0, - 5 runs
+0,4,1,1,4,2, - 12 runs
+1,1,2,0,0,4, - 8 runs
+Galle Gladiators - 127/7 Kandy Warriors - 131/5
+2021-12-11
+1,4,0,0,0,2, - 7 runs
+4,0,4,4,1,0,4, - 17 runs
+0,4,1,0,2,1, - 8 runs
+0,4,1,0,0,1, - 6 runs
+1,4,1,4,0,0, - 10 runs
+W,1,4,0,W,0, - 5 runs
+Dambulla Giants - 138/9 Colombo Stars - 137/8
+2021-12-12
+1,0,0,4,2,1, - 8 runs
+0,4,4,0,0,0, - 8 runs
+1,0,1,0,1,4, - 7 runs
+1,0,1,6,1,0, - 9 runs
+0,1,1,1,W,1, - 4 runs
+1,0,1,0,0,1, - 3 runs
+Kandy Warriors - 94/2 Jaffna Kings - 95/3
+2021-12-12
+0,1,0,4,0,0, - 5 runs
+0,W,0,0,1,0, - 1 runs
+1,0,1,0,2,4,0, - 8 runs
+1,0,1,1,1,1, - 5 runs
+0,0,1,0,2,0,4, - 7 runs
+1,6,1,1,0,1, - 10 runs
+Colombo Stars - 162/7 Galle Gladiators - 121/10
+2021-12-13
+1,1,1,W,W,0, - 3 runs
+0,1,0,2,0,0, - 3 runs
+0,3,0,W,2,2, - 7 runs
+0,1,2,4,0,0, - 7 runs
+0,0,4,1,2,0, - 7 runs
+0,W,0,0,4,1, - 5 runs
+Dambulla Giants - 69/10 Jaffna Kings - 71/3
+2021-12-14
+0,0,0,0,0,0, - 0 runs
+4,0,1,0,0,0, - 5 runs
+4,1,4,0,4,1, - 14 runs
+6,6,6,1,1,0, - 20 runs
+1,1,1,1,6,0, - 10 runs
+4,0,0,2,6,0, - 12 runs
+Kandy Warriors - 146/9 Colombo Stars - 150/5
+2021-12-14
+1,1,0,4,1,4, - 11 runs
+4,1,1,1,1,4, - 12 runs
+1,2,4,0,W,0, - 7 runs
+4,4,1,1,0,0,1, - 11 runs
+1,6,1,1,4,1, - 14 runs
+2,2,1,6,1,1, - 13 runs
+Galle Gladiators - 134/7 Dambulla Giants - 125/5
+2021-12-16
+1,0,1,1,1,0, - 4 runs
+0,0,0,4,0,1, - 5 runs
+4,1,0,4,0,0, - 9 runs
+1,1,1,0,1,0,1,1, - 6 runs
+0,6,6,1,4,1, - 18 runs
+1,1,4,4,1,0, - 11 runs
+Jaffna Kings - 193/5 Colombo Stars - 91/10
+2021-12-16
+5,1,0,0,0,0,1, - 7 runs
+1,1,1,1,0,W, - 4 runs
+4,1,0,0,0,W, - 5 runs
+0,0,4,W,0,0, - 4 runs
+1,1,1,2,0,0,W, - 5 runs
+0,0,0,0,0,2, - 2 runs
+Dambulla Giants - 130/10 Kandy Warriors - 135/4
+2021-12-17
+0,1,4,0,0,4, - 9 runs
+0,1,0,1,0,0, - 2 runs
+W,0,0,1,1,1, - 3 runs
+1,4,0,4,0,5,4,0, - 18 runs
+0,4,0,0,0,0, - 4 runs
+1,2,1,0,W,1, - 5 runs
+Galle Gladiators - 129/8 Jaffna Kings - 109/10
+2021-12-17
+0,1,W,4,0,0, - 5 runs
+0,1,4,0,0,1, - 6 runs
+1,4,1,2,4,0, - 12 runs
+1,1,1,4,6,0,4, - 17 runs
+0,2,1,1,0,4, - 8 runs
+1,4,4,1,0,2, - 12 runs
+Colombo Stars - 182/6 Kandy Warriors - 124/10
+2021-12-19
+0,2,1,0,0,0, - 3 runs
+0,0,W,0,1,1, - 2 runs
+4,0,1,0,0,1, - 6 runs
+0,0,1,4,1,0,4, - 10 runs
+0,0,1,0,2,0, - 3 runs
+0,1,W,0,1,1, - 3 runs
+Colombo Stars - 145/6 Dambulla Giants - 146/4
+2021-12-19
+0,0,0,1,4,1, - 6 runs
+0,1,6,1,1,2, - 11 runs
+0,1,1,2,4,1, - 9 runs
+4,0,4,1,0,1, - 10 runs
+4,6,1,1,4,0, - 16 runs
+1,1,1,1,4,1, - 9 runs
+Galle Gladiators - 188/5 Jaffna Kings - 124/10
+2021-12-21
+0,0,0,0,0,1, - 1 runs
+1,0,2,1,4,4, - 12 runs
+0,1,1,4,0,0, - 6 runs
+4,0,1,0,1,1, - 7 runs
+4,0,4,1,0,2, - 11 runs
+1,2,1,4,2,1, - 11 runs
+Jaffna Kings - 210/4 Dambulla Giants - 187/9
+2021-12-23
+0,4,1,0,0,4, - 9 runs
+4,0,1,6,1,0, - 12 runs
+4,6,1,0,0,1, - 12 runs
+1,0,6,0,0,0, - 7 runs
+4,4,1,0,4,3, - 16 runs
+0,W,0,0,4,1, - 5 runs
+Jaffna Kings - 201/3 Galle Gladiators - 178/9
+2022-12-06
+0,1,0,0,0,0, - 1 runs
+1,0,0,1,1,0, - 3 runs
+4,1,W,0,1,1, - 7 runs
+0,W,0,1,1,4, - 6 runs
+0,4,0,4,6,1, - 15 runs
+0,4,1,1,0,0, - 6 runs
+Jaffna Kings - 137/10 Galle Gladiators - 113/10
+2022-12-06
+1,0,0,1,0,0, - 2 runs
+0,0,0,2,1,0, - 3 runs
+1,1,4,0,0,0, - 6 runs
+1,1,0,4,1,2, - 9 runs
+1,0,0,1,0,6, - 8 runs
+4,2,0,0,1,2,4, - 13 runs
+Kandy Falcons - 199/1 Colombo Stars - 90/10
+2022-12-07
+1,0,0,6,0,0, - 7 runs
+0,4,1,1,0,2, - 8 runs
+1,0,1,0,1,0, - 3 runs
+0,0,0,0,0,2, - 2 runs
+0,4,0,4,0,1, - 9 runs
+1,0,1,6,6,6, - 20 runs
+Dambulla Aura - 121/9 Jaffna Kings - 122/1
+2022-12-07
+0,W,0,1,0,0, - 1 runs
+0,W,0,1,4,0, - 5 runs
+0,4,6,1,1,1, - 13 runs
+W,0,W,0,0,0, - 0 runs
+4,1,0,0,0,0, - 5 runs
+0,4,0,W,0,1, - 5 runs
+Galle Gladiators - 121/8 Kandy Falcons - 123/5
+2022-12-08
+4,1,4,0,W,W, - 9 runs
+0,4,0,0,6,0, - 10 runs
+0,0,0,0,1,6,W, - 7 runs
+1,4,1,0,0,1, - 7 runs
+6,0,1,0,1,0, - 8 runs
+1,1,0,1,0,4, - 7 runs
+Colombo Stars - 165/9 Dambulla Aura - 156/7
+2022-12-10
+0,4,1,4,1,0, - 10 runs
+0,0,4,0,0,4, - 8 runs
+1,1,0,4,1,2, - 9 runs
+0,4,1,4,1,1, - 11 runs
+W,0,1,1,0,0, - 2 runs
+1,0,4,0,1,0, - 6 runs
+Jaffna Kings - 147/7 Kandy Falcons - 148/7
+2022-12-11
+1,0,1,4,1,1,0, - 8 runs
+4,1,2,0,0,4,4, - 15 runs
+0,4,4,0,0,0, - 8 runs
+1,6,6,0,1,1, - 15 runs
+0,4,1,1,0,0, - 6 runs
+1,1,0,4,4,0, - 10 runs
+Galle Gladiators - 174/6 Colombo Stars - 149/7
+2022-12-11
+0,4,4,1,0,0, - 9 runs
+2,2,5,4,1,4,2, - 20 runs
+0,6,6,4,0,4, - 20 runs
+2,0,0,1,0,1, - 4 runs
+1,4,1,4,0,6, - 16 runs
+1,0,0,0,2,1, - 4 runs
+Jaffna Kings - 240/4 Dambulla Aura - 189/8
+2022-12-12
+0,1,0,1,0,0, - 2 runs
+0,W,1,0,1,0, - 2 runs
+1,0,0,4,W,1, - 6 runs
+0,W,W,0,0,0, - 0 runs
+1,0,4,0,1,0,3, - 9 runs
+0,0,1,2,0,1,0, - 4 runs
+Galle Gladiators - 153/6 Kandy Falcons - 141/7
+2022-12-12
+0,0,1,0,4,1, - 6 runs
+2,0,1,0,6,0, - 9 runs
+0,0,4,4,1,3, - 12 runs
+1,1,0,6,W,0, - 8 runs
+1,0,1,0,1,0, - 3 runs
+1,4,1,0,1,6, - 13 runs
+Jaffna Kings - 178/5 Colombo Stars - 172/8
+2022-12-13
+0,0,0,0,2,4, - 6 runs
+1,2,0,4,0,1, - 8 runs
+4,2,1,0,4,0, - 11 runs
+1,2,0,1,0,4,0, - 8 runs
+2,0,2,1,0,1, - 6 runs
+0,4,4,1,W,0, - 9 runs
+Kandy Falcons - 193/3 Dambulla Aura - 116/10
+2022-12-13
+0,0,1,0,4,1, - 6 runs
+1,0,0,1,4,1,4, - 11 runs
+0,2,1,0,2,2, - 7 runs
+4,4,0,0,2,4, - 14 runs
+0,0,0,1,6,0, - 7 runs
+0,1,0,0,1,0, - 2 runs
+Galle Gladiators - 193/5 Colombo Stars - 197/8
+2022-12-14
+0,0,0,0,1,2,2, - 5 runs
+0,1,0,0,1,0, - 2 runs
+1,0,6,4,4,4, - 19 runs
+0,0,0,0,1,0, - 1 runs
+4,0,0,4,W,1, - 9 runs
+4,0,1,1,0,0, - 6 runs
+Kandy Falcons - 160/8 Jaffna Kings - 150/9
+2022-12-14
+W,1,4,0,1,W,0, - 6 runs
+0,1,0,4,W,0, - 5 runs
+4,1,W,0,4,1, - 10 runs
+1,1,4,4,1,5,6,1, - 23 runs
+6,0,1,W,2,0, - 9 runs
+0,W,1,0,W,0, - 1 runs
+Dambulla Aura - 89/10 Colombo Stars - 90/1
+2022-12-17
+0,0,0,1,0,1, - 2 runs
+1,0,4,0,1,1, - 7 runs
+1,4,1,1,0,0, - 7 runs
+0,2,4,4,0,0, - 10 runs
+2,6,4,0,1,0,4, - 17 runs
+1,0,0,1,0,1, - 3 runs
+Dambulla Aura - 178/5 Galle Gladiators - 130/10
+2022-12-17
+0,W,0,4,0,1, - 5 runs
+1,0,1,1,0,1, - 4 runs
+6,1,1,0,4,1, - 13 runs
+0,0,2,1,4,1, - 8 runs
+4,W,1,1,0,4, - 10 runs
+2,0,1,W,1,W,0, - 4 runs
+Colombo Stars - 106/10 Kandy Falcons - 108/1
+2022-12-18
+0,0,5,0,1,0,0, - 6 runs
+1,6,0,0,4,1,0, - 12 runs
+0,0,1,1,4,1, - 7 runs
+0,4,1,1,W,0, - 6 runs
+4,0,0,0,0,1, - 5 runs
+6,4,1,1,W,1, - 13 runs
+Jaffna Kings - 170/8 Galle Gladiators - 154/9
+2022-12-18
+1,2,0,3,1,1,0, - 8 runs
+0,1,0,1,4,4, - 10 runs
+1,2,0,2,1,1, - 7 runs
+6,0,W,1,3,4, - 14 runs
+1,0,0,4,4,0, - 9 runs
+2,1,1,4,W,0, - 8 runs
+Kandy Falcons - 160/7 Dambulla Aura - 121/9
+2022-12-19
+0,0,0,W,5,0,0, - 5 runs
+0,W,0,0,1,0, - 1 runs
+1,0,6,W,0,0, - 7 runs
+1,1,1,W,0,0, - 3 runs
+0,0,0,0,1,1, - 2 runs
+0,1,1,1,0,4, - 7 runs
+Colombo Stars - 128/9 Jaffna Kings - 131/2
+2022-12-19
+0,1,0,1,0,0, - 2 runs
+0,0,1,0,0,0, - 1 runs
+0,4,4,1,1,0,2, - 12 runs
+0,1,0,4,W,W, - 5 runs
+3,4,0,0,1,1, - 9 runs
+1,0,0,1,W,0, - 2 runs
+Galle Gladiators - 129/8 Dambulla Aura - 134/6
+2022-12-21
+1,1,1,0,0,0,4, - 7 runs
+0,0,0,1,0,0, - 1 runs
+W,4,4,0,2,0, - 10 runs
+4,0,0,4,0,2, - 10 runs
+1,0,0,4,1,0, - 6 runs
+0,0,1,1,2,0,1, - 5 runs
+Kandy Falcons - 143/8 Jaffna Kings - 98/3
+2022-12-21
+1,1,0,1,0,0, - 3 runs
+1,1,0,1,0,0, - 3 runs
+W,0,0,0,0,0, - 0 runs
+1,1,1,0,1,0, - 4 runs
+2,0,1,0,0,0, - 3 runs
+1,0,W,2,0,0, - 3 runs
+Galle Gladiators - 108/9 Colombo Stars - 109/3
+2022-12-22
+1,2,0,W,1,W,1, - 5 runs
+0,0,0,4,1,1, - 6 runs
+0,0,1,1,0,1, - 3 runs
+0,4,0,0,1,0, - 5 runs
+6,0,1,0,0,1, - 8 runs
+1,0,0,0,0,1, - 2 runs
+Kandy Falcons - 168/6 Colombo Stars - 169/4
+2022-12-23
+0,1,1,W,0,0, - 2 runs
+0,0,0,1,0,0, - 1 runs
+6,0,1,6,1,1, - 15 runs
+5,4,0,4,1,1, - 15 runs
+4,0,1,1,1,0, - 7 runs
+4,4,0,2,4,1, - 15 runs
+Colombo Stars - 163/5 Jaffna Kings - 164/8
+2023-07-30
+1,1,1,0,0,4, - 7 runs
+1,0,6,0,1,1, - 9 runs
+1,3,1,6,W,1, - 12 runs
+0,1,0,4,1,4, - 10 runs
+0,1,1,0,1,1, - 4 runs
+0,W,0,0,0,1, - 1 runs
+Jaffna Kings - 173/5 Colombo Strikers - 152/10
+2023-07-31
+0,0,0,0,0,4, - 4 runs
+0,1,0,0,4,1, - 6 runs
+0,2,1,1,1,1,0,6, - 12 runs
+W,0,2,0,1,0, - 3 runs
+1,1,6,1,1,0,1, - 11 runs
+6,0,5,1,1,6, - 19 runs
+Galle Titans - 180/5 Dambulla Aura - 180/7
+2023-07-31
+0,4,0,W,0,0, - 4 runs
+0,0,0,1,5,0,1, - 7 runs
+2,0,4,2,0,1,0,2, - 11 runs
+1,5,1,2,1,1,W, - 11 runs
+1,1,1,1,0,1,6,0,4,0, - 15 runs
+0,1,0,0,1,0, - 2 runs
+Colombo Strikers - 157/6 B-Love Kandy - 130/8
+2023-08-01
+0,0,0,0,0,0, - 0 runs
+0,1,1,0,4,0, - 6 runs
+1,1,4,4,4,W, - 14 runs
+0,0,6,4,0,2, - 12 runs
+1,1,1,0,1,4, - 8 runs
+0,0,0,0,1,0, - 1 runs
+Jaffna Kings - 129/7 Dambulla Aura - 132/2
+2023-08-01
+1,0,0,0,1,1,0, - 3 runs
+1,1,0,0,1,6, - 9 runs
+1,4,1,0,1,0,1,4,0, - 12 runs
+0,0,0,3,0,1, - 4 runs
+1,4,0,0,W,0, - 5 runs
+1,0,1,0,1,1, - 4 runs
+Galle Titans - 180/5 B-Love Kandy - 97/10
+2023-08-04
+0,4,0,1,0,1, - 6 runs
+0,0,0,1,1,0,0, - 2 runs
+1,1,4,W,4,1, - 11 runs
+1,0,1,4,4,W, - 10 runs
+0,1,0,4,0,0, - 5 runs
+0,1,W,0,0,1, - 2 runs
+Dambulla Aura - 156/6 B-Love Kandy - 160/3
+2023-08-04
+2,0,1,1,0,0, - 4 runs
+0,1,4,1,2,4, - 12 runs
+0,0,0,0,1,1, - 2 runs
+0,2,4,0,4,W, - 10 runs
+0,1,W,0,0,1, - 2 runs
+0,1,1,1,0,4, - 7 runs
+Galle Titans - 117/9 Jaffna Kings - 120/2
+2023-08-05
+0,0,0,0,0,4, - 4 runs
+1,0,0,0,0,6, - 7 runs
+1,0,0,1,0,0, - 2 runs
+0,1,6,1,1,1, - 10 runs
+0,0,1,W,1,0, - 2 runs
+0,1,4,0,0,6, - 11 runs
+Dambulla Aura - 192/6 Colombo Strikers - 182/4
+2023-08-05
+1,0,1,0,0,0,W,0, - 2 runs
+4,0,0,0,1,0, - 5 runs
+W,0,0,1,4,1, - 6 runs
+0,0,0,0,1,0, - 1 runs
+4,4,0,0,1,0, - 9 runs
+0,1,4,1,0,1, - 7 runs
+Jaffna Kings - 117/9 B-Love Kandy - 118/2
+2023-08-07
+4,0,1,0,4,1, - 10 runs
+0,4,4,1,1,1, - 11 runs
+1,4,4,0,1,1, - 11 runs
+1,6,0,4,0,0, - 11 runs
+4,1,0,1,1,1,0,3, - 11 runs
+1,1,0,6,4,1, - 13 runs
+Galle Titans - 188/3 Colombo Strikers - 189/3
+2023-08-07
+W,1,0,W,2,0, - 3 runs
+0,1,0,0,4,0, - 5 runs
+0,0,0,2,0,1, - 3 runs
+1,1,4,0,1,1, - 8 runs
+1,1,2,4,4,4,0, - 16 runs
+0,1,1,1,0,1, - 4 runs
+Dambulla Aura - 134/8 Jaffna Kings - 125/7
+2023-08-08
+0,0,1,1,1,0, - 3 runs
+4,0,0,0,1,1,0, - 6 runs
+4,4,1,0,4,1, - 14 runs
+1,1,1,W,0,1, - 4 runs
+1,0,1,4,0,4, - 10 runs
+1,1,0,0,2,1, - 5 runs
+B-Love Kandy - 203/5 Galle Titans - 114/10
+2023-08-08
+4,4,4,0,4,1, - 17 runs
+2,1,0,1,0,1, - 5 runs
+1,0,4,4,0,4,0, - 13 runs
+0,1,0,1,0,0, - 2 runs
+0,0,0,1,0,1, - 2 runs
+0,4,0,6,4,1, - 15 runs
+Colombo Strikers - 146/8 Jaffna Kings - 150/4
+2023-08-11
+0,1,0,0,0,4, - 5 runs
+1,1,2,6,0,0, - 10 runs
+1,1,1,2,2,1, - 8 runs
+W,0,0,0,0,1, - 1 runs
+1,0,W,1,4,0, - 6 runs
+0,0,1,4,0,1, - 6 runs
+Galle Titans - 133/9 Dambulla Aura - 134/3
+2023-08-12
+1,0,2,1,0,1, - 5 runs
+1,1,1,3,1,1, - 8 runs
+0,0,0,1,0,0, - 1 runs
+1,4,1,7,5,1,1,0, - 20 runs
+1,1,1,0,4,4,1, - 12 runs
+1,4,W,0,1,0, - 6 runs
+B-Love Kandy - 178/8 Jaffna Kings - 170/6
+2023-08-12
+4,5,0,1,0,1,0, - 11 runs
+0,1,2,0,0,0, - 3 runs
+0,4,0,1,W,0, - 5 runs
+0,W,0,0,0,1, - 1 runs
+1,1,1,1,W,0,4, - 8 runs
+4,2,1,0,1,4, - 12 runs
+Dambulla Aura - 166/5 Colombo Strikers - 116/10
+2023-08-13
+1,0,W,4,1,0,0, - 6 runs
+1,W,0,0,0,0, - 1 runs
+W,0,W,0,0,4, - 4 runs
+0,1,1,4,4,0, - 10 runs
+0,W,1,0,0,4,0, - 5 runs
+0,4,0,4,0,0, - 8 runs
+Jaffna Kings - 89/10 Galle Titans - 90/3
+2023-08-13
+0,3,1,0,1,4, - 9 runs
+0,1,0,0,2,2, - 5 runs
+4,1,1,0,W,0, - 6 runs
+4,1,1,0,0,2, - 8 runs
+W,0,0,3,1,4, - 8 runs
+6,1,2,0,1,1, - 11 runs
+Colombo Strikers - 169/9 B-Love Kandy - 160/8
+2023-08-14
+0,1,4,0,4,0, - 9 runs
+4,0,0,1,1,0, - 6 runs
+0,0,0,4,4,0, - 8 runs
+4,6,0,1,0,1, - 12 runs
+4,4,1,1,0,0, - 10 runs
+0,4,1,1,1,1, - 8 runs
+Dambulla Aura - 162/7 B-Love Kandy - 142/10
+2023-08-15
+1,0,0,1,1,1,0, - 4 runs
+0,W,0,0,0,0, - 0 runs
+1,1,0,0,0,4, - 6 runs
+4,4,1,0,0,W, - 9 runs
+0,1,4,4,2,0, - 11 runs
+1,0,0,1,0,1, - 3 runs
+Colombo Strikers - 74/10 Galle Titans - 75/2
+2023-08-17
+0,W,0,4,1,1, - 6 runs
+0,4,2,4,4,0, - 14 runs
+1,0,1,1,1,1, - 5 runs
+W,0,0,0,4,0, - 4 runs
+2,0,0,4,2,1, - 9 runs
+1,0,0,1,1,4, - 7 runs
+Galle Titans - 146/10 Dambulla Aura - 147/4
+2023-08-17
+0,1,0,W,1,0, - 2 runs
+0,1,1,1,0,0, - 3 runs
+0,4,4,0,1,4, - 13 runs
+0,0,4,1,0,1, - 6 runs
+1,4,1,4,0,2, - 12 runs
+1,4,2,4,6,1,4, - 22 runs
+B-Love Kandy - 188/8 Jaffna Kings - 127/10
+2023-08-19
+0,4,0,1,0,0, - 5 runs
+0,2,W,0,0,2, - 4 runs
+1,2,1,1,4,0,0, - 9 runs
+0,1,0,W,0,0, - 1 runs
+0,1,0,W,0,0, - 1 runs
+1,0,0,1,0,4, - 6 runs
+B-Love Kandy - 157/7 Galle Titans - 123/8
+2023-08-20
+2,0,0,0,1,0, - 3 runs
+1,0,5,0,1,0,1, - 8 runs
+0,W,0,2,0,0, - 2 runs
+4,1,1,4,0,0, - 10 runs
+0,4,0,0,4,1, - 9 runs
+1,1,0,4,0,1,1, - 8 runs
+Dambulla Aura - 147/4 B-Love Kandy - 151/5
